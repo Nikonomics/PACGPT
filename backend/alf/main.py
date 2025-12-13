@@ -525,6 +525,21 @@ async def get_stats(days: int = 30):
     return analytics.get_stats(days=days)
 
 
+@app.get("/admin/sessions", response_model=dict)
+async def get_sessions(days: int = 30, limit: int = 100):
+    """
+    Get session details including IP addresses.
+
+    Args:
+        days: Number of days to include
+        limit: Max number of sessions to return
+    """
+    return {
+        "sessions": analytics.get_sessions(limit=limit, days=days),
+        "unique_ips": analytics.get_unique_ips(days=days)
+    }
+
+
 class TrackRequest(BaseModel):
     session_id: str
     event: str = "page_view"

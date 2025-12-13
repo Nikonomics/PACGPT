@@ -248,5 +248,66 @@ class Analytics:
         }
 
 
+    def get_sessions(self, limit: int = 100, days: int = 30) -> List[Dict]:
+        """Get recent sessions with IP addresses."""
+        conn = sqlite3.connect(self.db_path)
+        conn.row_factory = sqlite3.Row
+        cursor = conn.cursor()
+
+        cursor.execute("""
+            SELECT
+                session_id,
+                datetime(first_seen, 'localtime') as first_seen,
+                datetime(last_seen, 'localtime') as last_seen,
+                query_count,
+                user_agent,
+                ip_address
+            FROM sessions
+            WHERE first_seen >= datetime('now', ?)
+            ORDER BY last_seen DESC
+            LIMIT ?
+        """, (f'-{days} days', limit))
+
+        rows = cursor.fetchall()
+        conn.close()
+
+        return [dict(row) for row in rows]
+
+    def get_unique_ips(self, days: int = 30) -> Dict:
+        """Get count of unique IP addresses."""
+        conn = sqlite3.connect(self.db_path)
+        cursor = conn.cursor()
+
+        since = f'-{days} days'
+
+        # Unique IPs from sessions
+        cursor.execute("""
+            SELECT COUNT(DISTINCT ip_address)
+            FROM sessions
+            WHERE first_seen >= datetime('now', ?) AND ip_address IS NOT NULL
+        """, (since,))
+        unique_ips = cursor.fetchone()[0]
+
+        # IP breakdown
+        cursor.execute("""
+            SELECT
+                ip_address,
+                COUNT(*) as session_count,
+                SUM(query_count) as total_queries
+            FROM sessions
+            WHERE first_seen >= datetime('now', ?) AND ip_address IS NOT NULL
+            GROUP BY ip_address
+            ORDER BY total_queries DESC
+        """, (since,))
+        ip_breakdown = [{"ip": row[0], "sessions": row[1], "queries": row[2]} for row in cursor.fetchall()]
+
+        conn.close()
+
+        return {
+            "unique_ips": unique_ips,
+            "ip_breakdown": ip_breakdown
+        }
+
+
 # Global analytics instance
 analytics = Analytics()
