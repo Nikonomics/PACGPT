@@ -3,6 +3,8 @@ import ReactMarkdown from 'react-markdown';
 import { Search, MessageCircle, BookOpen, ChevronRight, ChevronDown, FileText, Send, Folder, File } from 'lucide-react';
 import './IdahoALFChatbot.css';
 
+const ALF_API_URL = import.meta.env.VITE_ALF_API_URL || 'http://localhost:8000';
+
 const IdahoALFChatbot = () => {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
@@ -43,7 +45,7 @@ const IdahoALFChatbot = () => {
     try {
       setIsLoadingLibrary(true);
       setLibraryError(null);
-      const response = await fetch('http://localhost:8000/library');
+      const response = await fetch(`${ALF_API_URL}/library`);
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
       const data = await response.json();
       setLibrary(data.library || []);
@@ -59,7 +61,7 @@ const IdahoALFChatbot = () => {
 
   const loadRegulations = async () => {
     try {
-      const response = await fetch('http://localhost:8000/chunks');
+      const response = await fetch(`${ALF_API_URL}/chunks`);
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
       const data = await response.json();
       setRegulations(data.chunks || []);
@@ -96,7 +98,7 @@ const IdahoALFChatbot = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch('http://localhost:8000/query', {
+      const response = await fetch(`${ALF_API_URL}/query`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -141,6 +143,25 @@ const IdahoALFChatbot = () => {
     return regulations.find(r =>
       r.chunk_id === chunkId || r.citation === citation
     );
+  };
+
+  // Format regulation text for better readability
+  const formatRegulationContent = (content) => {
+    if (!content) return '';
+
+    return content
+      // Add line breaks before paragraph markers (A), (B), (C), etc.
+      .replace(/\s*\(([A-Z])\)\s*/g, '\n\n**($1)** ')
+      // Add line breaks before numbered subsections like (1), (2), (3)
+      .replace(/\s*\((\d+)\)\s*/g, '\n\n*($1)* ')
+      // Add line breaks before section numbers like "3-403.11" or "16.03.22.100"
+      .replace(/(\d+-\d+\.\d+|\d+\.\d+\.\d+\.\d+)/g, '\n\n**$1**')
+      // Add line breaks before common section headers
+      .replace(/(Reheating|Preparation|Requirements|Definitions|Standards|Procedures|Equipment|Facilities)/g, '\n\n**$1**')
+      // Clean up multiple newlines
+      .replace(/\n{3,}/g, '\n\n')
+      // Trim whitespace
+      .trim();
   };
 
   // Render content with clickable inline citations
@@ -481,8 +502,8 @@ const IdahoALFChatbot = () => {
             </div>
 
             <div className="alf-modal-content">
-              <div className="alf-prose">
-                <ReactMarkdown>{selectedRegulation.content}</ReactMarkdown>
+              <div className="alf-prose formatted-regulation">
+                <ReactMarkdown>{formatRegulationContent(selectedRegulation.content)}</ReactMarkdown>
               </div>
             </div>
 

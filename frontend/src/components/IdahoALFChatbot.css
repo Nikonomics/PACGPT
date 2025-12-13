@@ -756,6 +756,25 @@
   flex: 1;
 }
 
+/* Formatted Regulation Content */
+.formatted-regulation {
+  line-height: 1.8;
+}
+
+.formatted-regulation p {
+  margin-bottom: 1em;
+}
+
+.formatted-regulation strong {
+  color: #1e40af;
+  font-weight: 600;
+}
+
+.formatted-regulation em {
+  color: #475569;
+  font-style: normal;
+}
+
 .alf-modal-footer {
   padding: 16px 24px;
   border-top: 1px solid #e2e8f0;
