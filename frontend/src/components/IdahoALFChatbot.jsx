@@ -50,7 +50,27 @@ const IdahoALFChatbot = () => {
   useEffect(() => {
     loadLibrary();
     loadRegulations();
+    // Track page view
+    trackPageView();
   }, []);
+
+  const trackPageView = async () => {
+    try {
+      await fetch(`${ALF_API_URL}/track`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          session_id: sessionId.current,
+          event: 'page_view',
+          page: '/alf',
+          user_agent: navigator.userAgent
+        })
+      });
+    } catch (error) {
+      // Silently fail - analytics shouldn't break the app
+      console.debug('Analytics tracking failed:', error);
+    }
+  };
 
   const loadLibrary = async () => {
     try {
@@ -116,7 +136,8 @@ const IdahoALFChatbot = () => {
           question: userMessage,
           conversation_history: messages.slice(-10),
           top_k: 5,
-          temperature: 0.3
+          temperature: 0.3,
+          session_id: sessionId.current
         })
       });
 
