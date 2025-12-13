@@ -1067,3 +1067,252 @@
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+
+/* ==========================================
+   MOBILE RESPONSIVE STYLES
+   ========================================== */
+
+@media (max-width: 768px) {
+  /* Container */
+  .alf-container {
+    padding: 12px;
+  }
+
+  /* Header - smaller on mobile */
+  .alf-page-header {
+    margin-bottom: 12px;
+  }
+
+  .alf-page-icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .alf-page-icon svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .alf-page-title {
+    font-size: 1.25rem;
+  }
+
+  .alf-page-subtitle {
+    font-size: 0.75rem;
+  }
+
+  /* Layout - stack vertically, chat first */
+  .alf-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  /* Chat Panel - full width, fixed height */
+  .alf-chat-panel {
+    position: relative;
+    top: 0;
+    height: calc(100vh - 180px);
+    min-height: 400px;
+    max-height: none;
+    border-radius: 12px;
+  }
+
+  .alf-chat-header {
+    padding: 12px 16px;
+  }
+
+  .alf-chat-avatar {
+    width: 36px;
+    height: 36px;
+  }
+
+  .alf-chat-title {
+    font-size: 1rem;
+  }
+
+  .alf-chat-status {
+    font-size: 0.7rem;
+  }
+
+  /* Messages area */
+  .alf-messages {
+    padding: 12px;
+  }
+
+  .alf-message-bubble {
+    max-width: 90%;
+    padding: 10px 14px;
+    font-size: 0.9rem;
+  }
+
+  .alf-message-avatar {
+    width: 28px;
+    height: 28px;
+  }
+
+  .alf-message-avatar svg {
+    width: 14px;
+    height: 14px;
+  }
+
+  /* Example questions - 2 columns on mobile */
+  .alf-example-questions {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .alf-example-btn {
+    padding: 12px;
+    font-size: 0.85rem;
+    min-height: 44px; /* Touch target */
+  }
+
+  /* Input area - larger touch targets */
+  .alf-input-area {
+    padding: 12px;
+  }
+
+  .alf-input {
+    padding: 14px 16px;
+    font-size: 16px; /* Prevents zoom on iOS */
+    min-height: 48px;
+  }
+
+  .alf-send-btn {
+    padding: 12px 16px;
+    min-height: 48px;
+    min-width: 70px;
+  }
+
+  .alf-send-btn span {
+    display: none; /* Hide text, show only icon */
+  }
+
+  .alf-send-btn svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  /* Library Panel - collapsible on mobile */
+  .alf-library-panel {
+    position: relative;
+    top: 0;
+  }
+
+  .alf-library-panel .alf-card {
+    max-height: 300px;
+  }
+
+  .alf-library-header {
+    padding: 12px 16px;
+  }
+
+  .alf-library-icon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .alf-library-title {
+    font-size: 1rem;
+  }
+
+  .alf-search-input {
+    padding: 10px 12px 10px 36px;
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+
+  /* Modal - full screen on mobile */
+  .alf-modal-overlay {
+    padding: 0;
+    align-items: flex-end;
+  }
+
+  .alf-modal {
+    width: 100%;
+    max-width: 100%;
+    height: 85vh;
+    max-height: 85vh;
+    border-radius: 16px 16px 0 0;
+    margin: 0;
+  }
+
+  .alf-modal-header {
+    padding: 16px;
+  }
+
+  .alf-modal-title {
+    font-size: 1rem;
+  }
+
+  .alf-modal-subtitle {
+    font-size: 0.8rem;
+  }
+
+  .alf-modal-content {
+    padding: 16px;
+  }
+
+  .alf-modal-footer {
+    padding: 12px 16px;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .alf-modal-btn {
+    width: 100%;
+    padding: 14px 20px;
+    min-height: 48px;
+  }
+
+  /* Inline citations - larger touch targets */
+  .alf-inline-citation {
+    padding: 2px 6px;
+    font-size: 0.8rem;
+    min-width: 28px;
+    min-height: 28px;
+  }
+
+  /* Welcome text */
+  .alf-welcome-text {
+    font-size: 0.9rem;
+  }
+
+  .alf-welcome-label {
+    font-size: 0.8rem;
+  }
+
+  /* Loading dots */
+  .alf-loading-text {
+    font-size: 0.8rem;
+  }
+}
+
+/* Extra small screens */
+@media (max-width: 380px) {
+  .alf-page-title {
+    font-size: 1.1rem;
+  }
+
+  .alf-chat-panel {
+    height: calc(100vh - 160px);
+  }
+
+  .alf-example-btn {
+    padding: 10px;
+    font-size: 0.8rem;
+  }
+}
+
+/* Landscape mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+  .alf-chat-panel {
+    height: calc(100vh - 100px);
+    min-height: 250px;
+  }
+
+  .alf-library-panel {
+    display: none; /* Hide library in landscape to save space */
+  }
+}

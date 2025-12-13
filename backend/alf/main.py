@@ -3,13 +3,15 @@ FastAPI application for Idaho ALF RegNavigator chatbot.
 """
 
 import os
+import time
 from typing import List, Optional
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from pathlib import Path
 
 from rag_engine import RAGEngine
+from analytics import analytics
 
 # Initialize FastAPI app
 app = FastAPI(
@@ -63,6 +65,7 @@ class QueryRequest(BaseModel):
     conversation_history: Optional[List[Message]] = None
     top_k: int = 12  # Increased from 5 for better context
     temperature: float = 0.5  # Increased from 0.3 for more natural responses
+    session_id: Optional[str] = None  # For analytics tracking
 
 
 class Citation(BaseModel):
@@ -117,7 +120,7 @@ async def health_check():
 
 
 @app.post("/query", response_model=QueryResponse)
-async def query(request: QueryRequest):
+async def query(request: QueryRequest, req: Request):
     """
     Answer a question about Idaho ALF regulations.
 
@@ -129,6 +132,9 @@ async def query(request: QueryRequest):
     """
     if rag_engine is None:
         raise HTTPException(status_code=503, detail="RAG engine not initialized")
+
+    # Start timing for analytics
+    start_time = time.time()
 
     try:
         # Convert Pydantic models to dicts for conversation history
@@ -146,6 +152,20 @@ async def query(request: QueryRequest):
             top_k=request.top_k,
             temperature=request.temperature,
             verbose=False
+        )
+
+        # Calculate response time
+        response_time_ms = int((time.time() - start_time) * 1000)
+
+        # Log query to analytics
+        top_citation = result["citations"][0]["citation"] if result["citations"] else None
+        analytics.log_query(
+            question=request.question,
+            session_id=request.session_id,
+            response_time_ms=response_time_ms,
+            citations_count=len(result["citations"]),
+            top_citation=top_citation,
+            ip_address=req.client.host if req.client else None
         )
 
         # Format response
@@ -456,6 +476,74 @@ async def get_library():
         'total_chunks': len(rag_engine.chunks),
         'library': library
     }
+
+
+# ============================================================================
+# ANALYTICS ENDPOINTS
+# ============================================================================
+
+@app.get("/admin/queries", response_model=dict)
+async def get_queries(limit: int = 100, days: int = 30):
+    """
+    Get recent queries for analytics.
+
+    Args:
+        limit: Maximum number of queries to return
+        days: Number of days to look back
+    """
+    queries = analytics.get_recent_queries(limit=limit, days=days)
+    return {
+        "total": len(queries),
+        "queries": queries
+    }
+
+
+@app.get("/admin/popular", response_model=dict)
+async def get_popular_queries(limit: int = 20, days: int = 30):
+    """
+    Get most popular/common queries.
+
+    Args:
+        limit: Maximum number of queries to return
+        days: Number of days to look back
+    """
+    popular = analytics.get_popular_queries(limit=limit, days=days)
+    return {
+        "total": len(popular),
+        "queries": popular
+    }
+
+
+@app.get("/admin/stats", response_model=dict)
+async def get_stats(days: int = 30):
+    """
+    Get analytics summary statistics.
+
+    Args:
+        days: Number of days to include in stats
+    """
+    return analytics.get_stats(days=days)
+
+
+class TrackRequest(BaseModel):
+    session_id: str
+    event: str = "page_view"
+    page: str = "/"
+    user_agent: Optional[str] = None
+
+
+@app.post("/track", response_model=dict)
+async def track_event(request: TrackRequest, req: Request):
+    """
+    Track a page view or event.
+    """
+    analytics.log_page_view(
+        session_id=request.session_id,
+        page=request.page,
+        ip_address=req.client.host if req.client else None,
+        user_agent=request.user_agent
+    )
+    return {"status": "ok"}
 
 
 if __name__ == "__main__":

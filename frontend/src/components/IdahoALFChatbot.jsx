@@ -5,6 +5,16 @@ import './IdahoALFChatbot.css';
 
 const ALF_API_URL = import.meta.env.VITE_ALF_API_URL || 'http://localhost:8000';
 
+// Generate or retrieve session ID for analytics
+const getSessionId = () => {
+  let sessionId = sessionStorage.getItem('alf_session_id');
+  if (!sessionId) {
+    sessionId = 'sess_' + Math.random().toString(36).substring(2, 15) + Date.now().toString(36);
+    sessionStorage.setItem('alf_session_id', sessionId);
+  }
+  return sessionId;
+};
+
 const IdahoALFChatbot = () => {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
@@ -19,6 +29,7 @@ const IdahoALFChatbot = () => {
   const [expandedNodes, setExpandedNodes] = useState(new Set());
   const [totalChunks, setTotalChunks] = useState(0);
   const messagesEndRef = useRef(null);
+  const sessionId = useRef(getSessionId());
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
