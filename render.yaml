@@ -1,0 +1,53 @@
+services:
+  # Frontend - Static Site
+  - type: web
+    name: senior-chatbots-frontend
+    runtime: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/dist
+    envVars:
+      # Set these after deploying the backends - use their full URLs
+      # Example: https://senior-chatbots-medicaid.onrender.com
+      - key: VITE_MEDICAID_API_URL
+        sync: false
+      # Example: https://senior-chatbots-alf.onrender.com
+      - key: VITE_ALF_API_URL
+        sync: false
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: no-cache
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+
+  # Medicaid Backend - Node.js
+  - type: web
+    name: senior-chatbots-medicaid
+    runtime: node
+    buildCommand: cd backend/medicaid && npm install
+    startCommand: cd backend/medicaid && npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+    healthCheckPath: /health
+    plan: starter
+
+  # ALF Backend - Python
+  - type: web
+    name: senior-chatbots-alf
+    runtime: python
+    buildCommand: cd backend/alf && pip install -r requirements.txt
+    startCommand: cd backend/alf && uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+    healthCheckPath: /health
+    plan: starter

@@ -1,0 +1,2274 @@
+Zero-Based Regulation Review – 2025 for Rulemaking and 2026 Legislative Review
+IDAPA 16 – IDAHO DEPARTMENT OF HEALTH AND WELFARE
+Division of Public Health – Bureau of Communicable Disease Prevention
+16.02.10 – Idaho Reportable Diseases
+Who does this rule apply to?
+Medical professionals and providers, health care facilities, nurses, hospitals, public health
+districts, veterinarians, schools, daycares, laboratories, persons in charge of food establishments,
+coroners, and the public.
+What is the purpose of this rule?
+These rules contain the official requirements governing the reporting, control, and prevention of
+reportable diseases, as well as conditions and requirements to prevent transmission of health
+hazards from dead human bodies. The purpose of these rules is to identify, control, and prevent
+the transmission of reportable diseases and conditions within Idaho.
+What is the legal authority for the agency to promulgate this rule?
+This rule implements the following statutes passed by the Idaho Legislature:
+Health and Safety -
+Control of Venereal Diseases:
+• Section 39-605, Idaho Code – Rules for Carrying Out Law
+Prevention of Congenital Syphilis:
+• Section 39-1003, Idaho Code – Powers and Duties of the Director
+Food Establishment Act:
+• Section 39-1603, Idaho Code – Powers & Duties of Board
+Public Assistance and Welfare -
+Department of Health and Welfare:
+• Section 56-1005, Idaho Code – Department of Health and Welfare: Board — Composition —
+Officers — Compensation — Powers — Subpoena — Depositions — Review — Rules
+Where can I find information on Administrative Appeals?
+Administrative appeals and contested cases are governed by the provisions of IDAPA 16.05.03,
+“Contested Case Proceedings and Declaratory Rulings.”
+How do I request public records?
+Unless exempted, all public records are subject to disclosure by the Department that will comply
+with Title 74, Chapter 1, Idaho Code, upon requests. Confidential information may be restricted
+by state or federal law, federal regulation, and IDAPA 16.05.01, “Use and Disclosure of
+Department Records.” No employee of the Department or Health District may disclose the
+identity of persons named in disease reports except to the extent necessary for the purpose of
+administering the public health laws of this state.
+Who do I contact for more information on this rule?
+Idaho Department of Health and Welfare
+Bureau of Communicable Disease Prevention – Epidemiology Program
+450 West State Street
+Boise, ID 83702
+Zero-Based Regulation Review – 2025 for Rulemaking and 2026 Legislative Review
+P.O. Box 83720
+Boise, ID 83720-0036
+Phone: (208) 334-5939 Email: epimail@dhw.idaho.gov
+Fax: (208) 332-7307 Webpage: https://epi.idaho.gov
+Page 3
+Table of Contents
+16.02.10 – Idaho Reportable Diseases
+000. Legal Authority. ...................................................................................................... 8
+001. Title And Scope. ..................................................................................................... 8
+002. Documents Incorporated By Reference. ................................................................ 8
+003. Disclosure of Information. ....................................................................................... 8
+004. -- 009. (Reserved) ................................................................................................... 8
+010. Definitions A Through K. ........................................................................................ 8
+011. Definitions L Through Z. ....................................................................................... 11
+012. -- 019. (Reserved) ................................................................................................. 12
+020. Persons Required To Report Reportable Diseases, Conditions, And School
+Closures. ........................................................................................................... 12
+021. Access To Medical Records. ................................................................................ 13
+022. Penalty Provisions. ............................................................................................... 13
+023. Delegation Of Powers And Duties. ....................................................................... 13
+024. -- 029. (Reserved) ................................................................................................. 13
+030. Where To Report Reportable Diseases And Conditions. ..................................... 13
+031. -- 039. (Reserved) ................................................................................................. 14
+040. Report Contents And Method Of Reporting. ........................................................ 15
+041. -- 049. (Reserved) ................................................................................................. 15
+050. Reportable Or Restrictable Diseases, Conditions And Reporting Requirements. 15
+051. -- 059. (Reserved) ................................................................................................. 20
+060. Testing For Certain Reportable Diseases When Informed Consent Is Not
+Possible. ............................................................................................................ 20
+061. -- 064. (Reserved) ................................................................................................. 20
+065. Investigation And Control Of Reportable Diseases. ............................................. 20
+066. -- 067. (Reserved) ................................................................................................. 22
+068. Preventing Spread Of Health Hazards From Dead Human Bodies. .................... 22
+069. (Reserved) ............................................................................................................ 22
+070. Special Disease Investigations. ............................................................................ 22
+071. -- 079. (Reserved) ................................................................................................. 23
+080. Daycare Facility - Reporting And Control Measures. ........................................... 23
+081. -- 084. (Reserved) ................................................................................................. 23
+085. Food Service Facility - Reporting And Control Measures. ................................... 23
+086. -- 089. (Reserved) ................................................................................................. 23
+090. School - Reporting And Control Measures. .......................................................... 23
+091. -- 099. (Reserved) ................................................................................................. 24
+REPORTABLE DISEASES AND CONTROL MEASURES
+100. Acquired Immune Deficiency Syndrome (AIDS). ................................................. 24
+101. -- 109. (Reserved) ................................................................................................. 24
+110. Amebiasis And Free-Living Amebae. ................................................................... 24
+111. -- 119. (Reserved) .................................................................................................. 25
+120. Anthrax. ................................................................................................................ 25
+121. -- 124. (Reserved) ................................................................................................. 25
+Table of Contents (cont’d)
+Page 4
+125. Arboviral Diseases. .............................................................................................. 25
+126. -- 129. (Reserved) ................................................................................................. 25
+130. Biotinidase Deficiency. ......................................................................................... 25
+131. -- 139. (Reserved) ................................................................................................. 25
+140. Botulism. ............................................................................................................... 25
+141. -- 149. (Reserved) ................................................................................................. 26
+150. Brucellosis. ........................................................................................................... 26
+151. -- 159. (Reserved) ................................................................................................. 26
+160. Campylobacteriosis. ............................................................................................. 26
+161. -- 169. (Reserved) ................................................................................................. 26
+170. Cancer. ................................................................................................................. 26
+171. -- 179. (Reserved) ................................................................................................. 27
+180. Chancroid. ............................................................................................................ 27
+181. -- 189. (Reserved) ................................................................................................. 27
+190. Chlamydia Trachomatis. ....................................................................................... 27
+191. -- 199. (Reserved) ................................................................................................. 28
+200. Cholera. ................................................................................................................ 28
+201. -- 209. (Reserved) ................................................................................................. 28
+210. Congenital Hypothyroidism. ................................................................................. 28
+211. -- 219. (Reserved) ................................................................................................. 28
+220. Cryptosporidiosis. ................................................................................................. 28
+221. -- 229. (Reserved) ................................................................................................. 29
+230. Diphtheria. ............................................................................................................ 29
+231. -- 234. (Reserved) ................................................................................................. 29
+235. Echinococcosis. .................................................................................................... 29
+236. -- 239. (Reserved) ................................................................................................. 30
+240. Encephalitis, Viral Or Aseptic. .............................................................................. 30
+241. -- 249. (Reserved) ................................................................................................. 30
+250. Escherichia coli O157:h7 And Other Shiga-Toxin Producing E. coli (STEC). ...... 30
+251. -- 259. (Reserved) ................................................................................................. 30
+260. Extraordinary Occurrence Of Illness, Including Clusters. ..................................... 30
+261. -- 269. (Reserved) ................................................................................................. 31
+270. Food Poisoning, Foodborne Illness, And Waterborne Illness. ............................. 31
+271. -- 279. (Reserved) ................................................................................................. 31
+280. Galactosemia. ...................................................................................................... 31
+281. -- 289. (Reserved) ................................................................................................. 31
+290. Giardiasis. ............................................................................................................ 31
+291. -- 299. (Reserved) ................................................................................................. 32
+300. Haemophilus Influenzae Invasive Disease. .......................................................... 32
+301. -- 309. (Reserved) ................................................................................................. 32
+310. Hantavirus Pulmonary Syndrome. ........................................................................ 32
+311. -- 319. (Reserved) ................................................................................................. 32
+320. Hemolytic-Uremic Syndrome (HUS). .................................................................... 32
+321. -- 329. (Reserved) ................................................................................................. 32
+Table of Contents (cont’d)
+Page 5
+330. Hepatitis A. ........................................................................................................... 33
+331. -- 339. (Reserved) ................................................................................................. 33
+340. Hepatitis B. ........................................................................................................... 33
+341. -- 349. (Reserved) ................................................................................................. 34
+350. Hepatitis C. ........................................................................................................... 34
+351. -- 359. (Reserved) ................................................................................................. 34
+360. Human Immunodeficiency Virus (HIV). ................................................................ 34
+361. -- 369. (Reserved) ................................................................................................. 34
+370. Human T-Lymphotropic Virus. .............................................................................. 34
+371. -- 379. (Reserved) ................................................................................................. 35
+380. Lead Poisoning. .................................................................................................... 35
+381. -- 389. (Reserved) ................................................................................................. 35
+390. Legionellosis. ........................................................................................................ 35
+391. -- 399. (Reserved) ................................................................................................. 35
+400. Leprosy (Hansen’s Disease). ............................................................................... 35
+401. -- 409. (Reserved) ................................................................................................. 35
+410. Leptospirosis. ....................................................................................................... 35
+411. -- 419. (Reserved) ................................................................................................. 36
+420. Listeriosis. ............................................................................................................ 36
+421. -- 429. (Reserved) ................................................................................................. 36
+430. Lyme Disease. ...................................................................................................... 36
+431. -- 439. (Reserved) ................................................................................................. 36
+440. Malaria. ................................................................................................................. 36
+441. -- 449. (Reserved) ................................................................................................. 36
+450. Maple Syrup Urine Disease. ................................................................................. 36
+451. -- 459. (Reserved) ................................................................................................. 36
+460. Measles (Rubeola). .............................................................................................. 36
+461. -- 469. (Reserved) ................................................................................................. 37
+470. Meningitis, Viral Or Aseptic. ................................................................................. 37
+471. -- 474. (Reserved) ................................................................................................. 37
+475. Methicillin-Resistant Staphylococcus Aureus (MRSA). ........................................ 37
+476. -- 479. (Reserved) ................................................................................................. 38
+480. Mumps. ................................................................................................................. 38
+481. -- 489. (Reserved) ................................................................................................. 38
+490. Myocarditis, Viral. ................................................................................................. 38
+491. -- 499. (Reserved) ................................................................................................. 38
+500. Neisseria Gonorrhoeae. ....................................................................................... 38
+501. -- 509. (Reserved) ................................................................................................. 39
+510. Neisseria Meningitidis Invasive Disease. ............................................................. 39
+511. -- 519. (Reserved) ................................................................................................. 39
+520. Norovirus. ............................................................................................................. 39
+521. (Reserved) ............................................................................................................ 40
+522. Novel Influenza A Virus. ....................................................................................... 40
+523. -- 529. (Reserved) ................................................................................................. 40
+Table of Contents (cont’d)
+Page 6
+530. Pertussis. .............................................................................................................. 40
+531. -- 539. (Reserved) ................................................................................................. 40
+540. Phenylketonuria. ................................................................................................... 40
+541. -- 549. (Reserved) ................................................................................................. 40
+550. Plague. ................................................................................................................. 40
+551. -- 559. (Reserved) ................................................................................................. 41
+560. Pneumococcal Invasive Disease In Children Less Than Eighteen Years Of
+Age. ................................................................................................................... 41
+561. -- 569. (Reserved) ................................................................................................. 41
+570. Pneumocystis Pneumonia (PCP). ........................................................................ 41
+571. -- 579. (Reserved) ................................................................................................. 42
+580. Poliomyelitis. ........................................................................................................ 42
+581. -- 589. (Reserved) ................................................................................................. 42
+590. Psittacosis. ........................................................................................................... 42
+591. -- 599. (Reserved) ................................................................................................. 42
+600. Q Fever. ............................................................................................................... 42
+601. -- 609. (Reserved) ................................................................................................. 42
+610. Rabies - Human, Animal, And Post-Exposure Prophylaxis (rPEP). ..................... 42
+611. -- 619. (Reserved) ................................................................................................. 44
+620. Relapsing Fever, Tick-Borne And Louse-Borne. .................................................. 44
+621. -- 629. (Reserved) ................................................................................................. 45
+630. Respiratory Syncytial Virus (RSV). ....................................................................... 45
+631. -- 639. (Reserved) ................................................................................................. 45
+640. Reye Syndrome. ................................................................................................... 45
+641. -- 649. (Reserved) ................................................................................................. 45
+650. Rocky Mountain Spotted Fever. ........................................................................... 45
+651. -- 659. (Reserved) ................................................................................................. 45
+660. Rubella - Including Congenital Rubella Syndrome. .............................................. 45
+661. -- 669. (Reserved) ................................................................................................. 45
+670. Salmonellosis - Including Typhoid Fever. ............................................................. 46
+671. -- 679. (Reserved) ................................................................................................. 47
+680. Severe Acute Respiratory Syndrome (SARS). ..................................................... 47
+681. -- 689. (Reserved) ................................................................................................. 47
+690. Severe Reaction To Any Immunization. ............................................................... 47
+691. -- 699. (Reserved) ................................................................................................. 47
+700. Shigellosis. ........................................................................................................... 47
+701. -- 709. (Reserved) ................................................................................................. 48
+710. Smallpox. .............................................................................................................. 48
+711. -- 719. (Reserved) ................................................................................................. 49
+720. Streptococcus Pyogenes (Group A Strep) Infections. .......................................... 49
+721. -- 729. (Reserved) ................................................................................................. 49
+730. Syphilis. ................................................................................................................ 49
+731. -- 739. (Reserved) ................................................................................................. 50
+740. Tetanus. ............................................................................................................... 50
+Table of Contents (cont’d)
+Page 7
+741. -- 749. (Reserved) ................................................................................................. 50
+750. Toxic Shock Syndrome. ....................................................................................... 50
+751. -- 759. (Reserved) ................................................................................................. 50
+760. Transmissible Spongiform Encephalopathies (TSE), Including Creutzfeldt-Jakob
+Disease (CJD) And Variant CJD (VCJD). ......................................................... 50
+761. -- 769. (Reserved) ................................................................................................. 50
+770. Trichinosis. ........................................................................................................... 50
+771. -- 779. (Reserved) ................................................................................................. 51
+780. Tuberculosis. ........................................................................................................ 51
+781. -- 789. (Reserved) ................................................................................................. 51
+790. Tularemia. ............................................................................................................ 51
+791. -- 809. (Reserved) ................................................................................................. 52
+810. Yersiniosis, Other Than Plague. ........................................................................... 52
+811. -- 949. (Reserved) ................................................................................................. 52
+DELEGATION OF POWERS AND DUTIES
+950. Delegation Of Powers And Duties. ....................................................................... 52
+951. -- 999. (Reserved) ................................................................................................. 52
+Section 000 Page 8
+16.02.10 – IDAHO REPORTABLE DISEASES
+000. LEGAL AUTHORITY.
+Sections 39-605, 39-1003, 39-1603, and 56-1005, Idaho Code, grant authority to the Board of Health and Welfare to
+adopt rules protecting the health of the people of Idaho. Section 39-906, Idaho Code, provides for the Director to
+administer rules adopted by the Board of Health and Welfare. Section 39-4505(2), Idaho Code, gives the Director
+authority to promulgate rules regarding the identification of blood- or body fluid-transmitted viruses or diseases.
+Section 56-1003, Idaho Code, gives the Director the authority to adopt rules protecting the health of the people of
+Idaho and to recommend rules to the Board of Health and Welfare. Section 54-1119, Idaho Code, authorizes the
+Director to promulgate rules regarding the handling of dead human bodies as needed to preserve and protect the
+public health. (3-17-22)
+001. TITLE AND SCOPE.
+01. Title. These rules are titled IDAPA 16.02.10, “Idaho Reportable Diseases.” (3-17-22)
+02. Scope. These rules contain the official requirements governing the reporting, control, and
+prevention of reportable diseases and conditions and requirements to prevent transmission of health hazards from
+dead human bodies. The purpose of these rules is to identify, control, and prevent the transmission of reportable
+diseases and conditions within Idaho. (3-17-22)
+002. DOCUMENTS INCORPORATED BY REFERENCE.
+The documents referenced in Subsections 004.01 through 004.07 of this rule are used as a means of further clarifying
+these rules. These documents are incorporated by reference and are available at the Idaho State Law Library or at the
+Department’s main office. (3-17-22)
+01. Guideline for Isolation Precautions in Hospitals. Siegel, J.D., et al., “Guideline for Isolation
+Precautions in Hospitals.” Health Care Infection Control Practices Advisory Committee, Atlanta, GA: Centers for
+Disease Control and Prevention, 2007. (3-17-22)
+02. National Notifiable Diseases Surveillance System - Case Definitions. http://
+ndc.services.cdc.gov/. (3-17-22)
+03. Human Rabies Prevention -- United States, 2008. Morbidity and Mortality Weekly Report, May
+23, 2008, Vol. 57.RR-3. Centers for Disease Control and Prevention. (3-17-22)
+04. Updated U.S. Public Health Service Guidelines for the Management of Occupational
+Exposures to Human Immunodeficiency Virus and Recommendations for Postexposure Prophylaxis. Infection
+Control and Hospital Epidemiology, September 2013, Vol. 34, 9. The Society for Healthcare Epidemiology of
+America. These guidelines are found online at http://www.jstor.org/stable/10.1086/672271. (3-17-22)
+05. Compendium of Animal Rabies Prevention and Control, 2016. National Association of State
+Public Health Veterinarians, Inc., Journal of American Veterinary Medical Association Vol. 248(5), March 1, 2016.
+This document is found online at http://nasphv.org/documentsCompendia.html. (3-17-22)
+06. Standards for Cancer Registries, Volume II, Data Standards and Data Dictionary. North
+American Association of Central Cancer Registries, Eighteenth Edition, Record Layout Version 14, September 2013.
+(3-17-22)
+07. Use of Reduced (4-Dose) Vaccine Schedule for Postexposure Prophylaxis to Prevent Human
+Rabies: Recommendations of the Advisory Committee on Immunization Practices, 2010. Morbidity and
+Mortality Weekly Report, Recommendations and Reports, March 19, 2010/59(RR02);1-9. This document is found
+online at https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5902a1.htm. (3-17-22)
+003. DISCLOSURE OF INFORMATION.
+No employee of the Department or Health District may disclose the identity of persons named in disease reports
+except to the extent necessary for the purpose of administering the public health laws of this state. (3-17-22)
+004. -- 009. (RESERVED)
+010. DEFINITIONS A THROUGH K.
+For the purposes of this chapter, the following definitions apply. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 010 Page 9
+01. Airborne Precautions. Methods used to prevent airborne transmission of infectious agents, as
+described in “Guideline for Isolation Precautions in Hospitals,” incorporated in Section 004 of these rules. (3-17-22)
+02. Approved Fecal Specimens. Specimens of feces obtained from the designated person who has not
+taken any antibiotic orally or parenterally for two (2) days prior to the collection of the fecal specimen. The specimen
+must be collected and transported to the laboratory in a manner appropriate for the test to be performed. (3-17-22)
+03. Bite or Other Exposure to Rabies. Bite or bitten means that the skin of the person or animal has
+been nipped or gripped, or has been wounded or pierced, including scratches, and includes probable contact of saliva
+with a break or abrasion of the skin. The term “exposure” also includes contact of saliva with any mucous membrane.
+In the case of bats, even in the absence of an apparent bite, scratch, or mucous membrane contact, exposure may have
+occurred, as described in “Human Rabies Prevention -- United States,” incorporated in Section 004 of these rules.
+(3-17-22)
+04. Board. The Idaho State Board of Health and Welfare as described in Section 56-1005, Idaho Code.
+(3-17-22)
+05. Cancer Data Registry of Idaho (CDRI). The agency performing cancer registry services under a
+contractual agreement with the Department as described in Section 57-1703, Idaho Code. (3-17-22)
+06. Cancers. Cancers that are designated reportable include the following as described in Section 57-
+1703, Idaho Code: (3-17-22)
+a. In-situ or malignant neoplasms, but excluding basal cell and squamous cell carcinoma of the skin
+unless occurring on a mucous membrane and excluding in-situ neoplasms of the cervix. (3-17-22)
+b. Benign tumors of the brain, meninges, pineal gland, or pituitary gland. (3-17-22)
+07. Carrier. A carrier is a person who can transmit a communicable disease to another person, but may
+not have symptoms of the disease. (3-17-22)
+08. Case. (3-17-22)
+a. A person, who has been diagnosed as having a specific disease or condition by a physician or other
+health care provider, is considered a case. The diagnosis may be based on clinical judgment, on laboratory evidence,
+or on both criteria. Individual case definitions are described in “National Notifiable Diseases Surveillance System
+Case Definitions,” incorporated in Section 004 of these rules. (3-17-22)
+b. A laboratory detection of a disease or condition as listed in Section 050 of these rules and as further
+outlined in Sections 100 through 949 of these rules. (3-17-22)
+09. Cohort System. A communicable disease control mechanism in which cases having the same
+disease are temporarily segregated to continue to allow supervision and structured attendance in a daycare or health
+care facility. (3-17-22)
+10. Communicable Disease. A disease that may be transmitted from one (1) person or an animal to
+another person either by direct contact or through an intermediate host, vector, inanimate object, or other means that
+may result in infection, illness, disability, or death. (3-17-22)
+11. Contact. A contact is a person who has been exposed to a case or a carrier of a communicable
+disease while the disease was communicable, or a person by whom a case or carrier of a communicable disease could
+have been exposed to the disease. (3-17-22)
+12. Contact Precautions. Methods used to prevent contact transmission of infectious agents, as
+described in the “Guideline for Isolation Precautions in Hospitals,” incorporated in Section 004 of these rules.
+(3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 010 Page 10
+13. Daycare. Care and supervision provided for compensation during part of a twenty-four (24) hour
+day, for a child or children not related by blood or marriage to the person or persons providing the care, in a place
+other than the child’s or children’s own home or homes as described by Section 39-1102, Idaho Code. (3-17-22)
+14. Department. The Idaho Department of Health and Welfare or its designee. (3-17-22)
+15. Director. The Director of the Idaho Department of Health and Welfare or their designee as
+described under Sections 56-1003 and 39-414(2), Idaho Code, and Section 950 of these rules. (3-17-22)
+16. Division of Public Health Administrator. A person appointed by the Director to oversee the
+administration of the Division of Public Health, Idaho Department of Health and Welfare, or their designee.
+(3-17-22)
+17. Droplet Precautions. Methods used to prevent droplet transmission of infectious agents, as
+described in the “Guideline for Isolation Precautions in Hospitals,” incorporated in Section 004 of these rules.
+(3-17-22)
+18. Exclusion. An exclusion for a food service facility means a person is prevented from working as a
+food employee or entering a food establishment except for those areas open to the general public as outlined in the
+IDAPA 16.02.19, “Idaho Food Code.” (3-17-22)
+19. Extraordinary Occurrence of Illness Including Clusters. Rare diseases and unusual outbreaks of
+illness that may be a risk to the public are considered an extraordinary occurrence of illness. Illnesses related to drugs,
+foods, contaminated medical devices, contaminated medical products, illnesses related to environmental
+contamination by infectious or toxic agents, unusual syndromes, or illnesses associated with occupational exposure to
+physical or chemical agents may be included in this definition. (3-17-22)
+20. Fecal Incontinence. A condition in which temporarily, as with severe diarrhea, or long-term, as
+with a child or adult requiring diapers, there is an inability to hold feces in the rectum, resulting in involuntary
+voiding of stool. (3-17-22)
+21. Foodborne Disease Outbreak. An outbreak is when two (2) or more persons experience a similar
+illness after ingesting a common food. (3-17-22)
+22. Food Employee. An individual working with unpackaged food, food equipment or utensils, or
+food-contact surfaces as defined in IDAPA 16.02.19, “Idaho Food Code.” (3-17-22)
+23. Health Care Facility. An establishment organized and operated to provide health care to three (3)
+or more individuals who are not members of the immediate family. This definition includes hospitals, intermediate
+care facilities, residential care and assisted living facilities. (3-17-22)
+24. Health Care Provider. A person who has direct or supervisory responsibility for the delivery of
+health care or medical services. This includes: licensed physicians, nurse practitioners, physician assistants, nurses,
+dentists, chiropractors, and administrators, superintendents, and managers of clinics, hospitals, and licensed
+laboratories. (3-17-22)
+25. Health District. Any one (1) of the seven (7) public health districts as established by Section 39-
+409, Idaho Code, and described in Section 030 of these rules. (3-17-22)
+26. Health District Director. Any one (1) of the public health districts’ directors appointed by the
+Health District’s Board as described in Section 39-413, Idaho Code, or their designee. (3-17-22)
+27. Idaho Food Code. Idaho Administrative Code that governs food safety, IDAPA 16.02.19, “Idaho
+Food Code.” These rules may be found online at http://adminrules.idaho.gov/rules/current/16/160219.pdf. (3-17-22)
+28. Isolation. The separation of a person known or suspected to be infected with an infectious agent, or
+contaminated from chemical or biological agents, from other persons to such places, under such conditions, and for
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 011 Page 11
+such time as will prevent transmission of the infectious agent or further contamination. The place of isolation will be
+designated by the Director under Section 56-1003(7), Idaho Code, and Section 065 of these rules. (3-17-22)
+011. DEFINITIONS L THROUGH Z.
+For the purposes of this chapter, the following definitions apply. (3-17-22)
+01. Laboratory Director. A person who is directly responsible for the operation of a licensed
+laboratory or their designee. (3-17-22)
+02. Laboratory. A medical diagnostic laboratory that is inspected, licensed, or approved by the
+Department or licensed according to the provisions of the Clinical Laboratory Improvement Act by the United States
+Health Care and Financing Administration. Laboratory may also refer to the Idaho State Public Health Laboratory,
+and to the United States Centers for Disease Control and Prevention. (3-17-22)
+03. Livestock. Livestock as defined by the Idaho Department of Agriculture in IDAPA 02.04.03,
+“Rules Governing Animal Industry.” (3-17-22)
+04. Medical Record. Hospital or medical records are all those records compiled for the purpose of
+recording a medical history, diagnostic studies, laboratory tests, treatments, or rehabilitation. Access will be limited
+to those parts of the record that will provide a diagnosis, or will assist in identifying contacts to a reportable disease or
+condition. Records specifically exempted by statute are not reviewable. (3-17-22)
+05. Outbreak. An outbreak is an unusual rise in the incidence of a disease. An outbreak may consist of
+a single case. (3-17-22)
+06. Personal Care. The service provided by one (1) person to another for the purpose of feeding,
+bathing, dressing, assisting with personal hygiene, changing diapers, changing bedding, and other services involving
+direct physical contact. (3-17-22)
+07. Physician. A person legally authorized to practice medicine and surgery, osteopathic medicine and
+surgery, or osteopathic medicine in Idaho as defined in Section 54-1803, Idaho Code. (3-17-22)
+08. Quarantine. The restriction placed on the entrance to and exit from the place or premises where an
+infectious agent or hazardous material exists. The place of quarantine will be designated by the Director or Health
+District Board. (3-17-22)
+09. Rabies Post-Exposure Prophylaxis (rPEP). The administration of a rabies vaccine series with or
+without the antirabies immune globulin, depending on pre-exposure vaccination status, following a documented or
+suspected rabies exposure, as described in “Use of Reduced (4-Dose) Vaccine Schedule for Postexposure Prophylaxis
+to Prevent Human Rabies: Recommendations of the Advisory Committee on Immunization Practices,” incorporated
+in Section 004 of these rules. (3-17-22)
+10. Rabies-Susceptible Animal. Any animal capable of being infected with the rabies virus. (3-17-22)
+11. Residential Care Facility. A commercial or non-profit establishment organized and operated to
+provide a place of residence for three (3) or more individuals who are not members of the same family, but live within
+the same household. Any restriction for this type of facility is included under restrictions for a health care facility.
+(3-17-22)
+12. Restriction. (3-17-22)
+a. To limit the activities of a person to reduce the risk of transmitting a communicable disease.
+Activities of individuals are restricted or limited to reduce the risk of disease transmission until such time that they
+are no longer considered a health risk to others. (3-17-22)
+b. A food employee who is restricted must not work with exposed food, clean equipment, utensils,
+linens, and unwrapped single-service or single-use articles. A restricted employee may still work at a food
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 020 Page 12
+establishment as outlined in the IDAPA 16.02.19, “Idaho Food Code.” (3-17-22)
+13. Restrictable Disease. A restrictable disease is a communicable disease, which if left unrestricted,
+may have serious consequences to the public's health. The determination of whether a disease is restrictable is based
+upon the specific environmental setting and the likelihood of transmission to susceptible persons. (3-17-22)
+14. Severe Reaction to Any Immunization. Any serious or life-threatening condition that results
+directly from the administration of any immunization against a communicable disease. (3-17-22)
+15. Significant Exposure to Blood or Body Fluids. Significant exposure is defined as a percutaneous
+injury, contact of mucous membrane or non-intact skin, or contact with intact skin when the duration of contact is
+prolonged or involves an extensive area, with blood, tissue, or other body fluids as defined in “Updated U.S. Public
+Health Service Guidelines for the Management of Occupational Exposures to HIV and Recommendations for
+Postexposure Prophylaxis,” incorporated in Section 004 of these rules. (3-17-22)
+16. Standard Precautions. Methods used to prevent transmission of all infectious agents, as described
+in the “Guideline for Isolation Precautions in Hospitals,” incorporated in Section 004 of these rules. (3-17-22)
+17. State Epidemiologist. A person employed by the Department to serve as a statewide
+epidemiologist or their designee. (3-17-22)
+18. Suspected Case. A person diagnosed with or thought to have a particular disease or condition by a
+licensed physician or other health care provider. The suspected diagnosis may be based on signs and symptoms, or on
+laboratory evidence, or both criteria. Suspected cases of some diseases are reportable as described in Section 050 of
+these rules. (3-17-22)
+19. Vaccination of an Animal Against Rabies. Vaccination of an animal by a licensed veterinarian
+with a rabies vaccine licensed or approved for the animal species and administered according to the specifications on
+the product label or package insert as described in the “Compendium of Animal Rabies Prevention and Control,”
+incorporated in Section 004 of these rules. (3-17-22)
+20. Veterinarian. Any licensed veterinarian as defined in Section 54-2103, Idaho Code. (3-17-22)
+21. Waterborne Outbreak. An outbreak is when two (2) or more persons experience a similar illness
+after exposure to water from a common source and an epidemiological analysis implicates the water as the source of
+the illness. (3-17-22)
+22. Working Day. A working day is from 8 a.m. to 5 p.m., Monday through Friday, excluding state
+holidays. (3-17-22)
+012. -- 019. (RESERVED)
+020. PERSONS REQUIRED TO REPORT REPORTABLE DISEASES, CONDITIONS, AND SCHOOL
+CLOSURES.
+01. Physician. A licensed physician who diagnoses, treats, or cares for a person with a reportable
+disease or condition must make a report of such disease or condition to the Department or Health District as described
+in these rules. The physician is also responsible for reporting diseases and conditions diagnosed or treated by
+physician assistants, nurse practitioners, or others under the physician’s supervision. (3-17-22)
+02. Hospital or Health Care Facility Administrator. The hospital or health care facility
+administrator must report all persons who are diagnosed, treated, or receive care for a reportable disease or condition
+in their facility unless the attending physician has reported the disease or condition. (3-17-22)
+03. Laboratory Director. The laboratory director must report to the Department or Health District the
+identification of, or laboratory findings suggestive of, the presence of the organisms, diseases, or conditions listed in
+Section 050 of these rules. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 021 Page 13
+04. School Administrator. A school administrator must report diseases and conditions to the
+Department or Health District as indicated in Section 050 of these rules. A school administrator must report the
+closure of any public, parochial, charter, or private school within one (1) working day when, in their opinion, such
+closing is related to a communicable disease. (3-17-22)
+05. Persons in Charge of Food Establishments. A person in charge of an eating or drinking
+establishment must report diseases and conditions to the Department or Health District as indicated in Section 050 of
+these rules and obtain guidance on proper actions needed to protect the public. (3-17-22)
+06. Others Required to Report Reportable Diseases. In addition to licensed physicians, reports must
+also be made by physician assistants, certified nurse practitioners, licensed registered nurses, school health nurses,
+infection surveillance staff, public health officials, and coroners. (3-17-22)
+021. ACCESS TO MEDICAL RECORDS.
+No physician, hospital administrative person, or patient may deny the Department, Health Districts, or the Board
+access to medical records in discharge of their duties in implementing the reportable disease rules. (3-17-22)
+022. PENALTY PROVISIONS.
+These rules may be enforced under the civil and criminal penalties described in Sections 39-108, 39-109, 39-607, 39-
+1006, 39-1606, and 56-1008, Idaho Code, and other applicable statutes and rules. Penalties may include fines and
+imprisonment as specified in Idaho Code. (3-17-22)
+023. DELEGATION OF POWERS AND DUTIES.
+The Director has the authority to delegate to the Health Districts any of the powers and duties created by these rules
+under Section 39-414(2), Idaho Code. Any delegation authority will be in writing and signed by the both the Director
+and the Health District Board. (3-17-22)
+024. -- 029. (RESERVED)
+030. WHERE TO REPORT REPORTABLE DISEASES AND CONDITIONS.
+Subsections 030.01 through 030.09 of this rule provide where information for reporting of suspected, identified, and
+diagnosed diseases and conditions are to be reported. The diseases and conditions in Sections 100 through 949 of
+these rules are reportable to the agencies listed in Subsections 030.01 through 030.09 of this rule. (3-17-22)
+01. Department of Health and Welfare, Bureau of Communicable Disease Prevention
+Epidemiology Program. (3-17-22)
+a. Main Office Address: 450 West State Street, 4th Floor, Boise, ID 83720. (3-17-22)
+b. Phone: (208) 334-5939 and FAX: (208) 332-7307. (3-17-22)
+02. Health District I - Panhandle Health District. The Panhandle Health District covers the counties
+of Benewah, Bonner, Boundary, Kootenai, and Shoshone. (3-17-22)
+a. Main Office Address: 8500 N. Atlas Road, Hayden, ID 83835. (3-17-22)
+b. Phone: (208) 772-3920 and FAX: 1-866-716-2599 Toll Free. (3-17-22)
+03. Health District II - Public Health Idaho North Central District. The North Central District
+covers the counties of Clearwater, Idaho, Latah, Lewis, and Nez Perce. (3-17-22)
+a. Main Office Address: 215 10th Street, Lewiston, ID 83501. (3-17-22)
+b. Phone: (208) 799-3100 and FAX: (208) 799-0349. (3-17-22)
+04. Health District III - Southwest District Health. Southwest District Health covers the counties of
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 030 Page 14
+Adams, Canyon, Gem, Owyhee, Payette, and Washington. (3-17-22)
+a. Main Office Address: 13307 Miami Lane, Caldwell, ID 83607. (3-17-22)
+b. Phone: (208) 455-5442 and FAX: (208) 455-5350. (3-17-22)
+05. Health District IV - Central District Health Department. The Central District Health
+Department covers the counties of Ada, Boise, Elmore and Valley. (3-17-22)
+a. Main Office Address: 707 N. Armstrong Place, Boise, ID 83704. (3-17-22)
+b. Phone: (208) 327-8625 and FAX: (208) 327-7100. (3-17-22)
+06. Health District V - South Central Public Health District. The South Central Public Health
+District covers the counties of Blaine, Camas, Cassia, Gooding, Jerome, Lincoln, Minidoka, and Twin Falls.
+(3-17-22)
+a. Main Office Address: 1020 Washington Street N., Twin Falls, ID 83301. (3-17-22)
+b. Phone: (208) 737-5929 and FAX: (208) 736-3009. (3-17-22)
+07. Health District VI - Southeastern Idaho Public Health. The Southeastern Idaho Public Health
+District covers the counties of Bannock, Bear Lake, Bingham, Butte, Caribou, Franklin, Oneida, and Power.
+(3-17-22)
+a. Main Office Address: 1901 Alvin Ricken Drive, Pocatello, ID 83201. (3-17-22)
+b. Phone: (208) 233-9080 and FAX: (208) 233-1916. (3-17-22)
+08. Health District VII - Eastern Idaho Public Health District. The Eastern Idaho Public Health
+District covers the counties of Bonneville, Clark, Custer, Fremont, Jefferson, Lemhi, Madison and Teton. (3-17-22)
+a. Main Office Address: 1250 Hollipark Drive, Idaho Falls, ID 83401. (3-17-22)
+b. Phone: (208) 533-3152 and FAX: (208) 523-4365. (3-17-22)
+09. Cancer Data Registry of Idaho (CDRI). (3-17-22)
+a. Main Office Address: 615 N. 7th Street, P.O. Box 1278, Boise, ID 83701. (3-17-22)
+b. Phone: (208) 338-5100. (3-17-22)
+10. Inter-Agency Notification. The Health District must notify the Department of reportable diseases
+and conditions as listed in Section 050 of these rules. (3-17-22)
+a. The Department and the Health District will exchange reported information within one (1) working
+day on any reported case or suspected case of a reportable disease or condition when required in Sections 100 through
+949 of these rules. (3-17-22)
+b. The Department and the Health District will exchange reported information no later than weekly of
+all other cases of reportable diseases and conditions. (3-17-22)
+c. The Department will notify the Idaho Department of Agriculture of any identified or suspected
+source of an animal related disease when required in Sections 100 through 949 of these rules. (3-17-22)
+031. -- 039. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 040 Page 15
+040. REPORT CONTENTS AND METHOD OF REPORTING.
+01. Report Contents. Each report of a reportable disease or condition must include: (3-17-22)
+a. The identity and address of the attending licensed physician or the person reporting; (3-17-22)
+b. The diagnosed or suspected disease or condition; (3-17-22)
+c. The name, current address, telephone number, birth date, age, race, ethnicity, and sex of the
+individual with the disease or other identifier from whom the specimen was obtained; (3-17-22)
+d. The date of onset of the disease or the date the test results were received; and (3-17-22)
+e. In addition, laboratory directors must report the identity of the organism or other significant test
+result. (3-17-22)
+02. How To Report. A report of a case or suspected case may be made to the Department or Health
+District by telephone, mail, fax, or through electronic-disease reporting systems as listed in Section 030 of these rules.
+(3-17-22)
+03. After Hours Notification. An after hours report of a disease or condition may be made through the
+Idaho State EMS Communications Center (State Comm) at (800) 632-8000. A public health official will be contacted
+regarding the report. (3-17-22)
+041. -- 049. (RESERVED)
+050. REPORTABLE OR RESTRICTABLE DISEASES, CONDITIONS AND REPORTING
+REQUIREMENTS.
+Reportable diseases and conditions must be reported to the Department or Health District by those required under
+Section 020 of these rules. The table below identifies the reportable and restrictable diseases and conditions, the
+timeframe for reporting, and the person or facility required to report.
+REQUIREMENTS FOR REPORTABLE AND RESTRICTABLE DISEASES AND CONDITIONS
+TABLE 050
+Reportable or Restrictable
+Diseases and Conditions
+Section
+in
+Rule
+Reporting Timeframe
+Restrictable for
+DC = Daycare
+FS = Food
+ Service
+HC = Health Care
+Facility
+ S = School
+Which Facilities Must
+Report in Addition to
+Health Care Providers,
+Laboratory Directors, &
+Hospital Administrators
+(Section 020)
+Acquired Immune Deficiency
+Syndrome (AIDS), (including
+CD-4 lymphocyte counts <200
+cells/mm3 blood or < 14%)
+100 Within 3 working days None
+Amebiasis and Free-living Amebae 110 Within 3 working days DC, FS, HC Food Service Facility
+Anthrax (Bacillus anthracis) 120 Immediately None
+Arboviral Diseases 125 Within 3 working days None
+Biotinidase Deficiency 130 Within 1 working day
+(in newborn screening) None
+Botulism 140 Immediately None
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 050 Page 16
+Brucellosis (Brucella species) 150 Within 1 working day None
+Campylobacteriosis
+(Campylobacter species) 160 Within 3 working days DC, FS, HC Food Service Facility
+Cancer 170
+Report to Cancer Data
+Registry of Idaho within
+180 days of diagnosis or
+recurrence (including
+suspected cases)
+None
+Chancroid 180 Within 3 working days None
+Chlamydia trachomatis
+Infections 190 Within 3 working days
+HC -
+ophthalmia neonatorum only
+Cholera (Vibrio cholerae) 200 Within 1 working day FS, HC, DC Food Service Facility
+Congenital Hypothyroidism 210 Within 1 working day
+(in newborn screening) None
+Conjunctivitis 080, 090 No reporting required DC, S
+Cryptosporidiosis
+(Cryptosporidium species) 220 Within 3 working days FS, HC, DC
+Cutaneous Fungal Infections 080, 090 No reporting required DC, S
+Diarrhea (until common
+communicable diseases have
+been ruled out)
+085 No reporting required FS
+Diphtheria
+(Corynebacterium diphtheriae) 230 Immediately DC, FS, HC, S School
+Echinococcosis 235 Within 3 working days None
+Encephalitis, Viral or Aseptic 240 Within 3 working days None
+Escherichia coli O157:H7 and
+other Shiga-Toxin Producing
+E. coli (STEC)
+250 Within 1 working day DC, FS, HC Food Service Facility
+School
+Extraordinary Occurrence of
+Illness, including Clusters 260 Within 1 working day None
+Fever 085 No reporting required FS
+Food Poisoning, Foodborne Illness, and Waterborne Illnesses 270 Within 1 working day None
+Galactosemia 280 Within 1 working day
+(in newborn screening) None
+REQUIREMENTS FOR REPORTABLE AND RESTRICTABLE DISEASES AND CONDITIONS
+TABLE 050
+Reportable or Restrictable
+Diseases and Conditions
+Section
+in
+Rule
+Reporting Timeframe
+Restrictable for
+DC = Daycare
+FS = Food
+ Service
+HC = Health Care
+Facility
+ S = School
+Which Facilities Must
+Report in Addition to
+Health Care Providers,
+Laboratory Directors, &
+Hospital Administrators
+(Section 020)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 050 Page 17
+Giardiasis (Giardia lamblia) 290 Within 3 working days DC, FS, HC Food Service Facility
+Haemophilus influenzae
+Invasive Disease 300 Within 1 working day DC, S School
+Hantavirus Pulmonary
+Syndrome 310 Within 1 working day None
+Hemolytic-Uremic Syndrome
+(HUS) or Thrombotic thrombocytopenic purpura-HUS (TTPHUS)
+320 Within 1 working day None
+Hepatitis A 330 Within 1 working day DC, FS, HC Food Service Facility
+Hepatitis B 340 Within 1 working day None
+Hepatitis C 350 Within 3 working days None
+Human Immunodeficiency Virus
+(HIV) 360 Within 3 working days None
+Human T-Lymphotropic Virus 370 Within 3 working days None
+Jaundice 085 No reporting required FS
+Lead Poisoning 380 Within 3 working days None
+Legionellosis 390 Within 3 working days None
+Leprosy (Hansen’s Disease) 400 Within 3 working days None
+Leptospirosis 410 Within 3 working days None
+Listeriosis (Listeria species) 420 Within 3 working days None
+Lyme Disease 430 Within 3 working days None
+Malaria (Plasmodium species) 440 Within 3 working days None
+Maple Syrup Urine Disease 450 Within 1 working day
+(in newborn screening) None
+Measles (Rubeola) 460 Within 1 working day DC, HC, S School
+Meningitis, Viral or Aseptic 470 Within 3 working days None
+Methicillin-resistant
+Staphylococcus aureus (MRSA)
+Invasive Disease
+475 Within 3 working days None Note: Only Laboratory
+Directors need to report.
+Methicillin-resistant
+Staphylococcus aureus (MRSA)
+Non-Invasive Disease
+475,
+080, 090 No reporting required DC, FS, HC, S
+Mumps 480 Within 3 working days DC, S, HC School
+Myocarditis, Viral 490 Within 3 working days None
+REQUIREMENTS FOR REPORTABLE AND RESTRICTABLE DISEASES AND CONDITIONS
+TABLE 050
+Reportable or Restrictable
+Diseases and Conditions
+Section
+in
+Rule
+Reporting Timeframe
+Restrictable for
+DC = Daycare
+FS = Food
+ Service
+HC = Health Care
+Facility
+ S = School
+Which Facilities Must
+Report in Addition to
+Health Care Providers,
+Laboratory Directors, &
+Hospital Administrators
+(Section 020)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 050 Page 18
+Neisseria gonorrhoeae
+Infections 500 Within 3 working days HC-ophthalmia
+neonatorum only
+Neisseria meningitidis
+Invasive Disease 510 Within 1 working day DC, HC, S School
+Norovirus 520 Within 1 working day DC, FS, HC, S
+Novel Influenza A Virus 522 Within 1 working day DC, FS, HC, S
+Pediculosis 080, 090 No reporting required DC, S
+Pertussis (Bordetella pertussis) 530 Within 1 working day DC, HC, S School
+Phenylketonuria (PKU) 540 Within 1 working day
+(in newborn screening) None
+Plague (Yersinia pestis) 550 Immediately HC, S School
+Pneumococcal Invasive Disease
+in Children less than Eighteen
+(18) Years of Age
+(Streptococcus pneumoniae)
+560 Within 3 working days DC, S School
+Pneumocystis Pneumonia
+(PCP) 570 Within 3 working days None
+Poliomyelitis 580 Within 1 working day DC School
+Psittacosis 590 Within 3 working days None
+Q Fever 600 Within 1 working day None
+Rabies - Human, Animal, and
+Post-Exposure Prophylaxis
+(rPEP)
+610
+Immediately (human),
+Within 1 working day
+(animal or rPEP)
+None
+Relapsing Fever, Tick-borne
+and Louse-borne 620 Within 3 working days None
+Respiratory Syncytial Virus
+(RSV) 630 Within 1 working day None Note: Only Laboratory
+Directors need to report.
+Reye Syndrome 640 Within 3 working days None
+Rocky Mountain Spotted Fever 650 Within 3 working days None
+Rubella (including Congenital
+Rubella Syndrome) 660 Within 1 working day DC, HC, S School
+Salmonellosis
+(including Typhoid Fever)
+(Salmonella species)
+670 Within 1 working day DC, FS, HC Food Service Facility
+Scabies 080, 090 No reporting required DC, S
+REQUIREMENTS FOR REPORTABLE AND RESTRICTABLE DISEASES AND CONDITIONS
+TABLE 050
+Reportable or Restrictable
+Diseases and Conditions
+Section
+in
+Rule
+Reporting Timeframe
+Restrictable for
+DC = Daycare
+FS = Food
+ Service
+HC = Health Care
+Facility
+ S = School
+Which Facilities Must
+Report in Addition to
+Health Care Providers,
+Laboratory Directors, &
+Hospital Administrators
+(Section 020)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 050 Page 19
+Severe Acute Respiratory
+Syndrome (SARS) 680 Within 1 working day DC, S School
+Severe Reaction to Any
+Immunization 690 Within 1 working day None
+Shigellosis (Shigella species) 700 Within 1 working day DC, FS, HC, S Food Service Facility
+School
+Smallpox 710 Immediately DC, HC, S School
+Sore Throat with Fever 085 No reporting required FS
+Staphylococcal Infections
+other than MRSA
+080,
+085, 090 No reporting required DC, FS, S
+Streptococcal Pharyngeal
+Infections 080, 090 No reporting required DC, S
+Streptococcus pyogenes
+(group A strep), Invasive or
+Resulting in Rheumatic Fever
+720 Within 3 working days DC, HC, S School
+Syphilis 730 Within 3 working days None
+Taeniasis 085 No reporting required FS
+Tetanus 740 Within 3 working days None
+Toxic Shock Syndrome 750 Within 3 working days None
+Transmissible Spongiform
+Encephalopathies (TSE), including Creutzfeldt-Jakob Disease
+(CJD) and Variant CJD (vCJD)
+760 Within 3 working days None
+Trichinosis 770 Within 3 working days None
+Tuberculosis
+(Mycobacterium tuberculosis) 780 Within 3 working days DC, FS, HC, S School
+Food Service Facility
+Tularemia
+(Francisella tularensis) 790
+Immediately;
+Identification of
+Francisella tularensis -
+within 1 working day
+None
+Uncovered and Open or Draining Skin Lesions with Pus, such
+as a Boil or Open Wound
+085 No reporting required FS
+Varicella (chickenpox) 080, 090 No reporting required DC, S
+Vomiting (until noninfectious
+cause is identified) 085 No reporting required FS
+REQUIREMENTS FOR REPORTABLE AND RESTRICTABLE DISEASES AND CONDITIONS
+TABLE 050
+Reportable or Restrictable
+Diseases and Conditions
+Section
+in
+Rule
+Reporting Timeframe
+Restrictable for
+DC = Daycare
+FS = Food
+ Service
+HC = Health Care
+Facility
+ S = School
+Which Facilities Must
+Report in Addition to
+Health Care Providers,
+Laboratory Directors, &
+Hospital Administrators
+(Section 020)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 060 Page 20
+(3-17-22)
+051. -- 059. (RESERVED)
+060. TESTING FOR CERTAIN REPORTABLE DISEASES WHEN INFORMED CONSENT IS NOT
+POSSIBLE.
+Under Section 39-4504, Idaho Code, a licensed physician may order blood or body fluid tests for hepatitis viruses,
+malaria, syphilis, or the human immunodeficiency virus (HIV) when an informed consent is not possible and there
+has been, or is likely to be, significant exposure to a person’s blood or body fluids by a person providing emergency
+or medical services. (3-17-22)
+061. -- 064. (RESERVED)
+065. INVESTIGATION AND CONTROL OF REPORTABLE DISEASES.
+01. Responsibility and Authority. The Department will use all reasonable means to confirm in a
+timely manner any case or suspected case of a reportable disease or condition, and will determine, when possible, all
+sources of infection and the extent of exposure. Investigations may be made when the Division of Public Health
+Administrator, Health District Director, or state epidemiologist determines a disease to be of public health
+significance. (3-17-22)
+a. Every licensed physician or other health care provider attending a person with a reportable disease
+or condition must report the case or suspected case, as described in Section 050 of these rules. They must instruct the
+person on applicable control measures as outlined in Sections 100 through 949 of these rules and cooperate with the
+Department in the investigation and control of the disease or condition. (3-17-22)
+b. Any person providing emergency or medical services who believes they have experienced a
+significant exposure to blood or bodily fluids as defined in Subsection 011.15 of these rules may report said exposure
+as soon as possible or within fourteen (14) days of the occurrence to the Department on a significant exposure report
+form. When, in the state epidemiologist’s judgment, a significant exposure has occurred, the Department will inform
+the exposed individual that they may have been exposed to the HIV or HBV virus, or that there is no information
+available based on the Department's current HIV or HBV registry and will recommend appropriate counseling and
+testing for the exposed individual. (3-17-22)
+02. Inspection - Right of Entry. The Department may enter private or public property for the purpose
+of administering or enforcing the provisions of these rules under the authority and constraints granted by Section 56-
+1009, Idaho Code. (3-17-22)
+03. Inviolability of Placards. If it is necessary to use placards, it is unlawful for any person to interfere
+with, conceal, mutilate or tear down any notices or placards on any house, building or premises placed by the
+Department. Such placards can only be removed by the health official. (3-17-22)
+Yersiniosis
+(Yersinia enterocolitica and
+Yersinia pseudotuberculosis)
+810
+Within 3 working days;
+Identification of Yersinia
+pestis - immediately
+FS
+REQUIREMENTS FOR REPORTABLE AND RESTRICTABLE DISEASES AND CONDITIONS
+TABLE 050
+Reportable or Restrictable
+Diseases and Conditions
+Section
+in
+Rule
+Reporting Timeframe
+Restrictable for
+DC = Daycare
+FS = Food
+ Service
+HC = Health Care
+Facility
+ S = School
+Which Facilities Must
+Report in Addition to
+Health Care Providers,
+Laboratory Directors, &
+Hospital Administrators
+(Section 020)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 065 Page 21
+04. Verification of Diagnosis. Cases of diseases or conditions reported to the Department will be
+treated as such upon the statement of the attending licensed physician or other health care provider, unless there is
+reason to doubt the diagnosis. Final decision as to the diagnosis for administrative purposes will rest with the
+Division of Public Health Administrator or Health District Director. (3-17-22)
+05. Closure of Schools and Places of Public Assembly. The Director may order the closing of any
+public, parochial, or private school, or other place of public assembly when, in their opinion, such closing is
+necessary to protect public health. The school or other place of public assembly must not reopen until permitted by
+the health official. (3-17-22)
+06. Transportation of Patients With Communicable Disease. No person with a reportable disease in
+a communicable form, who is under orders of isolation, nor any contact who is restricted under an order of
+quarantine, may travel or be transported from one place to another without the permission of the Division of Public
+Health Administrator or Health District Director. An exception may be made in instances where the patient is to be
+admitted directly to a hospital or treatment facility, provided adequate precautions are taken to prevent dissemination
+of the disease by the patient enroute to the hospital or treatment facility. (3-17-22)
+07. Order to Report for Examination. The Division of Public Health Administrator or Health District
+Director may issue an order to report for examination. An order to report for examination must be served by
+delivering one (1) copy to the person to be examined, one (1) copy to the prosecuting attorney of the county or city in
+which the person resides, and filing one (1) copy bearing the notation of time and place of service and the signature of
+the person serving the notice with the issuing health authority. (3-17-22)
+08. Order for Isolation. The Division of Public Health Administrator or Health District Director may
+issue and withdraw an order for isolation if they determine that it is necessary to protect the public from a significant
+risk of the spread of infectious or communicable diseases or from contamination from chemical or biological agents.
+Orders for isolation must be executed as described in Subsections 065.08.a. and 065.08.b. of this rule. (3-17-22)
+a. The order for isolation must be executed as follows: (3-17-22)
+i. One (1) copy to the individual being isolated; (3-17-22)
+ii. One (1) copy to the attending licensed physician; (3-17-22)
+iii. One (1) copy to the prosecuting attorney of the county or city in which the person resides; and
+(3-17-22)
+iv. One (1) copy to be filed in the office of the issuing officer along with an affidavit of service signed
+by the person who served the order. (3-17-22)
+b. The issuing officer will make an assessment and identify the least restrictive means of isolation that
+effectively protects unexposed and susceptible individuals from the public health threat. Orders of isolation require
+the individual to isolate himself at a certain place or places, and may require specific precautions to be taken when
+outside a designated place of isolation as the issuing officer deems appropriate and necessary. If the place of isolation
+is other than the individual’s place of residence, a copy of the order must be provided to the person in charge of that
+place. (3-17-22)
+c. The Division of Public Health Administrator or Health District Director will withdraw an order for
+isolation once it is determined there is no longer a significant threat to the public’s health posed by the individual
+under order for isolation. (3-17-22)
+09. Order for Quarantine. The Division of Public Health Administrator or Health District Director is
+empowered whenever a case of any communicable disease occurs in any household or other place within their
+jurisdiction and in their opinion it is necessary that persons residing within must be kept from contact with the public,
+to declare the house, building, apartment, or room a place of quarantine and to require that no persons will leave or
+enter during the period of quarantine except with specific permission of the issuing officer. Orders for quarantine
+must be executed as described in Subsections 065.09.a. and 065.09.b. of this rule. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 068 Page 22
+a. The order for quarantine must be executed as follows: (3-17-22)
+i. One (1) copy to any individual being quarantined; (3-17-22)
+ii. One (1) copy to the attending licensed physician; (3-17-22)
+iii. One (1) copy to the prosecuting attorney of the county or city in which the quarantine occurs;
+(3-17-22)
+iv. One (1) copy to be filed in the office of the issuing officer along with an affidavit of service signed
+by the person who served the order; and (3-17-22)
+v. One (1) copy to the person in charge or owner of the place of quarantine. (3-17-22)
+b. The issuing officer will make an assessment and identify the least restrictive timeframe of
+quarantine that effectively protects unexposed and susceptible individuals to the infection of public health threat.
+(3-17-22)
+c. The Division of Public Health Administrator or Health District Director will withdraw an order for
+quarantine when they determine there is no longer a significant threat to the public’s health posed by the individual or
+premises under the order for quarantine. (3-17-22)
+10. Sexually Transmitted Infection Contacts. Any person infected with a sexually transmitted
+infection (venereal disease) as defined in Section 39-601, Idaho Code, is required to provide the name, address, and
+telephone number(s) of all persons from whom the disease may have been acquired and to whom the disease may
+have been transmitted, when such information is requested by the Department or Health District. (3-17-22)
+066. -- 067. (RESERVED)
+068. PREVENTING SPREAD OF HEALTH HAZARDS FROM DEAD HUMAN BODIES.
+01. Embalming. (3-17-22)
+a. The Division of Public Health Administrator or Health District Director may order a dead human
+body to be embalmed or prohibit embalming to prevent the spread of infectious or communicable diseases or
+exposure to hazardous substances. (3-17-22)
+b. The dead human body of a person suspected of or confirmed as having a viral hemorrhagic fever at
+the time of death must not be embalmed, but wrapped in sealed leak-proof material and cremated or buried.
+(3-17-22)
+02. Burial. The Division of Public Health Administrator or Health District Director may order a dead
+human body to be buried or cremated, or prohibit burial or cremation, and may specify a time frame for final
+disposition to prevent the spread of infectious or communicable diseases or exposure to hazardous substances. As
+required in Section 39-268, Idaho Code, all orders of cremation will be approved by the coroner and the coroner will
+be notified of prohibitions of cremation ordered by the Administrator or Director. (3-17-22)
+03. Notification of Health Hazard. Any person authorized to release a dead human body of a person
+suspected of or confirmed as having a prior disease, a viral hemorrhagic fever, other infectious health hazard, or
+contaminated with a hazardous substance, must notify the person taking possession of the body and indicate
+necessary precautions on a written notice to accompany the body. (3-17-22)
+069. (RESERVED)
+070. SPECIAL DISEASE INVESTIGATIONS.
+The Department may conduct special investigations of diseases or conditions to identify causes and means of
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 080 Page 23
+prevention. All records of interviews, reports, studies, and statements obtained by or furnished to the Department or
+other authorized agency are confidential for the identity of all persons involved. Release of information to the
+Department as required or permitted by these rules does not subject any party furnishing such information to an
+action for damages as provided under IDAPA 16.05.01, “Use and Disclosure of Department Records.” (3-17-22)
+071. -- 079. (RESERVED)
+080. DAYCARE FACILITY - REPORTING AND CONTROL MEASURES.
+01. Readily Transmissible Diseases. Daycare reportable and restrictable diseases are those diseases
+that are readily transmissible among children and staff in daycare facilities as listed under Section 050 of these rules.
+(3-17-22)
+02. Restrictable Disease - Work. A person who is diagnosed to have a daycare restrictable disease
+must not work in any occupation in which there is direct contact with children in a daycare facility, as long as the
+disease is in a communicable form. (3-17-22)
+03. Restrictable Disease - Attendance. A child who is diagnosed to have a daycare restrictable
+disease must not attend a daycare facility as long as the disease is in a communicable form. This restriction may be
+removed by the written certification of a licensed physician, public health nurse or school nurse that the person’s
+disease is no longer communicable. (3-17-22)
+04. Prevention of the Transmission of Disease. When satisfactory measures have been taken to
+prevent the transmission of disease, the affected child or employee may continue to attend or to work in a daycare
+facility if approval is obtained from the Department or Health District. (3-17-22)
+081. -- 084. (RESERVED)
+085. FOOD SERVICE FACILITY - REPORTING AND CONTROL MEASURES.
+01. Food or Beverage Transmitted Disease in a Communicable Form. Under Section 050 of these
+rules, a person who is determined to have one (1) or more of the diseases or conditions listed as restrictable for food
+establishments must not work as a food employee as long as the disease is in a communicable form. (3-17-22)
+02. Food Employee Health Examination. The Division of Public Health Administrator may require a
+food employee to submit to an examination to determine the presence of a disease that can be transmitted by means of
+food when there is reasonable cause to believe the food employee is afflicted with a disease listed in Section 050 of
+these rules as restrictable for food establishments and that disease is in a communicable form. (3-17-22)
+03. Notification of Disease in a Communicable Form. If the person in charge of an eating or drinking
+establishment has reason to suspect that any employee has a disease listed in Section 050 of these rules as restrictable
+for food establishments, and that disease is in a communicable form, the person in charge must immediately notify
+the Department or Health District and obtain guidance on proper actions needed to protect the public. (3-17-22)
+086. -- 089. (RESERVED)
+090. SCHOOL - REPORTING AND CONTROL MEASURES.
+01. Restrictable Diseases. School reportable and restrictable diseases are those diseases that are
+readily transmissible among students and staff in schools as listed under Section 050 of these rules. (3-17-22)
+02. Restrictions - Work. Any person who is diagnosed to have a school restrictable disease must not
+work in any occupation that involves direct contact with students in a private, parochial, charter, or public school as
+long as the disease is in a communicable form. (3-17-22)
+03. Restrictions - Attendance. Any person who is diagnosed with or reasonably suspected to have a
+school restrictable disease must not attend a private, parochial, charter, or public school as long as the disease is in a
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 100 Page 24
+communicable form. (3-17-22)
+04. Determination Disease Is No Longer Communicable. A licensed physician, public health nurse,
+school nurse or other person designated by the Department or Health District may determine when a person with a
+school restrictable disease is no longer communicable. (3-17-22)
+05. School Closure. A school administrator must report the closure of any public, parochial, charter, or
+private school within one (1) working day when, in their opinion, such closing is related to a communicable disease.
+(3-17-22)
+091. -- 099. (RESERVED)
+REPORTABLE DISEASES AND CONTROL MEASURES
+(Sections 100-949)
+100. ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS).
+01. Reporting Requirements. Each case of acquired immune deficiency syndrome (AIDS) that meets
+the current case definition established by the Centers for Disease Control and Prevention must be reported to the
+Department or Health District within three (3) working days of identification. Positive laboratory tests for HIV
+Antibody, HIV Antigen (protein or nucleic acid), HIV culture or other tests that indicate prior or existing HIV
+infection or CD-4 lymphocyte counts of less than two hundred (200) per cubic millimeter (mm3) of blood or less than
+or equal to fourteen percent (14%) must be reported. (3-17-22)
+02. Investigation. Each reported case of AIDS must be investigated to obtain specific clinical
+information, to identify possible sources, risk factors, and contacts. Other manifestations of HIV infection as defined
+by the Centers for Disease Control and Prevention may be investigated. (3-17-22)
+101. -- 109. (RESERVED)
+110. AMEBIASIS AND FREE-LIVING AMEBAE.
+01. Reporting Requirements. Each case of amebiasis or infection with free-living amebae
+(Ancanthamoeba spp., Balamuthia mandrillaris, or Naegleria fowleri) must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of infection with free-living amebae must be investigated to
+determine the source of infection. Each reported case of amebiasis must be investigated to determine whether the
+person with amebiasis is employed as a food employee, provides personal care at a health care or daycare facility, or
+is a child attending a daycare facility. (3-17-22)
+03. Restrictions - Daycare Facility. A person excreting Entamoeba histolytica must not attend a
+daycare facility while fecally incontinent and must not work in any occupation in which they provide personal care to
+children in a daycare facility, unless an exemption is made by the Department or Health District. (3-17-22)
+a. This restriction may be withdrawn if an effective therapeutic regimen is completed; or (3-17-22)
+b. At least two (2) successive approved fecal specimens collected at least twenty-four (24) hours apart
+fail to show Entamoeba histolytica upon testing by a licensed laboratory. (3-17-22)
+04. Restrictions - Food Service Facility. A symptomatic person excreting Entamoeba histolytica is
+restricted from working as a food employee. (3-17-22)
+a. This restriction may be withdrawn if an effective therapeutic regimen is completed; or (3-17-22)
+b. At least two (2) successive approved fecal specimens collected at least twenty-four (24) hours apart
+fail to show Entamoeba histolytica upon testing by a licensed laboratory. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 120 Page 25
+05. Restrictions - Health Care Facility. A person excreting Entamoeba histolytica must not work in
+any occupation in which they provide personal care to persons confined to a health care facility, unless an exemption
+is made by the Department or Health District. (3-17-22)
+a. This restriction may be withdrawn if an effective therapeutic regimen is completed; or (3-17-22)
+b. At least two (2) successive approved fecal specimens collected at least twenty-four (24) hours apart
+fail to show Entamoeba histolytica upon testing by a licensed laboratory. (3-17-22)
+06. Restrictions - Household Contacts. A member of the household in which there is a case of
+amebiasis may not work in any occupations in Subsections 110.03 through 110.05 of this rule, unless approved by the
+Department or Health District. The household member must be asymptomatic and have at least one (1) approved
+fecal specimen found to be negative for ova and parasites on examination by a licensed laboratory prior to being
+approved for work. (3-17-22)
+111. -- 119. (RESERVED)
+120. ANTHRAX.
+01. Reporting Requirements. Each case or suspected case of anthrax in humans must be reported to
+the Department or Health District immediately, at the time of identification, day or night. (3-17-22)
+02. Investigation. Each reported case of anthrax must be investigated to confirm the diagnosis,
+identify clusters or outbreaks of the infection, and identify the source of infection. (3-17-22)
+03. Handling of Report. The Department and Health District will exchange reported information
+within one (1) working day of any reported case of anthrax. The Department will notify the Idaho Department of
+Agriculture of any identified source or suspected source of anthrax. (3-17-22)
+121. -- 124. (RESERVED)
+125. ARBOVIRAL DISEASES.
+01. Reporting Requirements. Each case of suspected or confirmed arboviral disease must be reported
+to the Department or Health District within three (3) working days of identification. Arboviral diseases include, but
+are not limited to, those caused by the following viruses: California encephalitis, chikungunya, Colorado tick fever,
+Crimean-Congo hemorrhagic fever, dengue (all subtypes), eastern equine encephalitis, Heartland, Jamestown
+Canyon, Japanese encephalitis, Keystone, La Crosse, Mayaro, O'nyong-nyong, Powassan, Rift Valley fever, Ross
+River, St. Louis encephalitis, snowshoe hare, tick-borne encephalitis, Toscana, trivittatus, Venezuelan equine
+encephalitis, West Nile, western equine encephalitis, yellow fever, and Zika. (3-17-22)
+02. Investigation. Each reported case of arboviral disease must be investigated to confirm the
+diagnosis, identify the source of infection, and determine if actions need to be taken to prevent additional cases.
+(3-17-22)
+126. -- 129. (RESERVED)
+130. BIOTINIDASE DEFICIENCY.
+Each case or suspected case of biotinidase deficiency must be reported to the Department or Health District within
+one (1) working day of identification. (3-17-22)
+131. -- 139. (RESERVED)
+140. BOTULISM.
+01. Reporting Requirements. Each case or suspected case of botulism must be reported to the
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 150 Page 26
+Department or Health District immediately, at the time of identification, day or night. (3-17-22)
+02. Investigation. Each reported case of botulism must be investigated to confirm the diagnosis,
+determine if other persons have been exposed to botulinum toxins, and identify the source of the disease. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case of botulism. (3-17-22)
+141. -- 149. (RESERVED)
+150. BRUCELLOSIS.
+01. Reporting Requirements. Each case of brucellosis must be reported to the Department or Health
+District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of brucellosis must be investigated to confirm the diagnosis and
+identify the source of the disease. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day of any reported case of brucellosis. The Department will notify the Idaho Department of
+Agriculture of any identified source or suspected source of the disease. (3-17-22)
+151. -- 159. (RESERVED)
+160. CAMPYLOBACTERIOSIS.
+01. Reporting Requirements. Each case of campylobacteriosis must be reported to Department or
+Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of campylobacteriosis must be investigated to confirm the
+diagnosis, identify clusters or outbreaks of the infection and identify the source of the disease. (3-17-22)
+03. Restrictions - Daycare Facility. A person excreting Campylobacter must not provide personal
+care in a daycare and an fecally incontinent person excreting Campylobacter must not attend a daycare facility unless
+an exemption is obtained from the Department or Health District. Before returning to work or daycare, the person
+must provide at least two (2) successive approved fecal specimens, collected at least twenty-four (24) hours apart,
+that fail to show Campylobacter upon testing by a licensed laboratory. (3-17-22)
+04. Restrictions - Food Service Facility. A symptomatic person excreting Campylobacter is restricted
+from working as a food employee. (3-17-22)
+05. Restrictions - Health Care Facility. A person excreting Campylobacter must not provide personal
+care to persons in a health care facility unless an exemption is obtained from the Department or Health District.
+Before returning to work, the person must provide at least two (2) successive approved fecal specimens, collected at
+least twenty-four (24) hours apart, that fail to show Campylobacter upon testing by a licensed laboratory. (3-17-22)
+161. -- 169. (RESERVED)
+170. CANCER.
+01. Reporting Requirements. Cancer is to be reported within one hundred and eighty (180) days of its
+diagnosis or recurrence to the Cancer Data Registry of Idaho (CDRI). (3-17-22)
+02. Handling of Report. All data reported to the CDRI is available for use in aggregate form for
+epidemiologic analysis of the incidence, prevalence, survival, and risk factors associated with Idaho's cancer
+experience. Disclosure of confidential information for research projects must comply with the CDRI’s confidentiality
+policies as well as IDAPA 16.05.01, “Use and Disclosure of Department Records.” (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 090 Page 27
+03. Cancers Designated as Reportable. Cancers that are designated reportable to the CDRI include
+the following as described in Section 57-1703, Idaho Code. (3-17-22)
+a. Each in-situ or malignant neoplasm diagnosed by histology, radiology, laboratory testing, clinical
+observation, autopsy, or suggested by cytology is reportable, excluding basal cell and squamous cell carcinoma of the
+skin unless occurring on a mucous membrane and excluding in-situ neoplasms of the cervix. (3-17-22)
+b. Benign neoplasms are reportable if occurring in the central nervous system including the brain,
+meninges, pineal gland, or pituitary gland. (3-17-22)
+c. The use of the words “apparently,” “appears to,” “comparable with,” “compatible with,”
+“consistent with,” “favor,” “malignant appearing,” “most likely,” “presumed,” “probable,” “suspected,” “suspicious,”
+or “typical” is sufficient to make a case reportable. (3-17-22)
+d. The use of the words “questionable,” “possible,” “suggests,” “equivocal,” “approaching,” “rule
+out,” “potentially malignant,” or “worrisome,” is not sufficient to make a case reportable. (3-17-22)
+04. Report Content. Each reported case must include the patient's name, demographic information,
+date of diagnosis, primary site, metastatic sites, histology, stage of disease, initial treatments, subsequent treatment,
+and survival time. Reporting of cases must adhere to cancer reporting standards as provided in “Standards for Cancer
+Registries, Vol. II.” as incorporated by reference in Section 004 of these rules. (3-17-22)
+05. Reported By Whom. Every private, federal, or military hospital, out-patient surgery center,
+radiation treatment center, pathology laboratory, or physician providing a diagnosis or treatment related to a
+reportable cancer is responsible for reporting or furnishing cancer-related data, including annual follow-up, to CDRI.
+(3-17-22)
+171. -- 179. (RESERVED)
+180. CHANCROID.
+01. Reporting Requirements. Each case of chancroid must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation and Notification of Contacts. Each reported case of chancroid must be investigated
+to determine the source and extent of contact follow-up that is required. Each person diagnosed with chancroid is
+required to inform all sexual contacts that they have been exposed to a sexually transmitted infection, or to provide
+specific information to health officials in order to locate these contacts. The contacts must be notified of the disease in
+order to be examined and treated according to Section 39-605, Idaho Code. (3-17-22)
+181. -- 189. (RESERVED)
+190. CHLAMYDIA TRACHOMATIS.
+01. Reporting Requirements. Each case of Chlamydia trachomatis infection must be reported to the
+Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of Chlamydia trachomatis pelvic inflammatory disease may be
+investigated to determine the extent of contact follow-up that is required. (3-17-22)
+03. Prophylaxis of Newborns. Prophylaxis against Chlamydia trachomatis ophthalmia neonatorum is
+required in IDAPA 16.02.12, “Newborn Screening.” (3-17-22)
+04. Restrictions - Health Care Facility. A person with Chlamydia trachomatis ophthalmia
+neonatorum in a health care facility must be managed under the “Guideline for Isolation Precautions in Hospitals” as
+incorporated by reference in Section 004 of these rules. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 200 Page 28
+191. -- 199. (RESERVED)
+200. CHOLERA.
+01. Reporting Requirements. Each case or suspected case of cholera must be reported to the
+Department or Health District within one (1) working day. (3-17-22)
+02. Investigation. Each reported case of cholera must be investigated to confirm the diagnosis, identify
+clusters or outbreaks of the infection, and identify contacts, carriers, and the source of the infection. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case of cholera. (3-17-22)
+04. Restrictions - Daycare Facility. A person excreting Vibrio cholerae must not attend a daycare
+facility while fecally incontinent and must not work in any occupation that provides personal care to children in a
+daycare facility while the disease is in a communicable form, unless an exemption is obtained from the Department or
+Health District. (3-17-22)
+05. Restrictions - Food Service Facility. A symptomatic person excreting Vibrio cholerae must be
+managed under IDAPA 16.02.19, “Idaho Food Code.” (3-17-22)
+06. Restrictions - Health Care Facility. A person excreting Vibrio cholerae must not work in any
+occupation that provides personal care to persons confined in a health care or residential facility while in a
+communicable form, unless an exemption is obtained from the Department or Health District. A person in a health
+care facility who has cholera must be managed under the “Guideline for Isolation Precautions in Hospitals,” as
+incorporated in Section 004 of these rules. (3-17-22)
+07. Restrictions - Household Contacts. A member of the household in which there is a case of cholera
+may not work in any occupations listed in Subsections 200.04 through 200.06 of this rule, unless approved by the
+Department or Health District. The household member must be asymptomatic and provide at least one (1) approved
+fecal specimen found to be negative on a culture by a licensed laboratory prior to being approved for work. (3-17-22)
+201. -- 209. (RESERVED)
+210. CONGENITAL HYPOTHYROIDISM.
+Each case or suspected case of congenital hypothyroidism must be reported to the Department or Health District
+within one (1) working day of identification. (3-17-22)
+211. -- 219. (RESERVED)
+220. CRYPTOSPORIDIOSIS.
+01. Reporting Requirements. Each case of cryptosporidiosis must be reported to the Department or
+Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case must be investigated to identify clusters or outbreaks of the
+infection, and identify the source of the infection. (3-17-22)
+03. Restrictions - Daycare Facility. A fecally incontinent person excreting Cryptosporidium must not
+attend a daycare facility. A person excreting Cryptosporidium must not provide personal care in a daycare facility,
+unless an exemption is obtained from the Department or Health District. This restriction will be withdrawn when:
+(3-17-22)
+a. At least two (2) successive fecal specimens collected at least twenty-four (24) hours apart fail to
+show Cryptosporidium upon testing by a licensed laboratory; or (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 230 Page 29
+b. Diarrhea has ceased for twenty-four (24) hours. (3-17-22)
+04. Restrictions - Food Service Facility. A symptomatic person excreting Cryptosporidium is
+restricted from working as a food employee. (3-17-22)
+05. Restrictions - Health Care Facility. A person excreting Cryptosporidium must not provide
+personal care in a custodial institution, or health care facility while fecally incontinent, unless an exemption is
+obtained from the Department or Health District. This restriction will be withdrawn when: (3-17-22)
+a. At least two (2) successive fecal specimens collected at least twenty-four (24) hours apart fail to
+show Cryptosporidium upon testing by a licensed laboratory; or (3-17-22)
+b. Diarrhea has ceased for twenty-four (24) hours. (3-17-22)
+221. -- 229. (RESERVED)
+230. DIPHTHERIA.
+01. Reporting Requirements. Each case or suspected case of diphtheria must be reported to the
+Department or Health District immediately, at the time of identification, day or night. (3-17-22)
+02. Investigation and Response. Each reported case of diphtheria must be investigated to determine if
+the illness is caused by a toxigenic strain of Corynebacterium diphtheriae, identify clusters or outbreaks of the
+infection, and identify contacts, carriers, and the source of the infection. Contacts of a person with toxigenic
+diphtheria will be offered immunization against diphtheria. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case or suspected case of diphtheria. (3-17-22)
+04. Restrictions - Daycare Facility. A person diagnosed with diphtheria must be managed under
+Section 080 of these rules. (3-17-22)
+05. Restrictions - Health Care Facility. (3-17-22)
+a. A person with oropharyngeal toxigenic diphtheria in a health care facility must be managed under
+the “Guideline for Isolation Precautions in Hospitals,” as incorporated in Section 004 of these rules. The Department
+or Health District may withdraw this isolation requirement after two (2) cultures of the nose and two (2) cultures from
+the throat, taken at least twenty-four (24) hours apart and at least twenty-four (24) hours after the completion of
+antibiotic therapy, fail to show toxigenic Corynebacterium diphtheriae upon testing by a licensed laboratory.
+(3-17-22)
+b. A person with cutaneous toxigenic diphtheria must be placed under contact precautions. The
+Department or Health District may withdraw these precautions after two (2) cultures from the wound fail to show
+toxigenic Corynebacterium diphtheriae upon testing by a licensed laboratory. (3-17-22)
+06. Restrictions - Contacts. Contacts of a person with toxigenic diphtheria are restricted from working
+as food employees, working in health care facilities, or from attending or working in daycare facilities or schools until
+they are determined not to be carriers by means of a nasopharyngeal culture or culture of other site suspected to be
+infected. These restrictions may be withdrawn by the Department or Health District. (3-17-22)
+231. -- 234. (RESERVED)
+235. ECHINOCOCCOSIS.
+01. Reporting Requirements. Each case of echinococcosis must be reported to the Department or
+Health District within three (3) working days of identification. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 240 Page 30
+02. Investigation. Each reported case of echinococcosis must be investigated to confirm the diagnosis
+and to identify possible sources of the infection. (3-17-22)
+236. -- 239. (RESERVED)
+240. ENCEPHALITIS, VIRAL OR ASEPTIC.
+01. Reporting Requirements. Each case of viral or aseptic encephalitis, including
+meningoencephalitis, must be reported to the Department or Health District within three (3) working days of
+identification. (3-17-22)
+02. Investigation. Each reported case of viral or aseptic encephalitis meningoencephalitis must be
+investigated to confirm the diagnosis, identify clusters or outbreaks of the infection, and identify the agent or source
+of the infection. (3-17-22)
+241. -- 249. (RESERVED)
+250. ESCHERICHIA COLI O157:H7 AND OTHER SHIGA-TOXIN PRODUCING E. COLI (STEC).
+01. Reporting Requirements. Each case or suspected case of Escherichia coli O157:H7 or other
+Shiga-toxin producing E. coli (STEC) must be reported to the Department or Health District within one (1) working
+day of identification. (3-17-22)
+02. Investigation. Each reported case must be investigated to determine if the person is employed as a
+food employee, provides personal care at a health care or daycare facility, or is a child attending a daycare facility.
+The investigation identifies clusters or outbreaks of the infection, and the most likely source of the infection.
+(3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case of E. coli O157:H7 or other Shiga-toxin producing E. coli (STEC).
+(3-17-22)
+04. Restrictions - Daycare Facility. A person who is excreting E. coli O157:H7 or other STEC must
+not attend daycare facilities while fecally incontinent or provide personal care to children in a daycare facility while
+the disease is present in a communicable form without the approval of the Department or Health District. Before
+returning to work or attendance at a daycare, the person must provide two (2) successive approved fecal specimens
+collected at least twenty-four (24) hours apart, that fail to show E. coli O157:H7 or other STEC. (3-17-22)
+05. Restrictions - Food Service Facility. A person diagnosed with E. coli O157:H7 or other STEC
+must be managed under IDAPA 16.02.19, “Idaho Food Code.” (3-17-22)
+06. Restrictions - Health Care Facility. A person who is excreting E. coli O157:H7 or other STEC
+must not provide personal care to persons in a health care facility while the disease is present in a communicable form
+without the approval of the Department or Health District. Before returning to work, the person must provide two (2)
+successive approved fecal specimens collected at least twenty-four (24) hours apart, that fail to show E. coli O157:H7
+or other STEC. (3-17-22)
+251. -- 259. (RESERVED)
+260. EXTRAORDINARY OCCURRENCE OF ILLNESS, INCLUDING CLUSTERS.
+01. Reporting Requirements. Cases, suspected cases, and clusters of extraordinary or unusual illness
+must be reported to the Department or Health District within one (1) working day by the diagnosing person.
+(3-17-22)
+a. Unusual outbreaks include illnesses that may be a significant risk to the public, may involve a large
+number of persons, or are a newly described entity. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 270 Page 31
+b. Even in the absence of a defined etiologic agent or toxic substance, clusters of unexplained acute
+illness and early-stage disease symptoms must be reported to the Department or Health District within one (1)
+working day and investigated. (3-17-22)
+02. Investigation. Each reported case of extraordinary occurrence of illness, including clusters, must
+be investigated to confirm the diagnosis, determine the extent of the cluster or outbreak, identify the source of
+infection or exposure, and determine whether there is a risk to the public warranting intervention by a public health
+agency. Evaluation and control measures will be undertaken in consultation with the Department and other
+appropriate agencies. The Department may elect to investigate by conducting special studies as outlined in Section
+070 of these rules. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case or suspected case. (3-17-22)
+261. -- 269. (RESERVED)
+270. FOOD POISONING, FOODBORNE ILLNESS, AND WATERBORNE ILLNESS.
+01. Reporting Requirements. Each case, suspected case, or outbreak of food poisoning, foodborne
+illness, or waterborne illness must be reported to the Department or Health District within one (1) working day of
+identification. (3-17-22)
+02. Investigation. Each reported case or outbreak of food poisoning, foodborne illness, or waterborne
+illness must be investigated to confirm the diagnosis, determine the extent of transmission, identify the source, and
+determine if actions need to be taken to prevent additional cases. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day of any reported case or suspected case. (3-17-22)
+271. -- 279. (RESERVED)
+280. GALACTOSEMIA.
+Each case or suspected case of galactosemia must be reported to the Department or Health District within one (1)
+working day after diagnosis. (3-17-22)
+281. -- 289. (RESERVED)
+290. GIARDIASIS.
+01. Reporting Requirements. Each case of giardiasis must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of giardiasis must be investigated to determine if the person is
+employed as a food employee, provides personal care at a health care or daycare facility, or is a child attending a
+daycare facility. The investigation identifies clusters or outbreaks of the infection, and the most likely source of the
+infection. (3-17-22)
+03. Restrictions - Daycare Facility. A person with diarrhea who is excreting Giardia lamblia must not
+attend daycare while fecally incontinent or provide personal care to children in a daycare facility while the disease is
+present in a communicable form or until therapy is completed. An asymptomatic person may provide these services
+or attend daycare with specific approval of the Department or Health District. (3-17-22)
+04. Restrictions - Food Service Facility. A symptomatic person who is excreting Giardia lamblia
+must be managed under IDAPA 16.02.19, “Idaho Food Code.” (3-17-22)
+05. Restrictions - Health Care Facility. A person with diarrhea who is excreting Giardia lamblia
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 300 Page 32
+must not provide personal care to persons in a health care facility while the disease is present in a communicable form
+or until therapy is completed. An asymptomatic person may provide these services with specific approval of the
+Department or Health District. (3-17-22)
+291. -- 299. (RESERVED)
+300. HAEMOPHILUS INFLUENZAE INVASIVE DISEASE.
+01. Reporting Requirements. Each case or suspected case of Haemophilus influenzae invasive
+disease, including, but not limited to, meningitis, septicemia, bacteremia, epiglottitis, pneumonia, osteomyelitis and
+cellulitis, must be reported to the Department or Health District within one (1) working day of identification.
+(3-17-22)
+02. Investigation. Each reported case of Haemophilus influenzae invasive disease must be investigated
+to confirm the diagnosis, identify clusters or outbreaks of the infection, identify contacts, and determine the need for
+antimicrobial prophylaxis of close contacts. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case of Haemophilus influenzae invasive disease. (3-17-22)
+04. Restrictions - Daycare Facility. A person who is diagnosed with invasive disease caused by
+Haemophilus influenzae must not work in an occupation providing personal care to children, or attend a daycare
+facility as long as the disease is in a communicable form. (3-17-22)
+05. Restrictions - School. A person who is diagnosed with invasive disease caused by Haemophilus
+influenzae must not work in any occupation where there is direct contact with students or attend a private, parochial,
+charter, or public school as long as the disease is in a communicable form. (3-17-22)
+301. -- 309. (RESERVED)
+310. HANTAVIRUS PULMONARY SYNDROME.
+01. Reporting Requirements. Each case or suspected case of hantavirus pulmonary syndrome must be
+reported to the Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of hantavirus pulmonary syndrome must be investigated to
+confirm the diagnosis, determine environmental risk factors leading to the infection, and determine any other at-risk
+individuals. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day by telephone on any reported case or suspected case of hantavirus pulmonary syndrome.
+(3-17-22)
+311. -- 319. (RESERVED)
+320. HEMOLYTIC-UREMIC SYNDROME (HUS).
+01. Reporting Requirements. Each case of hemolytic-uremic syndrome (HUS) or thrombotic
+thrombocytopenic purpura-HUS (TTP-HUS) must be reported to the Department or Health District within one (1)
+working day. (3-17-22)
+02. Investigation. Each case of HUS or TTP-HUS must be investigated to confirm the diagnosis,
+determine the etiologic agent including E. coli O157:H7, non-O157 Shiga-toxin producing E. coli, or other enteric
+pathogens, and determine the source of infection. (3-17-22)
+321. -- 329. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 330 Page 33
+330. HEPATITIS A.
+01. Reporting Requirements. Each case or suspected case of hepatitis A must be reported to the
+Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of hepatitis A must be investigated to confirm the diagnosis,
+identify contacts, determine the need for immune serum globulin (gamma globulin) or vaccine, and identify possible
+sources of the infection. (3-17-22)
+03. Testing Without an Informed Consent. A physician may order blood tests for hepatitis A when
+an informed consent is not possible and there has been or is likely to be significant exposure to a person’s blood or
+body fluids by a person providing emergency or medical services. (3-17-22)
+04. Restrictions - Daycare Facility. A child who has hepatitis A must not attend a daycare facility
+until the disease is no longer communicable as determined by a licensed physician, or unless an exemption is made by
+the Department or Health District. (3-17-22)
+a. A person with hepatitis A must not work in any occupation in which personal care is provided to
+children in a daycare facility while the disease is in a communicable form. (3-17-22)
+b. The Department or Health District may withdraw this restriction when the illness is considered to
+no longer be in a communicable form. (3-17-22)
+05. Exclusion - Food Service Facility. (3-17-22)
+a. A food employee with hepatitis A must be managed under IDAPA 16.02.19, “Idaho Food Code.”
+(3-17-22)
+b. A specific test for recent hepatitis A infection (IgM antiHAV) must be performed by a licensed
+laboratory on all food employees suspected of having hepatitis A. (3-17-22)
+06. Restrictions - Health Care Facility. A person with hepatitis A in a health care facility must be
+managed under the “Guideline for Isolation Precautions in Hospitals,” as incorporated in Section 004 of these rules.
+(3-17-22)
+a. A person with hepatitis A must not work in any occupation in which personal care is provided to
+persons who are in a health care facility or living in a residential care facility while the disease is in a communicable
+form. (3-17-22)
+b. The Department or Health District may withdraw this restriction when the illness is considered to
+no longer be in a communicable form. (3-17-22)
+07. Restrictions - Household Contacts. Any unvaccinated household member where there is a case of
+hepatitis A must not work in any of the occupations listed in Subsections 330.04 through 330.06 of this rule, unless an
+exemption is obtained from the Department or Health District. (3-17-22)
+331. -- 339. (RESERVED)
+340. HEPATITIS B.
+01. Reporting Requirements. Each case or suspected case of hepatitis B must be reported to the
+Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of hepatitis B must be investigated to confirm the diagnosis,
+identify contacts and carriers, determine the need for prophylaxis with immune globulins, determine the need for
+hepatitis B vaccine, determine the exposure of any pregnant women, and identify possible sources of the infection.
+(3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 350 Page 34
+03. Testing Without an Informed Consent. A physician may order blood tests for hepatitis B when
+an informed consent is not possible and there has been or is likely to be significant exposure to a person’s blood or
+body fluids by a person providing emergency or medical services. (3-17-22)
+04. Carrier Status. The carrier status of a person diagnosed with hepatitis B will be determined six (6)
+months after the initial diagnosis is established. (3-17-22)
+a. The carrier status will be determined by the presence of hepatitis B surface antigen (HBsAG) in
+blood obtained at least six (6) months after the initial diagnosis of hepatitis B. (3-17-22)
+b. The test for hepatitis B surface antigen (HBsAg) must be performed by a licensed laboratory.
+(3-17-22)
+c. A person who is a carrier of hepatitis B must be reported to the Department or Health District by
+the physician at the time of determination for inclusion in the hepatitis B carrier registry. (3-17-22)
+341. -- 349. (RESERVED)
+350. HEPATITIS C.
+01. Reporting Requirements. Each case of hepatitis C must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of hepatitis C must be investigated to confirm the diagnosis and
+identify possible sources of the infection. Hepatitis C may be confirmed by presence of hepatitis C antibody or
+antigen. (3-17-22)
+03. Testing Without an Informed Consent. A physician may order blood tests for hepatitis C when
+an informed consent is not possible and there has been or is likely to be significant exposure to a person’s blood or
+body fluids by a person providing emergency or medical services. (3-17-22)
+351. -- 359. (RESERVED)
+360. HUMAN IMMUNODEFICIENCY VIRUS (HIV).
+01. Reporting Requirements. Each case of HIV infection, including positive HIV laboratory tests for
+HIV antibody, HIV antigen (protein or nucleic acid), human immunodeficiency virus isolations, or other tests of
+infectiousness that indicate HIV infection, must be reported to the Department or Health District within three (3)
+working days of identification. (3-17-22)
+02. Investigation. Each reported case of HIV infection must be investigated to obtain specific clinical
+information, identify possible sources, risk factors, and contacts. Other manifestations of HIV infection as defined by
+the Centers for Disease Control and Prevention may be investigated. (3-17-22)
+03. Testing Without an Informed Consent. A physician may order blood tests for HIV when an
+informed consent is not possible and there has been, or is likely to be, significant exposure to a person's blood or body
+fluids by a person providing emergency or medical services. (3-17-22)
+361. -- 369. (RESERVED)
+370. HUMAN T-LYMPHOTROPIC VIRUS.
+01. Reporting Requirements. Each case of HTLV infection must be reported to the Department or
+Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of HTLV infection must be investigated to determine the source
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 380 Page 35
+of infection and evaluate risk factors. (3-17-22)
+371. -- 379. (RESERVED)
+380. LEAD POISONING.
+01. Reporting Requirements. Each case of lead poisoning must be reported to the Department or
+Health District within three (3) working days of the identification of the case when determined by symptoms or a
+blood level of: (3-17-22)
+a. Ten (10) micrograms or more per deciliter (10 ug/dL) of blood in adults eighteen (18) years and
+older; or (3-17-22)
+b. Five (5) micrograms or more per deciliter (5 ug/dL) of blood in children under eighteen (18) years
+of age. (3-17-22)
+02. Investigation. Each reported case of lead poisoning or excess lead exposure may be investigated to
+confirm blood lead levels, determine the source, and whether actions need to be taken to prevent additional cases.
+(3-17-22)
+381. -- 389. (RESERVED)
+390. LEGIONELLOSIS.
+01. Reporting Requirements. Each case of legionellosis must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of legionellosis must be investigated to confirm the diagnosis
+and identify possible sources of the infection. When two (2) or more cases occur within thirty (30) days of each other,
+an investigation must be conducted to identify a common environmental source and identify ways to prevent further
+infections. (3-17-22)
+391. -- 399. (RESERVED)
+400. LEPROSY (HANSEN’S DISEASE).
+01. Reporting Requirements. Each case of leprosy must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of leprosy must be investigated to confirm the diagnosis and to
+identify household or other close contacts. (3-17-22)
+03. Restrictions - Examination of Contacts. All household members or close contacts of a new case
+must be examined by a licensed physician for signs of leprosy. Household members and close contacts and persons in
+remission must be registered with the Department and undergo periodic medical examinations every six (6) to twelve
+(12) months for five (5) years. (3-17-22)
+401. -- 409. (RESERVED)
+410. LEPTOSPIROSIS.
+01. Reporting Requirements. Each case of leptospirosis must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of leptospirosis must be investigated to confirm the diagnosis
+and to identify possible sources of the infection. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 420 Page 36
+03. Handling of Report. Any identified or suspected source of infection reported to the Department is
+reported to the Idaho Department of Agriculture if animals are involved. (3-17-22)
+411. -- 419. (RESERVED)
+420. LISTERIOSIS.
+01. Reporting Requirements. Each case of listeriosis must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of listeriosis must be investigated to confirm the diagnosis and to
+identify possible sources of the infection and extent of the outbreak. (3-17-22)
+421. -- 429. (RESERVED)
+430. LYME DISEASE.
+01. Reporting Requirements. Each case of Lyme disease must be reported to the Department or
+Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of Lyme disease must be investigated to confirm the diagnosis
+and to identify possible sources of the infection. (3-17-22)
+03. Handling of Report. Any identified or suspected source of infection reported to the Department is
+reported to the Idaho Department of Agriculture if animals are involved. (3-17-22)
+431. -- 439. (RESERVED)
+440. MALARIA.
+01. Reporting Requirements. Each case of malaria must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of malaria must be investigated to determine the type and the
+source of the infection. If transmission may have occurred in Idaho, an entomologic investigation will be performed
+by the Department or Health District to determine the extent of mosquito activity, and to institute control measures if
+endemic transmission is determined. (3-17-22)
+03. Testing Without an Informed Consent. A physician may order blood tests for malaria when an
+informed consent is not possible and there has been, or is likely to be, significant exposure to a person’s blood or
+body fluids by a person providing emergency or medical services. (3-17-22)
+441. -- 449. (RESERVED)
+450. MAPLE SYRUP URINE DISEASE.
+Each case or suspected case of maple syrup urine disease must be reported to the Department or Health District
+within one (1) working day of identification. (3-17-22)
+451. -- 459. (RESERVED)
+460. MEASLES (RUBEOLA).
+01. Reporting Requirements. Each case or suspected case of measles must be reported to the
+Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of measles must be investigated to confirm the diagnosis,
+identify clusters or outbreaks of the infection, identify the source of the infection, and to identify susceptible contacts.
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 470 Page 37
+(3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case of measles. (3-17-22)
+04. Restrictions - Daycare Facility and School. (3-17-22)
+a. A child diagnosed with measles must not attend a daycare facility or school as long as the disease is
+in a communicable form. (3-17-22)
+b. In the event of a case of measles in a daycare or school, susceptible children must be excluded until
+adequate immunization is obtained, or the threat of further spread of the disease is contained, as provided in Sections
+33-512(7) and 39-1118, Idaho Code. (3-17-22)
+c. A person who is diagnosed as having measles must not work in any occupation in which there is
+direct contact with children, as long as the disease is in a communicable form. (3-17-22)
+05. Restrictions - Health Care Facility. A person diagnosed with measles in a health care facility
+must be managed under the “Guideline for Isolation Precautions in Hospitals,” as incorporated by reference in
+Section 004 of these rules. (3-17-22)
+461. -- 469. (RESERVED)
+470. MENINGITIS, VIRAL OR ASEPTIC.
+01. Reporting Requirements. Each case of viral or aseptic meningitis must be reported to the
+Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of viral or aseptic meningitis must be investigated to confirm the
+diagnosis, identify clusters or outbreaks of the infection, and identify the agent or source of the infection. (3-17-22)
+471. -- 474. (RESERVED)
+475. METHICILLIN-RESISTANT STAPHYLOCOCCUS AUREUS (MRSA).
+01. Reporting Requirements. Each case or suspected case of invasive methicillin-resistant
+Staphylococcus aureus (MRSA), defined as MRSA isolated from a normally sterile site, must be reported to the
+Department or Health District within three (3) working days of identification by the laboratory director. (3-17-22)
+02. Investigation. Any case of MRSA may be investigated to determine source and recommend
+measures to prevent spread. (3-17-22)
+03. Restrictions - Daycare Facility. A person who is diagnosed with MRSA infection must not work
+in an occupation providing personal care to children, or attend a daycare facility, if the infection manifests as a lesion
+containing pus such as a boil or infected wound that is open or draining; and (3-17-22)
+a. The lesion is on the hands, wrists, or exposed portions of the arms, and is not protected by an
+impermeable cover; or (3-17-22)
+b. The lesion is on another part of the body, and is not covered by a dry, durable, tight-fitting bandage.
+(3-17-22)
+04. Restrictions - Food Service Facility. A food employee diagnosed with MRSA infection must be
+managed under IDAPA 16.02.19, “Idaho Food Code.” (3-17-22)
+05. Restrictions - Health Care Facility. A person who is diagnosed with MRSA infection must not
+provide personal care to persons in a health care facility if the infection manifests as a lesion containing pus such as a
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 480 Page 38
+boil or infected wound that is open or draining; and (3-17-22)
+a. The lesion is on the hands, wrists, or exposed portions of the arms, and is not protected by an
+impermeable cover; or (3-17-22)
+b. The lesion is on another part of the body, and is not covered by a dry, durable, tight-fitting bandage.
+(3-17-22)
+06. Restrictions - School. A person who is diagnosed with MRSA infection must not work in an
+occupation where there is direct contact with students or attend a private, parochial, charter, or public school, if the
+infection manifests as a lesion containing pus such as a boil or infected wound that is open or draining; and (3-17-22)
+a. The lesion is on the hands, wrists, or exposed portions of the arms, and is not protected by an
+impermeable cover; or (3-17-22)
+b. The lesion is on another part of the body, and is not covered by a dry, durable, tight-fitting bandage.
+(3-17-22)
+476. -- 479. (RESERVED)
+480. MUMPS.
+01. Reporting Requirements. Each case of mumps must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of mumps must be investigated to confirm the diagnosis, identify
+clusters or outbreaks of the infection, identify the source of the infection, and to identify susceptible contacts.
+(3-17-22)
+03. Restrictions. A person with mumps must be restricted from daycare, school, or work for five (5)
+days after the onset of parotid swelling. (3-17-22)
+481. -- 489. (RESERVED)
+490. MYOCARDITIS, VIRAL.
+01. Reporting Requirements. Each case of viral myocarditis must be reported to the Department or
+Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of viral myocarditis must be investigated to confirm the
+diagnosis, identify clusters or outbreaks of the infection, and identify the agent or source of the infection. (3-17-22)
+491. -- 499. (RESERVED)
+500. NEISSERIA GONORRHOEAE.
+01. Reporting Requirements. Each case of Neisseria gonorrhoeae infection must be reported to the
+Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. A person diagnosed with urethral, cervical, oropharyngeal, or rectal gonorrhea is
+required to inform all sexual contacts or provide sufficient information to health officials in order to locate these
+contacts. The contacts must be advised of their exposure to a sexually transmitted infection and informed they should
+seek examination and treatment. (3-17-22)
+03. Prophylaxis of Newborns. Prophylaxis against gonococcal ophthalmia neonatorum is described in
+IDAPA 16.02.12, “Newborn Screening.” (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 510 Page 39
+04. Isolation - Health Care Facility. A person with gonococcal ophthalmia neonatorum in a health
+care facility must be managed under the “Guideline for Isolation Precautions in Hospitals,” as incorporated in Section
+004 of these rules. (3-17-22)
+501. -- 509. (RESERVED)
+510. NEISSERIA MENINGITIDIS INVASIVE DISEASE.
+01. Reporting Requirements. Each case or suspected case of Neisseria meningitidis invasive disease,
+including meningitis and septicemia, must be reported to the Department or Health District within one (1) working
+day of identification. (3-17-22)
+02. Investigation. Each reported case of Neisseria meningitidis invasive disease must be investigated
+to confirm the diagnosis, identify clusters or outbreaks of the infection, identify contacts, and determine the need for
+antimicrobial prophylaxis or immunization of close contacts. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case of Neisseria meningitidis invasive disease. (3-17-22)
+04. Restrictions - Daycare Facility. A person who is diagnosed with a disease caused by Neisseria
+meningitidis must not provide personal care to children, or attend a daycare facility, as long as the disease is present in
+a communicable form. (3-17-22)
+05. Restrictions - Health Care Facility. A person with Neisseria meningitidis in a health care facility
+or residential care facility must be placed under respiratory isolation until twenty-four (24) hours after initiation of
+effective therapy. (3-17-22)
+06. Restrictions - School. A person who is diagnosed with a disease caused by Neisseria meningitidis
+must not work in any occupation that involves direct contact with students, or attend a private, parochial, charter, or
+public school as long as the disease is present in a communicable form. (3-17-22)
+511. -- 519. (RESERVED)
+520. NOROVIRUS.
+01. Reporting Requirements. Each case or suspected case of norovirus must be reported to the
+Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of norovirus must be investigated to confirm the diagnosis,
+identify clusters or outbreaks of the infection, and identify the source of the infection. (3-17-22)
+03. Restrictions - Daycare Facility. A person excreting norovirus must not attend or provide personal
+care in a daycare while symptomatic, unless an exemption is obtained from the Department or Health District. This
+restriction will be withdrawn once asymptomatic for at least twenty-four (24) hours. (3-17-22)
+04. Exclusions - Food Service Facility. A person suspected of infection with, or diagnosed with,
+norovirus is excluded from working as a food employee while symptomatic, unless an exemption is made by the
+Department or Health District. This exclusion will be withdrawn once the person is asymptomatic for at least twentyfour (24) hours. (3-17-22)
+05. Restrictions - Health Care Facility. A person excreting norovirus must not provide personal care
+in a health care facility, unless an exemption is obtained from the Department or Health District. This restriction will
+be withdrawn once asymptomatic for at least twenty-four (24) hours. (3-17-22)
+06. Restrictions - School. A person excreting norovirus must not attend or work in a private, parochial,
+charter, or public school while symptomatic, unless an exemption is obtained from the Department or Health District.
+This restriction will be withdrawn once asymptomatic for at least twenty-four (24) hours. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 522 Page 40
+521. (RESERVED)
+522. NOVEL INFLUENZA A VIRUS.
+01. Reporting Requirements. (3-17-22)
+a. Each detection of a novel influenza A virus must be reported to the Department or Health District
+within one (1) working day of identification by the laboratory director. (3-17-22)
+b. Each probable or confirmed case of a novel influenza A infection resulting in hospitalization must
+be reported to the Department or Health District within one (1) working day of the event. (3-17-22)
+02. Investigation. Any case of a novel influenza A infection may be investigated to determine severity
+and recommend measures to prevent spread. (3-17-22)
+03. Restrictions. A person diagnosed with novel influenza A virus infection must be restricted from
+daycare, school, or work for twenty-four (24) hours after the fever is resolved. Fever must be absent without the aid
+of fever-reducing medicine. (3-17-22)
+523. -- 529. (RESERVED)
+530. PERTUSSIS.
+01. Reporting Requirements. Each case or suspected case of pertussis must be reported to the
+Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of pertussis must be investigated to confirm the diagnosis,
+identify clusters or outbreaks of the infection, identify susceptible contacts, and identify the source of the infection.
+(3-17-22)
+03. Restrictions - Daycare Facility. A person who is diagnosed with pertussis must not work in any
+occupation in which there is direct contact with children, or attend a daycare facility, as long as the disease is in a
+communicable form. (3-17-22)
+04. Restrictions - Health Care Facility. A person who is diagnosed with pertussis must not work in
+any occupation in which there is direct contact with other persons in a health care facility as long as the disease is in a
+communicable form. (3-17-22)
+05. Restrictions - School. A person diagnosed with pertussis must not attend or work in a private,
+parochial, charter, or public school as long as the disease is in a communicable form. (3-17-22)
+531. -- 539. (RESERVED)
+540. PHENYLKETONURIA.
+Each case or suspected case of phenylketonuria must be reported to the Department or Health District within one (1)
+working day of identification. (3-17-22)
+541. -- 549. (RESERVED)
+550. PLAGUE.
+01. Reporting Requirements. Each case or suspected case of plague must be reported to the
+Department or Health District immediately, at the time of identification, day or night. (3-17-22)
+02. Investigation. Each reported case of plague must be investigated to confirm the diagnosis,
+determine the source, identify clusters or outbreaks of the infection, and whether there has been person-to-person
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 560 Page 41
+transmission. (3-17-22)
+03. Handling of Report. Each case of plague reported to the Department is reported to the Idaho
+Department of Agriculture if animals are involved. (3-17-22)
+04. Restrictions - Daycare Facility. A person who is diagnosed with pneumonic plague must not work
+in any occupation in which there is direct contact with children, or attend a daycare facility, as long as the disease is in
+a communicable form. (3-17-22)
+05. Restrictions - Health Care Facility. (3-17-22)
+a. A person with or suspected of having pneumonic plague in a health care facility must be managed
+under the “Guideline for Isolation Precautions in Hospitals,” as incorporated in Section 004 of these rules. (3-17-22)
+b. A person with or suspected of having bubonic plague in health care facility must be managed under
+the “Guideline for Isolation Precautions in Hospitals,” as incorporated in Section 004 of these rules. (3-17-22)
+06. Restrictions - School. A person diagnosed with pneumonic plague must not attend or work in any
+occupation in which there is direct contact with children, in a private, parochial, charter, or public school as long as
+the disease is in a communicable form. (3-17-22)
+07. Prophylaxis of Contacts. Household members and face-to-face contacts of a person with
+pneumonic plague must be placed on chemoprophylaxis and placed under surveillance for seven (7) days. A person
+who refuses chemoprophylaxis must be maintained under droplet precautions with careful surveillance for seven (7)
+days. (3-17-22)
+551. -- 559. (RESERVED)
+560. PNEUMOCOCCAL INVASIVE DISEASE IN CHILDREN LESS THAN EIGHTEEN YEARS OF
+AGE.
+01. Reporting Requirements. Each case of pneumococcal invasive disease in children under eighteen
+(18) years of age including, but not limited to, meningitis, septicemia, and bacteremia, must be reported to the
+Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of pneumococcal invasive disease in children must be
+investigated to confirm the diagnosis and determine relevant vaccine history. (3-17-22)
+03. Restrictions - Daycare Facility. A person who is diagnosed with pneumococcal invasive disease
+must not attend daycare or work in any occupation in which there is direct contact with children in a daycare facility
+as long as the disease is in a communicable form. (3-17-22)
+04. Restrictions - School. A person diagnosed with pneumococcal invasive disease must not attend or
+work in any occupation in which there is direct contact with children in a private, parochial, charter, or public school
+as long as the disease is in a communicable form. (3-17-22)
+561. -- 569. (RESERVED)
+570. PNEUMOCYSTIS PNEUMONIA (PCP).
+01. Reporting Requirements. Each case of Pneumocystis pneumonia (PCP) must be reported to the
+Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of Pneumocystis pneumonia (PCP) must be investigated to
+confirm the diagnosis, and to determine the underlying cause of any immune deficiency that may have contributed to
+the disease. When the underlying cause is an HIV infection, it must be reported as described in Section 360 of these
+rules. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 580 Page 42
+571. -- 579. (RESERVED)
+580. POLIOMYELITIS.
+01. Reporting Requirements. Each case or suspected case of poliomyelitis infection must be reported
+to the Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of poliomyelitis infection must be investigated to confirm the
+diagnosis, to determine whether the case is polio vaccine associated or wild virus associated, identify clusters or
+outbreaks of the infection, whether there has been person-to-person transmission, and to identify susceptible contacts,
+carriers, and source of the infection. (3-17-22)
+03. Immunization of Personal Contacts. The immunization status of personal contacts is determined
+and susceptible contacts are offered immunization. (3-17-22)
+04. Restrictions - Daycare Facility. A person who is diagnosed with poliomyelitis infection must not
+work in any occupation in which there is direct contact with children, or attend a daycare facility, as long as the
+disease is in a communicable form. (3-17-22)
+05. Restrictions - School. A person diagnosed with poliomyelitis infection must not attend or work in
+any occupation in which there is direct contact with children, in a private, parochial, charter, or public school as long
+as the disease is in a communicable form. (3-17-22)
+581. -- 589. (RESERVED)
+590. PSITTACOSIS.
+01. Reporting Requirements. Each case of psittacosis must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case must be investigated to confirm the diagnosis, identify clusters
+or outbreaks of the infection, and identify possible sources of the infection. (3-17-22)
+03. Handling of Report. Any identified sources or suspected sources of infection must be reported to
+the Department which will notify the Idaho Department of Agriculture if birds or other animals are involved.
+(3-17-22)
+591. -- 599. (RESERVED)
+600. Q FEVER.
+01. Reporting Requirements. Each case or suspected case of Q fever must be reported to the
+Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of Q fever must be investigated to confirm the diagnosis,
+identify clusters or outbreaks of the infection, and identify the source of the infection. (3-17-22)
+03. Handling of Report. Any identified or suspected sources of infection must be reported to the
+Department which will notify the Idaho Department of Agriculture if animals are involved. (3-17-22)
+601. -- 609. (RESERVED)
+610. RABIES - HUMAN, ANIMAL, AND POST-EXPOSURE PROPHYLAXIS (RPEP).
+01. Reporting Requirements. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 610 Page 43
+a. Each case or suspected case of rabies in humans must be reported to the Department or Health
+District immediately, at the time of identification, day or night. (3-17-22)
+b. Each case of rabies in animals must be reported to the Department or Health District within one (1)
+working day of identification. (3-17-22)
+c. Each instance of rabies post-exposure prophylaxis (rPEP) series initiation must be reported to the
+Department or Health District within one (1) working day. (3-17-22)
+02. Investigation. (3-17-22)
+a. Each reported case or suspected case of rabies in humans must be investigated to confirm the
+diagnosis, identify the source and other persons or animals that may have been exposed to the source, and identify
+persons who may need to undergo rPEP. (3-17-22)
+b. Each suspected or confirmed case of rabies in animals will be investigated to determine if potential
+human or animal exposure has occurred and identify persons who may need to undergo rPEP. (3-17-22)
+c. Each reported rPEP series initiation must be investigated to determine if additional individuals
+require rPEP and identify the source of possible rabies exposure. (3-17-22)
+03. Handling of Report. The Health District must notify the Department within one (1) working day
+of each reported case of this disease. (3-17-22)
+04. Management of Exposure to Rabies. All human exposures to a suspected or confirmed rabid
+animal must be managed as described under the guidelines presented in the “Human Rabies Prevention -- United
+States” incorporated by reference in Subsection 004.03 of these rules and “Use of Reduced (4-Dose) Vaccine
+Schedule for Postexposure Prophylaxis to Prevent Human Rabies: Recommendations of the Advisory Committee on
+Immunization Practices” incorporated by reference in Subsection 004.07 in these rules. Animals involved with bites,
+or themselves bitten by a suspected or confirmed rabid animal, must be managed under the guidelines in the
+“Compendium of Animal Rabies Prevention and Control,” incorporated by reference in Subsection 004.05 of these
+rules, and as described in Subsections 610.04.a., 610.04.b., and 610.04.c. of this rule. In the event that a human or
+animal case of rabies occurs, any designated representative of the Department, Health District, or Idaho State
+Department of Agriculture, will establish such isolation and quarantine of animals involved as deemed necessary to
+protect the public health. (3-17-22)
+a. The management of a rabies-susceptible animal that has bitten or otherwise potentially exposed a
+person to rabies must be as follows: (3-17-22)
+i. Any livestock that has bitten or otherwise potentially exposed a person to rabies will be referred to
+the Idaho State Department of Agriculture for management. (3-17-22)
+ii. Any healthy domestic dog, cat, or ferret, regardless of rabies vaccination status, that has bitten or
+otherwise potentially exposed a person to rabies must be confined and observed for illness daily for ten (10) days
+following the exposure under the supervision of a licensed veterinarian or other person designated by the Idaho State
+Department of Agriculture, Health District, or the Department. If signs suggestive of rabies develop, immediately
+consult the Health District or Department to discuss euthanasia and rabies testing. (3-17-22)
+iii. Any domestic dog, cat, or ferret that cannot be managed as described in Subsection 610.04.a.ii. of
+this rule must be destroyed by a means other than shooting in the head. The head must be submitted to an approved
+laboratory for rabies analysis. (3-17-22)
+iv. It is the animal owner's responsibility to follow instructions provided for the management of the
+animal. (3-17-22)
+v. Rabies susceptible animals other than domestic dogs, cats, or ferrets must be destroyed and the
+head submitted to an approved laboratory for rabies analysis, unless an exemption is given by the Department or
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 620 Page 44
+Health District. (3-17-22)
+vi. No person will destroy, or allow to be destroyed, the head of a rabies-susceptible animal that has
+bitten or otherwise potentially exposed a person to rabies without authorization from the Department or Health
+District. (3-17-22)
+b. The management of a rabies-susceptible animal that has not bitten a person, but has been bitten,
+mouthed, mauled by, or closely confined in the same premises with a confirmed or suspected rabid animal must be as
+follows: (3-17-22)
+i. Any exposed livestock will be referred to the Idaho State Department of Agriculture for
+management. (3-17-22)
+ii. Any domestic dog, cat, or ferret that has never been vaccinated against rabies as recommended by
+the American Veterinary Medical Association, must be appropriately vaccinated in accordance with guidance in the
+“Compendium of Animal Rabies Prevention and Control” incorporated by reference in Subsection 004.05 of these
+rules as soon as possible and placed in strict quarantine for a period of four (4) months (six (6) months for ferrets)
+under the observation of a licensed veterinarian or a person designated by the Idaho State Department of Agriculture,
+Health District, or the Department. The strict quarantine of such an animal must be within an enclosure deemed
+adequate by a person designated by the Idaho State Department of Agriculture, Health District, or the Department to
+prevent contact with any person or rabies-susceptible animal. If signs suggestive of rabies develop, immediately
+consult the Health District or Department to discuss euthanasia or rabies testing. Destruction of such an animal is
+permitted as an alternative to strict quarantine. (3-17-22)
+iii. An animal considered currently vaccinated against rabies, or overdue for rabies vaccination but
+with documentation of at least one (1) prior rabies vaccination, should be revaccinated against rabies as soon as
+possible with an appropriate vaccine, kept under the owner’s control, and observed for illness for forty-five (45) days.
+If signs suggestive of rabies develop, immediately consult the Health District or Department to discuss euthanasia
+and rabies testing. These provisions apply only to animals for which an approved rabies vaccine is available. Animals
+should be managed in accordance with guidance in the “Compendium of Animal Rabies Prevention and Control”
+incorporated by reference in Subsection 004.05 of these rules to conduct serological monitoring when a previous
+vaccination may have been received, but the documentation is unavailable. If evidence of previous vaccination
+cannot be demonstrated, the animal must be managed as described in Subsection 610.04.b.ii. of this rule. (3-17-22)
+iv. The owner of the animal is financially responsible for the cost of managing and testing of the
+animal as described in Subsection 610.04.b. of this rule. (3-17-22)
+c. Any rabies-susceptible animal other than domestic dogs, cats, ferrets, or livestock that are
+suspected of having rabies, or have been in close contact with an animal known to be rabid, must be destroyed. The
+animal must be tested by an approved laboratory for rabies if a person has been bitten or has had direct contact with
+the animal that might result in the person becoming infected unless an exemption is granted by the Department or
+Health District. (3-17-22)
+05. City or County Authority. Nothing in these rules is intended or will be construed to limit the
+power of any city or county in its authority to enact more stringent requirements to prevent the transmission of rabies.
+(3-17-22)
+611. -- 619. (RESERVED)
+620. RELAPSING FEVER, TICK-BORNE AND LOUSE-BORNE.
+01. Reporting Requirements. Each case of tick-borne or louse-borne relapsing fever must be reported
+to the Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of tick-borne or louse-borne relapsing fever must be investigated
+to confirm the diagnosis, identify clusters or outbreaks of the infection, and whether transmission was from lice or
+ticks. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 630 Page 45
+621. -- 629. (RESERVED)
+630. RESPIRATORY SYNCYTIAL VIRUS (RSV).
+A laboratory director must report each detection of respiratory syncytial virus (RSV) infection to the Department or
+Health District within one (1) working day of identification. (3-17-22)
+631. -- 639. (RESERVED)
+640. REYE SYNDROME.
+01. Reporting Requirements. Each case of Reye syndrome must be reported to the Department or
+Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of Reye syndrome must be investigated to obtain specific
+clinical information and to learn more about the etiology, risk factors, and means of preventing the syndrome.
+(3-17-22)
+641. -- 649. (RESERVED)
+650. ROCKY MOUNTAIN SPOTTED FEVER.
+01. Reporting Requirements. Each case of Rocky Mountain spotted fever must be reported to the
+Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of Rocky Mountain spotted fever must be investigated to
+confirm the diagnosis, identify the source of infection, and determine if control measures should be initiated.
+(3-17-22)
+651. -- 659. (RESERVED)
+660. RUBELLA - INCLUDING CONGENITAL RUBELLA SYNDROME.
+01. Reporting Requirements. Each case or suspected case of rubella or congenital rubella syndrome
+must be reported to the Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of rubella or congenital rubella syndrome must be investigated to
+confirm the diagnosis, identify clusters or outbreaks of the infection, identify any contacts who are susceptible and
+pregnant, and document the presence of the congenital rubella syndrome. (3-17-22)
+03. Restrictions - Daycare Facility. A person who is diagnosed with rubella must not attend daycare
+or work in any occupation in which there is close contact with children in a daycare facility as long as the disease is in
+a communicable form. (3-17-22)
+04. Restrictions - Health Care Facility. A person who is diagnosed with rubella must not work in any
+occupation in which there is close contact with other persons in a health care facility as long as the disease is in a
+communicable form. (3-17-22)
+05. Restrictions - Schools. A person who is diagnosed with rubella must not attend, be present, or
+work in any occupation in which there is close contact with children or other persons in a private, parochial, charter,
+or public school as long as the disease is in a communicable form. (3-17-22)
+06. Restrictions - Personal Contact. A person who is diagnosed with rubella must not work in
+occupations in which there is close contact with women likely to be pregnant as long as the disease is in a
+communicable form. (3-17-22)
+661. -- 669. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 670 Page 46
+670. SALMONELLOSIS - INCLUDING TYPHOID FEVER.
+01. Reporting Requirements. Each case or suspected case of salmonellosis or typhoid fever must be
+reported to the Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of salmonellosis or typhoid fever must be investigated to
+confirm the diagnosis, identify clusters or outbreaks of the infection, and to identify contacts, carriers, and the source
+of infection. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any suspected or reported case. (3-17-22)
+04. Restrictions - Chronic Carrier. Chronic carriers, which are those who excrete Salmonella for
+more than one (1) year after onset, are restricted from working as food employees. Chronic carriers must not work in
+any occupation in which they provide personal care to children in daycare facilities, or to persons who are confined to
+health care facilities or residential care facilities, until Salmonella is not identified by a licensed laboratory in any of
+three (3) successive approved fecal specimens collected at least seventy-two (72) hours apart. (3-17-22)
+05. Restrictions - Non-Typhi Salmonella. (3-17-22)
+a. A fecally incontinent person excreting non-Typhi Salmonella must not attend a daycare facility.
+(3-17-22)
+b. A person excreting non-Typhi Salmonella must not work in any occupation in which they provide
+personal care to children in a daycare facility or provide personal care to persons confined to a health care facility,
+unless an exemption is obtained from the Department or Health District. (3-17-22)
+c. A symptomatic food employee excreting non-Typhi Salmonella must be managed under the
+IDAPA 16.02.19, “Idaho Food Code.” (3-17-22)
+d. Before a person can attend or work in a daycare facility or a health care facility, or work as a food
+employee, the person must provide two (2) successive approved fecal specimens collected at least twenty-four (24)
+hours apart, that fail to show Salmonella. (3-17-22)
+e. The Department may withdraw this restriction on a case of non-Typhi Salmonella provided that the
+person is asymptomatic. (3-17-22)
+f. Any member of a household in which there is a case of non-Typhi salmonellosis must not work as a
+food employee until the member provides at least one (1) approved fecal specimen that fails to show Salmonella upon
+testing by a licensed laboratory. (3-17-22)
+06. Restrictions - Salmonella Typhi. (3-17-22)
+a. Any person with typhoid fever will remain subject to the supervision of the Department until
+Salmonella Typhi is not isolated by a licensed laboratory from three (3) successive approved fecal specimens
+collected at least twenty-four (24) hours apart and not earlier than one (1) month after onset. (3-17-22)
+b. A food employee excreting Salmonella Typhi must be managed under IDAPA 16.02.19, “Idaho
+Food Code.” (3-17-22)
+c. Any member of a household in which there is a case of Salmonella Typhi must not work in the
+occupations described in Subsection 670.05.d. of this rule until the member provides at least two (2) successive
+approved fecal specimens collected twenty-four (24) hours apart that fail to show Salmonella upon testing by a
+licensed laboratory. (3-17-22)
+d. All chronic carriers of Salmonella Typhi must abide by a written agreement called a typhoid fever
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 680 Page 47
+carrier agreement. This agreement is between the chronic carrier and the Department or Health District. Failure of the
+carrier to abide by the carrier agreement may cause the carrier to be isolated under Section 065 of these rules. The
+carrier agreement requires: (3-17-22)
+i. The carrier cannot work as a food employee; (3-17-22)
+ii. Specimens must be furnished for examination in a manner described by the Department or Health
+District; and (3-17-22)
+iii. The Department or Health District must be notified immediately of any change of address,
+occupation, and cases of illness suggestive of typhoid fever in their family or among immediate associates.
+(3-17-22)
+e. Chronic carriers of typhoid fever may be released from carrier status when Salmonella Typhi is not
+identified by a licensed laboratory in any of six (6) consecutive approved fecal and urine specimens collected at least
+one (1) month apart. (3-17-22)
+671. -- 679. (RESERVED)
+680. SEVERE ACUTE RESPIRATORY SYNDROME (SARS).
+01. Reporting Requirements. Each case or suspected case of severe acute respiratory syndrome
+(SARS) must be reported to the Department or Health District within one (1) working day of identification.
+(3-17-22)
+02. Investigation. Each reported case of SARS must be investigated to confirm the diagnosis, review
+the travel and other exposure history, identify other persons potentially at risk, and identify the most likely source of
+the infection. (3-17-22)
+03. Isolation. Recommendations for appropriate isolation of the suspected or confirmed case will be
+made by the Department or Health District. (3-17-22)
+681. -- 689. (RESERVED)
+690. SEVERE REACTION TO ANY IMMUNIZATION.
+01. Reporting Requirements. Each case or suspected case of a severe reaction to any immunization
+must be reported to the Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of severe reaction to any immunization must be investigated to
+confirm and document the circumstances relating to the reported reaction to the immunization. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+within one (1) working day on any reported case. (3-17-22)
+691. -- 699. (RESERVED)
+700. SHIGELLOSIS.
+01. Reporting Requirements. Each case or suspected case of shigellosis must be reported to the
+Department or Health District within one (1) working day of identification. (3-17-22)
+02. Investigation. Each reported case of shigellosis must be investigated to confirm the diagnosis and
+identify clusters or outbreaks of the infection. An attempt must be made to identify contacts, carriers, and the source
+of the infection. (3-17-22)
+03. Handling of Report. The Department and the Health District will exchange reported information
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 710 Page 48
+within one (1) working day on any suspected or reported case. (3-17-22)
+04. Restrictions - Daycare Facility. (3-17-22)
+a. A person excreting Shigella must not attend a daycare facility while fecally incontinent. (3-17-22)
+b. A person excreting Shigella must not work in any occupation in which they provide personal care
+to children in a daycare facility while the disease is present in a communicable form, unless an exemption is obtained
+from the Department or Health District. During an outbreak in a daycare facility, a cohort system may be approved.
+(3-17-22)
+c. The Department or Health District may withdraw the daycare restriction when the person has
+provided two (2) successive approved fecal specimens collected at least twenty-four (24) hours apart that fail to show
+Shigella upon testing by a licensed laboratory. (3-17-22)
+05. Exclusions - Food Service Facility. (3-17-22)
+a. A food employee excreting Shigella must be managed under IDAPA 16.02.19, “Idaho Food Code.”
+(3-17-22)
+b. The Department or Health District may withdraw the food service restriction when the employee
+has provided two (2) successive approved fecal specimens collected at least twenty-four (24) hours apart that fail to
+show Shigella upon testing by a licensed laboratory. (3-17-22)
+06. Restrictions - Health Care Facility. (3-17-22)
+a. A person excreting Shigella must not work in any occupation in which they provide personal care
+to persons who are confined to a health care facility while the disease is present in a communicable form, unless an
+exemption is obtained from the Department or Health District. During an outbreak in a facility, a cohort system may
+be approved. (3-17-22)
+b. The Department or Health District may withdraw the health care facility restriction when the
+employee has provided two (2) successive approved fecal specimens collected at least twenty-four (24) hours apart
+that fail to show Shigella upon testing by a licensed laboratory. (3-17-22)
+c. During an outbreak in a facility, a cohort system may be approved. (3-17-22)
+07. Restrictions - Household Contacts. No member of a household, in which there is a case of
+shigellosis, may work in any occupations in Subsections 700.04 through 700.06 of this rule, unless the Department or
+Health District approves and at least one (1) approved fecal specimen is negative for Shigella upon testing by a
+licensed laboratory. (3-17-22)
+701. -- 709. (RESERVED)
+710. SMALLPOX.
+01. Reporting Requirements. Each case or suspected case of smallpox must be reported to the
+Department or Health District immediately, at the time of identification, day or night. (3-17-22)
+02. Investigation. Each reported case of smallpox must be investigated promptly to confirm the
+diagnosis, identify clusters or outbreaks of the infection, and identify the source of the infection and susceptible
+contacts. (3-17-22)
+03. Restrictions - Daycare Facility. (3-17-22)
+a. A person diagnosed with smallpox must not attend a daycare facility as long as the disease is in a
+communicable form. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 720 Page 49
+b. In the event of an outbreak, the Department or Health District may exclude susceptible children and
+employees from daycare facilities where a case has been identified until adequate immunization is obtained or the
+threat of further spread is contained. (3-17-22)
+04. Restrictions - Health Care Facility. A person diagnosed or suspected of having smallpox in a
+health care facility must be managed under the “Guideline for Isolation Precautions in Hospitals,” as incorporated in
+Section 004 of these rules. (3-17-22)
+05. Restrictions - Public Gatherings. A person diagnosed with smallpox must not attend public
+gatherings as long as the disease is in a communicable form. (3-17-22)
+06. Restrictions - School. (3-17-22)
+a. A person diagnosed with smallpox, regardless of age, must not attend a private, parochial, charter,
+or public school as long as the disease is in a communicable form. (3-17-22)
+b. In the event of an outbreak, the Department or Health District may exclude susceptible children and
+employees from schools where a case has been identified until adequate immunization is obtained or the threat of
+further spread is contained under Section 33-512(7), Idaho Code. (3-17-22)
+07. Restrictions - Working. A person diagnosed with smallpox must not work in any occupation as
+long as the disease is in a communicable form. (3-17-22)
+711. -- 719. (RESERVED)
+720. STREPTOCOCCUS PYOGENES (GROUP A STREP) INFECTIONS.
+01. Reporting Requirements. Each case of Streptococcus pyogenes (group A strep) infection that is
+invasive or results in rheumatic fever or necrotizing fasciitis must be reported to the Department or Health District
+within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of Streptococcus pyogenes (group A strep) infection that is
+invasive or results in rheumatic fever or necrotizing fasciitis must be investigated to confirm the diagnosis, to
+determine if the infection is part of an outbreak, and to identify the source of the infection. (3-17-22)
+03. Restrictions - Daycare Facility. An infected person must not attend or work in a daycare until
+twenty-four (24) hours has elapsed after treatment is initiated or until they are no longer infectious as determined by a
+physician, the Department, or Health District. (3-17-22)
+04. Restrictions - Health Care Facility. An infected person must not work in a health care facility
+until twenty-four (24) hours has elapsed after treatment is initiated or until they are no longer infectious as determined
+by a physician, the Department, or Health District. (3-17-22)
+05. Restrictions - School. An infected person must not attend or work in a private, parochial, charter,
+or public school until twenty-four (24) hours has elapsed after treatment is initiated or until the patient is no longer
+infectious as determined by a physician, the Department, or Health District. (3-17-22)
+721. -- 729. (RESERVED)
+730. SYPHILIS.
+01. Reporting Requirements. Each case or suspected case of syphilis must be reported to the
+Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of primary, secondary, or early latent syphilis must be
+investigated by the Department or Health District. Each person diagnosed with primary, secondary, or early latent
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 740 Page 50
+infectious syphilis is required to inform all sexual contacts that they may have been exposed to a sexually transmitted
+infection, or provide sufficient information to public health officials so they may locate contacts and ensure that each
+is offered prompt diagnosis and treatment under Section 39-605, Idaho Code. (3-17-22)
+03. Testing Without an Informed Consent. A physician may order blood tests for syphilis when an
+informed consent is not possible and there has been, or is likely to be, significant exposure to a person’s blood or
+body fluids by a person providing emergency or medical services. (3-17-22)
+731. -- 739. (RESERVED)
+740. TETANUS.
+01. Reporting Requirements. Each case of tetanus must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of tetanus must be investigated to confirm the diagnosis and to
+determine the immunization status of the case. (3-17-22)
+741. -- 749. (RESERVED)
+750. TOXIC SHOCK SYNDROME.
+01. Reporting Requirements. Each case of toxic shock syndrome must be reported to the Department
+or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of toxic shock syndrome must be investigated to obtain specific
+clinical information on the syndrome and to determine the etiology, risk factors, and means of preventing the
+syndrome. (3-17-22)
+751. -- 759. (RESERVED)
+760. TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES (TSE), INCLUDING
+CREUTZFELDT-JAKOB DISEASE (CJD) AND VARIANT CJD (VCJD).
+01. Reporting Requirements. Each case or suspected case of transmissible spongiform
+encephalopathy (TSE), including Creutzfeldt-Jakob disease (CJD) and variant CJD (vCJD) must be reported to the
+Department or Health District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of transmissible spongiform encephalopathy (TSE) must be
+investigated to determine the cause and confirm the diagnosis. (3-17-22)
+03. Autopsy. The state epidemiologist may order an autopsy for suspected CJD or vCJD deaths as per
+Section 39-277, Idaho Code. (3-17-22)
+761. -- 769. (RESERVED)
+770. TRICHINOSIS.
+01. Reporting Requirements. Each case of trichinosis must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of trichinosis must be investigated to confirm the diagnosis,
+identify clusters or outbreaks of the infection, and identify the source of the infection. (3-17-22)
+03. Handling of Report. The Department will notify the Idaho Department of Agriculture and other
+regulatory agencies as applicable. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 780 Page 51
+771. -- 779. (RESERVED)
+780. TUBERCULOSIS.
+01. Reporting Requirements. Each case of tuberculosis must be reported to the Department or Health
+District within three (3) working days of identification. (3-17-22)
+02. Investigation. Each reported case of tuberculosis must be investigated to confirm the diagnosis,
+identify contacts, associated cases, and the source of the infection. (3-17-22)
+03. Active Pulmonary Tuberculosis - Definition. Tuberculosis disease of the lungs, determined by a
+physician to be potentially contagious by clinical or bacteriological evidence or by evidence of the spread of the
+disease to others. Tuberculosis is considered active until cured. (3-17-22)
+04. Cure of Tuberculosis - Definition. The completion of a course of antituberculosis treatment.
+(3-17-22)
+05. Restrictions - Daycare Facility. A person with active pulmonary tuberculosis must not attend or
+work in any occupation in which they have direct contact or provides personal care to children in a daycare facility,
+until they are determined to be noninfectious by a licensed physician, the Department, or Health District. (3-17-22)
+06. Restrictions - Health Care Facility. (3-17-22)
+a. A person suspected to have pulmonary tuberculosis in a health care facility must be managed under
+the “Guideline for Isolation Precautions in Hospitals,” as incorporated in Section 004 of these rules, until the
+diagnosis of active pulmonary tuberculosis is excluded by a licensed physician. (3-17-22)
+b. A person with active pulmonary tuberculosis in a health care facility must be managed under the
+“Guideline for Isolation Precautions in Hospitals,” as incorporated in Section 004 of these rules, until they are
+determined to be noninfectious by a licensed physician, the infection control committee of the facility, or the
+Department. (3-17-22)
+c. A person with active pulmonary tuberculosis must not work in any occupation in which they have
+direct contact or provides personal care to persons confined to a health care or residential care facility, until they are
+determined to be noninfectious by a licensed physician, infection control committee of the facility, or the Department.
+(3-17-22)
+d. In the event that active pulmonary tuberculosis is diagnosed in an employee, patient, or resident,
+the health care facility must conduct an investigation to identify contacts. The Department or Health District may
+assist in the investigation. (3-17-22)
+07. Restrictions - School. A person with active pulmonary tuberculosis must not attend or work in any
+occupation in which they have direct contact with students in a private, parochial, charter, or public school until they
+are determined to be noninfectious by a licensed physician, the Department, or Health District. (3-17-22)
+08. Restrictions - Household Contacts. Any member of a household, in which there is a case of active
+pulmonary tuberculosis, must not attend or work in any occupation in which they provide direct supervision of
+students in a school, personal care to children in a daycare facility or persons confined to a health care facility, or
+works in a food service facility, until they have been determined to be noninfectious by a licensed physician, the
+Department, or Health District. (3-17-22)
+781. -- 789. (RESERVED)
+790. TULAREMIA.
+01. Reporting Requirements. Each case or suspected case of tularemia must be reported to the
+Department or Health District immediately, at the time of identification, day or night. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.10
+Department of Health and Welfare Idaho Reportable Diseases
+Section 810 Page 52
+02. Investigation. Each reported case of tularemia must be investigated to confirm the diagnosis and to
+identify the source of the infection. (3-17-22)
+03. Handling of Report. The Department will notify the Idaho Department of Agriculture of any
+identified source or suspected source of the infection. (3-17-22)
+791. -- 809. (RESERVED)
+810. YERSINIOSIS, OTHER THAN PLAGUE.
+01. Reporting Requirements. Each case of yersiniosis, other than plague, must be reported to the
+Department or Health District within three (3) working days of identification. Plague must be reported immediately
+as described in Section 550 of these rules. (3-17-22)
+02. Investigation. Each reported case of yersiniosis must be investigated to confirm the diagnosis,
+identify carriers, and the source of the infection. (3-17-22)
+03. Restrictions - Food Service Facility. A symptomatic person must be managed under IDAPA
+16.02.19, “Idaho Food Code.” (3-17-22)
+811. -- 949. (RESERVED)
+DELEGATION OF POWERS AND DUTIES
+(Sections 950-999)
+950. DELEGATION OF POWERS AND DUTIES.
+The Director has the authority to delegate to the Health Districts any of the powers and duties created by these rules
+under Section 39-414(2), Idaho Code. Any delegation authority will be in writing and signed by both the Director and
+the Health District Board. (3-17-22)
+951. -- 999. (RESERVED)

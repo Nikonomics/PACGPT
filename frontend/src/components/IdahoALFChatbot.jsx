@@ -1,98 +1,70 @@
 import React, { useState, useRef, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
-import { Search, MessageCircle, BookOpen, ChevronRight, FileText, Send } from 'lucide-react';
+import { Search, MessageCircle, BookOpen, ChevronRight, ChevronDown, FileText, Send, Folder, File } from 'lucide-react';
 import './IdahoALFChatbot.css';
 
 const IdahoALFChatbot = () => {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [library, setLibrary] = useState([]);
   const [regulations, setRegulations] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const [selectedRegulation, setSelectedRegulation] = useState(null);
-  const [isLoadingRegulations, setIsLoadingRegulations] = useState(true);
-  const [regulationsError, setRegulationsError] = useState(null);
-  const [selectedCategory, setSelectedCategory] = useState('all');
-  const [expandedRegulations, setExpandedRegulations] = useState(new Set());
+  const [isLoadingLibrary, setIsLoadingLibrary] = useState(true);
+  const [libraryError, setLibraryError] = useState(null);
+  const [expandedNodes, setExpandedNodes] = useState(new Set());
+  const [totalChunks, setTotalChunks] = useState(0);
   const messagesEndRef = useRef(null);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
 
-  // Regulation categories
-  const categories = [
-    { id: 'all', name: 'All' },
-    { id: 'administrative', name: 'Administrative' },
-    { id: 'licensing', name: 'Licensing' },
-    { id: 'staffing', name: 'Staffing' },
-    { id: 'physical_plant', name: 'Physical Plant' },
-    { id: 'fire_safety', name: 'Fire Safety' },
-    { id: 'medications', name: 'Medications' },
-    { id: 'resident_care', name: 'Resident Care' }
-  ];
-
   const exampleQuestions = [
     'What are the staffing requirements for a 20-bed facility?',
     'How much square footage is required per resident?',
-    'What are the bathroom requirements?',
+    'What are the ADA door width requirements?',
     'Do I need a sprinkler system?',
-    'Can staff assist with insulin?'
+    'What diseases must be reported?'
   ];
-
-  // Group regulations by parent
-  const groupRegulationsByParent = (regs) => {
-    const grouped = {};
-    regs.forEach(reg => {
-      if (reg.citation.includes('US Food Code')) {
-        const parent = 'US Food Code';
-        if (!grouped[parent]) grouped[parent] = [];
-        grouped[parent].push(reg);
-        return;
-      }
-      const match = reg.citation.match(/^([A-Z0-9\s]+\d+\.\d+)/);
-      const parent = match ? match[1] : reg.citation;
-      if (!grouped[parent]) grouped[parent] = [];
-      grouped[parent].push(reg);
-    });
-    Object.keys(grouped).forEach(parent => {
-      grouped[parent].sort((a, b) => {
-        const aParts = a.citation.match(/(\d+)/g) || [];
-        const bParts = b.citation.match(/(\d+)/g) || [];
-        for (let i = 0; i < Math.max(aParts.length, bParts.length); i++) {
-          const aNum = parseInt(aParts[i]) || 0;
-          const bNum = parseInt(bParts[i]) || 0;
-          if (aNum !== bNum) return aNum - bNum;
-        }
-        return 0;
-      });
-    });
-    return grouped;
-  };
 
   useEffect(() => {
     scrollToBottom();
   }, [messages]);
 
   useEffect(() => {
+    loadLibrary();
     loadRegulations();
   }, []);
 
+  const loadLibrary = async () => {
+    try {
+      setIsLoadingLibrary(true);
+      setLibraryError(null);
+      const response = await fetch('http://localhost:8000/library');
+      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+      const data = await response.json();
+      setLibrary(data.library || []);
+      setTotalChunks(data.total_chunks || 0);
+    } catch (error) {
+      console.error('Error loading library:', error);
+      setLibraryError('Failed to load library.');
+      setLibrary([]);
+    } finally {
+      setIsLoadingLibrary(false);
+    }
+  };
+
   const loadRegulations = async () => {
     try {
-      setIsLoadingRegulations(true);
-      setRegulationsError(null);
       const response = await fetch('http://localhost:8000/chunks');
       if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
       const data = await response.json();
       setRegulations(data.chunks || []);
     } catch (error) {
       console.error('Error loading regulations:', error);
-      setRegulationsError('Failed to load regulations.');
-      setRegulations([]);
-    } finally {
-      setIsLoadingRegulations(false);
     }
   };
 
@@ -103,11 +75,11 @@ const IdahoALFChatbot = () => {
       return;
     }
     const filtered = regulations.filter(regulation =>
-      regulation.section_title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      regulation.citation.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      regulation.content.toLowerCase().includes(searchQuery.toLowerCase())
+      regulation.section_title?.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      regulation.citation?.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      regulation.content?.toLowerCase().includes(searchQuery.toLowerCase())
     );
-    setSearchResults(filtered);
+    setSearchResults(filtered.slice(0, 50)); // Limit results
   };
 
   const handleQuestionClick = (question) => {
@@ -155,10 +127,125 @@ const IdahoALFChatbot = () => {
     }
   };
 
-  const regsToDisplay = searchResults.length > 0 ? searchResults : regulations;
-  const filteredRegs = regsToDisplay.filter(reg => selectedCategory === 'all' || reg.category === selectedCategory);
-  const groupedRegs = groupRegulationsByParent(filteredRegs);
-  const parentKeys = Object.keys(groupedRegs).sort();
+  const toggleNode = (nodeId) => {
+    const newExpanded = new Set(expandedNodes);
+    if (newExpanded.has(nodeId)) {
+      newExpanded.delete(nodeId);
+    } else {
+      newExpanded.add(nodeId);
+    }
+    setExpandedNodes(newExpanded);
+  };
+
+  const findChunkByIdOrCitation = (chunkId, citation) => {
+    return regulations.find(r =>
+      r.chunk_id === chunkId || r.citation === citation
+    );
+  };
+
+  // Render content with clickable inline citations
+  const renderContentWithCitations = (content, citations) => {
+    if (!citations || citations.length === 0) {
+      return <ReactMarkdown>{content}</ReactMarkdown>;
+    }
+
+    // Split content by citation markers like [1], [2], etc.
+    const parts = content.split(/(\[\d+\])/g);
+
+    return (
+      <div className="alf-content-with-citations">
+        {parts.map((part, index) => {
+          // Check if this part is a citation marker
+          const citationMatch = part.match(/^\[(\d+)\]$/);
+          if (citationMatch) {
+            const citationIndex = parseInt(citationMatch[1], 10) - 1;
+            const citation = citations[citationIndex];
+            if (citation) {
+              return (
+                <button
+                  key={index}
+                  className="alf-inline-citation"
+                  onClick={() => {
+                    const reg = regulations.find(r => r.citation === citation.citation);
+                    if (reg) setSelectedRegulation(reg);
+                  }}
+                  title={citation.citation}
+                >
+                  [{citationMatch[1]}]
+                </button>
+              );
+            }
+          }
+          // Regular text - render as markdown
+          if (part.trim()) {
+            return <ReactMarkdown key={index}>{part}</ReactMarkdown>;
+          }
+          return null;
+        })}
+      </div>
+    );
+  };
+
+  // Recursive tree node component
+  const TreeNode = ({ node, level = 0 }) => {
+    const isExpanded = expandedNodes.has(node.id);
+    const hasChildren = node.children && node.children.length > 0;
+    const hasChunks = node.chunks && node.chunks.length > 0;
+    const isLeaf = !hasChildren && hasChunks;
+
+    return (
+      <div className="tree-node" style={{ marginLeft: level > 0 ? '12px' : '0' }}>
+        <button
+          className={`tree-node-header ${isExpanded ? 'expanded' : ''} ${isLeaf ? 'leaf' : ''}`}
+          onClick={() => {
+            if (hasChildren || hasChunks) {
+              toggleNode(node.id);
+            }
+          }}
+        >
+          <div className="tree-node-icon">
+            {hasChildren ? (
+              isExpanded ? <ChevronDown size={14} /> : <ChevronRight size={14} />
+            ) : hasChunks ? (
+              isExpanded ? <ChevronDown size={14} /> : <ChevronRight size={14} />
+            ) : (
+              <File size={14} />
+            )}
+          </div>
+          <div className="tree-node-content">
+            <span className="tree-node-name">{node.name}</span>
+            <span className="tree-node-count">{node.count}</span>
+          </div>
+        </button>
+
+        {isExpanded && hasChildren && (
+          <div className="tree-node-children">
+            {node.children.map((child, idx) => (
+              <TreeNode key={child.id || idx} node={child} level={level + 1} />
+            ))}
+          </div>
+        )}
+
+        {isExpanded && hasChunks && !hasChildren && (
+          <div className="tree-node-chunks">
+            {node.chunks.map((chunk, idx) => (
+              <button
+                key={chunk.chunk_id || idx}
+                className="tree-chunk-item"
+                onClick={() => {
+                  const fullChunk = findChunkByIdOrCitation(chunk.chunk_id, chunk.citation);
+                  if (fullChunk) setSelectedRegulation(fullChunk);
+                }}
+              >
+                <File size={12} />
+                <span className="tree-chunk-title">{chunk.title || chunk.citation}</span>
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
+    );
+  };
 
   return (
     <div className="alf-page">
@@ -188,7 +275,7 @@ const IdahoALFChatbot = () => {
                 <h3 className="alf-chat-title">RegNavigator</h3>
                 <div className="alf-chat-status">
                   <span className="alf-status-dot"></span>
-                  <span>Ready to help with IDAPA 16.03.22</span>
+                  <span>Ready to help with Idaho ALF regulations</span>
                 </div>
               </div>
             </div>
@@ -203,7 +290,7 @@ const IdahoALFChatbot = () => {
                   </div>
                   <div className="alf-welcome">
                     <p className="alf-welcome-text">
-                      Hello! I'm your Idaho Assisted Living Facility regulation expert. Ask me anything about IDAPA 16.03.22 regulations.
+                      Hello! I'm your Idaho Assisted Living Facility regulation expert. Ask me anything about IDAPA 16.03.22, ADA guidelines, food safety codes, and more.
                     </p>
                     <div className="alf-welcome-divider">
                       <p className="alf-welcome-label">Try asking:</p>
@@ -235,30 +322,10 @@ const IdahoALFChatbot = () => {
                       <div className="alf-message-bubble">
                         {msg.role === 'assistant' ? (
                           <div className="alf-prose">
-                            <ReactMarkdown>{msg.content}</ReactMarkdown>
+                            {renderContentWithCitations(msg.content, msg.citations)}
                           </div>
                         ) : (
                           msg.content
-                        )}
-
-                        {msg.citations && msg.citations.length > 0 && (
-                          <div className="alf-citations">
-                            <p className="alf-citations-label">Sources:</p>
-                            <div className="alf-citations-list">
-                              {msg.citations.map((citation, idx) => (
-                                <button
-                                  key={idx}
-                                  onClick={() => {
-                                    const reg = regulations.find(r => r.citation === citation.citation);
-                                    if (reg) setSelectedRegulation(reg);
-                                  }}
-                                  className="alf-citation-btn"
-                                >
-                                  [{idx + 1}] {citation.citation}
-                                </button>
-                              ))}
-                            </div>
-                          </div>
                         )}
                       </div>
                     </div>
@@ -317,7 +384,7 @@ const IdahoALFChatbot = () => {
                 </div>
                 <div>
                   <h3 className="alf-library-title">Regulation Library</h3>
-                  <p className="alf-library-subtitle">Browse source documents</p>
+                  <p className="alf-library-subtitle">{totalChunks.toLocaleString()} indexed sections</p>
                 </div>
               </div>
 
@@ -335,89 +402,59 @@ const IdahoALFChatbot = () => {
                 </form>
               </div>
 
-              {/* Filter Tags */}
-              <div className="alf-filters">
-                <div className="alf-filter-tags">
-                  {categories.map((cat) => (
-                    <button
-                      key={cat.id}
-                      onClick={() => {
-                        setSelectedCategory(cat.id);
-                        setSearchResults([]);
-                      }}
-                      className={`alf-filter-tag ${selectedCategory === cat.id ? 'active' : ''}`}
-                    >
-                      {cat.name}
-                    </button>
-                  ))}
-                </div>
-              </div>
-
-              {/* Regulation List */}
-              <div className="alf-reg-list">
-                {isLoadingRegulations ? (
+              {/* Library Tree or Search Results */}
+              <div className="alf-library-content">
+                {isLoadingLibrary ? (
                   <div className="alf-loading-regs">
                     <div className="alf-spinner"></div>
-                    <p className="alf-loading-text">Loading regulations...</p>
+                    <p className="alf-loading-text">Loading library...</p>
                   </div>
-                ) : regulationsError ? (
+                ) : libraryError ? (
                   <div className="alf-error">
-                    <p className="alf-error-text">{regulationsError}</p>
-                    <button onClick={loadRegulations} className="alf-retry-btn">
+                    <p className="alf-error-text">{libraryError}</p>
+                    <button onClick={loadLibrary} className="alf-retry-btn">
                       Try again
                     </button>
                   </div>
+                ) : searchResults.length > 0 ? (
+                  /* Search Results */
+                  <div className="alf-search-results">
+                    <div className="alf-search-header">
+                      <span>{searchResults.length} results</span>
+                      <button
+                        className="alf-clear-search"
+                        onClick={() => {
+                          setSearchQuery('');
+                          setSearchResults([]);
+                        }}
+                      >
+                        Clear
+                      </button>
+                    </div>
+                    {searchResults.map((reg, idx) => (
+                      <button
+                        key={idx}
+                        onClick={() => setSelectedRegulation(reg)}
+                        className="alf-search-result-item"
+                      >
+                        <p className="alf-result-citation">{reg.citation}</p>
+                        <p className="alf-result-title">{reg.section_title}</p>
+                      </button>
+                    ))}
+                  </div>
                 ) : (
-                  parentKeys.map((parent, idx) => {
-                    const sections = groupedRegs[parent];
-                    const isExpanded = expandedRegulations.has(parent);
-
-                    return (
-                      <div key={idx} className="alf-reg-group">
-                        <button
-                          onClick={() => {
-                            const newExpanded = new Set(expandedRegulations);
-                            if (isExpanded) newExpanded.delete(parent);
-                            else newExpanded.add(parent);
-                            setExpandedRegulations(newExpanded);
-                          }}
-                          className="alf-reg-header"
-                        >
-                          <div>
-                            <p className="alf-reg-name">{parent}</p>
-                            <p className="alf-reg-count">{sections.length} sections</p>
-                          </div>
-                          <ChevronRight className={`alf-reg-chevron ${isExpanded ? 'expanded' : ''}`} />
-                        </button>
-
-                        {isExpanded && (
-                          <div className="alf-reg-sections">
-                            {sections.slice(0, 10).map((reg, sectionIdx) => (
-                              <button
-                                key={sectionIdx}
-                                onClick={() => setSelectedRegulation(reg)}
-                                className="alf-reg-section"
-                              >
-                                <p className="alf-reg-section-id">{reg.citation.replace(parent + '.', '')}</p>
-                                <p className="alf-reg-section-title">{reg.section_title}</p>
-                              </button>
-                            ))}
-                            {sections.length > 10 && (
-                              <div className="alf-reg-more">
-                                +{sections.length - 10} more sections
-                              </div>
-                            )}
-                          </div>
-                        )}
-                      </div>
-                    );
-                  })
+                  /* Hierarchical Tree */
+                  <div className="alf-library-tree">
+                    {library.map((doc, idx) => (
+                      <TreeNode key={doc.id || idx} node={doc} level={0} />
+                    ))}
+                  </div>
                 )}
               </div>
 
               {/* Quick Stats Footer */}
               <div className="alf-library-footer">
-                <span>{regulations.length} documents indexed</span>
+                <span>{library.length} document groups</span>
                 <span className="alf-footer-status">
                   <span className="alf-footer-dot"></span>
                   Ready
