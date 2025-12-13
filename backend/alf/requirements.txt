@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+anthropic
+numpy
+requests
+openai
+python-multipart
+python-dotenv
+sqlalchemy
+pytest
+httpx

@@ -1,0 +1,7155 @@
+{
+  "totalUrls": 171,
+  "totalStates": 51,
+  "generatedAt": "2025-10-14T04:32:44.408Z",
+  "urls": [
+    {
+      "url": "http://www.medicaid.alabama.gov/content/9.0_Resources/9.8_State_Plan.aspx",
+      "states": [
+        "Alabama"
+      ],
+      "policies": [
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Alabama",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Alabama",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Alabama",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Alabama",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Alabama",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Alabama",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        }
+      ]
+    },
+    {
+      "url": "http://medicaid.alabama.gov/content/Gated/7.6.1G_Provider_Manuals.aspx",
+      "states": [
+        "Alabama"
+      ],
+      "policies": [
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "http://www.medicaid.alabama.gov/content/9.0_Resources/9.2_Administrative_Code.aspx",
+      "states": [
+        "Alabama"
+      ],
+      "policies": [
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Alabama",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Alabama",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Alabama",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Alabama",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Alabama",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Alabama",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        }
+      ]
+    },
+    {
+      "url": "http://dhss.alaska.gov/Commissioner/Pages/MedicaidStatePlan/stateplan_sec_4.aspx#4o19",
+      "states": [
+        "Alaska"
+      ],
+      "policies": [
+        {
+          "state": "Alaska",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Alaska",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Alaska",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Alaska",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Alaska",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Alaska",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Alaska",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Alaska",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Alaska",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Alaska",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Alaska",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        }
+      ]
+    },
+    {
+      "url": "http://www.legis.state.ak.us/basis/aac.asp#7.145.640",
+      "states": [
+        "Alaska"
+      ],
+      "policies": [
+        {
+          "state": "Alaska",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Alaska",
+          "category": "General",
+          "policyName": "Out-of-state"
+        }
+      ]
+    },
+    {
+      "url": "https://azahcccs.gov/Resources/StatePlans/#State_Plan_for_Medicaid",
+      "states": [
+        "Arizona"
+      ],
+      "policies": [
+        {
+          "state": "Arizona",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Arizona",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Arizona",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Arizona",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Arizona",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Arizona",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Arizona",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Arizona",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Arizona",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Arizona",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Arizona",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Arizona",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Arizona",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Arizona",
+          "category": "Other adjustments",
+          "policyName": "Supplemental payments related to provider taxes"
+        },
+        {
+          "state": "Arizona",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://apps.azsos.gov/public_services/CodeTOC.htm#ID9",
+      "states": [
+        "Arizona"
+      ],
+      "policies": [
+        {
+          "state": "Arizona",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Arizona",
+          "category": "Other adjustments",
+          "policyName": "Supplemental payments related to provider taxes"
+        }
+      ]
+    },
+    {
+      "url": "https://azahcccs.gov/PlansProviders/RatesAndBilling/FFS/questions.html",
+      "states": [
+        "Arizona"
+      ],
+      "policies": [
+        {
+          "state": "Arizona",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        }
+      ]
+    },
+    {
+      "url": "https://azahcccs.gov/PlansProviders/RatesAndBilling/FFS/providermanual.html",
+      "states": [
+        "Arizona"
+      ],
+      "policies": [
+        {
+          "state": "Arizona",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaid.mmis.arkansas.gov/Provider/Docs/oltc.aspx",
+      "states": [
+        "Arkansas"
+      ],
+      "policies": [
+        {
+          "state": "Arkansas",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Arkansas",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Arkansas",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Arkansas",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Arkansas",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Arkansas",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Arkansas",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Arkansas",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Arkansas",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Arkansas",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Arkansas",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Arkansas",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Arkansas",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Arkansas",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dhcs.ca.gov/formsandpubs/laws/Pages/Attachment419.aspx",
+      "states": [
+        "California"
+      ],
+      "policies": [
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "California",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "California",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "California",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "California",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "California",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "California",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "California",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "California",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "California",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "California",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "California",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "California",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "California",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "California",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://govt.westlaw.com/calregs/Document/I7311F370D4BC11DE8879F88E8B0DAAAE?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)",
+      "states": [
+        "California"
+      ],
+      "policies": [
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "http://files.medi-cal.ca.gov/pubsdoco/manual/man_query.asp?wsearch=%28%23filename+%2A_%2Al00%2A%2Edoc+OR+%23filename+%2A_%2Al00%2A%2Ezip+OR+%23filename+%2A_%2Az00%2A%2Edoc+OR+%23filename+%2A_%2Az00%2A%2Ezip+OR+%23filename+%2A_%2Az02%2A%2Edoc+OR+%23filename+%2A_%2Az02%2A%2Ezip%29&wFLogo=Part+2+%26%23150%3B+Long+Term+Care+%28LTC%29&wFLogoH=52&wFLogoW=516&wAlt=&wPath=N",
+      "states": [
+        "California"
+      ],
+      "policies": [
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://govt.westlaw.com/calregs/Document/I48D1C980D4B911DE8879F88E8B0DAAAE?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)",
+      "states": [
+        "California"
+      ],
+      "policies": [
+        {
+          "state": "California",
+          "category": "General",
+          "policyName": "Out-of-state"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dhcs.ca.gov/services/medi-cal/Pages/FSNF_A.aspx",
+      "states": [
+        "California"
+      ],
+      "policies": [
+        {
+          "state": "California",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sos.state.co.us/CCR/DisplayRule.do?action=ruleinfo&ruleId=2921&deptID=7&agencyID=69&deptName=Department%20of%20Health%20Care%20Policy%20and%20Financing&agencyName=Medical%20Services%20Board%20(Volume%208;%20Medical%20Assistance,%20Children%27s%20Health%20Plan)&seriesNum=10%20CCR%202505-10%208.400",
+      "states": [
+        "Colorado"
+      ],
+      "policies": [
+        {
+          "state": "Colorado",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Colorado",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Colorado",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Colorado",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Colorado",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Colorado",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Colorado",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Colorado",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Colorado",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Colorado",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Colorado",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Colorado",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Colorado",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Colorado",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Colorado",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Colorado",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Colorado",
+          "category": "Other adjustments",
+          "policyName": "Supplemental payments related to provider taxes"
+        },
+        {
+          "state": "Colorado",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://www.colorado.gov/pacific/hcpf/colorado-medicaid-state-plan",
+      "states": [
+        "Colorado"
+      ],
+      "policies": [
+        {
+          "state": "Colorado",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Colorado",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Colorado",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Colorado",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ctdssmap.com/CTPortal/Information/Publications/tabId/40/Default.aspx",
+      "states": [
+        "Connecticut"
+      ],
+      "policies": [
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://eregulations.ct.gov/eRegsPortal/Browse/RCSA/%7B306181F6-1E9A-474B-822D-BE23EE89A457%7D",
+      "states": [
+        "Connecticut"
+      ],
+      "policies": [
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cga.ct.gov/current/pub/chap_319y.htm#sec_17b-340",
+      "states": [
+        "Connecticut"
+      ],
+      "policies": [
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Connecticut",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Connecticut",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/CT/CT-17-0025.pdf",
+      "states": [
+        "Connecticut"
+      ],
+      "policies": [
+        {
+          "state": "Connecticut",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "http://dhss.delaware.gov/dhss/dmma/state_plan.html",
+      "states": [
+        "Delaware"
+      ],
+      "policies": [
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Outlier payments"
+        },
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Delaware",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Delaware",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Delaware",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Delaware",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Delaware",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Delaware",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Delaware",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Delaware",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Delaware",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Delaware",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Delaware",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Delaware",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        },
+        {
+          "state": "Delaware",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaidpublications.dhss.delaware.gov/",
+      "states": [
+        "Delaware"
+      ],
+      "policies": [
+        {
+          "state": "Delaware",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://dhcf.dc.gov/node/192472",
+      "states": [
+        "District of Columbia"
+      ],
+      "policies": [
+        {
+          "state": "District of Columbia",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://dhcf.dc.gov/page/medicaid-reimbursement-nursing-facilities-participating-district-columbia-medicaid-program",
+      "states": [
+        "District of Columbia"
+      ],
+      "policies": [
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "District of Columbia",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        }
+      ]
+    },
+    {
+      "url": "http://www.fdhc.state.fl.us/medicaid/Finance/finance/nh_rates/nhpprm.shtml",
+      "states": [
+        "Florida"
+      ],
+      "policies": [
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Florida",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Florida",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Florida",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Florida",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "Florida",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "Florida",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "http://ahca.myflorida.com/medicaid/stateplan_attach.shtml",
+      "states": [
+        "Florida"
+      ],
+      "policies": [
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Florida",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Florida",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Florida",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Florida",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "http://www.fdhc.state.fl.us/medicaid/review/specific_policy.shtml",
+      "states": [
+        "Florida"
+      ],
+      "policies": [
+        {
+          "state": "Florida",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mmis.georgia.gov/portal/PubAccess.Provider%20Information/Provider%20Manuals/tabId/54/Default.aspx",
+      "states": [
+        "Georgia"
+      ],
+      "policies": [
+        {
+          "state": "Georgia",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Georgia",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Georgia",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Georgia",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Georgia",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Georgia",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Georgia",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Georgia",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Georgia",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Georgia",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Georgia",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Georgia",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Georgia",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Georgia",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Georgia",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Georgia",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Georgia",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://dch.georgia.gov/nursing-home-supplemental-reimbursement",
+      "states": [
+        "Georgia"
+      ],
+      "policies": [
+        {
+          "state": "Georgia",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "http://humanservices.hawaii.gov/reports/hawaii-medicaid-state-plan/",
+      "states": [
+        "Hawaii"
+      ],
+      "policies": [
+        {
+          "state": "Hawaii",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Hawaii",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Hawaii",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Hawaii",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Hawaii",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Hawaii",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Hawaii",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://medquest.hawaii.gov/en/plans-providers/fee-for-service/provider-manual.html",
+      "states": [
+        "Hawaii"
+      ],
+      "policies": [
+        {
+          "state": "Hawaii",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/HI/HI-15-0004.pdf",
+      "states": [
+        "Hawaii"
+      ],
+      "policies": [
+        {
+          "state": "Hawaii",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Hawaii",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "https://www.idmedicaid.com/Provider%20Guide/Provider%20Handbook.aspx",
+      "states": [
+        "Idaho"
+      ],
+      "policies": [
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://adminrules.idaho.gov/rules/current/index.html",
+      "states": [
+        "Idaho"
+      ],
+      "policies": [
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Idaho",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Idaho",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Idaho",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Idaho",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Idaho",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Idaho",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Idaho",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Idaho",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Idaho",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/ID/ID-12-011.pdf",
+      "states": [
+        "Idaho"
+      ],
+      "policies": [
+        {
+          "state": "Idaho",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Idaho",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Idaho",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Idaho",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-Resource-Center/Medicaid-State-Plan-Amendments/Downloads/ID/ID-10-018-179.pdf",
+      "states": [
+        "Idaho"
+      ],
+      "policies": [
+        {
+          "state": "Idaho",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Idaho",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.illinois.gov/hfs/MedicalProviders/MedicaidReimbursement/Pages/LTC.aspx",
+      "states": [
+        "Illinois"
+      ],
+      "policies": [
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Illinois",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Illinois",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Illinois",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Illinois",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "http://www.ilga.gov/commission/jcar/admincode/089/08900140sections.html",
+      "states": [
+        "Illinois"
+      ],
+      "policies": [
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Illinois",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Illinois",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Illinois",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Illinois",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/IL/IL-14-032.pdf",
+      "states": [
+        "Illinois"
+      ],
+      "policies": [
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        }
+      ]
+    },
+    {
+      "url": "http://www.ilga.gov/commission/jcar/admincode/089/08900147sections.html",
+      "states": [
+        "Illinois"
+      ],
+      "policies": [
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Illinois",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Illinois",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "http://www.ilga.gov/commission/jcar/admincode/089/089001530001250R.html",
+      "states": [
+        "Illinois"
+      ],
+      "policies": [
+        {
+          "state": "Illinois",
+          "category": "General",
+          "policyName": "Cost report"
+        }
+      ]
+    },
+    {
+      "url": "https://casetext.com/regulation/indiana-administrative-code/title-405-office-of-the-secretary-of-family-and-social-services/article-5-medicaid-services/rule-405-iac-5-31-nursing-facility-services/section-405-iac-5-31-4-per-diem-services",
+      "states": [
+        "Indiana"
+      ],
+      "policies": [
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        }
+      ]
+    },
+    {
+      "url": "https://www.in.gov/medicaid/providers/810.htm",
+      "states": [
+        "Indiana"
+      ],
+      "policies": [
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Indiana",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "http://iga.in.gov/legislative/laws/2018/ic/titles/001",
+      "states": [
+        "Indiana"
+      ],
+      "policies": [
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Indiana",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "http://provider.indianamedicaid.com/ihcp/StatePlan/state_plan.asp",
+      "states": [
+        "Indiana"
+      ],
+      "policies": [
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Indiana",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Indiana",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Indiana",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Indiana",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Indiana",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.in.gov/medicaid/providers/469.htm",
+      "states": [
+        "Indiana"
+      ],
+      "policies": [
+        {
+          "state": "Indiana",
+          "category": "General",
+          "policyName": "Out-of-state"
+        }
+      ]
+    },
+    {
+      "url": "https://dhs.iowa.gov/policy-manuals/medicaid-provider",
+      "states": [
+        "Iowa"
+      ],
+      "policies": [
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Iowa",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Iowa",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Iowa",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Iowa",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Iowa",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Iowa",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Iowa",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Iowa",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Iowa",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "https://dhs.iowa.gov/ime/about/stateplan/medicaid",
+      "states": [
+        "Iowa"
+      ],
+      "policies": [
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Iowa",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Iowa",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Iowa",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Iowa",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Iowa",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.legis.iowa.gov/publications",
+      "states": [
+        "Iowa"
+      ],
+      "policies": [
+        {
+          "state": "Iowa",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Iowa",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/KS/KS-17-010.pdf",
+      "states": [
+        "Kansas"
+      ],
+      "policies": [
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Kansas",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Kansas",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kssos.org/pubs/pubs_kar.aspx",
+      "states": [
+        "Kansas"
+      ],
+      "policies": [
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Kansas",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/KS/KS-18-0010.pdf",
+      "states": [
+        "Kansas"
+      ],
+      "policies": [
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Cost report"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/KS/KS-16-014.pdf",
+      "states": [
+        "Kansas"
+      ],
+      "policies": [
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Kansas",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Kansas",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Kansas",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        }
+      ]
+    },
+    {
+      "url": "http://www.ksrevisor.org/statutes/chapters/ch75/075_074_0035.html",
+      "states": [
+        "Kansas"
+      ],
+      "policies": [
+        {
+          "state": "Kansas",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        }
+      ]
+    },
+    {
+      "url": "https://chfs.ky.gov/agencies/dms/Pages/stateplanamend.aspx",
+      "states": [
+        "Kentucky"
+      ],
+      "policies": [
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://apps.legislature.ky.gov/Law/KAR/TITLE907.HTM",
+      "states": [
+        "Kentucky"
+      ],
+      "policies": [
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Kentucky",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/KY/KY-17-002.pdf",
+      "states": [
+        "Kentucky"
+      ],
+      "policies": [
+        {
+          "state": "Kentucky",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Kentucky",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        }
+      ]
+    },
+    {
+      "url": "http://ldh.la.gov/index.cfm/page/2472",
+      "states": [
+        "Louisiana"
+      ],
+      "policies": [
+        {
+          "state": "Louisiana",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Louisiana",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Louisiana",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Louisiana",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Louisiana",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Louisiana",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Louisiana",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Incentive payments",
+          "policyName": "Bed program"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        },
+        {
+          "state": "Louisiana",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.doa.la.gov/Pages/osr/lac/books.aspx",
+      "states": [
+        "Louisiana"
+      ],
+      "policies": [
+        {
+          "state": "Louisiana",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        }
+      ]
+    },
+    {
+      "url": "http://www.maine.gov/sos/cec/rules/10/ch101.htm",
+      "states": [
+        "Maine"
+      ],
+      "policies": [
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Maine",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Maine",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Maine",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Maine",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Maine",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Maine",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Maine",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Maine",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Maine",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Maine",
+          "category": "Incentive payments",
+          "policyName": "Bed program"
+        },
+        {
+          "state": "Maine",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/ME/ME-15-016.pdf",
+      "states": [
+        "Maine"
+      ],
+      "policies": [
+        {
+          "state": "Maine",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Maine",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/MD/MD-15-0001.pdf",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Maryland",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Maryland",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.07.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "https://mmcp.health.maryland.gov/longtermcare/Pages/Nursing-Facility-Providers.aspx",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.09.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Maryland",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Maryland",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.01.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Cost report"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/MD/MD-17-0008.pdf",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        }
+      ]
+    },
+    {
+      "url": "https://mmcp.health.maryland.gov/MCOupdates/pdf/NH_Transmittal_241(7-2012)_1.pdf",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.25.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.20.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "General",
+          "policyName": "Out-of-state"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.12.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.11.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Maryland",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.26.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Maryland",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.30.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.13.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dsd.state.md.us/comar/comarhtml/10/10.09.10.19.htm",
+      "states": [
+        "Maryland"
+      ],
+      "policies": [
+        {
+          "state": "Maryland",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/MA/MA-18-021.pdf",
+      "states": [
+        "Massachusetts"
+      ],
+      "policies": [
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Outlier payments"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Incentive payments",
+          "policyName": "Bed program"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/regulations/101-CMR-20600-standard-payments-to-nursing-facilities",
+      "states": [
+        "Massachusetts"
+      ],
+      "policies": [
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Massachusetts",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/regulations/130-CMR-456000-long-term-care-services",
+      "states": [
+        "Massachusetts"
+      ],
+      "policies": [
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mass.gov/regulations/130-CMR-450-administrative-and-billing-regulations",
+      "states": [
+        "Massachusetts"
+      ],
+      "policies": [
+        {
+          "state": "Massachusetts",
+          "category": "General",
+          "policyName": "Out-of-state"
+        }
+      ]
+    },
+    {
+      "url": "http://www.mdch.state.mi.us/dch-medicaid/manuals/MedicaidProviderManual.pdf",
+      "states": [
+        "Michigan"
+      ],
+      "policies": [
+        {
+          "state": "Michigan",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Michigan",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Michigan",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Michigan",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Michigan",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Michigan",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Michigan",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Michigan",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Michigan",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Michigan",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Michigan",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Michigan",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Michigan",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Michigan",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Michigan",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Michigan",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "http://www.mdch.state.mi.us/dch-medicaid/manuals/MichiganStatePlan/MichiganStatePlan.pdf",
+      "states": [
+        "Michigan"
+      ],
+      "policies": [
+        {
+          "state": "Michigan",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Michigan",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Michigan",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Michigan",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Michigan",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS16_146898",
+      "states": [
+        "Minnesota"
+      ],
+      "policies": [
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        }
+      ]
+    },
+    {
+      "url": "https://mn.gov/dhs/partners-and-providers/news-initiatives-reports-workgroups/minnesota-health-care-programs/spa.jsp",
+      "states": [
+        "Minnesota"
+      ],
+      "policies": [
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/MN/MN-17-26.pdf",
+      "states": [
+        "Minnesota"
+      ],
+      "policies": [
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=ID_008996",
+      "states": [
+        "Minnesota"
+      ],
+      "policies": [
+        {
+          "state": "Minnesota",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Minnesota",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaid.ms.gov/providers/administrative-code/",
+      "states": [
+        "Mississippi"
+      ],
+      "policies": [
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaid.ms.gov/about/state-plan/",
+      "states": [
+        "Mississippi"
+      ],
+      "policies": [
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Mississippi",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "Mississippi",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaid.ms.gov/civil-money-penalty-grant-applications-being-accepted/",
+      "states": [
+        "Mississippi"
+      ],
+      "policies": [
+        {
+          "state": "Mississippi",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sos.mo.gov/adrules/csr/current/13csr/13csr#13-70",
+      "states": [
+        "Missouri"
+      ],
+      "policies": [
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Missouri",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Missouri",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Missouri",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Missouri",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Missouri",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Missouri",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Missouri",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Missouri",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Missouri",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Missouri",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "Missouri",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Missouri",
+          "category": "Incentive payments",
+          "policyName": "Bed program"
+        },
+        {
+          "state": "Missouri",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/MO/MO-18-0016.pdf",
+      "states": [
+        "Missouri"
+      ],
+      "policies": [
+        {
+          "state": "Missouri",
+          "category": "General",
+          "policyName": "Inflation factor"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaidprovider.mt.gov/manuals/nursingfacilitymanual",
+      "states": [
+        "Montana"
+      ],
+      "policies": [
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Montana",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Montana",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Montana",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Montana",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "http://www.mtrules.org/gateway/ChapterHome.asp?Chapter=37%2E40",
+      "states": [
+        "Montana"
+      ],
+      "policies": [
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Montana",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Montana",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Montana",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "http://dhhs.ne.gov/medicaid/Pages/med_xixstateplan.aspx",
+      "states": [
+        "Nebraska"
+      ],
+      "policies": [
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Nebraska",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "http://www.sos.ne.gov/rules-and-regs/regsearch/Rules/Health_and_Human_Services_System/Title-471/Chapter-12.pdf",
+      "states": [
+        "Nebraska"
+      ],
+      "policies": [
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Nebraska",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        }
+      ]
+    },
+    {
+      "url": "http://dhcfp.nv.gov/Resources/AdminSupport/Manuals/MSP/MSPHome/",
+      "states": [
+        "Nevada"
+      ],
+      "policies": [
+        {
+          "state": "Nevada",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Nevada",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Nevada",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Nevada",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Nevada",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Nevada",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Nevada",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Nevada",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Nevada",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Nevada",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Nevada",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Nevada",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Nevada",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Nevada",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Nevada",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Nevada",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Nevada",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "http://dhcfp.nv.gov/Resources/AdminSupport/Manuals/MSM/MSMHome/",
+      "states": [
+        "Nevada"
+      ],
+      "policies": [
+        {
+          "state": "Nevada",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "http://www.gencourt.state.nh.us/rules/about_rules/listagencies.htm",
+      "states": [
+        "New Hampshire"
+      ],
+      "policies": [
+        {
+          "state": "New Hampshire",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "New Hampshire",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NH/NH-18-0017.pdf",
+      "states": [
+        "New Hampshire"
+      ],
+      "policies": [
+        {
+          "state": "New Hampshire",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://advance.lexis.com/container?config=00JAA5OTY5MTdjZi1lMzYxLTQxNTEtOWFkNi0xMmU5ZTViODQ2M2MKAFBvZENhdGFsb2coFSYEAfv22IKqMT9DIHrf&crid=822c3a12-7dd8-406a-8842-6bd50affa998&prid=74cab596-0a03-4ba7-9b93-05ac57872bab",
+      "states": [
+        "New Jersey"
+      ],
+      "policies": [
+        {
+          "state": "New Jersey",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "New Jersey",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "New Jersey",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "New Jersey",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "New Jersey",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.state.nj.us/humanservices/dmahs/info/state_plan/Attachment4_Payments_and_Rates.pdf",
+      "states": [
+        "New Jersey"
+      ],
+      "policies": [
+        {
+          "state": "New Jersey",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "New Jersey",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "New Jersey",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "New Jersey",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/NJ/NJ-09-08-Att.pdf",
+      "states": [
+        "New Jersey"
+      ],
+      "policies": [
+        {
+          "state": "New Jersey",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "http://164.64.110.134/nmac/T08C312",
+      "states": [
+        "New Mexico"
+      ],
+      "policies": [
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "New Mexico",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "New Mexico",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://regs.health.ny.gov/content/section-86-240-statewide-prices-non-capital-reimbursement",
+      "states": [
+        "New York"
+      ],
+      "policies": [
+        {
+          "state": "New York",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "New York",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "New York",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "New York",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "New York",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "New York",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "New York",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "New York",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "New York",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "New York",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "New York",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "New York",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "New York",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        }
+      ]
+    },
+    {
+      "url": "http://docs.dos.ny.gov/info/register/2014/feb5/pdf/rulemaking.pdf",
+      "states": [
+        "New York"
+      ],
+      "policies": [
+        {
+          "state": "New York",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        }
+      ]
+    },
+    {
+      "url": "https://regs.health.ny.gov/content/section-86-221-capital-cost-reimbursement-proprietary-residential-health-care-facilities",
+      "states": [
+        "New York"
+      ],
+      "policies": [
+        {
+          "state": "New York",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        }
+      ]
+    },
+    {
+      "url": "https://regs.health.ny.gov/content/section-86-238-nursing-home-incentive-payment",
+      "states": [
+        "New York"
+      ],
+      "policies": [
+        {
+          "state": "New York",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaid.ncdhhs.gov/get-involved/nc-health-choice-state-plan",
+      "states": [
+        "North Carolina"
+      ],
+      "policies": [
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "North Carolina",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://files.nc.gov/ncdma/documents/files/2B1.pdf",
+      "states": [
+        "North Carolina"
+      ],
+      "policies": [
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "North Carolina",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://www.nd.gov/dhs/services/medicalserv/medicaid/provider-all.html",
+      "states": [
+        "North Dakota"
+      ],
+      "policies": [
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "North Dakota",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/ND/ND-18-0006.pdf",
+      "states": [
+        "North Dakota"
+      ],
+      "policies": [
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/ND/ND-17-0014.pdf",
+      "states": [
+        "North Dakota"
+      ],
+      "policies": [
+        {
+          "state": "North Dakota",
+          "category": "General",
+          "policyName": "Cost report"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaid.test.ohio.gov/Portals/0/Medicaid%20101/Medicaid%20State%20Plan/Section%204/4_19D-NF-PaymentServices.pdf",
+      "states": [
+        "Ohio"
+      ],
+      "policies": [
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Ohio",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Ohio",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Ohio",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Ohio",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Ohio",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Ohio",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Ohio",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Ohio",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Ohio",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Ohio",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Ohio",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "http://www.healthtransformation.ohio.gov/LinkClick.aspx?fileticket=Us282DLpPf0%3D&tabid=124",
+      "states": [
+        "Ohio"
+      ],
+      "policies": [
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Cost report"
+        }
+      ]
+    },
+    {
+      "url": "https://www.healthtransformation.ohio.gov/Portals/0/1F%20NF.pdf?ver=2015-02-02-141712-757",
+      "states": [
+        "Ohio"
+      ],
+      "policies": [
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        }
+      ]
+    },
+    {
+      "url": "http://www.registerofohio.state.oh.us/pdfs/5160/0/3/5160-3-43$2_PH_OF_N_RS_20151127_1021.pdf",
+      "states": [
+        "Ohio"
+      ],
+      "policies": [
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/OH/OH-17-004.pdf",
+      "states": [
+        "Ohio"
+      ],
+      "policies": [
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Outlier payments"
+        }
+      ]
+    },
+    {
+      "url": "http://codes.ohio.gov/oac/5160-3",
+      "states": [
+        "Ohio"
+      ],
+      "policies": [
+        {
+          "state": "Ohio",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "http://www.oar.state.ok.us/oar/codedoc02.nsf/frmMain?OpenFrameSet&Frame=Main&Src=_75tnm2shfcdnm8pb4dthj0chedppmcbq8dtmmak31ctijujrgcln50ob7ckj42tbkdt374obdcli00_",
+      "states": [
+        "Oklahoma"
+      ],
+      "policies": [
+        {
+          "state": "Oklahoma",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "http://www.okhca.org/about.aspx?id=19741",
+      "states": [
+        "Oklahoma"
+      ],
+      "policies": [
+        {
+          "state": "Oklahoma",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "General",
+          "policyName": "Outlier payments"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://okhca.org/WorkArea/DownloadAsset.aspx?id=17465",
+      "states": [
+        "Oklahoma"
+      ],
+      "policies": [
+        {
+          "state": "Oklahoma",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Oklahoma",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        }
+      ]
+    },
+    {
+      "url": "https://www.oregon.gov/oha/HSD/Medicaid-Policy/Pages/State-Plans.aspx",
+      "states": [
+        "Oregon"
+      ],
+      "policies": [
+        {
+          "state": "Oregon",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Oregon",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Oregon",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Oregon",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Oregon",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Oregon",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Oregon",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        }
+      ]
+    },
+    {
+      "url": "https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=91",
+      "states": [
+        "Oregon"
+      ],
+      "policies": [
+        {
+          "state": "Oregon",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Oregon",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Oregon",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Oregon",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Oregon",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Oregon",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Oregon",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Oregon",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pacode.com/secure/data/055/055toc.html",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Pennsylvania",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "http://www.dhs.pa.gov/publications/medicaidstateplan/index.htm",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/PA/PA-16-0033.pdf",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/PA/PA-18-0031.pdf",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/PA/PA-19-0003.pdf",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/PA/PA-18-0029.pdf",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/PA/PA-18-0028.pdf",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/PA/PA-18-0027.pdf",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/PA/PA-14-033.pdf",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/PA/PA-18-0033.pdf",
+      "states": [
+        "Pennsylvania"
+      ],
+      "policies": [
+        {
+          "state": "Pennsylvania",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/RI/RI-13-006.pdf",
+      "states": [
+        "Rhode Island"
+      ],
+      "policies": [
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "http://webserver.rilin.state.ri.us/Statutes/TITLE40/40-8/40-8-19.HTM",
+      "states": [
+        "Rhode Island"
+      ],
+      "policies": [
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Inflation factor"
+        }
+      ]
+    },
+    {
+      "url": "http://www.eohhs.ri.gov/Portals/0/Uploads/Documents/principles_of_reimbursement.pdf",
+      "states": [
+        "Rhode Island"
+      ],
+      "policies": [
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Rhode Island",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        }
+      ]
+    },
+    {
+      "url": "http://www.eohhs.ri.gov/ProvidersPartners/ProviderManualsGuidelines/MedicaidProviderManual/LongTermCare/LongTermCarePolicy.aspx#15.6",
+      "states": [
+        "Rhode Island"
+      ],
+      "policies": [
+        {
+          "state": "Rhode Island",
+          "category": "General",
+          "policyName": "Out-of-state"
+        }
+      ]
+    },
+    {
+      "url": "https://www.scdhhs.gov/site-page/state-plan-list-attachments",
+      "states": [
+        "South Carolina"
+      ],
+      "policies": [
+        {
+          "state": "South Carolina",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "South Carolina",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "South Carolina",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "South Carolina",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "South Carolina",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "South Carolina",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "South Carolina",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        },
+        {
+          "state": "South Carolina",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.scdhhs.gov/internet/pdf/manuals/Nursing/Manual.pdf",
+      "states": [
+        "South Carolina"
+      ],
+      "policies": [
+        {
+          "state": "South Carolina",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "http://sdlegislature.gov/Rules/DisplayRule.aspx?Rule=67:16:04",
+      "states": [
+        "South Dakota"
+      ],
+      "policies": [
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        }
+      ]
+    },
+    {
+      "url": "https://dss.sd.gov/medicaid/medicaidstateplan.aspx",
+      "states": [
+        "South Dakota"
+      ],
+      "policies": [
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Outlier payments"
+        },
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "South Dakota",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "https://dss.sd.gov/medicaid/providers/billingmanuals/",
+      "states": [
+        "South Dakota"
+      ],
+      "policies": [
+        {
+          "state": "South Dakota",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://dhs.sd.gov/ltss/linksandresources.aspx",
+      "states": [
+        "South Dakota"
+      ],
+      "policies": [
+        {
+          "state": "South Dakota",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "https://publications.tnsosfiles.com/rules/1200/1200-13/1200-13.htm",
+      "states": [
+        "Tennessee"
+      ],
+      "policies": [
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Tennessee",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/TN/TN-18-0001.pdf",
+      "states": [
+        "Tennessee"
+      ],
+      "policies": [
+        {
+          "state": "Tennessee",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=1&pt=15&ch=355",
+      "states": [
+        "Texas"
+      ],
+      "policies": [
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Texas",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Texas",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Texas",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Texas",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://hhs.texas.gov/services/health/medicaid-chip/about-medicaid-chip/state-plan",
+      "states": [
+        "Texas"
+      ],
+      "policies": [
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Texas",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Texas",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Texas",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Texas",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Texas",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Texas",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Texas",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        },
+        {
+          "state": "Texas",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Texas",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=3&ti=40&pt=1",
+      "states": [
+        "Texas"
+      ],
+      "policies": [
+        {
+          "state": "Texas",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://health.utah.gov/stplan/index.htm",
+      "states": [
+        "Utah"
+      ],
+      "policies": [
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Utah",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Utah",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Utah",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Utah",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Utah",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Utah",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Utah",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Utah",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Utah",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Utah",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Utah",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Utah",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://rules.utah.gov/publicat/code/r414/r414-504.htm",
+      "states": [
+        "Utah"
+      ],
+      "policies": [
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Utah",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "https://medicaid.utah.gov/manuals-0",
+      "states": [
+        "Utah"
+      ],
+      "policies": [
+        {
+          "state": "Utah",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/10/037/00905b",
+      "states": [
+        "Vermont"
+      ],
+      "policies": [
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Inflation factor"
+        }
+      ]
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/33/009/00906",
+      "states": [
+        "Vermont"
+      ],
+      "policies": [
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        }
+      ]
+    },
+    {
+      "url": "http://humanservices.vermont.gov/departments/office-of-the-secretary/ahs-drs/nursing-homes/nursing-homes/practices-and-procedures",
+      "states": [
+        "Vermont"
+      ],
+      "policies": [
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        }
+      ]
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/33/009/00904",
+      "states": [
+        "Vermont"
+      ],
+      "policies": [
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Inflation factor"
+        }
+      ]
+    },
+    {
+      "url": "http://dvha.vermont.gov/administration/state-plan",
+      "states": [
+        "Vermont"
+      ],
+      "policies": [
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Vermont",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Vermont",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Vermont",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Vermont",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Vermont",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Vermont",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Vermont",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Vermont",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Vermont",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        }
+      ]
+    },
+    {
+      "url": "http://www.vtmedicaid.com/#/manuals",
+      "states": [
+        "Vermont"
+      ],
+      "policies": [
+        {
+          "state": "Vermont",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        }
+      ]
+    },
+    {
+      "url": "https://law.lis.virginia.gov/admincode/title12/agency30/chapter90/section44/",
+      "states": [
+        "Virginia"
+      ],
+      "policies": [
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Virginia",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Virginia",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        }
+      ]
+    },
+    {
+      "url": "https://law.lis.virginia.gov/admincode/title12/agency30/chapter90/section10/",
+      "states": [
+        "Virginia"
+      ],
+      "policies": [
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Cost report"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ecm.virginiamedicaid.dmas.virginia.gov/WorkplaceXT/getContent?impersonate=true&id={2729270E-6A35-4642-8513-4B049FC7C6D9}&vsId={9094B46C-0000-C91A-8187-0D11645D008D}&objectType=document&objectStoreName=VAPRODOS1",
+      "states": [
+        "Virginia"
+      ],
+      "policies": [
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Cost report"
+        }
+      ]
+    },
+    {
+      "url": "https://law.lis.virginia.gov/admincode/title12/agency30/chapter90/section41/",
+      "states": [
+        "Virginia"
+      ],
+      "policies": [
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "Inflation factor"
+        }
+      ]
+    },
+    {
+      "url": "https://law.lis.virginia.gov/admincode/title12/agency30/chapter90/",
+      "states": [
+        "Virginia"
+      ],
+      "policies": [
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Virginia",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Virginia",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Virginia",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Virginia",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Virginia",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Virginia",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Virginia",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Virginia",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Virginia",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        },
+        {
+          "state": "Virginia",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.hca.wa.gov/about-hca/apple-health-medicaid/medicaid-title-xix-state-plan",
+      "states": [
+        "Washington"
+      ],
+      "policies": [
+        {
+          "state": "Washington",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Washington",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Washington",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Washington",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Washington",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Washington",
+          "category": "General",
+          "policyName": "Outlier payments"
+        },
+        {
+          "state": "Washington",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Washington",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Washington",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Washington",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Washington",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Washington",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Washington",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Washington",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Washington",
+          "category": "Adjustments",
+          "policyName": "Geographic"
+        },
+        {
+          "state": "Washington",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Washington",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Washington",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Washington",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Washington",
+          "category": "Incentive payments",
+          "policyName": "Quality or pay for performance"
+        },
+        {
+          "state": "Washington",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://apps.leg.wa.gov/wac/default.aspx?cite=388-96&full=true#388-96-910",
+      "states": [
+        "Washington"
+      ],
+      "policies": [
+        {
+          "state": "Washington",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        }
+      ]
+    },
+    {
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=74.46.485",
+      "states": [
+        "Washington"
+      ],
+      "policies": [
+        {
+          "state": "Washington",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        }
+      ]
+    },
+    {
+      "url": "https://dhhr.wv.gov/bms/pages/manuals.aspx",
+      "states": [
+        "West Virginia"
+      ],
+      "policies": [
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "West Virginia",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "West Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "West Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "West Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "West Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "West Virginia",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "West Virginia",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "West Virginia",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "West Virginia",
+          "category": "Incentive payments",
+          "policyName": "Efficiency"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dhs.wisconsin.gov/mandatoryreports/mastateplan/index.htm",
+      "states": [
+        "Wisconsin"
+      ],
+      "policies": [
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Incentive payments",
+          "policyName": "Bed program"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Incentive payments",
+          "policyName": "Other incentive payments"
+        }
+      ]
+    },
+    {
+      "url": "https://www.forwardhealth.wi.gov/WIPortal/Tab/42/icscontent/Provider/medicaid/NursingFacility/resources_03.htm.spage",
+      "states": [
+        "Wisconsin"
+      ],
+      "policies": [
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "Inflation factor"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Primary cost centers",
+          "policyName": "Occupancy rate minimum"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        },
+        {
+          "state": "Wisconsin",
+          "category": "Other adjustments",
+          "policyName": "Other supplemental payments"
+        }
+      ]
+    },
+    {
+      "url": "https://rules.wyo.gov/Search.aspx?mode=1",
+      "states": [
+        "Wyoming"
+      ],
+      "policies": [
+        {
+          "state": "Wyoming",
+          "category": "General",
+          "policyName": "Basic payment policy approach"
+        },
+        {
+          "state": "Wyoming",
+          "category": "General",
+          "policyName": "Underlying basis for rates"
+        },
+        {
+          "state": "Wyoming",
+          "category": "General",
+          "policyName": "Cost report"
+        },
+        {
+          "state": "Wyoming",
+          "category": "General",
+          "policyName": "Rebasing frequency"
+        },
+        {
+          "state": "Wyoming",
+          "category": "General",
+          "policyName": "Outlier payments"
+        },
+        {
+          "state": "Wyoming",
+          "category": "General",
+          "policyName": "New nursing facility; new owner"
+        },
+        {
+          "state": "Wyoming",
+          "category": "General",
+          "policyName": "Out-of-state"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Primary cost centers",
+          "policyName": "Direct care"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Primary cost centers",
+          "policyName": "Indirect care"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Primary cost centers",
+          "policyName": "Administration"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Primary cost centers",
+          "policyName": "Capital"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Primary cost centers",
+          "policyName": "Other costs"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Adjustments",
+          "policyName": "Acuity system"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Adjustments",
+          "policyName": "Peer grouping"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Adjustments",
+          "policyName": "Ventilator"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Adjustments",
+          "policyName": "Mental health or cognitive impairment"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Adjustments",
+          "policyName": "Other high-need condition"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Adjustments",
+          "policyName": "Public facilities adjustment"
+        }
+      ]
+    },
+    {
+      "url": "https://health.wyo.gov/healthcarefin/medicaid/spa/",
+      "states": [
+        "Wyoming"
+      ],
+      "policies": [
+        {
+          "state": "Wyoming",
+          "category": "General",
+          "policyName": "Bed-hold policy"
+        },
+        {
+          "state": "Wyoming",
+          "category": "Other adjustments",
+          "policyName": "Public facilities supplemental payments"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+Zero-Based Regulation Review – 2022 for Rulemaking and 2023 Legislative Review
+IDAPA 16 – IDAHO DEPARTMENT OF HEALTH AND WELFARE
+Division of Public Health – Bureau of Communicable Disease Prevention
+16.02.19 – Idaho Food Code
+Who does this rule apply to?
+Restaurants, catering facilities, taverns, kiosks, vending facilities, commissaries, cafeterias,
+mobile food facilities, temporary food facilities, schools, senior centers, hospitals, residential
+care and treatment facilities, nursing homes, correctional facilities, camps, food banks, church
+facilities, retail markets, meat, fish, delicatessen, bakery, supermarkets, convenience stores,
+health food stores, neighborhood markets, food, water and beverage processing and bottling
+facilities.
+What is the purpose of this rule?
+The purpose of these rules is to establish standards for the provision of safe, unadulterated and
+honestly presented food for consumption by the public. These rules provide requirements for
+licensing, inspections, review of plans, employee restriction, and license suspensions for food
+establishments and food processing plants. Also included are definitions and set standards for
+management, personnel, food operations, equipment and facilities.
+What is the legal authority for the agency to promulgate this rule?
+This rule implements the following statutes passed by the Idaho Legislature:
+Food, Drugs, and Oil -
+Idaho Food, Drug and Cosmetic Act:
+• Section 37-121, Idaho Code – Promulgation of Reasonable Standards by Board
+Health and Safety -
+Food Establishment Act:
+• Section 39-1603, Idaho Code – Powers and Duty of the Board
+Where can I find information on Administrative Appeals?
+Administrative appeals and contested cases are governed by the provisions of IDAPA 16.05.03,
+“Contested Case Proceedings and Declaratory Rulings.”
+How do I request public records?
+Unless exempted, all public records are subject to disclosure by the Department that will comply
+with Title 74, Chapter 1, Idaho Code, upon requests. Confidential information may be restricted
+by state or federal law, federal regulation, and IDAPA 16.05.01, “Use and Disclosure of
+Department Records.”
+Contested Hearing and Appeal Records – All contested case hearings are open to the public,
+unless ordered closed at the discretion of the hearing officer based on compelling circumstances.
+A party to a hearing must maintain confidentiality of discussions that warrant closing the hearing
+to the public.
+Plans and Specifications – Plans and specifications submitted to the regulatory authority as
+required in Chapter 8 of the 2013 Food Code referenced in Section 002 of these rules, must be
+treated as confidential or trade secret information under Section 74-107, Idaho Code.
+Zero-Based Regulation Review – 2022 for Rulemaking and 2023 Legislative Review
+Who do I contact for more information on this rule?
+Idaho Department of Health and Welfare
+Food Protection Program
+450 West State Street
+Boise, ID 83702
+P.O. Box 83720
+Boise, ID 83720-0036
+Phone: (208) 334-4994
+Fax: (208) 332-7307
+Email: foodprotection@dhw.idaho.gov
+Webpage: https://foodsafety.idaho.gov
+Page 3
+Table of Contents
+16.02.19 – Idaho Food Code
+000. Legal Authority. ...................................................................................................... 5
+001. Applicability. ........................................................................................................... 5
+002. Incorporation By Reference. ................................................................................... 6
+003. -- 049. (Reserved) ................................................................................................... 6
+050. Training And Informational Materials. ..................................................................... 6
+051. -- 099. (Reserved) ................................................................................................... 6
+100. Purposes And Definitions. ...................................................................................... 6
+101. -- 109. (Reserved) ................................................................................................... 6
+110. Definitions And Abbreviations -- A Through K. ....................................................... 6
+111. Definitions And Abbreviations -- L Through Z. ....................................................... 8
+112. -- 199. (Reserved) ................................................................................................... 9
+200. Management And Personnel. ................................................................................. 9
+201. Person In Charge. .................................................................................................. 9
+202. -- 209. (Reserved) ................................................................................................... 9
+210. Demonstration Of Knowledge. ............................................................................... 9
+211. -- 299. (Reserved) ................................................................................................... 9
+300. Food. ...................................................................................................................... 9
+301. -- 319. (Reserved) ................................................................................................... 9
+320. Meat And Poultry. ................................................................................................... 9
+321. -- 324. (Reserved) ................................................................................................... 9
+325. Game Animals. ....................................................................................................... 9
+326. -- 354. (Reserved) ................................................................................................. 10
+355. Food Processing Plants. ...................................................................................... 10
+356. -- 359. (Reserved) ..................................................................................................11
+360. Advising Consumers Of Health Risk Of Raw Or Undercooked Foods. ................ 11
+361. -- 369. (Reserved) ................................................................................................. 12
+370. Adulterated Or Misbranded Food. ........................................................................ 12
+371. -- 599. (Reserved) ................................................................................................. 12
+600. Physical Facilities. ................................................................................................ 12
+601. -- 619. (Reserved) ................................................................................................. 12
+620. Private Homes And Living Or Sleeping Quarters, Use Prohibition. ...................... 12
+621. -- 699. (Reserved) ................................................................................................. 12
+700. Poisonous Or Toxic Materials. ............................................................................. 12
+701. -- 719. (Reserved) ................................................................................................. 12
+720. Restriction And Storage Of Medicines. ................................................................ 12
+721. Refrigerated Storage Of Medicines. ..................................................................... 12
+722. -- 799. (Reserved) ................................................................................................. 12
+800. Compliance And Enforcement. ............................................................................. 12
+801. -- 829. (Reserved) ................................................................................................. 13
+830. Application For A License. .................................................................................... 13
+831. Summary Suspension Of License. ....................................................................... 13
+832. -- 839. (Reserved) ................................................................................................. 14
+Table of Contents (cont’d)
+Page 4
+840. Inspections And Correction Of Violations. ............................................................ 14
+841. Inspection Scores. ................................................................................................ 14
+842. -- 844. (Reserved) ................................................................................................. 15
+845. Verification And Documentation Of Correction. .................................................... 15
+846. -- 849. (Reserved) ................................................................................................. 15
+850. Enforcement Inspections. ..................................................................................... 15
+851. Enforcement Procedures For Adulterated Or Misbranded Food. ......................... 15
+852. -- 859. (Reserved) ................................................................................................. 16
+860. Revocation Of License. ........................................................................................ 16
+861. Appeal Process. ................................................................................................... 17
+862. -- 889. (Reserved) ................................................................................................. 17
+890. Criminal And Civil Proceedings. ........................................................................... 18
+891. -- 999. (Reserved) ................................................................................................. 18
+Section 000 Page 5
+16.02.19 – IDAHO FOOD CODE
+000. LEGAL AUTHORITY.
+Sections 37-121 and 39-1603, Idaho Code, authorize the Board to adopt rules for the regulation of food
+establishments to protect public health. (4-6-23)
+001. APPLICABILITY.
+01. These Rules Apply to Food Establishments. Food establishments under Section 39-1602, Idaho
+Code, must follow these rules. Those facilities include the following: (4-6-23)
+a. Restaurants, catering facilities, taverns, kiosks, vending facilities, commissaries, cafeterias, mobile
+food facilities, and temporary food facilities; (4-6-23)
+b. Schools, senior centers, hospitals, residential care and treatment facilities, nursing homes,
+correctional facilities, camps, food banks, and church facilities; (4-6-23)
+c. Retail markets, meat, fish, delicatessen, bakeries, supermarkets, convenience stores, health food
+stores, and neighborhood markets; and (4-6-23)
+d. Food, water and beverage processing and bottling facilities that manufacture, process, and
+distribute food, water, and beverages, and are not inspected for food safety by a federal agency. (4-6-23)
+02. These Rules Do Not Apply to These Establishments Under Idaho Code. (4-6-23)
+a. Agricultural markets as exempted in Section 39-1602, Idaho Code. (4-6-23)
+b. Bed-and-breakfast operations that prepare and offer food for breakfast only to guests. The number
+of guest beds must not exceed ten (10) beds under Section 39-1602, Idaho Code. (4-6-23)
+c. Day care facilities regulated by Sections 39-1101 through 39-1119, Idaho Code. (4-6-23)
+d. Licensed outfitters and guides regulated by Sections 36-2101 through 36-2119, Idaho Code.
+(4-6-23)
+e. Low-risk food establishments, as exempted in Section 39-1602, Idaho Code, which offer only nonTCS foods. (4-6-23)
+f. Farmers market vendors and roadside stands that only offer or sell non-TCS foods or cottage foods.
+(4-6-23)
+g. Non-profit charitable, fraternal, or benevolent organizations that do not prepare or serve food on a
+regular basis as exempted in Section 39-1602, Idaho Code. Food is not considered to be served on a regular basis if it
+is not served for more than five (5) consecutive days on no more than three (3) occasions per year for foods that are
+non-TCS. For all other food, it must not be served more than one (1) meal per week. (4-6-23)
+h. Private homes where food is prepared or served for family consumption or receives catered or
+home-delivered food as exempted by Section 39-1602, Idaho Code. (4-6-23)
+i. Cottage food operations, when the consumer is informed and must be provided contact information
+for the cottage food operations by a clearly legible label on the product packaging; or a clearly visible placard at the
+sales or service location that also states: (4-6-23)
+i. The food was prepared in a home kitchen that is not subject to regulation and inspection by the
+regulatory authority; and (4-6-23)
+ii. The food may contain allergens. (4-6-23)
+03. How to Use This Chapter of Rules. These rules are modifications, additions, or deletions made to
+the federal publication incorporated by reference in Section 002 of these rules. To follow these rules the publication is
+required. Changes to those standards are listed in these rules by which section of the incorporated publication is being
+modified at the beginning of each Section of rule. Citations to the incorporated Food Code are in the format “xxxx.xx.” (4-6-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 002 Page 6
+002. INCORPORATION BY REFERENCE.
+The Department adopted by reference the “Food Code, 2013 Recommendations of the United States Public Health
+Service Food and Drug Administration,” Publication PB2013-110462, hereafter referred to as the incorporated Food
+Code. A certified copy of this publication may be reviewed at the main office of the Department. It is also available
+online at http://www.fda.gov/Food/GuidanceRegulation/RetailFoodProtection/FoodCode/ucm374275.htm. This
+publication is being adopted with modifications and additions as follows: (4-6-23)
+01. Chapter 1, Purpose and Definitions. Additions and modifications have been made to this chapter.
+See Sections 100 - 199 of these rules. (4-6-23)
+02. Chapter 2, Management and Personnel. Modifications have been made to this chapter. See
+Sections 200 - 299 of these rules. (4-6-23)
+03. Chapter 3, Food. Modifications have been made to this chapter. See Sections 300-399 of these
+rules. (4-6-23)
+04. Chapter 4, Equipment, Utensils, and Linens. This chapter has been adopted with no
+modifications. (4-6-23)
+05. Chapter 5, Water, Plumbing and Waste. This chapter has been adopted with no modifications.
+(4-6-23)
+06. Chapter 6, Physical Facilities. Modifications have been made to this chapter. See Sections 600-
+699 of these rules. (4-6-23)
+07. Chapter 7, Poisonous or Toxic Materials. Modifications have been made in this chapter. See
+Sections 700 - 799 of these rules. (4-6-23)
+08. Chapter 8, Compliance and Enforcement. Modifications have been made in this chapter. See
+Sections 800-899 of these rules. (4-6-23)
+09. Annexes 1 Through 7 Are Excluded. These sections have not been adopted. (4-6-23)
+003. -- 049. (RESERVED)
+050. TRAINING AND INFORMATIONAL MATERIALS.
+Section 56-1007, Idaho Code, authorizes the Department to establish a reasonable charge for training and
+informational materials that are provided to the public. (4-6-23)
+051. -- 099. (RESERVED)
+100. PURPOSES AND DEFINITIONS.
+Sections 100 through 199 of these rules will be used for modifications and additions to Chapter 1 of the incorporated
+Food Code. (4-6-23)
+101. -- 109. (RESERVED)
+110. DEFINITIONS AND ABBREVIATIONS -- A THROUGH K.
+The definitions under this Section are modifications or additions to the definitions provided in the incorporated Food
+Code. (4-6-23)
+01. Agricultural Market. Any venue where a fixed or mobile retail food establishment can engage in
+the sale of raw or fresh fruits, vegetables, and nuts in the shell. It may also include the sale of factory sealed non-TCS
+foods. Agricultural market means the same as “farmers market” or “roadside stand.” (4-6-23)
+02. Board. The Idaho Board of Health and Welfare under Section 56-1005, Idaho Code. (4-6-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 110 Page 7
+03. Consent Order. An enforceable agreement between the regulatory authority and the license holder
+to correct violations that caused the actions taken by the regulatory authority. (4-6-23)
+04. Core Item. A provision in the incorporated Food Code that is not designated as a priority item or a
+priority foundation item and includes items that usually relate to general sanitation, operation controls, sanitation
+standard operating procedures (SSOPs), facilities or structures, equipment design, or general maintenance. (4-6-23)
+05. Cottage Food Operation. When a person or business prepares or produces cottage food products
+in the home kitchen of that person's primary residence or other designated kitchen or location. (4-6-23)
+06. Cottage Food Product. Non-TCS foods that are sold directly to a consumer. Examples include:
+baked goods, fruit jams, jellies, fruit pies, breads, cakes, pastries, cookies, candies, confections, dried fruits, dry
+herbs, seasonings and mixtures, cereals, trail mixes, granola, nuts, vinegar, popcorn and popcorn balls, and cotton
+candy. (4-6-23)
+07. Department. The Idaho Department of Health and Welfare under Section 56-1002, Idaho Code, or
+its designee. (4-6-23)
+08. Director. The Director of the Idaho Department of Health and Welfare under Section 56-1003,
+Idaho Code. (4-6-23)
+09. Embargo. An action taken by the regulatory authority that places a food product or equipment used
+in food production on hold until a determination is made on the product's safety. (4-6-23)
+10. Enforcement Inspection. An inspection conducted by the regulatory authority when compliance
+with these rules by a food establishment is lacking and violations remain uncorrected after the first follow-up
+inspection to a routine inspection. (4-6-23)
+11. Farmers Market. Any fixed or mobile retail food establishment at which farmer producers sell
+agricultural products directly to the public. Farmers market means the same as “agricultural market” and “roadside
+stand.” (4-6-23)
+12. Food Establishment. Modifications to Section 1-201.10 amend the definition of “food
+establishment” as follows: (4-6-23)
+a. Delete Subparagraph 3(c) of the term “food establishment” in the incorporated Food Code;
+(4-6-23)
+b. Add Subparagraph 3(h) to the term “food establishment” to clarify that a cottage food operation is
+not a food establishment. (4-6-23)
+13. Food Processing Plant. Modification to Section 1-201.10 amends the definition of “food
+processing plant” by deleting Subparagraph 2 of the term “food processing plant” in the incorporated Food Code.
+(4-6-23)
+14. Good Retail Practice. Preventive measures that include practices and procedures that effectively
+control the introduction of pathogens, chemicals, and physical objects into food. (4-6-23)
+15. High-Risk Food Establishment. Performs the following: (4-6-23)
+a. Extensive handling of raw ingredients; (4-6-23)
+b. Preparation processes that include the cooking, cooling, and reheating of TCS foods; or (4-6-23)
+c. A variety of processes requiring hot and cold holding of TCS foods. (4-6-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 111 Page 8
+111. DEFINITIONS AND ABBREVIATIONS -- L THROUGH Z.
+The definitions under this Section are modifications or additions to the definitions provided in the incorporated Food
+Code. (4-6-23)
+01. License. Is used in these rules the same as the term “permit” is used in the incorporated Food Code.
+(4-6-23)
+02. License Holder. Is used in these rules the same as the term “permit holder” is used in the
+incorporated Food Code. (4-6-23)
+03. Low-Risk Food Establishment. Provides factory-sealed prepackaged non-TCS foods. The
+establishment may have limited preparation of non-TCS foods only. (4-6-23)
+04. Medium-Risk Food Establishment. Includes the following: (4-6-23)
+a. A limited menu of one (1) or two (2) items; (4-6-23)
+b. Prepackaged raw ingredients cooked or prepared to order; (4-6-23)
+c. Raw ingredients requiring minimal assembly; (4-6-23)
+d. Most products are cooked or prepared and served immediately; or (4-6-23)
+e. Hot and cold holding of TCS foods is restricted to minimal holding between preparation and
+service. (4-6-23)
+05. Priority Item. A provision in the incorporated Food Code whose application contributes directly to
+the elimination, prevention, or reduction to an acceptable level, hazards associated with foodborne illness or injury,
+and there is no other provision that more directly controls the hazard. A priority item includes items with a
+quantifiable measure to show control of hazards such as cooking, reheating, cooling, handwashing, and is an item that
+is denoted in the incorporated Food Code with a superscript (P). (4-6-23)
+06. Priority Foundation Item. A provision in the incorporated Food Code whose application
+supports, facilitates, or enables one (1) or more priority items. Priority foundation item includes an item that requires
+the purposeful incorporation of specific actions, equipment, or procedures by industry management to attain control
+of risk factors that contribute to foodborne illness or injury such as personnel training, infrastructure or necessary
+equipment, HACCP plans, documentation or record keeping, and labeling. A priority foundation item is an item that
+is denoted in the incorporated Food Code with a superscript (Pf). (4-6-23)
+07. Regulatory Authority. The Department is the regulatory authority authorized to enforce
+compliance of these rules. (4-6-23)
+a. The Department is responsible for preparing the rules, rule amendments, standards, policy
+statements, operational procedures, program assessments, and guidelines. (4-6-23)
+b. The seven (7) Public Health Districts have been assigned and the Division of Licensing and
+Certification has been designated by the Director as the regulatory authority for the purpose of issuing licenses,
+collecting fees, conducting inspections, reviewing plans, determining compliance with the rules, investigating
+complaints and illnesses, examining food, embargoing food, and enforcing these rules. (4-6-23)
+08. Risk Control Plan. A document describing the specific actions to be taken by the license holder to
+address and correct a continuing hazard or risk within the food establishment. (4-6-23)
+09. Risk Factor Violation. Improper practices or procedures that are most frequently identified by
+epidemiologic investigation as a cause of foodborne illness or injury. (4-6-23)
+10. Roadside Stand. Any fixed or mobile retail food establishment at which an individual farmer
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 200 Page 9
+producer sells their own agricultural products directly to consumers. Roadside stand means the same as “agricultural
+market” and “farmers market.” (4-6-23)
+11. TCS. Time/Temperature Control for Safety. (4-6-23)
+112. -- 199. (RESERVED)
+200. MANAGEMENT AND PERSONNEL.
+Sections 200 through 299 of these rules will be used for modifications and additions to Chapter 2 of the incorporated
+Food Code. (4-6-23)
+201. PERSON IN CHARGE.
+Modification to Section 2-101.11. The license holder will be the person in charge or will designate a person in charge
+and will ensure that a person in charge is present at the food establishment during all hours of food preparation and
+service. (4-6-23)
+202. -- 209. (RESERVED)
+210. DEMONSTRATION OF KNOWLEDGE.
+Modification to Section 2-102.11. The person in charge of a food establishment may demonstrate knowledge on the
+risks of foodborne illness or health hazards by one (1) of the following. (4-6-23)
+01. No Priority Violations. Complying with the incorporated Food Code by not having any priority
+violations at the time of inspection; (4-6-23)
+02. Approved Courses. Completion of the Idaho Food Safety Exam, or an equivalent course designed
+to meet the same training as the Idaho Food Safety Exam; or (4-6-23)
+03. Certified Food Protection Manager. Being a certified food protection manager who has shown
+proficiency of required information through passing a test that is part of an accredited program. (4-6-23)
+211. -- 299. (RESERVED)
+300. FOOD.
+Sections 300 through 399 of these rules will be used for modifications and additions to Chapter 3 of the incorporated
+Food Code. (4-6-23)
+301. -- 319. (RESERVED)
+320. MEAT AND POULTRY.
+01. Custom Meat. Meat that is processed for individual owner(s) by a custom butcher, under the
+custom exemption in 9 CFR 303.1, “Mandatory Meat Inspection Exemptions,” must be marked “Not For Sale” and
+may not be sold, served, or given away to any member of the public. This meat must be for the use in the household
+of such owner(s), their families, non-paying guest, and employees only. (4-6-23)
+02. Poultry Exemption. Poultry that is exempt in 9 CFR 381.10, Subpart C, “Mandatory Poultry
+Products Inspection Exemptions” may be sold, served, or given away in Idaho, if it is processed in a licensed food
+processing facility and is labeled “Exempt from USDA Inspection per PL 492.” (4-6-23)
+321. -- 324. (RESERVED)
+325. GAME ANIMALS.
+Modification to Section 3-201.l7(A)(4), is made by deleting Section 3-201.17(A)(4) and replacing it with this rule.
+(4-6-23)
+01. Field Dressed Game Animals. Uninspected wild game animals and wild poultry may be custom-
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 355 Page 10
+processed or prepared and served upon request by an individual having ownership of the animal. Except as allowed in
+Subsection 325.04 of this rule, uninspected wild game animals and wild poultry must be processed for or served to
+that owner and for the family or guests of that individual animal owner only. (4-6-23)
+02. Processing Game Animals. Game animals and birds are to be completely separated from other
+food during storage, processing, preparation, and service with the use of separate equipment or areas or by scheduling
+and cleaning, providing there is compliance with the following: (4-6-23)
+a. Slaughtering and cleaning of game animals or birds cannot be done in the food establishment,
+except for meat processing establishments with kill floors; (4-6-23)
+b. Game animals and other animal carcasses are free of any visible dirt, filth, fecal matter, or hair
+before such carcasses enter the food establishment, except for meat processing establishments with kill floors; and
+(4-6-23)
+c. An identifying tag with the owner's name must be on each carcass or divided parts and packaged or
+wrapped parts; and (4-6-23)
+d. Each carcass or divided parts and packaged or wrapped parts are marked or tagged with a “Not for
+sale” label. Except as allowed in Subsection 325.04 of this rule, these may not be sold, given away, or served to any
+members of the public. (4-6-23)
+03. Uninspected Game Animals. Any uninspected game animals prepared and served in a food
+establishment may only be prepared and served at the request of the owner of the animals for the owner and invited
+family or friends at a private dinner. Except as allowed in Subsection 325.04 of this rule, these animals may not be
+served, sold, or given away to any members of the public. (4-6-23)
+04. Donated Game Meat. Legally harvested game meat may be donated to a food bank or food pantry
+when the following conditions are met: (4-6-23)
+a. The end recipient of the donated game meat signs an acknowledgment statement indicating that
+they are aware that the meat has been donated and that the meat itself is uninspected, wild-harvested game meat.
+(4-6-23)
+b. The game meat must have been processed by: (4-6-23)
+i. A facility that is subject to inspection by the regulatory authority with jurisdiction over meat
+products; (4-6-23)
+ii. The facility packages the game meat into portions that require no further processing or cutting by
+the food bank or food pantry. (4-6-23)
+c. The meat is labeled by the processor with the following: (4-6-23)
+i. Species identification; (4-6-23)
+ii. The name and address of the meat processing facility; and (4-6-23)
+iii. The words “Processed for Donation or Private Use” and “Cook to 165° F.” (4-6-23)
+326. -- 354. (RESERVED)
+355. FOOD PROCESSING PLANTS.
+Food processing plants, establishments, canning factories, or operations must meet the requirements in Chapters 1
+through 8 of the incorporated Food Code, and this rule. (4-6-23)
+01. Thermal Processing of Low-Acid Foods. Low-acid food products processed using thermal
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 360 Page 11
+methods for canning must meet the requirements of 21 CFR 113. (4-6-23)
+02. Processing of Acidified Foods. Acidified food products must meet the requirements of 21 CFR
+114. (4-6-23)
+03. Bottled Water Processing. Bottled drinking water processed in Idaho must be from a licensed
+processing facility that meets the requirements of 21 CFR 129. Bottled drinking water must also meet the quality and
+monitoring requirements in 21 CFR 165. (4-6-23)
+04. Approval of Process Methods. A variance by the regulatory authority must be approved and
+granted for specialized processing methods for products listed in Section 3-502.11. (4-6-23)
+05. Labels. Proposed labels must be submitted to the regulatory authority for review and approval
+before printing. (4-6-23)
+06. Testing. The license holder is responsible for chemical, microbiological, or extraneous material
+testing procedures to identify failures or food contamination of food products being processed or manufactured by the
+license holder. (4-6-23)
+07. Quality Assurance Program. The license holder or their designee must develop and submit to the
+regulatory authority for review and approval a quality assurance program or HACCP plan that covers the food
+processing operation and includes the following: (4-6-23)
+a. An organization chart identifying the person responsible for quality control operations; (4-6-23)
+b. A process flow diagram outlining the processing steps from the receipt of the raw materials to the
+production and packaging of the finished product(s) or group of related products; (4-6-23)
+c. A list of specific points in the process that are critical control points that have scheduled
+monitoring; (4-6-23)
+d. Product codes that establish and identify the production date and batch; (4-6-23)
+e. A manual covering sanitary maintenance of the facility and hygienic practices to be followed by the
+employees; and (4-6-23)
+f. A records system allowing for review and evaluation of all operations including the quality
+assurance program results. These records must be kept for a period of time that exceeds the shelf life of the product
+by six (6) months or for two (2) years, whichever is less. (4-6-23)
+356. -- 359. (RESERVED)
+360. ADVISING CONSUMERS OF HEALTH RISK OF RAW OR UNDERCOOKED FOODS.
+Modification to Section 3-603.11. (4-6-23)
+01. Consumption of Animal Foods That Are Raw, Undercooked, or Not Otherwise Processed to
+Eliminate Pathogens. Except as specified in Section 3-401.11(C) and Subparagraph 3-401.11(D)(3) and under
+Section 3-801.11(D), if an animal food such as beef, eggs, fish, lamb, milk, pork, poultry, or shellfish that is raw,
+undercooked or not otherwise processed to eliminate pathogens is offered in a ready-to-eat form as a deli, menu,
+vended, or other item, or as a raw ingredient in another ready-to-eat food, the license holder must inform the
+consumers of health risks. (4-6-23)
+02. How to Inform Consumers of Health Risk. The license holder must use any effective means to
+inform consumers of potential health risks. Some effective ways that may be used to inform consumers are:
+brochures, deli case placards, signs or verbal warnings that state, “Consuming raw or undercooked meats, poultry,
+seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical
+conditions.” (4-6-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 370 Page 12
+361. -- 369. (RESERVED)
+370. ADULTERATED OR MISBRANDED FOOD.
+The regulatory authority may order the license holder or other person who has custody of misbranded food to destroy,
+denature, or recondition adulterated or misbranded food under Section 37-118, Idaho Code. See Section 851 of these
+rules for embargo, tagging, storage, and release of adulterated or misbranded food. (4-6-23)
+371. -- 599. (RESERVED)
+600. PHYSICAL FACILITIES.
+Sections 600 through 699 of these rules will be used for modifications and additions to Chapter 6 of the incorporated
+Food Code. (4-6-23)
+601. -- 619. (RESERVED)
+620. PRIVATE HOMES AND LIVING OR SLEEPING QUARTERS, USE PROHIBITION.
+Modifications to Section 6-202.111. Except for cottage food operations, a private home, a room used as living or
+sleeping quarters, or an area directly opening into a room used as living or sleeping quarters may not be used for
+conducting food establishment operations. Residential assisted living facilities designed to be a homelike
+environment, are exempted from Section 6-202.111. (4-6-23)
+621. -- 699. (RESERVED)
+700. POISONOUS OR TOXIC MATERIALS.
+Sections 700 through 799 of these rules will be used for modifications and additions to Chapter 7 of the incorporated
+Food Code. (4-6-23)
+701. -- 719. (RESERVED)
+720. RESTRICTION AND STORAGE OF MEDICINES.
+Modifications to Section 7-207.11. (4-6-23)
+01. Medicines Allowed in a Food Establishment. Only those medicines that are necessary for the
+health of employees, patients, or residents in a care facility are allowed in a food establishment. Subsection 720.01 of
+this rule does not apply to medicines that are stored or displayed for retail sale. (4-6-23)
+02. Labeling of Medicines. Medicines that are in a food establishment for the employees, patients, or
+residents use must be labeled as specified under Section 7-101.11 and located to prevent the contamination of food,
+equipment, utensils, linens, and single-service and single-use articles. (4-6-23)
+721. REFRIGERATED STORAGE OF MEDICINES.
+Modification to Section 7-207.12. Medicines belonging to employees, patients, or residents in a care facility that
+require refrigeration may be stored in a food refrigerator using the following criteria: (4-6-23)
+01. Medicines Stored in a Leak-Proof Container. Medicines must be stored in a package or container
+and kept inside a covered, leak-proof container that is identified as a container for the storage of medicines. (4-6-23)
+02. Accessibility of Stored Medicines. Medicines will be stored to permit access to self-medicating
+patients or residents to their individual medication. Authorized staff in a care facility also have access to these
+medications. (4-6-23)
+722. -- 799. (RESERVED)
+800. COMPLIANCE AND ENFORCEMENT.
+Sections 800 through 899 of these rules will be used for modifications and additions to Chapter 8 of the incorporated
+Food Code. (4-6-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 830 Page 13
+801. -- 829. (RESERVED)
+830. APPLICATION FOR A LICENSE.
+01. To Apply for a Food Establishment License. To apply, the application and fee is submitted to the
+“regulatory authority” as defined in Section 111 of these rules. (4-6-23)
+02. Food License Expiration. The license for an Idaho food establishment expires on December 31st
+of each year. (4-6-23)
+03. Renewal of License. A renewal application and a license fee must be submitted to the regulatory
+authority by December 1st of each year for the next calendar year starting January 1st. (4-6-23)
+04. Summary Suspension of License. A license may be immediately suspended under Section 831 of
+these rules. Reinstatement of a license after a summary suspension does not require a new application or fee unless
+the license is revoked. (4-6-23)
+05. Revocation of License. When corrections have been made to a food establishment whose license
+has been revoked under Section 860 of these rules, a new application and fee must be submitted to the regulatory
+authority. (4-6-23)
+06. License is Non-Transferable. A license is not transferable when ownership changes under Section
+8-304.20 of the incorporated Food Code. (4-6-23)
+831. SUMMARY SUSPENSION OF LICENSE.
+The regulatory authority may summarily suspend a license to operate a food establishment when it determines an
+imminent health hazard exists. (4-6-23)
+01. Reasons a Summary Suspension May Be Issued. When a food establishment does not follow the
+principles of food safety, a foodborne illness is found, or an environmental health hazard exists and public safety
+cannot be assured by the continued operation of the food establishment, a summary suspension may be issued. The
+following are some reasons the regulatory authority may determine a summary suspension is necessary: (4-6-23)
+a. Inspection of the food establishment shows uncorrected priority violations; (4-6-23)
+b. Examination of food shows the food is unsafe; (4-6-23)
+c. Review of records shows that proper steps for food safety have not been met; (4-6-23)
+d. An employee working with food is suspected of having a disease that is communicable through
+food; or (4-6-23)
+e. An imminent health hazard exists. (4-6-23)
+02. Prior Notification Is Not Required for a Summary Suspension. Upon providing a written notice
+of summary suspension to the license holder or person in charge, the regulatory authority may suspend a food
+establishment's license without prior warning, notice of hearing, or hearing. (4-6-23)
+03. Written Notice of Summary Suspension. The regulatory authority must give the license holder or
+person in charge a written notice with the following information when suspending a license. (4-6-23)
+a. The specific reasons or violations the summary suspension is issued for with reference to the
+specific section of the incorporated Food Code which is in violation; (4-6-23)
+b. A statement notifying the food establishment its license is suspended and all food operations are to
+cease immediately; (4-6-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 840 Page 14
+c. The name and address of the regulatory authority representative to whom a written request for reinspection can be made and who can certify the reasons for the suspension have been eliminated; (4-6-23)
+d. A statement notifying the food establishment of its right to an informal hearing with the regulatory
+authority upon submission of a written request within fifteen (15) days of receiving the summary suspension notice;
+(4-6-23)
+e. A statement informing the food establishment that proceedings for revocation of its license will be
+initiated by the regulatory authority if violations are not corrected; and (4-6-23)
+f. The right to appeal to the Department under Section 861 of these rules. (4-6-23)
+04. Length of Summary Suspension. The suspension will remain in effect until the conditions cited in
+the notice of suspension no longer exist and their elimination has been confirmed by the regulatory authority during a
+re-inspection. (4-6-23)
+05. Re-Inspection of Food Establishment. The regulatory authority will conduct a re-inspection of
+the food establishment within two (2) working days of receiving a written request stating the condition for the
+suspension no longer exists. (4-6-23)
+06. Reinstatement of License. The regulatory authority will immediately reinstate the suspended
+license if the re-inspection determines the public health hazard no longer exists. The regulatory authority will provide
+a written notice of reinstatement to the license holder or person in charge. (4-6-23)
+832. -- 839. (RESERVED)
+840. INSPECTIONS AND CORRECTION OF VIOLATIONS.
+Modification to Section 8-401.10. (4-6-23)
+01. Inspection Interval Section 8-401.10(A). Except as specified in Section 8-401.10(C), the
+regulatory authority must inspect a food establishment at least once every twelve (12) months. (4-6-23)
+02. Section 8-401.10(B). This section has not been adopted. (4-6-23)
+03. Section 8-401.10(C). This section is adopted as published. (4-6-23)
+04. Section 8-405.11. This section is adopted with the following modifications: (4-6-23)
+a. Delete Section 8-405.11(B)(1); and (4-6-23)
+b. Amend Section 8-405-11(B)(2) to ten (10) calendar days after the inspection for the permit holder
+to correct priority or priority foundation items or HACCP plan deviations. (4-6-23)
+841. INSPECTION SCORES.
+The regulatory authority will provide the license holder an inspection report with a total score indicating the number
+of risk factor violations and the number of repeat risk factor violations added together. Repeat violations are those
+observed during the last inspection. The inspection report will also score the total number of good retail practice
+violations and the number of repeat good retail practice violations. These scores will be used to determine if a followup inspection or a written report of correction is needed to verify corrections have been made. (4-6-23)
+01. Medium-Risk Food Establishment. If the risk factor violations exceed three (3), or good retail
+practice violations exceed six (6), an onsite follow-up inspection is required for verification of correction by the
+regulatory authority. (4-6-23)
+02. High-Risk Food Establishment. If the risk factor violations exceed five (5), or good retail practice
+violations exceed eight (8), an onsite follow-up inspection is required for verification of correction by the regulatory
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 845 Page 15
+authority. (4-6-23)
+03. Written Violation Correction Report. A written violation correction report by the license holder
+may be provided to the regulatory authority if the total inspection score of the food establishment does not exceed
+those listed in Section 845 of these rules. The report must be mailed within five (5) days of the correction date
+identified on the inspection report. (4-6-23)
+842. -- 844. (RESERVED)
+845. VERIFICATION AND DOCUMENTATION OF CORRECTION.
+In addition to Section 8-405.20 of the incorporated Food Code, the onsite follow-up inspection may not be required
+for verification of correction if the regulatory authority chooses to accept a written report of correction from the
+license holder. (4-6-23)
+01. Written Report of Correction. The regulatory authority may choose to accept a written report of
+correction from the license holder stating that specific violations have been corrected. The license holder must submit
+this report to the regulatory authority within five (5) days after the correction date identified on the inspection report.
+(4-6-23)
+a. Medium-risk food establishment. If the risk factor violations do not exceed three (3), or the good
+retail practice violations do not exceed six (6), a follow-up inspection is not required for verification of correction.
+(4-6-23)
+b. High-risk food establishment. If the risk factor violations do not exceed five (5), or the good retail
+practice violations do not exceed eight (8), a follow-up inspection is not required for verification of correction.
+(4-6-23)
+02. Risk Control Plan. The regulatory authority may require the development of a risk control plan as
+verification of correction. The risk control plan must provide documentation on how the license holder will obtain
+long-term correction of priority violations that are repeated violations, including how control will be monitored and
+who will be responsible. (4-6-23)
+846. -- 849. (RESERVED)
+850. ENFORCEMENT INSPECTIONS.
+01. Follow-Up Inspection. If a follow-up inspection reveals that priority, priority foundation, or core
+violations identified on a previous inspection have not been corrected or still exist, an enforcement inspection may be
+made. (4-6-23)
+02. Written Notice. The license holder will receive written notice on the inspection form of the
+specific date for an enforcement inspection. This date must be within fifteen (15) days of the current or follow-up
+inspection. (4-6-23)
+03. Enforcement Inspections on Consent Order. When a compliance conference results in a consent
+order and includes a compliance schedule to correct violations without further regulatory action, all inspections by
+the regulatory authority to satisfy the compliance schedule will be considered enforcement inspections until the next
+annual inspection. (4-6-23)
+04. Regulatory Action. If the violations have not been corrected by the date of the enforcement
+inspection, regulatory action will be initiated to revoke the license issued to the food establishment. (4-6-23)
+851. ENFORCEMENT PROCEDURES FOR ADULTERATED OR MISBRANDED FOOD.
+The regulatory authority may order the license holder or other person who has custody of adulterated or misbranded
+food to destroy, denature, or recondition adulterated or misbranded food under Section 37-118, Idaho Code. The
+following procedures apply: (4-6-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 860 Page 16
+01. Serving an Embargo Order. An embargo order must be served by one (1) of the following ways:
+(4-6-23)
+a. Delivered personally to the license holder or person in charge of the food establishment; or
+(4-6-23)
+b. Posted at a public entrance to the food establishment, provided a copy of the notice is sent by firstclass mail to the license holder or the person in charge of the embargoed food. (4-6-23)
+02. The Embargo Order Is Effective When Served. The embargo order is effective at the time the
+notice is delivered to the license holder or person in charge, or when the notice is posted. (4-6-23)
+03. Tagging Embargoed Food. The regulatory authority must securely place an official tag or label on
+food or containers identified as food subject to the hold order. (4-6-23)
+04. Storage of Embargoed Food. The regulatory authority allows storage of food under conditions
+specified in the embargo order, unless storage is not possible without risk to the public health. The regulatory
+authority may order immediate destruction of the adulterated or misbranded food for public safety. (4-6-23)
+05. Removal of Embargo Tag or Label. The removal of the embargo tag, label, or other identification
+from food under embargo must be done by the regulatory authority. (4-6-23)
+06. Embargo Release. The issue of release and removal of the embargo tag, label, or other
+identification from the suspected food when it is not adulterated or misbranded must be done by the regulatory
+authority. (4-6-23)
+852. -- 859. (RESERVED)
+860. REVOCATION OF LICENSE.
+The regulatory authority may revoke the license issued to a food establishment when the license holder fails to
+comply with these rules or the operation of the food establishment is a hazard to public health. (4-6-23)
+01. Reasons a License May Be Revoked. (4-6-23)
+a. The license holder violates any term or condition in Section 8-304.11 of the incorporated Food
+Code. (4-6-23)
+b. Access to the facility is denied or obstructed by an employee, agent, contractor, or other
+representative during the performance of the regulatory authority's duties. It is not necessary for the regulatory
+authority to seek an inspection order to gain access as permitted in Section 8-402.40 of the incorporated Food Code,
+before proceeding with revocation. (4-6-23)
+c. A public health hazard or priority violation remains uncorrected after being identified by the
+regulatory authority and an enforcement inspection confirms the violation or hazard still exists. See Section 850 of
+these rules on enforcement inspections. (4-6-23)
+d. A core violation remains uncorrected after being identified by the regulatory authority and an
+enforcement inspection confirms the violation still exists. See Section 845 of these rules on verification and
+documentation of correction. (4-6-23)
+e. Failure to comply with any consent order issued after a compliance conference. See Section 861 of
+these rules on compliance conference. (4-6-23)
+f. Failure to comply with a regulatory authority's summary suspension order. See Section 831 of these
+rules on summary suspension of a license. (4-6-23)
+g. Failure to comply with an embargo order. See Section 851 of these rules on adulterated or
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 861 Page 17
+misbranded food. (4-6-23)
+h. Failure to comply with a regulatory authority order issued when an employee is suspected of
+having a communicable disease. See Chapter 2 of the incorporated Food Code on employee health. (4-6-23)
+02. Notice to Revoke a License. The regulatory authority must notify the license holder of the food
+establishment in writing of the intended revocation of the license. See Section 861 of these rules for appeal process.
+The notice must include Subsections 860.02.a. through 860.02.c. of this rule: (4-6-23)
+a. The specific reasons and Sections of the Idaho Food Code that are in violation and the cause for the
+revocation; (4-6-23)
+b. The right of the license holder to request in writing a compliance conference with the regulatory
+authority within fifteen (15) days of the notice; and (4-6-23)
+c. The right of the license holder to appeal in writing to the Department. See Subsection 861.02 of
+these rules. (4-6-23)
+d. The following is sufficient notification of the license holder's appeal rights: “You have the right to
+request in writing a compliance conference with (name and address of designated health district official) within
+fifteen (15) days of the receipt of this notice. You may also appeal the revocation of your license to the Director by
+filing a written appeal with the Department as provided in IDAPA 16.05.03, “Contested Case Proceedings and
+Declaratory Rulings,” within fifteen (15) days of the receipt of this notice, or if a timely request is made for a
+compliance conference and the matter is not resolved by a consent order, within five (5) working days following the
+conclusion of the compliance conference.” (4-6-23)
+03. Effective Date of Revocation. The revocation will be effective fifteen (15) days following the date
+of service of notice to the license holder, unless an appeal is filed or a timely request for a compliance conference is
+made. If a compliance conference is requested and the matter is not resolved by a consent order, the revocation will
+be effective five (5) working days following the end of the conference, unless an appeal is filed with the Director
+within that time. See Section 861 of these rules for compliance conference, consent order, and appeal process.
+(4-6-23)
+861. APPEAL PROCESS.
+A license holder may appeal a summary suspension, notice of revocation, other action, or failure to act by the
+regulatory authority that adversely affects the license holder. A summary suspension or other emergency order is not
+stayed during the appeal process. (4-6-23)
+01. Compliance Conference. The license holder may request in writing a compliance conference with
+the regulatory authority within fifteen (15) days of receipt of the notice or action by the regulatory authority. If a
+timely request for a compliance conference is made, a compliance conference will be scheduled within twenty (20)
+days and conducted in an informal manner by the regulatory authority. At the compliance conference the license
+holder may explain the circumstances of the alleged violations and propose a resolution for the matter. (4-6-23)
+a. If the compliance conference results in an agreement between the license holder and the regulatory
+authority to remedy circumstances giving rise to the action and to assure future compliance, the agreement must be
+put in written form and signed by both parties. This written agreement constitutes an enforceable consent order.
+(4-6-23)
+b. Unless otherwise specifically stated in the consent order, the agreement will be for the duration of
+the existing license only. (4-6-23)
+02. Appeal to the Director. The license holder may appeal in writing to the Director within fifteen
+(15) days of receipt of the notice of action by the regulatory authority, or if a timely request for a compliance
+conference was made, within five (5) working days following the completion of the compliance conference. (4-6-23)
+862. -- 889. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.02.19
+Department of Health and Welfare Idaho Food Code
+Section 890 Page 18
+890. CRIMINAL AND CIVIL PROCEEDINGS.
+The regulatory authority may choose to enforce the provisions of these rules and its administrative orders through the
+courts. (4-6-23)
+01. Criminal Proceedings. Misdemeanor proceedings to enforce these rules, federal regulations, and
+the enabling statutes may be instituted as provided in Sections 37-117, 37-119, 37-2103, and 56-1008, Idaho Code.
+These statutes provide for fines or terms of imprisonment that may be sought through the court of competent
+jurisdiction. (4-6-23)
+02. Civil Proceedings. Civil enforcement actions may be commenced and prosecuted in the district
+court in the county where the alleged violation occurred under Sections 56-1009 and 56-1010, Idaho Code. The
+person who is alleged to have violated any statute, rule, federal regulation, license, or order may be charged in the
+court proceeding. This action may be brought to compel compliance with these rules, regulations, license, or order for
+relief or remedies authorized in these rules. (4-6-23)
+03. Injunctive Relief. In addition to other remedies provided by law, Section 56-1009, Idaho Code,
+allows for a search warrant to gain access and injunctions to be issued in the name of the state against any person or
+entity to enjoin them from violating these rules, regulations, statutes, or administrative orders. (4-6-23)
+891. -- 999. (RESERVED)

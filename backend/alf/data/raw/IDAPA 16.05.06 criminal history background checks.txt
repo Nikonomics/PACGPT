@@ -1,0 +1,727 @@
+Zero-Based Regulation Review – 2022 for Rulemaking and 2023 Legislative Review
+IDAPA 16 – IDAHO DEPARTMENT OF HEALTH AND WELFARE
+Division of Management Services
+16.05.06 – Criminal History and Background Checks
+Who does this rule apply to?
+Individuals who provide care or services to children or vulnerable adults and who require a
+criminal history and background check identified in Department rules. Agencies who employ such
+employees and provide the care for the vulnerable children and adults.
+What is the purpose of this rule?
+These rules assist the Department in the protection of children and vulnerable adults by providing
+requirements to conduct criminal history and background checks of individuals licensed or
+certified by the Department, or who provide care or services to children or vulnerable adults.
+Individuals requiring a criminal history check are identified in Department rules.
+What is the legal authority for the agency to promulgate this rule?
+This rule implements the following statutes passed by the Idaho Legislature:
+Public Assistance and Welfare -
+Public Assistance Law:
+• Section 56-202(b), Idaho Code – Duties of Director of State Dept. of Health and Welfare
+• Section 56-203(2), Idaho Code – Powers of State Department
+• Section 56-204A, Idaho Code – Services for Children
+Department of Health and Welfare:
+• Section 56-1004A, Idaho Code – Criminal History and Background Checks
+• Section 56-1007, Idaho Code – Collection of Fees for Services
+Health and Safety -
+Basic Daycare License:
+• Section 39-1105, Idaho Code – Criminal History Checks
+• Section 39-1107, Idaho Code – Fees
+• Section 39-1111, Idaho Code – Rules Authorized
+• Section 39-1113, Idaho Code – Basic Day Care License
+• Section 39-1114, Idaho Code – Limited Applications
+Child Care Licensing Reform Act:
+• Section 39-1210(10), Idaho Code – Standards for Children’s Residential Care Facilities
+• Section 39-1211(4), Idaho Code – Standards for Foster Homes
+Idaho Certified Family Homes:
+• Section 39-3520, Idaho Code – Application for Certification
+Personal Assistance Services:
+• Section 39-5604, Idaho Code – Health and Background Checks
+State Charitable Institutions -
+Treatment and Care of the Developmentally Disabled:
+• Section 66-404(7), Idaho Code – Proceedings for Appointment of Guardians & Conservators
+Uniform Probate Code - Protection of Persons Under Disability and Their Property -
+Guardians of Incapacitated Persons:
+• Section 15-5-308(4), Idaho Code – Visitor in Guardianship Proceeding
+• Section 15-5-311(5), Idaho Code – Who May be Guardian
+• Section 15-5-316(5), Idaho Code – Guardian Ad Litem - Rights and Powers
+Zero-Based Regulation Review – 2022 for Rulemaking and 2023 Legislative Review
+Juvenile Proceedings -
+Child Protective Act:
+Section 16-1647, Idaho Code – Citizen Review Panels
+Where can I find information on Administrative Appeals?
+Administrative appeals and contested cases are governed by the provisions of IDAPA 16.05.03,
+“Contested Case Proceedings and Declaratory Rulings.” If an individual believes that the
+records received through the FBI are incorrect, the individual has fifteen (15) days from the
+receipt of the denial to correct the FBI records according to 28 CFR Section 16.34 or other
+federal regulations.
+How do I request public records?
+Unless exempted, all public records are subject to disclosure by the Department that will comply
+with Title 74, Chapter 1, Idaho Code, upon requests. Confidential information may be restricted
+by state or federal law, federal regulation, and IDAPA 16.05.01, “Use and Disclosure of
+Department Records.”Any information received from the FBI must comply with 28 CFR 50.12 or
+other federal regulations. Any information received from the Idaho State Police must comply with
+Section 67-3008, Idaho Code.
+Who do I contact for more information on this rule?
+Idaho Department of Health and Welfare
+Division of Management Services
+Background Check Unit
+1720 Westgate Drive, Suite B
+Boise, Idaho 83704
+Or,
+Idaho Department of Health and Welfare
+Attn: Background Check Unit
+P.O. Box 83720
+Boise, ID 83720-0036
+Phone: (208) 332-7990 or Toll-Free (800) 340-1246
+Fax: (208) 332-7991
+Email: BCU@dhw.idaho.gov
+Webpage: https://healthandwelfare.idaho.gov/bcu
+Page 3
+Table of Contents
+16.05.06 – Criminal History And Background Checks
+000. Legal Authority. ...................................................................................................... 5
+001. Policy. ..................................................................................................................... 5
+002. -- 009. (Reserved) ................................................................................................... 5
+010. Definitions. .............................................................................................................. 5
+011. -- 049. (Reserved) ................................................................................................... 6
+050. Fees And Costs For Background Checks. ............................................................. 6
+051. -- 059. (Reserved) ................................................................................................... 6
+060. Agency Responsibilities. ........................................................................................ 6
+061. -- 069. (Reserved) ................................................................................................... 7
+070. NonCompliance With These Rules. ....................................................................... 7
+071. -- 099. (Reserved) ................................................................................................... 7
+100. Individuals Subject To A Background Check. ........................................................ 7
+101. Department Individuals Subject To A Background Check. ..................................... 9
+102. -- 119. (Reserved) ................................................................................................... 9
+120. Application For A Background Check. .................................................................... 9
+121. -- 124. (Reserved) ................................................................................................. 10
+125. Idaho Child Protection Central Registry Checks. ................................................. 10
+126. Applicants Receiving A Department Enhanced Clearance. ................................. 10
+127. -- 139. (Reserved) ..................................................................................................11
+140. Submission Of Fingerprints. ................................................................................. 11
+141. -- 149. (Reserved) ..................................................................................................11
+150. Time Frame For Submitting Fingerprints. ............................................................. 11
+151. -- 159. (Reserved) ..................................................................................................11
+160. Withdrawal Of Application. ................................................................................... 11
+161. -- 169. (Reserved) ..................................................................................................11
+170. Availability To Provide Services Pending Completion Of The Background
+Check. ............................................................................................................... 12
+171. -- 179. (Reserved) ................................................................................................. 12
+180. Background Check Results. ................................................................................. 12
+181. Application Status. ................................................................................................ 12
+182. -- 189. (Reserved) ................................................................................................. 12
+190. Background Check Clearance. ............................................................................. 12
+191. -- 194. (Reserved) ................................................................................................. 13
+195. Use Of Previously Completed Background Checks. ............................................ 13
+196. -- 199. (Reserved) ................................................................................................. 14
+200. Unconditional Denial. ........................................................................................... 14
+201. -- 209. (Reserved) ................................................................................................. 15
+210. Disqualifying Crimes Resulting In An Unconditional Denial. ................................ 15
+211. -- 269. (Reserved) ................................................................................................. 18
+270. Criminal Or Relevant Record - Action Pending. ................................................... 18
+271. -- 299. (Reserved) ................................................................................................. 18
+300. Background Check Records. ................................................................................ 18
+Table of Contents (cont’d)
+Page 4
+301. -- 999. (Reserved) ................................................................................................. 19
+Section 000 Page 5
+16.05.06 – CRIMINAL HISTORY AND BACKGROUND CHECKS
+000. LEGAL AUTHORITY.
+Sections 56-202(b), 56-203(2), 56-204A, 56-1004A, 56-1007, 39-1105, 39-1107, 39-1111, 39-1210(10), 39-1211(4),
+39-3520, 39-5604, 39-9109, 66-404(7), 15-5-308(4), 15-5-311(5), and 15-5-316(5), Idaho Code, authorize the
+Department to conduct criminal history and background checks. US Public Law 92-544, authorizes the Department to
+submit fingerprints and receive responses from the Federal Bureau of Investigations for the processing of background
+checks. IRS Publication 1075 requires the Department to submit fingerprints and establish a personnel screening
+program for its employees who have access to the Federal Tax Information File as part of their duties. 42 USC
+Section 9858f requires the Department to check specific records for federal child care programs. (3-28-23)
+001. POLICY.
+The Department will conduct a fingerprint-based criminal history and background check on individuals who
+complete a criminal history application. The criminal history applicant is required to disclose any pertinent
+information regarding crimes or findings that would disqualify the individual from providing care or services to
+children or vulnerable adults. The Department may obtain information for these criminal history and background
+checks from the following sources: (3-28-23)
+01. Federal Bureau of Investigation. (3-28-23)
+02. Idaho State Police Bureau of Criminal Identification. (3-28-23)
+03. Any state or federal Child Protection Registry. (3-28-23)
+04. Any state or federal Adult Protection Registry. (3-28-23)
+05. Any state Sexual Offender Registry. (3-28-23)
+06. Office of Inspector General List of Excluded Individuals and Entities. (3-28-23)
+07. Idaho Department of Transportation Driving Records. (3-28-23)
+08. Nurse Aide Registry. (3-28-23)
+09. Other states and jurisdictions records and findings. (3-28-23)
+002. -- 009. (RESERVED)
+010. DEFINITIONS.
+For the purposes of this chapter of rules, the following terms apply: (3-28-23)
+01. Agency. An administrative subdivision of government or an establishment engaged in doing
+business for another entity. This term is synonymous with the term “employer”. (3-28-23)
+02. Application. An individual’s request for a background check in which the individual discloses any
+convictions, pending charges, or child or adult protection findings, and authorizes the Department to obtain
+information from available databases and sources relating to the individual. (3-28-23)
+03. Background Check Unit. The Department’s Unit responsible for processing fingerprint-based
+background checks, and issuing clearances or denials according to these rules. (3-28-23)
+04. Clearance. A clearance is a document designated by the Department as the official result of a
+completed background check with no disqualifying crimes or relevant records found. (3-28-23)
+05. Conviction. An individual is considered to have been convicted of a criminal offense when:
+(3-28-23)
+a. A judgment of conviction, or an adjudication, has been entered against the individual by any
+federal, state, military, or local court; (3-28-23)
+b. There is a finding of guilt against the individual by any federal, state, military, or local court;
+(3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 050 Page 6
+c. A plea of guilty or nolo contendere by the individual has been accepted by any federal, state,
+military, or local court; (3-28-23)
+d. An individual has entered into or participated in first offender, deferred adjudication, or another
+arrangement or program where judgment of conviction has been withheld. This includes when: (3-28-23)
+i. An individual participates in a drug court; or (3-28-23)
+ii. An individual participates in a mental health court. (3-28-23)
+06. Criminal History and Background Check. A criminal history and background check is a
+fingerprint-based check of an individual’s criminal record and other relevant records. Also referred to as “background
+check”. (3-28-23)
+07. Denial. A denial of clearance is issued by the Department when an individual has a relevant record
+or disqualifying crime under Sections 200 and 210 of these rules. (3-28-23)
+08. Department. The Idaho Department of Health and Welfare or its designee. (3-28-23)
+09. Direct Patient Access Employee. Any individual who has access to a patient or resident of a longterm care provider or facility whether through employment or contract, and who has duties or performs tasks that
+involve (or may involve) one-on-one (1:1) contact with a patient or resident or has access to their personal
+belongings. Volunteers are not considered a Direct Patient Access employee of a long-term care provider or facility
+unless volunteers are required to undergo a background check under the rules applicable to that specific type of
+facility or provider. (3-28-23)
+10. Disqualifying Crime. A disqualifying crime is a designated crime under Section 210 of these rules
+that results in the unconditional denial of an applicant. (3-28-23)
+11. Employer. An entity that hires people to work in exchange for compensation. This term is
+synonymous with the term “agency”. (3-28-23)
+12. Enhanced Clearance. A clearance issued by the Department that includes a search of child
+protection registries in states or jurisdictions in which an applicant resided during the preceding five (5) years.
+(3-28-23)
+13. Relevant Record. A record that is found in a search of criminal records or registries checked by the
+Department under Section 56-1004A, Idaho Code, and these rules. (3-28-23)
+011. -- 049. (RESERVED)
+050. FEES AND COSTS FOR BACKGROUND CHECKS.
+The fee for a Department fingerprint-based background check is up to seventy dollars ($70) for an individual. The
+applicant is responsible for the cost of the background check. The Department may waive the fee for certain
+individuals. An applicant is responsible for any additional costs incurred by the Department paid to agencies, judicial,
+or law enforcement jurisdictions in other states. The Department will collect the additional funds to cover its costs.
+(3-28-23)
+051. -- 059. (RESERVED)
+060. AGENCY RESPONSIBILITIES.
+01. Initial Registration. Agencies required to obtain Department background checks on individuals
+must register with the Department and receive an agency identification number before applications are processed or
+accessed. (3-28-23)
+02. Change in Name or Ownership. An agency or facility must: (3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 070 Page 7
+a. If acquired by another entity, the new ownership will register as a new agency and provide contact
+information to obtain a new agency identification number and website access within thirty (30) calendar days of
+acquisition. New ownership occurs when the agency obtains a new federal Employer Identification Number with the
+Internal Revenue Service. (3-28-23)
+b. The previous ownership will settle any background check debt with the Department prior to the
+completion of the acquisition. The Department reserves the right to not acknowledge the transfer to the new
+ownership if the previous ownership background check debt is not settled. (3-28-23)
+c. If there is a change in name or location, the agency will update their profile on the Department
+website with their new name, location, and contact information within thirty (30) calendar days of the change.
+(3-28-23)
+03. Applicant Screening. The agency must screen applicant background check disclosures that are
+submitted to the Department website to determine the suitability of the applicant for employment or program
+participation. If an applicant discloses a disqualifying crime or offense, or discloses other information that would
+indicate a risk to the health and safety of children and vulnerable adults, a determination of suitability for
+employment or program participation should be made during the initial application review. (3-28-23)
+04. Time Frames For Compliance. The agency is responsible for ensuring the required time frames
+are met for completion and submission of the application and fingerprints to the Department as required in Section
+150 of these rules. (3-28-23)
+05. Review Background Check Results. The agency is responsible for reviewing the results of the
+background check even if a clearance that resulted in no disqualifying crimes or offenses found is issued by the
+Department. The agency must complete this review within fourteen (14) calendar days of the clearance being
+accessible on the Department’s website. (3-28-23)
+06. Employment Determination. The Department does not make the final fitness determination for
+employment or program participation for the applicant. The agency will determine the ability or risk of the individual
+to provide care or services to children or vulnerable adults after reviewing the applicant’s background check results.
+(3-28-23)
+07. Discovery of Criminal Convictions or Disqualifying Records After Clearance is Issued. After
+a clearance is issued, if the agency discovers that the applicant may no longer be eligible to hold a Department
+clearance due to the existence of either a conviction for a disqualifying offense, or a relevant record listed in these
+rules, the agency is required to report their discovery to the Background Check Unit. The Department may compel the
+applicant to be processed for a new background check under Subsection 195.04 of these rules if it deems it
+appropriate to do so. (3-28-23)
+08. Retention of Records. The agency will retain all applicant background check documentation as
+provided in Subsection 300.02 of these rules. (3-28-23)
+061. -- 069. (RESERVED)
+070. NONCOMPLIANCE WITH THESE RULES.
+The Department will report an agency’s noncompliance with these rules to the applicable licensing or certification
+unit or appropriate program integrity unit. (3-28-23)
+071. -- 099. (RESERVED)
+100. INDIVIDUALS SUBJECT TO A BACKGROUND CHECK.
+The following are persons or classes of individuals who are required by statute, or Department rules, to complete a
+background check. (3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 100 Page 8
+Required Classes Idaho Code and IDAPA Chapter(s)
+01. Adoptive Parent Applicants
+IDAPA 16.04.18, “Children’s Agencies and Residential Licensing”
+IDAPA 16.06.01, “Child and Family Services”
+IDAPA 16.06.02, “Child Care and Foster Care Licensing”
+02. Certified Family Homes
+Section 39-3520, Idaho Code
+IDAPA 16.03.19, “Certified Family Homes”
+IDAPA 16.03.10, “Medicaid Enhanced Plan Benefits”
+03. Children’s Agency Facility Staff IDAPA 16.04.18, “Children’s Agencies and Residential Licensing”
+04. Children's Residential Care Facilities Section 39-1210, Idaho Code
+IDAPA 16.04.18, “Children’s Agencies and Residential Licensing”
+05. Children's Therapeutic Outdoor Programs Section 39-1208, Idaho Code
+IDAPA 16.04.18, “Children’s Agencies and Residential Licensing”
+06. Citizen Review Panel Members
+Public health district volunteers who must comply with
+Section 16-1647, Idaho Code, “Citizen Review Panels -
+Child Protection Legislative Review Panel”
+07. Contracted Non-Emergency Medical
+Transportation Providers IDAPA 16.03.09, “Medicaid Basic Plan Benefits”
+08. Court Appointed Guardians and Conservators
+Title 15, Chapter 5, Idaho Code, & Title 66, Chapter 4, Idaho Code.
+Court required guardian and conservator background checks are
+not provided Department clearances under Subsection 180.01 of
+these rules
+09. Designated Examiners and Dispositioners IDAPA 16.07.39, “Designated Examiners and Dispositioners”
+10. Developmental Disabilities Agencies IDAPA 16.03.21, “Developmental Disabilities Agencies” (DDA)
+IDAPA 16.03.10, “Medicaid Enhanced Plan Benefits”
+11. Emergency Medical Services (EMS)
+IDAPA 16.01.05, “Emergency Medical Services (EMS) -- Education, Instructor, and Examination Requirements”
+IDAPA 16.01.07, “Emergency Medical Services (EMS) --
+Personnel Licensing Requirements”
+12. High Risk Providers of Medicaid IDAPA 16.03.09, “Medicaid Basic Plan Benefits”
+The Medicaid Provider Handbook
+13. Home and Community-Based Services
+(HCBS)
+IDAPA 16.03.10, “Medicaid Enhanced Plan Benefits”
+IDAPA 16.04.17, “Residential Habilitation Agencies”
+14. Home Health Agencies IDAPA 16.03.07, “Home Health Agencies”
+15. Idaho Behavioral Health Plan (IBHP) IDAPA 16.03.09, “Medicaid Basic Plan Benefits”
+16. Idaho Child Care Program (ICCP) IDAPA 16.06.12, “Idaho Child Care Program” (ICCP)
+17. Intermediate Care Facilities for Individuals
+with Intellectual Disabilities (ICF/IID)
+IDAPA 16.03.11, “Intermediate Care Facilities for
+Individuals with Intellectual Disabilities (ICF/IID)”
+18. Licensed Foster Care Section 39-1211, Idaho Code
+IDAPA 16.06.02, “Child Care and Foster Care Licensing”
+19. Licensed Day Care Sections 39-1105, 39-1113, and 39-1114, Idaho Code
+IDAPA 16.06.02, “Child Care and Foster Care Licensing”
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 101 Page 9
+(3-28-23)
+101. DEPARTMENT INDIVIDUALS SUBJECT TO A BACKGROUND CHECK.
+The following Department employees, contractors, and volunteers are subject to background checks. (3-28-23)
+01. Employees, Contractors, and Volunteers. Employees, contractors, and volunteers providing
+direct care services or who have access to children or vulnerable adults under Section 39-5302(10), Idaho Code.
+(3-28-23)
+02. Employees of Bureau of Compliance. (3-28-23)
+a. Fraud Investigators; (3-28-23)
+b. Utilization Review Analysts; and (3-28-23)
+c. Background Check Unit staff. (3-28-23)
+03. Employees at State Institutions. All employees of the following state-funded institutions;
+(3-28-23)
+a. Southwest Idaho Treatment Center, Nampa, Idaho; (3-28-23)
+b. State Hospital North, Orofino, Idaho; (3-28-23)
+c. State Hospital South, Blackfoot, Idaho; and (3-28-23)
+d. State Hospital West, Nampa, Idaho. (3-28-23)
+04. Emergency Medical Services (EMS) Employees. EMS communication specialists and managers.
+(3-28-23)
+05. Other Employees. Other Department employees as determined by the Director. (3-28-23)
+102. -- 119. (RESERVED)
+120. APPLICATION FOR A BACKGROUND CHECK.
+Individuals who are subject to a background check must submit their application on the Department website.
+(3-28-23)
+20. Mental Health Services IDAPA 16.07.33, “Adult Mental Health Services”
+IDAPA 16.07.37, “Children’s Mental Health Services”
+21. Personal Assistance Agencies IDAPA 16.03.10, “Medicaid Enhanced Plan Benefits”
+22. Personal Care Service Providers Section 39-5604, Idaho Code
+IDAPA 16.03.10, “Medicaid Enhanced Plan Benefits”
+23. Residential Assisted Living Facilities IDAPA 16.03.22, “Residential Assisted Living Facilities”
+24. Service Coordinators and Paraprofessional
+Providers IDAPA 16.03.10, “Medicaid Enhanced Plan Benefits”
+25. Skilled Nursing Facilities IDAPA 16.03.02, “Skilled Nursing Facilities”
+26. Substance Use Disorders Services IDAPA 16.07.17, “Substance Use Disorders Services”
+27. Support Brokers and Community Support
+Workers IDAPA 16.03.13, “Consumer-Directed Services”
+Required Classes Idaho Code and IDAPA Chapter(s)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 125 Page 10
+01. Application Form. To request a background check, the applicant must apply on the Department
+website and provide all the information requested in the Department-provided forms. The individual's application
+authorizes the Department to obtain information and release it under applicable state and federal law. (3-28-23)
+02. Disclosures. The individual must disclose any conviction, pending charges or indictment for
+crimes, and furnish a description of the crime and the particulars on the application. The individual must also disclose
+any notice by a state or local agency of substantiated child or substantiated vulnerable adult abuse, neglect,
+exploitation, or abandonment complaint, and any other information as required. (3-28-23)
+03. Failure to Disclose Information. (3-28-23)
+a. An applicant who falsifies or fails to disclose information on the application, may be subject to
+prosecution under Sections 18-3203, 18-5401, and 56-227A, Idaho Code. (3-28-23)
+b. An applicant required to obtain a background check under Section 126 of these rules that
+knowingly makes a materially false statement in connection to their background check will receive an unconditional
+denial as provided in Section 200 of these rules. (3-28-23)
+121. -- 124. (RESERVED)
+125. IDAHO CHILD PROTECTION CENTRAL REGISTRY CHECKS.
+The Department will provide the results of a check of the Idaho Child Protection Central Registry to any agency that
+requires it to comply with applicable federal, state, or local law. The Department will process those requests under
+this rule. (3-28-23)
+01. Request for an Idaho Child Protection Central Registry Check. A request for an Idaho Child
+Protection Central Registry check must be submitted on the Department form by mail, facsimile transmission, or email attachment. (3-28-23)
+02. Fee Amount. The fee for an Idaho Child Protection Central Registry check is twenty dollars ($20)
+for each subject checked. (3-28-23)
+03. Department Response. A response will be returned to the agency initiating the request for the
+check within fourteen (14) days of receipt of the request. The Department’s response will be limited to confirmation
+whether the subject is listed in the Registry. The requestor may contact the Department’s Division of Family and
+Community Services if additional information is needed. (3-28-23)
+126. APPLICANTS RECEIVING A DEPARTMENT ENHANCED CLEARANCE.
+The following classes of individuals are required to provide their previous residence information for the preceding
+five (5) years in their application for a background check. If the applicant’s previous background check included
+checks of out-of-state Central Child Protection Registries within the previous six (6) months, the applicant is not
+required to complete them again. (3-28-23)
+01. Adoptive Parent Applicants. (3-28-23)
+02. Behavioral Health Programs. (3-28-23)
+03. Certified Family Homes. (3-28-23)
+04. Children’s Agency Facility Staff. (3-28-23)
+05. Children’s Residential Care Facilities. (3-28-23)
+06. Children’s Therapeutic Outdoor Programs. (3-28-23)
+07. Citizen Review Panel Members. (3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 140 Page 11
+08. Idaho Child Care Program (ICCP). (3-28-23)
+09. Licensed Foster Care. (3-28-23)
+10. Licensed Day Care. (3-28-23)
+11. Mental Health Services. (3-28-23)
+12. Substance Use Disorders Services. (3-28-23)
+127. -- 139. (RESERVED)
+140. SUBMISSION OF FINGERPRINTS.
+Ten (10) rolled fingerprints must be collected from the individual and submitted to the Department under Section 150
+of these rules to process a background check request. (3-28-23)
+01. Department Fingerprinting Locations. The Department will collect the individual's fingerprints
+at designated locations listed on the Department’s website. The applicant may contact the Background Check Unit for
+additional guidance. (3-28-23)
+02. Submitting Fingerprints by Mail. Individuals who elect to have fingerprints collected by a local
+law enforcement agency or by the applicant’s agency must use a federal FD-258 Applicant fingerprint card. The
+fingerprint card must be completed using the instructions provided, signed, and mailed along with the applicable fee
+to the address indicated on the Department’s website. The applicant fingerprints and fees must be received by the
+Department in the time frame required in Section 150 of these rules. (3-28-23)
+03. Submission of Reprints. If an individual’s submitted fingerprints are deemed unreadable by the
+Department, Idaho State Police, or the FBI, the applicant must comply with a request for reprints from the
+Department within fifteen (15) calendar days from the date of the notice. Failure to comply with the request will
+result in the applicant being unavailable to provide services. (3-28-23)
+141. -- 149. (RESERVED)
+150. TIME FRAME FOR SUBMITTING FINGERPRINTS.
+01. Time Frame. The applicant fingerprints must be received by the Department within twenty-one
+(21) days from the date of the application submission in the Department background check system whether the
+fingerprints are sent by mail or collected at a Department fingerprinting location. If the Department does not receive
+the applicant fingerprints within sixty (60) calendar days from the background check submission date on the
+Department website, the applicant must complete a new application. (3-28-23)
+02. No Extension of Time Frame. The Department will not extend the twenty-one (21) day time
+frame, unless the agency provides just cause. If the Department does not extend the time frame, the applicant must be
+removed from any situation where they can have direct access to a vulnerable person or their belongings. (3-28-23)
+151. -- 159. (RESERVED)
+160. WITHDRAWAL OF APPLICATION.
+An individual may withdraw their application for a background check at any time. An individual who withdraws their
+application cannot provide services, or receive licensure or certification. Fees paid for the cost of the background
+check are non-refundable once the fingerprints have been submitted by the Department to the Idaho State Police.
+(3-28-23)
+161. -- 169. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 170 Page 12
+170. AVAILABILITY TO PROVIDE SERVICES PENDING COMPLETION OF THE BACKGROUND
+CHECK.
+An individual is available to provide services on the day the application is submitted on the Department website, has
+been reviewed by the agency, and while pending completion of the background check under this rule. The individual
+must have submitted their application and fingerprints in the time frame required in Section 150 of these rules to
+provide services. (3-28-23)
+01. Employees of Providers, Contractors, Bureau of Emergency Medical Services (EMS), or the
+Department. An individual is available to provide services on a provisional basis at the discretion of the agency or
+EMS Bureau if no disqualifying crimes or relevant records are disclosed on the application. The agency must review
+the application for any disqualifying crimes under Section 210 of these rules or other relevant records under Section
+200 of these rules. The agency determines whether the applicant poses a health or safety risk to vulnerable clients
+before allowing the individual to provide services until a clearance or denial is issued by the Department. (3-28-23)
+02. Individuals Licensed or Certified by the Department. Individuals applying for licensure or
+certification by the Department are not available to provide services or receive licensure or certification until the
+background check is complete and a clearance is issued by the Department. The following are individuals required to
+have a clearance prior to providing services: (3-28-23)
+a. Adoption or foster care applicants and adults in the home; (3-28-23)
+b. Certification or licensure applicants; (3-28-23)
+i. Certified family homes; (3-28-23)
+ii. Licensed Emergency Medical Services applicants; and (3-28-23)
+iii. Department-licensed child care providers. (3-28-23)
+171. -- 179. (RESERVED)
+180. BACKGROUND CHECK RESULTS.
+The Department will issue a clearance or denial once the background check is completed. (3-28-23)
+01. Results of Background Checks. The results can be accessed on the Department’s website.
+(3-28-23)
+02. Findings for Court-Required Criminal History and Background Checks. Under Section 56-
+1004A(2)(b), Idaho Code, the Department will provide findings of a court-ordered background check to individuals
+appointed by the court under Title 15, Chapter 5, or Title 66, Chapter 4, Idaho Code. (3-28-23)
+03. Department Employees That Have Access to the Internal Revenue Service Federal Tax
+Information File. Employees assigned to the Self-Reliance Division that access the Internal Revenue Service
+Federal Tax Information file as part of their duties will be processed for a background check by the Background
+Check Unit. The Self-Reliance Division will make a fitness determination based on its own policies. (3-28-23)
+181. APPLICATION STATUS.
+An individual and their agency may check on the background check status and the individual’s availability to work on
+the Department website. (3-28-23)
+182. -- 189. (RESERVED)
+190. BACKGROUND CHECK CLEARANCE.
+01. Clearance. A clearance is issued by the Department once all relevant records and findings have
+been reviewed and the Department has cleared the applicant. The clearance will be published on the Department’s
+website and is available for printing to the individual and their agency. (3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 195 Page 13
+02. Clearance Types. An applicant required to pass a background check must receive a clearance as
+provided below: (3-28-23)
+a. An enhanced clearance is required for each of the classes listed in Section 126 of these rules and
+requires searches from states and jurisdictions where the applicant has resided in the previous five (5) years. A
+relevant record on any child protection registry will result in a denial under Subsection 200.01 of these rules. An
+applicant who applies to work in any of these classes must receive or have an enhanced clearance. (3-28-23)
+b. An applicant not listed in Section 126 of these rules will receive a clearance provided they do not
+disclose or have a relevant record under Subsections 200.01.a., 200.01.c., 200.01.d., 200.01.e., 200.01.f., or
+200.01.g., or a disqualifying crime under Subsections 210.01, 210.02, or 210.03 of these rules. (3-28-23)
+03. Revocation of Clearance. A clearance may be revoked for the following: (3-28-23)
+a. The individual fails to comply with the Department’s request to submit to a new background check
+under Subsection 195.04 of these rules. (3-28-23)
+b. The individual completes a new background check and is found to have a criminal or relevant
+record that results in an inability to proceed action or in a denial under Sections 200 or 270 of these rules. (3-28-23)
+c. The applicant withdraws their application from the background check process under Section 160 of
+these rules. (3-28-23)
+d. The background check fees are not paid, or are insufficient to cover the costs of the background
+check. (3-28-23)
+191. -- 194. (RESERVED)
+195. USE OF PREVIOUSLY COMPLETED BACKGROUND CHECKS.
+The agency is responsible for confirming that the applicant has received a clearance under Section 190 of these rules.
+Once a clearance is issued by the Department, verifiable continuous employment of the applicant with the same
+agency eliminates the requirement for a new background check. (3-28-23)
+01. New Background Check. Any individual required to have a background check under these rules
+must complete a new application, including fingerprints when: (3-28-23)
+a. An applicant is accepting employment with a new agency, and their last Department background
+check was completed more than three (3) years prior to their employment date; or (3-28-23)
+b. An applicant is applying for licensure or certification with the Department. and their last
+Department background check was completed more than three (3) years prior to their employment date or licensure
+application date; or (3-28-23)
+c. An applicant’s affiliation ends, is later re-affiliated to the same agency, and the applicant
+background check is older than three (3) years at the time of the re-affiliation. (3-28-23)
+02. Use of Background Check Within Three Years of Completion. Any agency may use a
+Department background check clearance obtained under these rules if: (3-28-23)
+a. The individual has received a Department’s background check clearance within three (3) years
+from the date of employment; (3-28-23)
+b. Prior to allowing the individual to provide services, the agency must affiliate itself to the
+individual’s clearance through the Department’s website by having the agency’s identification number added to the
+individual’s background check; and (3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 200 Page 14
+c. The agency completes a state-only background check of the individual through the Idaho State
+Police Bureau of Criminal Identification, and no disqualifying crimes are found. (3-28-23)
+i. The action must be initiated by the agency within thirty (30) calendar days of obtaining access to
+the individual’s background check clearance issued by the Department; and (3-28-23)
+ii. The agency must be able to provide proof of this action by maintaining a copy of the records
+required in Subsections 195.02.a and 195.02.c of these rules. (3-28-23)
+d. An applicant’s affiliation ends, is later re-affiliated to the same agency, and the applicant
+background check was completed less than three (3) years from the time of the re-affiliation, the provisions of
+Subsections 195.02.b and 195.02.c of these rules apply. (3-28-23)
+e. An agency not listed in Section 126 of these rules may use an individual’s Department clearance or
+enhanced clearance that was obtained within three (3) years from date of employment. (3-28-23)
+f. An individual with a current clearance that is not Enhanced but is completed within three (3) years
+from date of employment, who seeks to affiliate themselves to a new agency identified in Section 126 of these rules,
+must apply for a new background check to obtain an Enhanced clearance. An agency or employer identified in
+Subsections 126.08 and 126.10 of these rules may not hire an employee with a clearance obtained prior to January 1,
+2020, unless the Enhanced clearance complies with the requirements found in 42 USC Section 9858. (3-28-23)
+03. Agency Discretion. Any agency or employer, at its discretion, may require an individual to
+complete a Department background check at any time, even if the individual has received a background check
+clearance within three (3) years. (3-28-23)
+04. Department Discretion. The Department may require a background check of any individual
+covered under these rules at any time. Any individual required to complete a background check under these rules
+must be fingerprinted within fourteen (14) days from the date of notification by the Department. (3-28-23)
+196. -- 199. (RESERVED)
+200. UNCONDITIONAL DENIAL.
+An individual who receives an unconditional denial is not available to provide services, have access, or be licensed or
+certified by the Department. (3-28-23)
+01. Reasons for an Unconditional Denial. Unconditional denials are issued for: (3-28-23)
+a. Disqualifying crimes under Section 210 of these rules; (3-28-23)
+b. A relevant record on any Child Protection Registry for the classes of individuals under Section 126
+of these rules; (3-28-23)
+c. A relevant record on the Idaho Child Protection Central Registry with a Level one (1) or Level two
+(2) designation for all other applicants covered by these rules; (3-28-23)
+d. A relevant record on the Nurse Aide Registry; (3-28-23)
+e. A relevant record on either the state or federal sex offender registries; (3-28-23)
+f. A relevant record on the U. S. Health and Human Services, Office of the Inspector General List of
+Excluded Individuals and Entities (LEIE); (3-28-23)
+g. A relevant record on the state Medicaid Exclusion List: or (3-28-23)
+h. A materially false statement made knowingly in connection to the Department’s background check
+application for the classes of individuals under Section 126 of these rules will result in a five-year disqualification
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 210 Page 15
+period for the applicant. (3-28-23)
+02. Issuance of an Unconditional Denial. The Department will issue an unconditional denial within
+fourteen (14) days of completion of a background check. (3-28-23)
+03. Challenge of Department's Unconditional Denial. An individual has twenty-eight (28) days from
+the date the unconditional denial is issued to challenge the Department's unconditional denial. The individual must
+submit the challenge in writing and provide court records or other information which demonstrates the Department's
+unconditional denial is incorrect. These documents must be filed with the Background Check Unit. (3-28-23)
+a. If the individual challenges the Department's unconditional denial, the Department will review the
+court records, documents, and other information filed by the individual. The Department will issue a decision within
+thirty (30) days of the receipt of the challenge. The Department’s decision will be a final order under IDAPA
+16.05.03, “Contested Case Proceedings and Declaratory Rulings,” Section 152. (3-28-23)
+b. If the individual does not challenge the Department's unconditional denial within thirty (30) days, it
+becomes a final order of the Department under IDAPA 16.05.03, “Contested Case Proceedings and Declaratory
+Rulings,” Section 152. (3-28-23)
+04. Appeal of an Unconditional Denial. Following a challenge of the Department’s unconditional
+denial, an individual may appeal the Department’s decision under IDAPA 16.05.03, “Contested Case Proceedings
+and Declaratory Rulings.” The request to appeal an unconditional denial does not stay the action of the Department.
+(3-28-23)
+201. -- 209. (RESERVED)
+210. DISQUALIFYING CRIMES RESULTING IN AN UNCONDITIONAL DENIAL.
+An individual is not available to provide direct care or services when the individual discloses or the background
+check reveals a conviction for a disqualifying crime on their record under this rule. (3-28-23)
+01. Disqualifying Crimes. The disqualifying crimes under this rule, or any substantially conforming
+foreign criminal violation, will result in an unconditional denial being issued. (3-28-23)
+a. Crimes against vulnerable adults: (3-28-23)
+i. Abuse, neglect, or exploitation of a vulnerable adult, as defined in Section 18-1505, Idaho Code;
+(3-28-23)
+ii. Abandoning a vulnerable adult, as defined in Section 18-1505A, Idaho Code; (3-28-23)
+iii. Sexual abuse and exploitation of a vulnerable adult, as defined in Section 18-1505B, Idaho Code.
+(3-28-23)
+b. Aggravated, first-degree and second-degree arson, as defined in Sections 18-801 through 18-803,
+and 18-805, Idaho Code; (3-28-23)
+c. Forcible sexual penetration by use of a foreign object, as defined in Section 18-6604, Idaho Code;
+(3-28-23)
+d. Hiring, employing, or using a minor to engage in certain acts, as defined in Section 18-1517A,
+Idaho Code; (3-28-23)
+e. Human trafficking, as defined in Sections 18-8602 and 18-8603, Idaho Code; (3-28-23)
+f. Incest, as defined in Section 18-6601, Idaho Code; (3-28-23)
+g. Injury to a child, felony or misdemeanor, as defined in Section 18-1501, Idaho Code; (3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 210 Page 16
+h. Kidnapping, as defined in Sections 18-4501 through 18-4503, Idaho Code; (3-28-23)
+i. Lewd conduct with a minor, as defined in Section 18-1508, Idaho Code; (3-28-23)
+j. Mayhem, as defined in Section 18-5001, Idaho Code; (3-28-23)
+k. Manslaughter: (3-28-23)
+i. Voluntary manslaughter, as defined in Section 18-4006(1) Idaho Code; (3-28-23)
+ii. Involuntary manslaughter, as defined in Section 18-4006(2), Idaho Code; (3-28-23)
+iii. Felony vehicular manslaughter, as defined in Section 18-4006(3)(a) and (b), Idaho Code; (3-28-23)
+l. Murder in any degree or assault with intent to commit murder, as defined in Sections 18-4001, 18-
+4003, and 18-4015, Idaho Code; (3-28-23)
+m. Poisoning, as defined in Sections 18-4014 and 18-5501, Idaho Code; (3-28-23)
+n. Rape, as defined in Section 18-6101, Idaho Code; (3-28-23)
+o. Robbery, as defined in Section 18-6501, Idaho Code; (3-28-23)
+p. Felony stalking, as defined in Section 18-7905, Idaho Code; (3-28-23)
+q. Sale or barter of a child, as defined in Section 18-1511, Idaho Code; (3-28-23)
+r. Ritualized abuse of a child, as defined in Section 18-1506A, Idaho Code; (3-28-23)
+s. Female Genital Mutilation, as defined in Section 18-1506B, Idaho Code; (3-28-23)
+t. Sexual abuse or exploitation of a child, as defined in Sections 18-1506, Idaho Code; (3-28-23)
+u. Felony sexual exploitation of a child, as defined in Section 18-1507, Idaho Code; (3-28-23)
+v. Sexual battery of a minor child under sixteen (16) or seventeen (17) years of age, as defined in
+Section 18-1508A, Idaho Code; (3-28-23)
+w. Video voyeurism, as defined in Section 18-6605, Idaho Code; (3-28-23)
+x. Enticing of children, as defined in Sections 18-1509 and 18-1509A, Idaho Code; (3-28-23)
+y. Inducing individuals under eighteen (18) years of age into prostitution or patronizing a prostitute,
+as defined in Sections 18-5609 and 18-5611, Idaho Code; (3-28-23)
+z. Any felony punishable by death or life imprisonment; (3-28-23)
+aa. Attempted strangulation, as defined in Section 18-923, Idaho Code; (3-28-23)
+bb. Felony domestic violence, as defined in Section 18-918, Idaho Code; (3-28-23)
+cc. Battery with intent to commit a serious felony, as defined in Section 18-911, Idaho Code;(3-28-23)
+dd. Assault with intent to commit a serious felony, as defined in Section 18-909, Idaho Code; or
+(3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 210 Page 17
+ee. Aggravated sexual battery, as defined in Section 18-925, Idaho Code; (3-28-23)
+ff. Sexual abuse of an animal, as defined in Section 18-6602, Idaho Code; (3-28-23)
+gg. Sexual abuse of human remains, as defined in Section 18-6603, Idaho Code; or (3-28-23)
+hh. Attempt, conspiracy, accessory after the fact, or aiding and abetting, as defined in Sections 18-205,
+18-304, 18-305, 18-306, 18-307, 18-1701, and 19-1430, Idaho Code, to commit any of the disqualifying designated
+crimes. (3-28-23)
+02. Disqualifying Five-Year Crimes. The Department will issue an unconditional denial for an
+individual who has been convicted of the following described crimes for five (5) years from the date of the conviction
+for the crimes listed in this rule, or any substantially conforming foreign criminal violation: (3-28-23)
+a. Any felony not described in Subsection 210.01, or 210.03 of this rule; (3-28-23)
+b. Misdemeanor domestic violence, as defined in Section 18-918, Idaho Code; (3-28-23)
+c. Failure to report abuse, abandonment or neglect of a child, as defined in Section 16-1605, Idaho
+Code; (3-28-23)
+d. Misdemeanor forgery of and fraudulent use of a financial transaction card, as defined in Sections
+18-3123 through 18-3128, Idaho Code; (3-28-23)
+e. Misdemeanor forgery and counterfeiting, as defined in Sections 18-3601 through 18-3620, Idaho
+Code; (3-28-23)
+f. Misdemeanor identity theft, as defined in Section 18-3126, Idaho Code; (3-28-23)
+g. Misdemeanor insurance fraud, as defined in Sections 41-293 and 41-294, Idaho Code; (3-28-23)
+h. Public assistance fraud, as defined in Sections 56-227, 56-227A, 56-227D, 56-227E and 56-227F,
+Idaho Code; (3-28-23)
+i. Sexual exploitation of a child by electronic means, felony or misdemeanor, as defined in Section
+18-1507A, Idaho Code; (3-28-23)
+j. Stalking in the second degree, as defined in Section 18-7906, Idaho Code; (3-28-23)
+k. Misdemeanor vehicular manslaughter, as defined in Section 18-4006(3)(c), Idaho Code; (3-28-23)
+l. Sexual exploitation by a medical care provider, as defined in Section 18-919, Idaho Code;
+(3-28-23)
+m. Sexual Battery, as defined in Section 18-924, Idaho Code; (3-28-23)
+n. Operating a certified family home without certification, as defined in Section 39-3528, Idaho Code;
+or (3-28-23)
+o. Attempt, conspiracy, accessory after the fact, or aiding and abetting, as defined in Sections 18-204,
+18-205, 18-304, 18-306, 18-307, 18-1701, and 19-1430, Idaho Code, to commit any of the disqualifying five (5) year
+crimes. (3-28-23)
+03. Disqualifying Three-Year Crimes. The Department will issue an unconditional denial for an
+individual who has been convicted of the following described crimes for three (3) years from the date of the
+conviction for the crimes listed in this rule, or any substantially conforming foreign criminal violation: (3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 270 Page 18
+a. A controlled substance manufacture, delivery, or possession with intent to deliver or manufacture
+offense, as defined in Section 37-2732, Idaho Code, felony; (3-28-23)
+b. A controlled substance paraphernalia offense, as defined in Section 37-2734B, Idaho Code, felony;
+or (3-28-23)
+c. Operating a motor vehicle under the influence of alcohol, drugs, or any other intoxicating substance
+offense, as defined in Section 18-8004, Idaho Code, felony. (3-28-23)
+04. Underlying Facts and Circumstances. The Department may consider the underlying facts and
+circumstances of felony or misdemeanor conduct including a guilty plea or admission in determining whether or not
+to issue a clearance, regardless of whether or not the individual received one (1) of the following: (3-28-23)
+a. A withheld judgment; (3-28-23)
+b. A dismissal, suspension, deferral, commutation, or a plea agreement where probation or restitution
+was or was not required; (3-28-23)
+c. An order under Section 19-2604, Idaho Code, or other equivalent state law; or (3-28-23)
+d. A sealed record. (3-28-23)
+211. -- 269. (RESERVED)
+270. CRIMINAL OR RELEVANT RECORD - ACTION PENDING.
+01. Notice of Inability to Proceed. When the applicant is identified as having a pending criminal
+action for a crime or relevant record that may disqualify them from receiving a clearance for the background check,
+the Department may issue a notice of inability to proceed. (3-28-23)
+02. Availability to Provide Services. The applicant is not available to provide service when a notice of
+inability to proceed or denial is issued by the Department. Any previous clearance issued by the Department will be
+revoked as described in Section 190 of these rules. (3-28-23)
+03. Reconsideration of Action Pending. In the case of an inability to proceed status, the applicant can
+submit documentation that the matter has been resolved to the Department for reconsideration within one hundred
+and twenty (120) calendar days from the date of notice. When the Department receives this documentation, the
+Department will notify the applicant of the reconsideration and issue a clearance or denial. When the Department’s
+reconsideration results in a clearance after review, any previously revoked clearance will be restored as described in
+Section 190 of these rules. (3-28-23)
+271. -- 299. (RESERVED)
+300. BACKGROUND CHECK RECORDS.
+Background checks done under this chapter become the property of the Department and are held confidential.
+(3-28-23)
+01. Release of Background Check Records. A copy of the background check as defined in Section
+010 of these rules will be released: (3-28-23)
+a. To the individual who has requested the background check and upon receipt of a written request to
+the Department, provided the individual releases the state from all liability; (3-28-23)
+b. In response to a subpoena issued by a court of competent jurisdiction; or (3-28-23)
+c. As otherwise required by law. (3-28-23)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.06
+Department of Health and Welfare Criminal History & Background Checks
+Section 300 Page 19
+02. Department Retention of Records. The Department will preserve all applicant background check
+records for six (6) years. (3-28-23)
+03. Use and Dissemination Restrictions for FBI Criminal Identification Records. According to 28
+CFR 50.12, the Department will: (3-28-23)
+a. Notify the individual fingerprinted that the fingerprints will be used to check the criminal history
+records of the FBI; (3-28-23)
+b. In determining the suitability for licensing or employment, provide the individual the opportunity
+to complete or challenge the accuracy of the information contained in the FBI identification record; (3-28-23)
+c. Notify the individual that they have fifteen (15) days to correct or complete the FBI identification
+record or to decline to do so; and (3-28-23)
+d. Advise the individual who wishes to correct the FBI identification record that procedures for
+changing, correcting, or updating are provided in 28 CFR 16.34. (3-28-23)
+301. -- 999. (RESERVED)

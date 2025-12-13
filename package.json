@@ -1,0 +1,15 @@
+{
+  "name": "senior-chatbots",
+  "version": "1.0.0",
+  "description": "Medicaid and ALF regulatory chatbots with RAG",
+  "scripts": {
+    "frontend": "cd frontend && npm run dev",
+    "medicaid": "cd backend/medicaid && npm start",
+    "alf": "cd backend/alf && python main.py",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend/medicaid && npm install && cd ../alf && pip install -r requirements.txt",
+    "dev": "concurrently \"npm run medicaid\" \"npm run alf\" \"npm run frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

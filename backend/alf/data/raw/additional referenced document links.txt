@@ -1,0 +1,358 @@
+{
+  "regulatory_references": [
+    {
+      "reference_code": "NFPA Standard 101",
+      "full_title": "NFPA 101 - Life Safety Code, 2018 Edition",
+      "document_type": "Fire Safety Standard",
+      "access_type": "Purchase Required",
+      "primary_url": "https://www.nfpa.org/product/nfpa-101-code/p0101code",
+      "alternate_urls": [
+        "https://webstore.ansi.org/standards/nfpa/nfpa1012018",
+        "https://up.codes/code/nfpa-101-life-safety-code-2018"
+      ],
+      "cost": "$100-150",
+      "notes": "Copyrighted material - must be purchased. Some states provide free access through UpCodes."
+    },
+    {
+      "reference_code": "NFPA Standard 99",
+      "full_title": "NFPA 99 - Health Care Facilities Code, 2018 Edition",
+      "document_type": "Fire Safety Standard",
+      "access_type": "Purchase Required",
+      "primary_url": "https://www.nfpa.org/",
+      "alternate_urls": [],
+      "cost": "$100-150",
+      "notes": "Copyrighted material - must be purchased."
+    },
+    {
+      "reference_code": "NFPA Standard 110",
+      "full_title": "NFPA 110 - Emergency and Standby Power Systems",
+      "document_type": "Fire Safety Standard",
+      "access_type": "Purchase Required",
+      "primary_url": "https://www.nfpa.org/",
+      "alternate_urls": [],
+      "cost": "$80-120",
+      "notes": "Referenced in Section 155.03. Copyrighted material - must be purchased."
+    },
+    {
+      "reference_code": "Idaho Diet Manual",
+      "full_title": "Idaho Diet Manual, 11th Edition, 2015",
+      "document_type": "Nutrition Guidelines",
+      "access_type": "Purchase Required",
+      "primary_url": "https://www.eatrightidaho.org/diet-manual/",
+      "alternate_urls": [
+        "https://www.eatrightidaho.org/about-us/contact-us/"
+      ],
+      "cost": "Contact for pricing",
+      "notes": "Must be available in kitchen for facilities with 17+ beds. 2025 Edition now available. Licensed for single facility use only."
+    },
+    {
+      "reference_code": "IDAPA 16.02.19",
+      "full_title": "Idaho Food Code",
+      "document_type": "Idaho Administrative Rule",
+      "access_type": "Free",
+      "primary_url": "https://adminrules.idaho.gov/rules/current/16/160219.pdf",
+      "alternate_urls": [
+        "https://adminrules.idaho.gov/rules/current/16/"
+      ],
+      "cost": "Free",
+      "notes": "Must be available in kitchen for facilities with 17+ beds."
+    },
+    {
+      "reference_code": "28 CFR Part 36, Appendix A",
+      "full_title": "Americans with Disabilities Act Accessibility Guidelines (ADAAG) - 1991 Standards",
+      "document_type": "Federal Regulation",
+      "access_type": "Free",
+      "primary_url": "https://www.ada.gov/law-and-regs/design-standards/1991-design-standards/",
+      "alternate_urls": [
+        "https://archive.ada.gov/1991standards/1991standards-archive.html"
+      ],
+      "cost": "Free",
+      "notes": "1991 Standards referenced in regulation. 2010 Standards also available."
+    },
+    {
+      "reference_code": "IDAPA 24.34.01",
+      "full_title": "Rules of the Idaho Board of Nursing",
+      "document_type": "Idaho Administrative Rule",
+      "access_type": "Free",
+      "primary_url": "https://adminrules.idaho.gov/rules/current/24/243401.pdf",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Contains medication delegation requirements."
+    },
+    {
+      "reference_code": "IDAPA 24.39.30",
+      "full_title": "Rules of Building Safety (International Building Code)",
+      "document_type": "Idaho Administrative Rule",
+      "access_type": "Free",
+      "primary_url": "https://adminrules.idaho.gov/rules/current/24/243930.pdf",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Idaho's adoption of the International Building Code."
+    },
+    {
+      "reference_code": "IDAPA 16.05.03",
+      "full_title": "Contested Case Proceedings and Declaratory Rulings",
+      "document_type": "Idaho Administrative Rule",
+      "access_type": "Free",
+      "primary_url": "https://adminrules.idaho.gov/rules/current/16/160503.pdf",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Governs administrative appeals and contested cases."
+    },
+    {
+      "reference_code": "IDAPA 16.05.06",
+      "full_title": "Criminal History and Background Checks",
+      "document_type": "Idaho Administrative Rule",
+      "access_type": "Free",
+      "primary_url": "https://adminrules.idaho.gov/rules/current/16/160506.pdf",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Background check requirements for facility personnel."
+    },
+    {
+      "reference_code": "IDAPA 16.05.01",
+      "full_title": "Use and Disclosure of Department Records",
+      "document_type": "Idaho Administrative Rule",
+      "access_type": "Free",
+      "primary_url": "https://adminrules.idaho.gov/rules/current/16/160501.pdf",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Confidential information restrictions."
+    },
+    {
+      "reference_code": "IDAPA 16.02.10",
+      "full_title": "Idaho Reportable Diseases",
+      "document_type": "Idaho Administrative Rule",
+      "access_type": "Free",
+      "primary_url": "https://adminrules.idaho.gov/rules/current/16/160210.pdf",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "List of reportable diseases and reporting requirements."
+    },
+    {
+      "reference_code": "Title 39, Chapter 33, Idaho Code",
+      "full_title": "Idaho Residential Care or Assisted Living Act",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/",
+      "alternate_urls": [
+        "https://law.justia.com/codes/idaho/title-39/chapter-33/"
+      ],
+      "cost": "Free",
+      "notes": "Primary statutory authority for residential assisted living facilities."
+    },
+    {
+      "reference_code": "Section 39-3305, Idaho Code",
+      "full_title": "Idaho Residential Care or Assisted Living Act - Rules",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3305/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Legal authority for agency to promulgate rules."
+    },
+    {
+      "reference_code": "Section 39-3307, Idaho Code",
+      "full_title": "Admissions Requirements",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3307/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Admission eligibility requirements."
+    },
+    {
+      "reference_code": "Section 39-3309, Idaho Code",
+      "full_title": "Negotiated Service Agreement",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3309/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "NSA requirements."
+    },
+    {
+      "reference_code": "Section 39-3313, Idaho Code",
+      "full_title": "Admission Agreements",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3313/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Admission agreement requirements."
+    },
+    {
+      "reference_code": "Section 39-3315, Idaho Code",
+      "full_title": "Admission Records",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3315/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Required admission documentation."
+    },
+    {
+      "reference_code": "Section 39-3316, Idaho Code",
+      "full_title": "Resident Rights",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3316/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Comprehensive list of resident rights."
+    },
+    {
+      "reference_code": "Section 39-3322, Idaho Code",
+      "full_title": "Qualifications and Requirements for Facility Staff",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3322/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Staff qualification requirements."
+    },
+    {
+      "reference_code": "Section 39-3324, Idaho Code",
+      "full_title": "Staff Training Requirements",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3324/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Orientation and training requirements."
+    },
+    {
+      "reference_code": "Section 39-3326, Idaho Code",
+      "full_title": "Medication Distribution Systems",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3326/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Licensed nurses may fill medi-sets and blister packs."
+    },
+    {
+      "reference_code": "Section 39-3340, Idaho Code",
+      "full_title": "Licensing Requirements",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3340/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "License application and requirements."
+    },
+    {
+      "reference_code": "Section 39-3352, Idaho Code",
+      "full_title": "Unlicensed Residential Care or Assisted Living Facilities",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3352/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Penalties for operating without a license."
+    },
+    {
+      "reference_code": "Section 39-3355, Idaho Code",
+      "full_title": "Inspections",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3355/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Facility inspection requirements and survey findings."
+    },
+    {
+      "reference_code": "Section 39-3357, Idaho Code",
+      "full_title": "Enforcement Process",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3357/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Enforcement actions and procedures."
+    },
+    {
+      "reference_code": "Section 39-3358, Idaho Code",
+      "full_title": "Specified Remedies",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title39/T39CH33/SECT39-3358/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Available enforcement remedies."
+    },
+    {
+      "reference_code": "Title 74, Chapter 1, Idaho Code",
+      "full_title": "Public Records Law",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title74/T74CH1/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Public records disclosure requirements."
+    },
+    {
+      "reference_code": "Section 66-402, Idaho Code",
+      "full_title": "Developmental Disability Definitions",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title66/T66CH4/SECT66-402/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Legal definition of developmental disability."
+    },
+    {
+      "reference_code": "Section 18-111, Idaho Code",
+      "full_title": "Criminal Offense Definitions",
+      "document_type": "Idaho State Law",
+      "access_type": "Free",
+      "primary_url": "https://legislature.idaho.gov/statutesrules/idstat/Title18/T18CH1/SECT18-111/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Definition of crime for background check purposes."
+    },
+    {
+      "reference_code": "18 U.S.C. Section 4B1.2(a)",
+      "full_title": "Federal Criminal Code - Crime of Violence Definition",
+      "document_type": "Federal Law",
+      "access_type": "Free",
+      "primary_url": "https://www.law.cornell.edu/uscode/text/18/",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Federal criminal offense definitions."
+    },
+    {
+      "reference_code": "18 U.S.C. Sections 1001-1027",
+      "full_title": "Federal Criminal Code - Fraud and False Statements",
+      "document_type": "Federal Law",
+      "access_type": "Free",
+      "primary_url": "https://www.law.cornell.edu/uscode/text/18/part-I/chapter-47",
+      "alternate_urls": [],
+      "cost": "Free",
+      "notes": "Federal fraud and false statement offenses."
+    },
+    {
+      "reference_code": "CDC Guidelines - Standard Precautions",
+      "full_title": "CDC Infection Control Guidelines - Standard Precautions for Healthcare Settings",
+      "document_type": "Federal Guidelines",
+      "access_type": "Free",
+      "primary_url": "https://www.cdc.gov/infection-control/hcp/basics/standard-precautions.html",
+      "alternate_urls": [
+        "https://www.cdc.gov/infection-control/hcp/guidance/index.html",
+        "https://www.cdc.gov/hicpac/pdf/core-practices.pdf"
+      ],
+      "cost": "Free",
+      "notes": "Infection control requirements referenced in Section 335."
+    },
+    {
+      "reference_code": "ASTM Standards",
+      "full_title": "ASTM Standards for Fireplace Glass Enclosures",
+      "document_type": "Industry Standard",
+      "access_type": "Purchase Required",
+      "primary_url": "https://www.astm.org/",
+      "alternate_urls": [],
+      "cost": "Varies",
+      "notes": "Heat-tempered glass fireplace enclosure requirements in Section 250.10.b."
+    }
+  ]
+}

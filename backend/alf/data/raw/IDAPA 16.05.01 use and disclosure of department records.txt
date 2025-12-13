@@ -1,0 +1,686 @@
+Zero-Based Regulation Review – 2025 for Rulemaking and 2026 Legislative Review
+IDAPA 16 – IDAHO DEPARTMENT OF HEALTH AND WELFARE
+Department-Wide Services
+16.05.01 – Use and Disclosure of Department Records
+Who does this rule apply to?
+Department employees, contractors, providers of services, and other individuals or entities who
+request or use that information.
+What is the purpose of this rule?
+These rules govern the use and disclosure of information maintained by the Department, in
+compliance with applicable state and federal laws, and federal regulations. These rules apply to
+all use and disclosure information, regardless of the form in which it is retained or disclosed; and
+all individuals and entities must comply with any standards in state or federal law or regulation
+that contain additional requirements or are more restrictive than the requirements of these rules.
+What is the legal authority for the agency to promulgate this rule?
+This rule implements the following statutes passed by the Idaho Legislature:
+Health and Safety -
+Vital Statistics:
+• Section 39-242, Idaho Code – Duties of Director
+Artificial Insemination:
+• Section 39-5403, Idaho Code –
+Public Assistance and Welfare -
+Public Assistance Law:
+• Section 56-221, Idaho Code – Confidential Character of Public Assistance Records
+• Section 56-222, Idaho Code – Consent – Filing and Notice Requirements
+Department of Health and Welfare:
+• Section 56-1003, Idaho Code – Powers and Duties of the Director
+• Section 56-1004, Idaho Code – Director – Additional Powers and Duties
+Where can I find information on Administrative Appeals?
+There is no provision for administrative appeal before the Department under the scope of IDAPA
+16.05.03, “Contested Case Proceedings and Declaratory Rulings.” To file a district court appeal,
+to file a complaint or to request a reconsideration to access health information, see Section 007 of
+these rules.
+How do I request public records?
+Individuals have a right to review and copy records maintained by the Department, subject to the
+provisions of the Idaho Public Records Act, Title 74, Chapter 1, Idaho Code, these rules, and state
+and federal laws that make records confidential. Unless otherwise exempted, all public records in
+the custody of the Department are subject to disclosure. The Department’s Administrative
+Procedures Section (APS) and designated custodians in Department offices receive and respond
+to public records requests. APS can be reached at the mailing address for the Department’s
+business office. Non-identifying or non-confidential information provided to the public by the
+Department in the ordinary course of business is not required to be reviewed by a public records
+custodian. Original records must not be removed from the Department by individuals who make
+public records requests.
+Zero-Based Regulation Review – 2025 for Rulemaking and 2026 Legislative Review
+Who do I contact for more information on this rule?
+Idaho Department of Health and Welfare
+Mailing Address: Street Address:
+Attn: Administrative Procedures Section 450 West State Street, 10th floor
+P.O. Box 83720 Boise, ID 83702
+Boise, ID 83720-0036
+Phone: (208) 334-5500
+Fax: (208) 639-5741, Attn: APS
+Email: prr@dhw.idaho.gov
+Webpage: https://healthandwelfare.idaho.gov/news-notices/public-records-requests/publicrecords-requests
+Page 3
+Table of Contents
+16.05.01 – Use and Disclosure of Department Records
+000. Legal Authority. ...................................................................................................... 5
+001. Scope. .................................................................................................................... 5
+002. -- 006. (Reserved) ................................................................................................... 5
+007. District Court Appeals, Complaints And Requests For Reconsideration. ............... 5
+008. -- 009. (Reserved) ................................................................................................... 5
+010. Definitions. .............................................................................................................. 5
+011. Definitions For Vital Statistics. ................................................................................ 6
+012. -- 049. (Reserved) ................................................................................................... 7
+GENERAL CONSENT AND DISCLOSURE REQUIREMENTS
+050. Consent To Gather, Use And Disclose Information. .............................................. 8
+051. Authorization For The Use And Disclosure Of Confidential Information. ............... 8
+052. -- 074. (Reserved) ................................................................................................... 8
+075. Use And Disclosure Of Confidential Information. ................................................... 8
+076. -- 099. (Reserved) ................................................................................................. 10
+100. Exceptions To Requirement For Authorization. .................................................... 10
+101. Abuse, Neglect, Or Domestic Violence. ............................................................... 11
+102. Victim Of Other Crime. ......................................................................................... 12
+103. Serious Threat To Health Or Safety. .................................................................... 12
+104. Reporting Of Crime On Premises. ........................................................................ 12
+105. Reporting Crime In Emergencies. ........................................................................ 12
+106. -- 124. (Reserved) ................................................................................................. 12
+125. Access To An Individual’s Own Record. .............................................................. 12
+126. -- 149. (Reserved) ................................................................................................. 13
+150. Amendment Of Record. ........................................................................................ 13
+151. -- 174. (Reserved) ................................................................................................. 13
+175. Report Of Disclosures Of Health Information. ...................................................... 13
+176. -- 189. (Reserved) ................................................................................................. 14
+190. Records Of Decedents. ........................................................................................ 14
+191. Data For Research Or Other Purposes. ............................................................... 14
+192. -- 199. (Reserved) ................................................................................................. 15
+SPECIFIC CONSENT AND DISCLOSURE REQUIREMENTS
+200. Abortion For Minors. ............................................................................................. 15
+201. Abuse, Neglect Or Domestic Violence. ................................................................ 15
+202. Adoption. .............................................................................................................. 15
+203. -- 209. (Reserved) ................................................................................................. 15
+210. Child Protection. ................................................................................................... 15
+211. Children’s Mental Health. ..................................................................................... 15
+212. -- 219. (Reserved) ................................................................................................. 15
+220. Hard To Place Children. ....................................................................................... 15
+221. Hospital Records. ................................................................................................. 16
+222. Human Resources. ............................................................................................... 16
+223. Infant/toddler Program. ......................................................................................... 16
+Table of Contents (cont’d)
+Page 4
+224. -- 229. (Reserved) ................................................................................................. 16
+230. Medical Care. ....................................................................................................... 16
+231. -- 239. (Reserved) ................................................................................................. 16
+240. Mental Illness. ...................................................................................................... 16
+241. Minor’s Consent Regarding Infectious, Contagious Or Communicable Disease. 16
+242. Specific Requirements - Protection And Advocacy Agencies. ............................. 16
+243. -- 249. (Reserved) ................................................................................................. 16
+250. Substance Abuse. ................................................................................................ 16
+251. -- 259. (Reserved) ................................................................................................. 16
+260. Termination Of Parental Rights. ........................................................................... 16
+261. -- 269. (Reserved) ................................................................................................. 17
+270. Venereal Diseases. .............................................................................................. 17
+271. -- 279. (Reserved) ................................................................................................. 17
+280. Vital Statistics -- Verification Of Data. .................................................................. 17
+281. Vital Statistics: Disclosure For Research, Public Health Or Statistical Purposes. 17
+282. Vital Statistics: Registry Of Putative Fathers. ....................................................... 17
+283. Vital Statistics: Procedures For Requesting Information. ..................................... 17
+284. Women, Infants And Children (WIC) Program. .................................................... 17
+285. -- 999. (Reserved) ................................................................................................. 17
+Section 000 Page 5
+16.05.01 – USE AND DISCLOSURE OF DEPARTMENT RECORDS
+000. LEGAL AUTHORITY.
+Sections 39-242, 56-221, 56-222, 56- 1003, and 56-1004, Idaho Code. (7-1-25)
+001. SCOPE.
+These rules govern the use and disclosure of information maintained by the Department, in compliance with
+applicable state and federal laws, and federal regulations. (7-1-25)
+002. -- 006. (RESERVED)
+007. DISTRICT COURT APPEALS, COMPLAINTS AND REQUESTS FOR RECONSIDERATION.
+The confidentiality of health information is defined in part by the Health Insurance Portability and Accountability Act
+(HIPAA), Sections 262 and 264 of Public Law 104-191, 42 USC 1320d, 110 Statutes at Large 2033-4, and 45 CFR
+Sections 160 and 164. (3-17-22)
+01. Appeals to District Court. Anyone who is aggrieved by a denial of disclosure or amendment of a
+public record may file an appeal in the appropriate district court in compliance with the Idaho Public Records Act,
+Title 74, Chapter 1, Idaho Code. (3-17-22)
+02. Complaints to Privacy Officer. Individuals who are dissatisfied with a Department decision
+regarding confidential information may file a written complaint with the Department’s Privacy Officer. Complaints
+must be submitted to the Department’s Privacy Officer at the mailing address for the Department’s business office.
+The Privacy Officer determines if a complaint is valid and makes a recommendation for its resolution to the
+Department within twenty-eight (28) days after the complaint is received. (3-17-22)
+a. Secretary of Health and Human Services (HHS). Complaints that involve the use and disclosure of
+health information may also be submitted to the Secretary of Health and Human Services at the following address:
+The U.S. Department of Health and Human Services, 200 Independence Avenue, S.W., Washington, DC 20201.
+(3-17-22)
+b. Time for filing complaints. Complaints must be filed within one hundred eighty (180) days from
+the date of the alleged violation. (3-17-22)
+03. Request for Reconsideration to Access Health Information. The individual or legal
+representative may submit a written request for reconsideration to the Privacy Officer if access to health information
+is denied. (3-17-22)
+a. The request for reconsideration must be postmarked no later than twenty-eight (28) days after
+notice of the denial was mailed. (3-17-22)
+b. The reconsideration will be conducted by another licensed health care professional who did not
+participate in the original decision. (3-17-22)
+c. The Department will notify the individual of the outcome of the review within twenty-eight (28)
+days after the request is received. (3-17-22)
+008. -- 009. (RESERVED)
+010. DEFINITIONS.
+01. Authorization. A time-limited written consent for the disclosure of confidential information to a
+specific individual or entity outside the Department, and outside of normal business processes for providing
+Department services. (3-17-22)
+02. Confidential Information. Information that may only be used or disclosed as provided by state or
+federal law, federal regulation, or state rule. (3-17-22)
+03. Consent. Permission to use or disclose confidential information. Consent may be inferred from the
+circumstances. (3-17-22)
+04. Department. The Idaho Department of Health and Welfare. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 011 Page 6
+05. Guardian ad Litem. The person appointed by the court, according to law, to protect the interest of
+a minor or an incompetent in a case before the court. (3-17-22)
+06. Health Information. Identifying information about the past, present or future: (3-17-22)
+a. Physical or mental health or condition of an individual; (3-17-22)
+b. Provision of health care to an individual; or (3-17-22)
+c. Payment for health care for an individual. (3-17-22)
+07. Identifying Information. The name, address, social security number, or other information by
+which an individual could be identified. Information may also be identifying without a name, based on the context or
+circumstances of a disclosure. (3-17-22)
+08. Informal Representative. A person who is not a legal representative, but who is a relative, friend,
+or other person permitted to communicate with the Department on behalf of an individual. The individual or legal
+representative may give such permission verbally, in writing, or through their conduct. (3-17-22)
+09. Legal Representative. The parent of a minor, a guardian, conservator, attorney, or an individual
+who has an appropriate power of attorney. (3-17-22)
+10. Minimally Necessary. The information that is essential to provide benefits or services, and to
+perform normal business processes of the Department. (3-17-22)
+11. Need-to-Know. Confidential information that is necessary to provide benefits or services, and to
+perform normal business processes of the Department. (3-17-22)
+12. Psychotherapy Notes. Notes recorded in any format by a mental health professional that
+documents or analyzes the content of individual or group counseling sessions, and that are separated from the rest of
+the individual’s medical record. The term “psychotherapy notes” excludes: (3-17-22)
+a. Medication prescription and monitoring; (3-17-22)
+b. Counseling session start and stop times; (3-17-22)
+c. Types and frequencies of treatment furnished; (3-17-22)
+d. Results of clinical tests; and (3-17-22)
+e. Any summary of diagnosis, functional status, the treatment plan, symptoms, prognosis and
+progress to date. (3-17-22)
+011. DEFINITIONS FOR VITAL STATISTICS.
+The definitions provided in Subsection 011 of these rules apply to Vital Statistics and to the disclosure provisions of
+Section 39-270, Idaho Code. (3-17-22)
+01. Authorized Representative. An attorney, physician, funeral director, a legally designated agent, or
+an entity whose purpose for obtaining a vital record is to pay direct benefits to a person with a direct and tangible
+interest defined in Subsection 011.03 of this rule. (3-17-22)
+02. Certificate. A certificate of birth, death, stillbirth, miscarriage, marriage, or divorce, filed pursuant
+to law, excluding information contained in the statistical section of any record. (3-17-22)
+03. Individuals with a Direct and Tangible Interest. Individuals who have a direct and tangible
+interest in a vital record are: (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 011 Page 7
+a. The registrant and that person’s spouse, children, parents, grandparents, grandchildren, siblings, or
+guardian; (3-17-22)
+b. Any other person who demonstrates that the record is needed for the determination or protection of
+that person’s property right; (3-17-22)
+c. An authorized representative of any of these individuals; (3-17-22)
+d. The surviving next-of-kin if a deceased registrant has no other surviving family member listed in
+this subsection; (3-17-22)
+e. The Idaho Attorney General, and state and federal prosecuting attorneys, if such attorney submits
+an affidavit affirming that the record is necessary in the furtherance of the attorney’s official law enforcement duties,
+is not reasonably available from another source, and that reasonable steps will be taken to preserve the confidentiality
+of the record; (3-17-22)
+f. Any person, upon the order of an Idaho court of competent jurisdiction, where the court finds that
+disclosure of the record is necessary in the interests of justice; and (3-17-22)
+g. Any person with the right to control the disposition of remains of a deceased person or to determine
+provisions not clearly covered in a prearranged funeral plan as authorized in Section 54-1142(1) Idaho Code, in
+accordance with Section 39-270(b), Idaho Code. (3-17-22)
+04. Parent. Does not include a biological parent whose parental rights have been terminated.
+(3-17-22)
+05. Public Health. The science and art of: (3-17-22)
+a. Preventing disease, prolonging life, or promoting health and efficiency through organized
+community effort for the sanitation of the environment; (3-17-22)
+b. The control of communicable infections; (3-17-22)
+c. The education of the individual in personal hygiene; (3-17-22)
+d. The organization of medical and nursing services for the early diagnosis and preventive treatment
+of disease; and (3-17-22)
+e. The development of the social machinery to ensure everyone a standard of living adequate for the
+maintenance of health, so organizing these benefits as to enable every citizen to realize their birthright of health and
+longevity. (3-17-22)
+06. Putative Father. The biological father of a child as identified by himself, the natural mother, an
+adoption agency, or a court. (3-17-22)
+07. Registrar. The state Registrar as defined in Section 39-241(18), Idaho Code. The mailing and
+street address for the state Registrar is Bureau of Vital Records and Health Statistics, 450 W. State St., 1st Floor, PO
+Box 83720, Boise, Idaho 83720-0036. (3-17-22)
+08. Research. Organized scientific inquiry or examination of data in order to discover and interpret
+facts. (3-17-22)
+09. Statistical Purposes. The collection, analysis, interpretation and presentation of masses of nonidentifying numerical information. (3-17-22)
+012. -- 049. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 050 Page 8
+GENERAL CONSENT AND DISCLOSURE REQUIREMENTS
+(Sections 050-199)
+050. CONSENT TO GATHER, USE AND DISCLOSE INFORMATION.
+When individuals, legal representatives or informal representatives sign an application, they consent for the
+Department to gather, use and disclose information as needed for an individual to receive Department benefits or
+services. If none of these individuals provides a consent on an application, service may be denied. An informal
+representative may only consent to the disclosure of confidential information when permitted by these rules.
+(3-17-22)
+051. AUTHORIZATION FOR THE USE AND DISCLOSURE OF CONFIDENTIAL INFORMATION.
+An authorization for the use and disclosure of confidential information must be in writing, and identify the individual
+who is the subject of the record. (3-17-22)
+01. Content of Authorization. An authorization must be dated and signed by the individual or legal
+representative, and: (3-17-22)
+a. Identify the specific information involved; (3-17-22)
+b. State the duration of the authorization, defined by a specific date or the description of an event;
+(3-17-22)
+c. Identify the recipient of the information; and (3-17-22)
+d. State the purpose for the authorization, or state that it is, “At the request of the individual,” or
+similar wording. (3-17-22)
+02. Defective Authorization. An authorization must not be acted upon if the authorization has expired
+or has been revoked, or if any essential information is omitted or is false. (3-17-22)
+03. Authorization for the Use and Disclosure of Health Information. An authorization for the use
+and disclosure of health information must contain the content listed in Subsection 051.01 and the statements required
+by 45 CFR 164.508(c)(2). (3-17-22)
+04. Psychotherapy Notes. Psychotherapy notes that are separate from the rest of an individual’s record
+may not be used or disclosed without an authorization except to the originator of the notes for treatment or to defend
+the Department in a legal action brought by the individual. (3-17-22)
+05. Revocation of an Authorization. An individual or legal representative may revoke an
+authorization at any time by submitting a written request at any Department office. (3-17-22)
+06. Effect on Benefits and Services. An individual’s refusal to provide an authorization does not
+affect the receipt of benefits or services the individual would otherwise receive. (3-17-22)
+07. Copy of Authorization. The Department will provide a copy of the signed authorization to the
+individual or legal representative. (3-17-22)
+052. -- 074. (RESERVED)
+075. USE AND DISCLOSURE OF CONFIDENTIAL INFORMATION.
+Without a consent or an authorization, no one may use or disclose health or other confidential information except as
+provided in Section 100 of this chapter. With a consent or an authorization, confidential information will be used or
+disclosed only on a need-to-know basis and to the extent minimally necessary for the conduct of the Department’s
+business and the provision of benefits or services, subject to law and the exceptions listed in these rules. Recipients of
+information must protect against unauthorized disclosure or use of the information for purposes that are not specified
+in a consent or an authorization. Access to an individual’s own records is governed by Section 125 of this chapter.
+Specific consent and disclosure requirements are identified in Sections 200 through 283 of these rules. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 075 Page 9
+01. Identity. Any individual who requests to review, copy, restrict or amend confidential information,
+or to sign an authorization, must provide verification of identity, and where appropriate, present proof that the
+individual is a legal representative of the subject of the record. Except for verifications or requests for certified copies
+of vital records, requests submitted by mail must be notarized if necessary to identify the individual's signature.
+(3-17-22)
+02. Order of Court or Hearing Officer. If information is subpoenaed in a civil, criminal or
+administrative action, the Department will provide such information as would be disclosed with a public records
+request, without an order from the court or hearing officer. Alternatively, the Department may submit the record with
+a request for a review solely by the judge or hearing officer, and an order appropriately limiting its use by the parties.
+If Department staff have reason to believe that release of a record through a public records request may be detrimental
+to any individual, the Department may seek a protective order. (3-17-22)
+03. Referent. Unless the individual is a witness in litigation, identifying information must not be
+disclosed about an individual who reported concerns relating to any Department responsibility, including: (3-17-22)
+a. Fraud; (3-17-22)
+b. Abuse, neglect or abandonment of a child; (3-17-22)
+c. Abuse, neglect or abandonment of a vulnerable adult; (3-17-22)
+d. Concerns about the mental health of another; and (3-17-22)
+e. Certified family homes, unless the complainant consents to disclosure in writing or disclosure is
+required in any administrative or judicial proceeding, in compliance with Section 74-105(16), Idaho Code. (3-17-22)
+04. Collateral Contact. Identifying information must not be disclosed about individuals who are not
+the subject of the record and who provide information to the Department in the ordinary course of business.
+(3-17-22)
+05. Alternative Communication. The Department, contractors and providers must comply with an
+individual’s request that confidential information be communicated by alternative means of delivery unless it is
+administratively difficult to do so or the request is unreasonable. If approved, all information from a Department
+program will use the same alternative means of delivery after the request is received and recorded. (3-17-22)
+06. Restriction on Disclosure of Health Information. (3-17-22)
+a. An individual may request in writing that use or disclosure of health information be restricted. The
+Department will respond in writing, and may deny the request if: (3-17-22)
+i. Disclosure is required; (3-17-22)
+ii. Necessary for the safety of the individual or others; (3-17-22)
+iii. Necessary for the provision of services, benefits or payment; or (3-17-22)
+iv. The restriction is unreasonable. (3-17-22)
+b. The uses and disclosures of confidential information are subject to a restriction after it is received
+and recorded by the Department. Department employees, contractors, and the individual may request the Department
+to terminate the restriction. The Department will notify the individual of its response to a request to terminate a
+restriction. (3-17-22)
+07. Discovery. Records will be provided only in response to valid discovery in any federal or state
+criminal, civil or administrative proceeding, as required by the Public Records Act, Section 74-115(3), Idaho Code.
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 100 Page 10
+(3-17-22)
+076. -- 099. (RESERVED)
+100. EXCEPTIONS TO REQUIREMENT FOR AUTHORIZATION.
+Confidential information will be released without an authorization to individuals and entities in compliance with a
+court order, or if they are legally authorized to receive it. The following are exceptions to the requirement for an
+authorization: (3-17-22)
+01. Advocates and Guardians. Federally-recognized protection and advocacy agencies or duly
+appointed guardians ad litem have access to an individual’s file as necessary to perform their legal functions.
+Guardians ad litem have access to records as provided in Section 16-1634, Idaho Code, except for: (3-17-22)
+a. Drug abuse and sickle cell anemia records maintained by the Veteran’s Administration (VA), as
+required by 38 USC Section 7332; (3-17-22)
+b. Claims under laws administered by the VA as required by 38 USC Section 3301; and (3-17-22)
+c. Drug abuse prevention programs that receive federal assistance, as required by 42 USC Section
+290ee - 3. (3-17-22)
+02. Licensure. In compliance with Section 74-106(9), Idaho Code, records will be released if they are
+part of an inquiry into an individual's or organization's fitness to be granted or retain a license, certificate, permit,
+privilege, commission or position. These records will otherwise be provided in redacted form as required by law or
+rule. (3-17-22)
+03. Fugitives and Missing Persons. (3-17-22)
+a. A state or local law enforcement officer may receive the current address of any cash assistance
+recipient who is a fugitive felon, in compliance with Section 56-221, Idaho Code. (3-17-22)
+b. The following health information may be disclosed to a law enforcement officer for the purpose of
+identifying or locating a suspect, fugitive, material witness or missing person: (3-17-22)
+i. Name and address; (3-17-22)
+ii. Date and place of birth; (3-17-22)
+iii. Social security number; (3-17-22)
+iv. Blood type and rh factor; (3-17-22)
+v. Type of injury; (3-17-22)
+vi. Date and time of treatment or death, if applicable; and (3-17-22)
+vii. Distinguishing physical characteristics. (3-17-22)
+c. DNA, dental records, or typing, samples or analysis of body fluids or tissue must not be disclosed.
+(3-17-22)
+04. Duty to Warn or Report. Confidential information may be released without an authorization if
+necessary under a legal duty to warn or to report. (3-17-22)
+05. Department Business, Monitoring and Legal Functions. Department employees and contractors
+may use and disclose records as necessary to perform normal business functions, including health treatment, audit
+and quality improvement, investigation of fraud and abuse, establishment of overpayments and recoupment, public
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 101 Page 11
+health, or other functions authorized by law. Information will be made available to state and federal auditors and
+compliance monitors. Confidential information will be provided to counsel as needed to evaluate, prepare for and
+represent the Department in legal actions. (3-17-22)
+06. Emergencies. Confidential information may be disclosed to qualified medical personnel to the
+extent necessary to respond to a medical emergency that requires immediate attention. (3-17-22)
+07. Multidisciplinary Staffing. Confidential information may be disclosed to employees of the
+Department, law enforcement, and other appropriate individuals to participate in a multidisciplinary team evaluation
+of child protection cases under Section 16-1617, Idaho Code, or interdisciplinary Department staffing of services for
+an individual. All individuals who participate in such staffing must not redisclose the information and must comply
+with any other pertinent statute, rule or regulation. (3-17-22)
+08. Collaborative Staffing. Confidential information may be disclosed in staffing by the Department
+and other individuals or entities if all participants are involved with the same or similar populations and have an equal
+obligation or promise to maintain confidentiality. Disclosure of information in inter-agency staffing must be
+necessary to coordinate benefits or services, or to improve administration and management of the services.
+Confidential information may be disclosed only on a need-to-know basis and to the extent minimally necessary for
+the conduct of the staffing. All individuals who participate in such staffing must not redisclose the information except
+in compliance with any other pertinent statute, rule or regulation. (3-17-22)
+09. Elected State Official. As provided by Section 16-1629(6), Idaho Code, any duly elected state
+official carrying out their official functions may have access to child protection records of the Department, and must
+not redisclose the information. (3-17-22)
+10. Child Protection Agency. A legally mandated child protection agency may provide information
+necessary to investigate a report of known or suspected child abuse or neglect, or to treat a child and family who are
+the subjects of the record. (3-17-22)
+11. Legally Authorized Agency. An agency will be provided appropriate information if the agency is
+legally responsible for or authorized to care for, treat or supervise a child who is the subject of the record. (3-17-22)
+12. Informal Representatives. Informal representatives may be permitted to receive and deliver
+information on behalf of an individual, and may be given health information if the informal representative is directly
+involved with the individual’s care. Confidential information may be withheld in whole or part if professional staff
+determines that disclosure is not in the best interest of the individual, based on the circumstances and their
+professional judgment. The Department will not disclose information that is prohibited from being disclosed by these
+rules or any other legal requirement. (3-17-22)
+13. Law Enforcement. Any federal, state, or local law enforcement agency, or any agent of such
+agency, may be permitted access to information as needed in order to carry out its responsibilities under law to protect
+children from abuse, neglect, or abandonment. (3-17-22)
+101. ABUSE, NEGLECT, OR DOMESTIC VIOLENCE.
+Health information may be disclosed to a law enforcement officer if the victim of abuse, neglect, or domestic
+violence agrees to the disclosure. (3-17-22)
+01. Incapacity of Victim. If the victim is unable to agree because of incapacity, health information will
+be disclosed if the officer states: (3-17-22)
+a. That the information is not intended to be used against the victim; and (3-17-22)
+b. That immediate enforcement activity would be materially and adversely affected by waiting for the
+victim’s agreement. (3-17-22)
+02. Judgment of Professional Staff. The victim must be promptly informed that a report to law
+enforcement has been or will be made unless in the judgment of professional staff: (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 102 Page 12
+a. Informing the victim would place them at risk of serious harm; or (3-17-22)
+b. The probable perpetrator of the abuse, neglect or domestic violence would be the recipient of the
+report, and disclosure would not be in the victim’s best interest. (3-17-22)
+102. VICTIM OF OTHER CRIME.
+Health information may be disclosed in response to a law enforcement official’s request about a victim or suspected
+victim of a crime other than those listed in Section 101 of these rules, if the individual agrees to the disclosure.
+(3-17-22)
+01. Incapacity of Victim or Emergency Circumstance. If the individual is unable to agree because of
+incapacity or emergency circumstance, health information will be disclosed if the official states that the information
+is needed to determine whether a violation of law has occurred, and that it is not intended to be used against the
+individual. (3-17-22)
+02. Best Interest of the Individual. The officer must also represent that immediate enforcement
+activity would be materially and adversely affected by waiting for the individual’s agreement. Professional staff must
+agree that disclosure is in the best interest of the individual. (3-17-22)
+103. SERIOUS THREAT TO HEALTH OR SAFETY.
+Subject to the restrictions in this rule, health information may be used or disclosed if necessary to prevent or lessen a
+serious and imminent threat to the health and safety of a person or the public. Disclosure must be based on actual
+knowledge or credible information from a person with apparent knowledge or authority. Disclosure will be made only
+to a person or persons reasonably able to prevent or lessen the threat, including the target of the threat. (3-17-22)
+01. Apprehension by Law Enforcement. Health information may be disclosed as necessary to law
+enforcement to identify or apprehend an individual. Disclosure is limited to an admission that an individual
+participated in a violent crime if it is reasonable to believe that serious physical harm has been caused to the victim.
+(3-17-22)
+02. Escape From Law Enforcement. Health information may be disclosed as necessary for law
+enforcement to identify or apprehend an individual where it appears from all the circumstances that the individual has
+escaped from a correctional institution or lawful custody. (3-17-22)
+03. Prohibition on Disclosure. Disclosure of an admission of participation in a violent crime is
+prohibited if the information is learned in the course of treatment to affect the individual’s tendency to commit the
+criminal conduct, or through a request by the individual to initiate such treatment. (3-17-22)
+104. REPORTING OF CRIME ON PREMISES.
+Health information may be disclosed to a law enforcement official if the information constitutes evidence of criminal
+conduct that occurred on the Department’s premises. (3-17-22)
+105. REPORTING CRIME IN EMERGENCIES.
+If a Department employee is providing emergency health care off the Department’s premises, health information may
+be disclosed if necessary to alert law enforcement to a crime; the location of the crime or victim; and the identity,
+description and location of the perpetrator. If the crime involves abuse, neglect or domestic violence, the
+requirements of Section 101 of this chapter apply. (3-17-22)
+106. -- 124. (RESERVED)
+125. ACCESS TO AN INDIVIDUAL’S OWN RECORD.
+An individual who is at least fourteen (14) years old, or a legal representative, may review and obtain a copy of
+Department records that pertain to the individual, subject to the exceptions listed in Subsections 125.01 through
+125.04 of these rules. Requests must be in writing, identifying the individual whose record is sought, and the record
+or information requested. The principles of disclosing only minimally necessary information on a need-to-know basis
+do not apply to a request for an individual’s own records. The following information must not be disclosed:
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 150 Page 13
+(3-17-22)
+01. Children’s Mental Health. Records of a child’s mental health services must not be disclosed to the
+child when a physician or other mental health professional has noted that disclosure would be damaging to the child,
+unless access is ordered by a court according to Section 16-2428, Idaho Code. (3-17-22)
+02. Legal Action. No disclosure will be made to an individual of information compiled in an ongoing
+investigation, that is exempt from disclosure, or that relates to adoption. Information compiled in reasonable
+anticipation of litigation that is not otherwise discoverable must not be disclosed. Information compiled for use in a
+civil, criminal, or administrative proceeding to which the individual is a party must not be disclosed except in
+compliance with valid discovery. (3-17-22)
+03. Clinical Laboratories. There will be no disclosure of information maintained by a clinical
+laboratory except as authorized by the provider who ordered the test or study, in compliance with 42 USC 263a.
+(3-17-22)
+04. Confidential Information. Health and other confidential information will not be disclosed to the
+individual if a licensed professional in an appropriate discipline determines that disclosure is likely to endanger the
+life or physical safety of the individual or another person. Disclosure to a legal representative will be denied if there is
+a professional determination that access by the representative is likely to cause substantial harm to the subject of the
+record or another person. (3-17-22)
+126. -- 149. (RESERVED)
+150. AMENDMENT OF RECORD.
+Unless otherwise provided by law, individuals may request in writing to amend the content of a record created by the
+Department. The Department will respond in writing within ten (10) days, granting or denying the amendment. A
+record created by a third party will not be amended by the Department. (3-17-22)
+01. Amendment of Health Information. Once an amendment regarding health information is
+approved and recorded, the Department will provide the amended health information when the record is disclosed in
+the future. If an amendment of health information is denied, the individual may provide a written response, which the
+Department may rebut in writing to the individual. Upon request, documentation of all the records involved in the
+denial will be provided whenever that information is disclosed in the future. (3-17-22)
+02. Updating Identifying Information. Name and address changes, and similar updates of
+information in Department files will be made without using the amendment process. (3-17-22)
+151. -- 174. (RESERVED)
+175. REPORT OF DISCLOSURES OF HEALTH INFORMATION.
+01. Documented Disclosures. The following disclosures of identifying health information for a
+purpose other than providing health treatment, payment or operations will be documented: (3-17-22)
+a. Required by law; (3-17-22)
+b. Public health activities; (3-17-22)
+c. Related to victims of abuse, neglect or domestic violence; (3-17-22)
+d. Health care oversight; (3-17-22)
+e. Judicial and administrative proceedings; (3-17-22)
+f. Correctional institutions or custodial law enforcement situations; (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 190 Page 14
+g. Coroners, medical examiners, and funeral directors; (3-17-22)
+h. Organ or tissue donations; (3-17-22)
+i. Research; (3-17-22)
+j. To avert a serious threat of health and safety; and (3-17-22)
+k. Specialized government functions such as national security or intelligence. (3-17-22)
+02. Documentation of Disclosure. Documentation will identify when the disclosure occurred, to
+whom, what information was disclosed and for what purpose. (3-17-22)
+03. Maintenance of Documentation. The Department maintains documentation of these disclosures
+of health information for six (6) years. (3-17-22)
+04. Request for Report of Disclosures. An individual or legal representative may receive one (1) free
+report of disclosures per calendar year for six (6) years beginning April 14, 2003. Additional requests for a report of
+disclosures are processed as public record requests, and may be subject to fees. (3-17-22)
+05. Pending Investigation. The Department must suspend reporting of a disclosure of health
+information at the request of any federal, state or local entity that is conducting an investigation related to the
+oversight of health care, illegal discrimination, licensing, certification or accreditation. If the request is verbal, the
+suspension will terminate after thirty (30) days unless the request is renewed in writing. (3-17-22)
+176. -- 189. (RESERVED)
+190. RECORDS OF DECEDENTS.
+Records of decedents are confidential for as long as the Department maintains the records, except as needed by:
+(3-17-22)
+01. Law Enforcement. If there is suspicion that the death was the result of criminal conduct.
+(3-17-22)
+02. Coroners and Medical Examiners. Information may be given to a coroner or medical examiner
+for the purpose of identifying a deceased person, determining a cause of death, or other duties as authorized by law.
+(3-17-22)
+03. Funeral Directors. Confidential information may be given to funeral directors, consistent with
+applicable law, as necessary to carry out their duties with respect to the decedent. If necessary to carry out their
+duties, confidential information may be disclosed to funeral directors prior to and in reasonable anticipation of the
+individual's death. (3-17-22)
+04. Personal Representatives. While records are maintained, the same confidentiality requirements
+apply to the personal representative of the estate or other legal representative of the deceased individual. Information
+may be disclosed to such representatives only to the extent necessary to perform their legal function, (3-17-22)
+05. Family Members and Others. The Department may disclose health information to a family
+member, other relative, a close personal friend of the deceased individual, or any other person identified by the
+deceased individual. Information provided must be directly related to such person’s involvement with the individual’s
+care or payment for health care prior to the individual’s death, unless doing so is inconsistent with any prior expressed
+preference of the individual that is known to the Department. (3-17-22)
+191. DATA FOR RESEARCH OR OTHER PURPOSES.
+Records that contain non-identifying information may be disclosed for Department-approved research or other
+purposes without a written authorization. (3-17-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 200 Page 15
+192. -- 199. (RESERVED)
+SPECIFIC CONSENT AND DISCLOSURE REQUIREMENTS
+(Sections 200-283)
+200. ABORTION FOR MINORS.
+Consent for an abortion for a minor is governed by Section 18-609A, Idaho Code. (3-17-22)
+201. ABUSE, NEGLECT OR DOMESTIC VIOLENCE.
+Abuse, abandonment or neglect of a minor is required to be reported in compliance with Section 16-1605, Idaho
+Code. Abuse, neglect or exploitation of adults is governed by Section 39-5303, Idaho Code. An exception to the
+physician/patient privilege for domestic violence is contained in Section 9-203, Idaho Code. (3-17-22)
+202. ADOPTION.
+Disclosure of adoption records is governed by the provisions of Sections 74-105(6), 16-1501, 39-258, 39-259A, and
+39-7501 through 39-7905, Idaho Code. Consent to adoption by children who are more than twelve (12) years old, by
+parents and by others, is governed by Section 16-1504, Idaho Code. (3-17-22)
+203. -- 209. (RESERVED)
+210. CHILD PROTECTION.
+It shall be the policy of the Idaho Department of Health and Welfare to provide information to the maximum extent
+possible to carry out the department’s responsibility under law to protect children from abuse and neglect and to
+facilitate child and family services. The Department, upon request will disclose information from child protection
+records in its possession pursuant to Section 74-105(7), Idaho Code. Disclosure of Department records under the
+Child Protective Act is governed by Section 16-1629(6), Idaho Code, and Idaho Court Administrative Rule 32. Court
+records of Child Protective Act proceedings are governed by Section 16-1626, Idaho Code. Pertinent federal laws and
+regulations include 42 USC 5106a. (7-1-25)
+01. Child Fatalities. In accordance with 42 USC 5106a(b)(2)(B)(x), the Department will disclose nonidentifying summary information to the Statewide Child Fatality Review Team, established by the Governor’s Task
+Force on Children at Risk, regarding child fatalities that were determined to be the result of abuse, neglect, or
+abandonment. (3-17-22)
+02. Public Disclosure. The Department has the discretion to disclose child-specific information under
+this rule when the disclosure is not in conflict with the child’s best interests and one (1) or more of the following
+applies: (3-17-22)
+a. Identifying information related to child-specific abuse, neglect, or abandonment has been
+previously published or broadcast through the media; (3-17-22)
+b. All or part of the child-specific information has been publicly disclosed in a judicial proceeding; or
+(3-17-22)
+c. The disclosure of information clarifies actions taken by the Department on a specific case.
+(3-17-22)
+211. CHILDREN’S MENTAL HEALTH.
+Consent to voluntary treatment for a minor with serious emotional disturbance, emergency and involuntary treatment
+are governed by the Children’s Mental Health Services Act, Title 16, Chapter 24, Idaho Code. Section 16-2428, Idaho
+Code, describes requirements for confidentiality. (3-17-22)
+212. -- 219. (RESERVED)
+220. HARD TO PLACE CHILDREN.
+The Department disseminates information to prospective adoptive families and families who wish to be appointed
+legal guardians of a child in the state’s custody, as to the availability of hard-to-place children, adoption and
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 221 Page 16
+guardianship procedures, and the existence of financial aid to adoptive families and guardians of hard-to-place
+children, in compliance with Section 56-804, Idaho Code. (3-17-22)
+221. HOSPITAL RECORDS.
+Records of hospitalization in a state facility are governed by Sections 39-1392b, 39-1392e and 39-1394, Idaho Code.
+(3-17-22)
+222. HUMAN RESOURCES.
+Disclosure of employee information is governed by Section 74-106(1), Idaho Code. (3-17-22)
+223. INFANT/TODDLER PROGRAM.
+Consent to early intervention services and confidentiality of records that relate to the Infant/Toddler program are
+governed by the Individuals with Disabilities Education Act (IDEA), 20 USC 1414(a)(1)(C) and (c)(3), and 20 USC
+1415(b)(3); the Family Educational Rights and Privacy Act (FERPA), 20 USC 1232g; and 34 CFR 303.400, 34 CFR
+303.500 and 34 CFR part 99. (3-17-22)
+224. -- 229. (RESERVED)
+230. MEDICAL CARE.
+Consent to apply for services or treatment is governed by Title 39, Chapter 45, Idaho Code, for hospital, medical,
+dental or surgical care, treatment or procedure. (3-17-22)
+231. -- 239. (RESERVED)
+240. MENTAL ILLNESS.
+Records of assessment, treatment, and commitment or hospitalization of individuals with mental illness are governed
+by Sections 66-318, 66-348, 66-355, 66-329(9), and 66-337, Idaho Code. (3-17-22)
+241. MINOR’S CONSENT REGARDING INFECTIOUS, CONTAGIOUS OR COMMUNICABLE
+DISEASE.
+Section 39-3801, Idaho Code, governs consent to treatment for infectious, contagious or communicable disease by a
+minor who is at least fourteen (14) years of age. (3-17-22)
+242. SPECIFIC REQUIREMENTS - PROTECTION AND ADVOCACY AGENCIES.
+A protection and advocacy system for individuals who have a developmental disability is created by 42 USC 15042 et
+seq.; for individuals with mental illness, by 42 USC 10801. Advocacy for adult protection is governed by Sections
+39-5307 and 39-5308, Idaho Code. (3-17-22)
+243. -- 249. (RESERVED)
+250. SUBSTANCE ABUSE.
+Consent to treatment and confidentiality of alcohol and drug abuse patient records are governed by 42 CFR 2.12
+through 2.67, and Sections 37-2743, 37-3102, 39-307, and 39-308, Idaho Code. (3-17-22)
+01. Drug Abuse. A medical practitioner will not disclose identifying information, treatment or request
+for treatment, to any law enforcement officer or agency or in any proceeding, in compliance with Sections 37-2743
+and 37-3102, Idaho Code. (3-17-22)
+02. Age Sixteen and Over. Information regarding substance abuse treatment of an individual who is at
+least age sixteen (16) years old will not be disclosed to a parent or guardian unless authorized by the individual, in
+compliance with Section 37-3102, Idaho Code, and 42 CFR 2.14. Individuals who are at least sixteen (16) years old
+may consent to substance abuse treatment. (3-17-22)
+251. -- 259. (RESERVED)
+260. TERMINATION OF PARENTAL RIGHTS.
+Disclosure of information regarding the termination of parental rights is governed by Section 16-2013, Idaho Code.
+IDAHO ADMINISTRATIVE CODE IDAPA 16.05.01 – Use and
+Department of Health and Welfare Disclosure of Department Records
+Section 270 Page 17
+(3-17-22)
+261. -- 269. (RESERVED)
+270. VENEREAL DISEASES.
+Disclosures of health information pertaining to the control of venereal diseases, including Human Immunodeficiency
+Virus (HIV), is governed by Title 39, Chapter 6, Idaho Code. (3-17-22)
+271. -- 279. (RESERVED)
+280. VITAL STATISTICS -- VERIFICATION OF DATA.
+01. Verifications. The Registrar will confirm or deny the presence and accuracy of data already known
+to a governmental agency that requests information from a vital record. Such verifications may be conducted by
+telephone for Idaho state agencies. Other requests for verification require a signed application on forms provided or
+approved by the Registrar, and a copy of the front and back of signed photo identification or such other information as
+the Registrar requests. Verifications may also be conducted via Department automated systems approved by the
+Registrar. (3-17-22)
+02. Administrative Fact of Death Verifications. Upon agreement in writing to such conditions as the
+Registrar may impose, the Registrar may compare Idaho state agency administrative data to Idaho death data and
+return an indication of death, also known as fact of death verification, for administrative purposes only. (3-17-22)
+03. Verifications to Protect a Person’s Property Right. The State Registrar may approve electronic
+fact of death verification by entities seeking to determine or protect a person’s property right. (3-17-22)
+281. VITAL STATISTICS: DISCLOSURE FOR RESEARCH, PUBLIC HEALTH OR STATISTICAL
+PURPOSES.
+Upon agreement in writing to such conditions as the Registrar may impose, the Registrar may permit the use of data
+from vital statistics records for research, public health or statistical purposes. The Registrar may deny a request for
+access to identifying information if the Registrar determines that the benefits would be outweighed by the possible
+adverse consequences to those individuals whose records would be used. (3-17-22)
+282. VITAL STATISTICS: REGISTRY OF PUTATIVE FATHERS.
+Except by Idaho court order or in accordance with the provisions of Section 16-1513, Idaho Code, information
+acquired by the confidential registry of putative fathers will not be disclosed. (3-17-22)
+283. VITAL STATISTICS: PROCEDURES FOR REQUESTING INFORMATION.
+Individuals who request access to, information from, or copies of vital records must present a signed application on
+forms provided or approved by the Registrar, and a copy of the front and back of signed photo identification or such
+other information as the Registrar requests. Minors who are less than fourteen (14) years old may receive certified
+copies of vital records that pertain to them if they present the required information. (3-17-22)
+01. Expedited Copy. An expedited certified copy of a vital record may be issued using Department
+automated systems. (3-17-22)
+02. Certified Copy. When a certified copy is issued, it is certified as a true copy or abstract of the
+original vital record by the officer who has custody of the record. The certified copy will include the date issued, the
+Registrar's signature or an authorized facsimile thereof, and the seal of the issuing office. Full or short form certified
+copies of vital records may be made by mechanical, electronic or other reproduction processes. (3-17-22)
+284. WOMEN, INFANTS AND CHILDREN (WIC) PROGRAM.
+WIC information may be used and disclosed only for the purpose of establishing the eligibility of WIC applicants and
+participants for health and welfare programs. (3-17-22)
+285. -- 999. (RESERVED)

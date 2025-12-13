@@ -1,0 +1,1971 @@
+Zero-Based Regulation Review – 2025 for Rulemaking and 2026 Legislative Review
+IDAPA 16 – IDAHO DEPARTMENT OF HEALTH AND WELFARE
+Division of Licensing and Certification
+16.03.22 – Residential Assisted Living Facilities
+Who does this rule apply to?
+Residential assisted living facilities. Interested parties include owners, shareholders,
+administrators, directors, staff, caregivers, residents, relatives, guardians, and advocates of these
+residents, and health care professionals not limited to physicians, nurses, nursing assistants,
+dietitians, and therapists.
+What is the purpose of this rule?
+The purpose of a residential assisted living facility in Idaho is to provide choice, dignity, and
+independence to residents while maintaining a safe, humane, and home-like living arrangement
+for individuals needing assistance with daily activities and personal care. These rules set
+standards for providing services that maintain the health, safety, and comfort of those living in
+residential assisted living facilities.
+What is the legal authority for the agency to promulgate this rule?
+This rule implements the following statute passed by the Idaho Legislature:
+Health and Safety -
+• Section 39-3305, Idaho Code – Idaho Residential Care or Assisted Living Act: Rules
+Where can I find information on the appeals process?
+Administrative appeals and contested cases are governed by the provisions of IDAPA 16.05.03,
+“Contested Case Proceedings and Declaratory Rulings.”.
+How do I request public records?
+Unless exempted, all public records are subject to disclosure by the Department that will comply
+with Title 74, Chapter 1, Idaho Code, upon requests. Confidential information may be restricted
+by state or federal law, federal regulation, and IDAPA 16.05.01, “Use and Disclosure of
+Department Records.” In accordance with Section 39-3355(6), Idaho Code, facility survey
+findings are posted on the Public Portal at https://www.flareslive.com/portal/searchfacility.aspx.
+The related survey documents are available upon written request to the Department and are
+posted at https://assistedliving.dhw.idaho.gov. Information received by the Department through
+filed reports, inspections, or as otherwise authorized under the law, will not be disclosed publicly
+in such a manner as to identify individual residents except as necessary in a proceeding involving
+a question of licensure.
+Who do I contact for more information on this rule?
+Idaho Department of Health and Welfare
+Residential Assisted Living Facilities Program
+450 W. State Street, 6th Floor
+Boise, ID 83702
+P.O. Box 83720
+Boise, ID 83720-0009
+Program Phone: (208) 364-1962
+Division of Licensing & Certification: (208) 364-1959
+Fax: (208) 364-1888
+Email: RALF@dhw.idaho.gov
+Webpage: https://assistedliving.dhw.idaho.gov
+Page 2
+Table of Contents
+16.03.22 – Residential Assisted Living Facilities
+000. Legal Authority. ...................................................................................................... 5
+001. Title, Scope, And Responsibilities. ......................................................................... 5
+002. Written Interpretations. ........................................................................................... 5
+003. Administrative Appeals And Contested Cases. ...................................................... 5
+004. Incorporation By Reference. ................................................................................... 5
+005. -- 008. (Reserved) ................................................................................................... 6
+009. Criminal History And Background Check Requirements. ....................................... 6
+010. Definitions And Abbreviations A Through E. .......................................................... 7
+011. Definitions And Abbreviations F Through N. .......................................................... 9
+012. Definitions And Abbreviations O Through Z. ........................................................ 10
+013. -- 049. (Reserved) ................................................................................................. 12
+050. Variances. ............................................................................................................ 13
+051. -- 099. (Reserved) ................................................................................................. 13
+100. Licensing Requirements. ...................................................................................... 13
+101. -- 104. (Reserved) ................................................................................................. 14
+105. Change Of Ownership. ......................................................................................... 14
+106. -- 109. (Reserved) ................................................................................................. 14
+110. Facility License Application. ................................................................................. 14
+111. -- 114. (Reserved) .................................................................................................. 15
+115. Expiration And Renewal Of License. .................................................................... 15
+116. -- 125. (Reserved) ................................................................................................. 15
+126. Effect Of Enforcement Action Against A License. ................................................ 15
+127. – 149. (Reserved) ................................................................................................. 15
+150. Policies And Procedures. ..................................................................................... 15
+151. Activity Requirements. .......................................................................................... 16
+152. Admission Requirements. .................................................................................... 16
+153. Financial Requirements. ....................................................................................... 16
+154. Staff Training Requirements. ................................................................................ 17
+155. Emergency Preparedness Requirements. ........................................................... 18
+156. Hourly Adult Care Requirements. ......................................................................... 18
+157. -- 160. (Reserved) ................................................................................................. 19
+161. Smoking Requirements. ....................................................................................... 19
+162. – 215. (Reserved) ................................................................................................. 19
+216. Requirements For Admission Agreements. .......................................................... 19
+217. Requirements For Termination Of Admission Agreement. ................................... 21
+218. -- 249. (Reserved) ................................................................................................. 23
+250. Requirements For Building Construction And Physical Standards. ..................... 23
+251. -- 254. (Reserved) ................................................................................................. 26
+255. Requirements For Additional Physical Standards. ............................................... 26
+256. -- 259. (Reserved) ................................................................................................. 26
+260. Requirements For Environmental Sanitation. ....................................................... 26
+261. – 304. (Reserved) ................................................................................................. 27
+Table of Contents (cont’d)
+Page 3
+305. Requirements For The Licensed Registered Nursing Assessment. ..................... 27
+306. -- 309. (Reserved) ................................................................................................. 28
+310. Requirements For Medication. ............................................................................. 28
+311. -- 318. (Reserved) ................................................................................................. 29
+319. Comprehensive Assessment Requirements. ....................................................... 29
+320. Negotiated Service Agreement (NSA) Requirements. ......................................... 30
+321. -- 329. (Reserved) ................................................................................................. 31
+330. Requirements For Facility Records. ..................................................................... 31
+331. -- 334. (Reserved) ................................................................................................. 35
+335. Requirements For Infection Control. .................................................................... 35
+336. -- 399. (Reserved) ................................................................................................. 35
+400. Requirements For Fire And Life Safety Standards. .............................................. 36
+401. Fire And Life Safety Standards For New Buildings Housing Three Through
+Sixteen Residents. ............................................................................................ 36
+402. Fire And Life Safety Standards For New Buildings Housing Seventeen Or More
+Residents And Multi-story Buildings. ................................................................. 36
+403. Fire And Life Safety Standards For Existing Buildings Licensed For Three
+Through Sixteen Residents. .............................................................................. 36
+404. Fire And Life Safety Standards For Existing Buildings Licensed For Seventeen
+Or More Residents And Multi-story Buildings. ................................................... 36
+405. Additional Fire And Life Safety Standards For All Buildings And Facilities. ......... 36
+406. -- 409. (Reserved) ................................................................................................. 37
+410. Requirements For Emergency Actions And Fire Drills. ........................................ 37
+411. -- 429. (Reserved) ................................................................................................. 37
+430. Requirements For Furnishings, Equipment, Supplies, and Basic Services. ........ 37
+431. -- 449. (Reserved) ................................................................................................. 38
+450. Requirements For Food And Nutritional Care Services. ...................................... 38
+451. Menu And Diet Planning. ...................................................................................... 38
+452. -- 454. (Reserved) ................................................................................................. 39
+455. Food Supply. ........................................................................................................ 39
+456. -- 459. (Reserved) ................................................................................................. 39
+460. Food Preparation And Service. ............................................................................ 39
+461. -- 509. (Reserved) ................................................................................................. 40
+510. Requirements To Protect Residents From Abuse. ............................................... 40
+511. -- 514. (Reserved) ................................................................................................. 40
+515. Requirements To Protect Residents From Exploitation. ...................................... 40
+516. -- 519. (Reserved) ................................................................................................. 40
+520. Requirements To Protect Residents From Inadequate Care. .............................. 40
+521. -- 524. (Reserved) ................................................................................................. 40
+525. Requirements To Protect Residents From Neglect. ............................................. 40
+526. – 599. (Reserved) ................................................................................................. 40
+600. Requirements For Staffing Standards. ................................................................. 40
+601. -- 619. (Reserved) ................................................................................................. 41
+620. Requirements For Training Of Facility Personnel. ............................................... 41
+621. -- 624. (Reserved) ................................................................................................. 41
+Table of Contents (cont’d)
+Page 4
+625. Orientation Training Requirements. ..................................................................... 41
+626. -- 629. (Reserved) ................................................................................................. 42
+630. Training Requirements For Facilities Admitting Residents With A Diagnosis Of
+Dementia, Mental Illness, Developmental Disability, Or Traumatic Brain
+Injury. ................................................................................................................. 42
+631. -- 639. (Reserved) ................................................................................................. 43
+640. Continued Training Requirements. ....................................................................... 43
+641. Additional Training Related To Changes. ............................................................. 43
+642. -- 644. (Reserved) ................................................................................................. 43
+645. Assistance With Medications. ............................................................................... 43
+646. -- 899. (Reserved) ................................................................................................. 44
+900. Enforcement Actions. ........................................................................................... 44
+901. Enforcement Action Of Summary Suspension. .................................................... 44
+902. -- 909. (Reserved) ................................................................................................. 44
+910. Enforcement Action Of A Consultant. ................................................................... 44
+911. -- 919. (Reserved) ................................................................................................. 44
+920. Enforcement Action Of Limit On Admissions. ...................................................... 44
+921. -- 924. (Reserved) ................................................................................................. 44
+925. Enforcement Action Of Civil Monetary Penalties. ................................................. 45
+926. -- 929. (Reserved) ................................................................................................. 46
+930. Enforcement Action Of Temporary Management. ................................................ 46
+931. -- 934. (Reserved) ................................................................................................. 47
+935. Enforcement Action Of A Provisional License. ..................................................... 47
+936. -- 939. (Reserved) ................................................................................................. 47
+940. Enforcement Action Of Revocation Of Facility License. ....................................... 47
+941. -- 999. (Reserved) ................................................................................................. 48
+Section 000 Page 5
+16.03.22 – RESIDENTIAL ASSISTED LIVING FACILITIES
+000. LEGAL AUTHORITY.
+The Idaho Board of Health and Welfare is authorized under Sections 39-3305 and 39-3358, Idaho Code, to adopt and
+enforce rules to protect the health, safety, and individual rights for residents in residential assisted living facilities.
+(3-15-22)
+001. TITLE, SCOPE, AND RESPONSIBILITIES.
+01. Title. The title of this chapter of rules is IDAPA 16.03.22, “Residential Assisted Living Facilities.”
+(3-15-22)
+02. Scope. The purpose of a residential assisted living facility is to provide choice, dignity, and
+independence to residents while maintaining a safe, humane, and home-like living arrangement for individuals
+needing assistance with daily activities and personal care. These rules set standards for providing services that
+maintain a safe and healthy environment. (3-15-22)
+03. General Provider Responsibilities. The facility must ensure quality services by providing
+choices, dignity, and independence to residents. The facility must have an administrator and staff who have the
+knowledge and experience required to provide safe and appropriate services to all residents of the facility. The facility
+must be operated consistent with the rules and statutes as it conducts its work. (3-15-22)
+04. General Department Responsibilities. The Department is responsible for monitoring and
+enforcing the provisions of the statute and this chapter to protect residents in these facilities by providing information,
+education, and evaluating providers to ensure compliance with statute and these rules. This responsibility includes
+licensing facilities and monitoring the condition of facilities. (3-15-22)
+002. WRITTEN INTERPRETATIONS.
+This agency has written statements which pertain to the interpretations of the rules of this chapter or to the
+documentation of compliance with the rules of this chapter. These documents are available for public inspection on
+the program website http://assistedliving.dhw.idaho.gov. (3-15-22)
+003. ADMINISTRATIVE APPEALS AND CONTESTED CASES.
+Administrative appeals and contested cases are governed by IDAPA 16.05.03, “Contested Case Proceedings and
+Declaratory Rulings.” (3-15-22)
+004. INCORPORATION BY REFERENCE.
+The documents referenced in this rule, are incorporated by reference as provided by Section 67-5229(a), Idaho Code.
+These incorporated documents are available for public review upon request at the Department of Health and Welfare,
+450 West State Street, Boise, Idaho 83702, or when available online at the websites provided in these rules.
+(3-15-22)
+01. National Fire Protection Association (NFPA) Documents. (3-15-22)
+a. National Fire Protection Association (NFPA) Standard 101, The Life Safety Code, 2018 Edition,
+the occupancy chapters and all mandatory referenced documents contained therein under “Mandatory References.”
+(3-15-22)
+b. National Fire Protection Association (NFPA) Standard 99, Health Care Facilities Code, 2018
+Edition. (3-15-22)
+02. Idaho Diet Manual. The manual is available from the Idaho Academy of Nutrition & Dietetics,
+Eleventh Edition, 2015, online at http://eatrightidaho.org. (3-15-22)
+03. Idaho Food Code. IDAPA 16.02.19, “Idaho Food Code.” These rules are available online at http://
+adminrules.idaho.gov/rules/current/16/160219.pdf. (3-15-22)
+04. Americans with Disabilities Act Accessibility Guidelines. 28 CFR Part 36, Appendix A. This
+code is available online at http://www.ada.gov/1991standards/adastd94-archive.pdf. (3-15-22)
+05. Idaho Board of Nursing Rules. IDAPA 24.34.01, “Rules of the Idaho Board of Nursing.” These
+rules are available online at https://adminrules.idaho.gov/rules/current/24/243401.pdf. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 009 Page 6
+06. International Building Code. IDAPA 24.39.30, “Rules of Building Safety.” These rules are
+available online at https://adminrules.idaho.gov/rules/current/24/243930.pdf. (3-15-22)
+005. -- 008. (RESERVED)
+009. CRIMINAL HISTORY AND BACKGROUND CHECK REQUIREMENTS.
+01. Criminal History and Background Check. A residential assisted living facility must complete a
+criminal history and background check on employees and contractors hired or contracted with after October 1, 2005,
+who have direct resident access to residents in the residential assisted living facility. The Department check
+conducted under IDAPA 16.05.06, “Criminal History and Background Checks,” satisfies this requirement. Other
+criminal history and background checks may be acceptable provided they meet the criteria in Subsection 009.02 of
+this rule and the entity conducting the check issues written findings. The entity must provide a copy of these written
+findings to both the facility and the employee. (3-15-22)
+02. Scope of a Criminal History and Background Check. The criminal history and background
+check must, at a minimum, be fingerprint-based and include a search of the following record sources: (3-15-22)
+a. Federal Bureau of Investigation (FBI); (3-15-22)
+b. Idaho State Police Bureau of Criminal Identification; (3-15-22)
+c. Sexual Offender Registry; (3-15-22)
+d. Office of Inspector General List of Excluded Individuals and Entities; and (3-15-22)
+e. Nurse Aide Registry. (3-15-22)
+03. Availability to Work. Any direct resident access individual hired or contracted with on or after
+October 1, 2005, must self-disclose all arrests and convictions before having access to residents. (3-15-22)
+a. If a disqualifying crime as described in IDAPA 16.05.06, “Criminal History and Background
+Checks,” is disclosed, the individual must not have direct resident access to any resident. (3-15-22)
+b. The individual is only allowed to work under another employee who has a cleared criminal history
+and background check that meets the criteria in this rule. The cleared employee must keep the individual waiting for
+clearance in line-of-sight when the individual has direct resident access until the criminal history and background
+check is completed and the results are obtained by the facility, unless: (3-15-22)
+i. The individual has completed an alternative criminal history and background check that includes a
+search of the record sources listed in Subsection 009.02 except for Subsection 009.02.a. in this rule; (3-15-22)
+ii. The facility determines there is no potential danger to residents; and (3-15-22)
+iii. This alternative criminal history and background check is only in effect until the required criminal
+history and background check that meets the criteria in this rule is completed. The results must state whether the
+individual was cleared or denied based on the completed fingerprint-based background check. (3-15-22)
+04. Submission of Fingerprints. The individual’s fingerprints must be submitted to the entity
+conducting the criminal history and background check within twenty-one (21) days of their date of hire. (3-15-22)
+05. New Criminal History and Background Check. An individual must have a criminal history and
+background check when: (3-15-22)
+a. Accepting employment with a new employer; and (3-15-22)
+b. The individual’s last criminal history and background check was completed more than three (3)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 010 Page 7
+years prior to their date of hire. (3-15-22)
+06. Use of Previous Criminal History and Background Check. Any employer is allowed to use a
+previous criminal history and background check that meets the criteria in this rule if: (3-15-22)
+a. The individual has received a criminal history and background check within three (3) years of their
+date of hire; (3-15-22)
+b. Prior to the individual being granted unsupervised direct resident access, the employer obtains and
+retains the individual's previous criminal history and background check results; (3-15-22)
+c. The employer completes a state-only background check of the individual through the Idaho State
+Police Bureau of Criminal Identification, within thirty (30) days of obtaining the previous criminal history and
+background check results; and (3-15-22)
+d. No disqualifying crimes are found. (3-15-22)
+07. Employer Discretion. The new employer, at its discretion, may require an individual to complete a
+criminal history and background check at any time, even if the individual has received a criminal history and
+background check within three (3) years of their date of hire. (3-15-22)
+010. DEFINITIONS AND ABBREVIATIONS A THROUGH E.
+01. Abuse. A non-accidental act of sexual, physical, or mental mistreatment or injury of a resident
+through the action or inaction of another individual. (3-15-22)
+02. Accident. An unexpected, unintended event that can cause a resident injury. (3-15-22)
+03. Activities. All organized and directed social and rehabilitative services a facility provides,
+arranges, or cooperates with. (3-15-22)
+04. Activities of Daily Living. Self-care actions necessary to sustain an individual in daily living,
+including bathing, dressing, toileting, grooming, eating, communicating, and managing medications. (3-15-22)
+05. Administrator. An individual licensed by the Idaho Bureau of Occupational Licenses as a
+Residential Assisted Living Facility Administrator. (3-15-22)
+06. Administrator’s Designee. A person authorized in writing to act in the absence of the
+administrator who is knowledgeable of facility operations, the residents and their needs, emergency procedures, the
+location and operation of emergency equipment, and how the administrator can be reached in the event of an
+emergency. (3-15-22)
+07. Adult. A person who has reached eighteen (18) years of age. (3-15-22)
+08. Advance Directive. A written instruction, such as a living will or durable power of attorney for
+health care, recognized under state law, whether statutory or as recognized by the courts of the State, related to the
+provision of medical care when the individual is unable to communicate. (3-15-22)
+09. Advocate. An authorized or designated representative of a program or organization operating
+under federal or state mandate to represent the interests of a population group served by a facility. (3-15-22)
+10. Ambulatory Person. A person who, unaided by any other person, is physically and mentally
+capable of walking a normal path to safety, including the ascent and descent of stairs. (3-15-22)
+11. Assessment. Information gathered that identifies resident strengths, weaknesses, risks, and needs,
+to include functional, social, medical, and behavioral needs. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 010 Page 8
+12. Authentication. The process or action of proving or showing authorship to be true, genuine, or
+valid. (3-15-22)
+13. Authorized Provider. An individual who is a nurse practitioner, clinical nurse specialist, or
+physician assistant. (3-15-22)
+14. Behavior Plan. A written plan that decreases the frequency, duration, or intensity of maladaptive
+behaviors, and increases the frequency of adaptive behaviors. (3-15-22)
+15. Call System. A signaling system whereby a resident can contact staff directly from their sleeping
+room, toilet room, and bathing area. The system may be voice communication, or an audible or visual signal, and may
+include wireless technology. The call system cannot be configured in such a way as to breach a resident’s right to
+privacy at the facility, including in the resident’s living quarters, in common areas, during medical treatments, while
+receiving other services, in written and telephonic communications, or in visits with family, friends, advocates, and
+resident groups. (3-15-22)
+16. Chemical Restraint. A medication used to control behavior or to restrict freedom of movement
+and is not a standard treatment for the resident's condition. (3-15-22)
+17. Cognitive Impairment. When a person experiences loss of short or long-term memory, orientation
+to person, place, or time, safety awareness, or loses the ability to make decisions that affect everyday life. (3-15-22)
+18. Complaint. A formal expression of dissatisfaction, discontent, or unhappiness by, or on behalf of, a
+resident concerning the care or conditions at the facility. This expression could be oral, in writing, or by alternative
+means of communication. (3-15-22)
+19. Complaint Investigation. A survey to investigate the validity of allegations of noncompliance
+with applicable state requirements. Allegations will be investigated by the Licensing Agency as described in Section
+39-3355, Idaho Code. (3-15-22)
+20. Core Issue. A core issue is any one (1) of the following: (3-15-22)
+a. Abuse; (3-15-22)
+b. Neglect; (3-15-22)
+c. Exploitation; (3-15-22)
+d. Inadequate care; (3-15-22)
+e. A situation in which the facility has operated for more than thirty (30) days without a licensed
+administrator overseeing the day-to-day operations of the facility; (3-15-22)
+f. Inoperable fire detection or extinguishing systems with no fire watch in place pending the
+correction of the system; or (3-15-22)
+g. Surveyors denied access to records, residents, or facilities. (3-15-22)
+21. Criminal Offense. Any crime as defined in Section 18-111, Idaho Code, 18 U.S.C. Section
+4B1.2(a), and 18 U.S.C. Sections 1001 through 1027. (3-15-22)
+22. Deficiency. A determination of noncompliance with a specific rule or part of a rule. (3-15-22)
+23. Dementia. A chronic deterioration of intellectual function and other cognitive skills severe enough
+to interfere with the ability to perform activities of daily living. (3-15-22)
+24. Department. The Idaho Department of Health and Welfare. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 011 Page 9
+25. Developmental Disability. A developmental disability, as defined in Section 66-402, Idaho Code,
+means a chronic disability of a person which appears before twenty-two (22) years of age and: (3-15-22)
+a. Is attributable to an impairment, such as an intellectual disability, cerebral palsy, epilepsy, autism,
+or other conditions found to be closely related or similar to one (1) of these impairments that requires similar
+treatment or services, or is attributable to dyslexia resulting from such impairments; (3-15-22)
+b. Results in substantial functional limitations in three (3) or more of the following areas of major life
+activity: self-care, receptive and expressive language, learning, mobility, self-direction, capacity of independent
+living, or economic self-sufficiency; and (3-15-22)
+c. Reflects the need for a combination and sequence of special, interdisciplinary or direct care,
+treatment, or other services which are of life-long or extended duration, and individually planned and coordinated.
+(3-15-22)
+26. Direct Resident Access. In-person access with any resident who resides at the facility, or any
+access to the residents' personal belongings or information. (3-15-22)
+27. Director. The Director of the Idaho Department of Health and Welfare or their designee. (3-15-22)
+28. Electronic Signature. The system for signing electronic documents by entering a unique code or
+password that verifies the identity of the person signing and creates an individual “signature” on the record.
+(3-15-22)
+29. Elopement. When a resident who is cognitively, physically, mentally, emotionally, or chemically
+impaired, physically leaves the facility premises or the secured unit or yard without personnel's knowledge.
+(3-15-22)
+30. Exit Conference. A meeting with the facility administrator or designee to: (1) provide review,
+discussion, and written documentation of non-core issues, and (2) to provide preliminary findings of core issues.
+(3-15-22)
+31. Exploitation. The misuse of a resident's funds, property, resources, identity, or person for profit or
+advantage. This includes charging a resident for services or supplies not provided or disclosed in the written
+admission agreement and staff accepting gifts or money for extra services. (3-15-22)
+011. DEFINITIONS AND ABBREVIATIONS F THROUGH N.
+01. Follow-Up Survey. A survey conducted to confirm that the facility is in compliance and has the
+ability to remain in compliance. (3-15-22)
+02. Governmental Unit. The state, any county, any city, or any department, division, board, or other
+agency. (3-15-22)
+03. Hourly Adult Care. Nonresident daily services and supervision provided by a facility to
+individuals who are in need of supervision outside of their personal residence(s) for a portion of the day. (3-15-22)
+04. Immediate Danger. Any resident is subject to an imminent or substantial danger. (3-15-22)
+05. Inadequate Care. When a facility fails to provide the services required to meet the terms of the
+Negotiated Service Agreement, or provide for room, board, activities of daily living, supervision, first aid, assistance
+and monitoring of medications, emergency intervention, coordination of outside services, a safe living environment,
+engages in violations of resident rights, or takes residents who have been admitted in violation of the provisions of
+Section 152 of these rules. (3-15-22)
+06. Incident. An event that can cause a resident injury. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 012 Page 10
+07. Independent Mobility. A person’s ability to move about freely of their own choice with or without
+the assistance of a mobility device such as a wheelchair, cane, crutches, or walker. (3-15-22)
+08. Legal Guardian or Conservator. A court-appointed individual designated to manage the affairs or
+finances of another person who has been found to be incapable of handling their own affairs. (3-15-22)
+09. License. A permit to operate a residential assisted living facility. (3-15-22)
+10. Licensing Agency. The Residential Assisted Living Facilities Program, a unit of the Division of
+Licensing and Certification within the Department of Health and Welfare, that conducts inspections and surveys of
+residential assisted living facilities and issues licenses based on compliance with this chapter of rules, in which
+“Residential Assisted Living Facilities Program” and “Licensing Agency” are synonymous. (3-15-22)
+11. Maladaptive Behavior. Any behavior that interferes with resident care, infringes on any resident's
+rights, or presents a danger to the resident or others. Involuntary muscle movements are not considered maladaptive
+behaviors. (3-15-22)
+12. Medication. Any substance used to treat a disease, condition, or symptom, which may be taken
+orally, injected, or used externally, and is available through prescription or over-the-counter. (3-15-22)
+13. Medication Administration. The process where a prescribed medication is given by a licensed
+nurse to a resident through one (1) of several routes. (3-15-22)
+14. Medication Assistance. The process whereby a non-licensed care provider is delegated tasks by a
+licensed nurse, to aid a person who cannot independently self-administer medications. See IDAPA 24.34.01, “Rules
+of the Idaho Board of Nursing,” Section 010. (3-15-22)
+15. Mental Disorders. Health conditions that are characterized by alterations in thinking, mood,
+behavior, or some combination thereof, that are all mediated by the brain and associated with distress or impaired
+functioning. (3-15-22)
+16. Mental Illness. Refers collectively to all diagnosable mental disorders. (3-15-22)
+17. Neglect. Failure to provide food, clothing, shelter, or medical care necessary to sustain the life and
+health of a resident. (3-15-22)
+18. Negotiated Service Agreement. The plan reached by the resident or their representative and the
+facility which outlines services to be provided and the obligations of the facility and the resident. (3-15-22)
+19. Non-Core Issue. Any finding of deficient practice that is not a core issue. (3-15-22)
+20. Nursing Assessment. Information gathered related to a resident's health or medical status that has
+been reviewed, signed, and dated by a licensed registered nurse, as described in Section 305 of these rules. (3-15-22)
+012. DEFINITIONS AND ABBREVIATIONS O THROUGH Z.
+01. Outside Services. Services provided to a resident by someone that is not a member of facility
+personnel. (3-15-22)
+02. Owner. Any person or entity having legal ownership of the facility as an operating business,
+regardless of who owns the real property. (3-15-22)
+03. Personal Assistance. The provision by the staff of the facility of one (1) or more of the following
+services: (3-15-22)
+a. Assisting the resident with activities of daily living; (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 012 Page 11
+b. Arranging for outside services; (3-15-22)
+c. Being aware of the resident's general whereabouts; or (3-15-22)
+d. Monitoring the activities of the resident while on the premises of the facility to ensure the resident's
+health, safety, and well-being. (3-15-22)
+04. Personnel. Paid individuals assigned the responsibility of providing care, supervision, and services
+to the facility and its residents. In this chapter of rules, “personnel” and “staff” are synonymous. (3-15-22)
+05. Physical Restraint. Any device or physical force that restricts the free movement of, normal
+functioning of, or normal access to, a portion or portions of an individual's body, except for the temporary treatment
+of a medical condition, such as the use of a cast for a broken bone. (3-15-22)
+06. Portable Heating Device. Any device designed to provide heat on a temporary basis that is not
+designed as part of a building's heating system, is not permanently affixed to the building, and, if electrical, is not
+hardwired to the building's electrical service. This does not include the use of therapeutic devices such as heating
+pads, heated mattress pads, and electric blankets, which require a physician or authorized provider’s order. (3-15-22)
+07. PRN. Indicates that a medication or treatment prescribed by a medical professional to an individual
+may be given as needed. (3-15-22)
+08. Pressure Injury. Any lesion caused by unrelieved pressure that results in damage to the underlying
+tissue(s). (3-15-22)
+09. Provisional License. A license which may be issued to a facility not in compliance with the rules
+pending the satisfactory correction of all deficiencies. (3-15-22)
+10. Publicly Funded Program. Any program funded in whole, or in part, by an appropriation of the
+U.S. Congress, the Idaho Legislature, or other governmental body. (3-15-22)
+11. Punishment. The use of an adverse consequence with a resident, the administration of any noxious
+or unpleasant stimulus, or deprivation of a resident's rights or freedom. (3-15-22)
+12. Relative. A person related by birth, adoption, or marriage. (3-15-22)
+13. Repeat Deficiency. A deficiency found on a licensure survey, complaint investigation, or followup survey that was also found on the previous survey. (3-15-22)
+14. Reportable Incident. A situation when a facility is required to report information to the
+Residential Assisted Living Facilities Program, including: (3-15-22)
+a. Any resident injury of unknown origin (i.e., an injury, the source of which was not observed by any
+person and could not be explained by the resident); (3-15-22)
+b. Any resident injury of significant or suspicious nature (i.e., an injury that includes severe bruising,
+fingerprint bruises, laceration(s) larger than a minor skin tear, sprains, or fractured bones); (3-15-22)
+c. Resident injury resulting from accidents involving facility-sponsored transportation (i.e., falling
+from the facility's van lift, a wheelchair belt coming loose during transport, or a collision); (3-15-22)
+d. Resident elopement of any duration; (3-15-22)
+e. Any injury resulting from a resident-to-resident incident; (3-15-22)
+f. An incident that results in the resident's need for assessment or treatment outside of the facility; or
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 012 Page 12
+(3-15-22)
+g. An incident that results in the resident's death. (3-15-22)
+15. Resident. An adult, other than the owner, administrator, their immediate families, or employees,
+who lives in a residential assisted living facility. (3-15-22)
+16. Residential Assisted Living Facility. A facility or residence, however named, licensed in the state
+of Idaho, operated on either a profit or nonprofit basis for the purpose of providing necessary supervision, personal
+assistance, meals, and lodging to three (3) or more adults not related to the owner. (3-15-22)
+17. Room and Board. Lodging, meals, and utilities. (3-15-22)
+18. Scope. The frequency or extent of the occurrence of a deficiency in a facility. (3-15-22)
+19. Self-Administration of Medication. The act of a resident taking a single dose of their own
+medication from a properly labeled container and placing it internally in, or externally on, their own body as a result
+of an order by an authorized provider. (3-15-22)
+20. Story. A level of rooms in a building. (3-15-22)
+21. Substantial Compliance. The status of a facility that has no core issue deficiencies. (3-15-22)
+22. Substantial Evening Meal. An offering of three (3) or more menu items at one time, one (1) of
+which is a high-quality protein such as meat, fish, eggs, or cheeses. The meal should represent no less than twenty
+percent (20%) of the day's total nutritional requirements. (3-15-22)
+23. Supervision. A critical watching and directing activity which provides protection, guidance,
+knowledge of the resident's general whereabouts, and assistance with activities of daily living. The administrator is
+responsible for providing appropriate supervision based on each resident's Negotiated Service Agreement or other
+legal requirements. (3-15-22)
+24. Survey. A review conducted by a surveyor to determine compliance with statutes and rules. There
+are two (2) components to a survey: (1) health care and (2) fire, life, and safety. (3-15-22)
+25. Surveyor. A person authorized by the Department to conduct surveys or complaint investigations
+to determine compliance with statutes and rules. (3-15-22)
+26. Therapeutic Diet. A diet ordered by a physician or authorized provider as part of treatment for a
+clinical condition or disease, to eliminate or decrease specific nutrients in the diet (e.g., sodium), to increase specific
+nutrients in the diet (e.g., potassium), or to provide food the resident is able to eat (e.g., a mechanically altered diet).
+(3-15-22)
+27. Toxic Chemical. A substance that is hazardous to health if inhaled, ingested, or absorbed through
+skin. (3-15-22)
+28. Traumatic Brain Injury (TBI). An acquired injury to the brain caused by an external physical
+force, resulting in total or partial functional disability or psychosocial impairment. The term applies to open or
+closed-head injuries resulting in impairments in one (1) or more areas. (3-15-22)
+29. Unlicensed Assistive Personnel (UAP). Staff, with or without formal credentials, employed to
+perform nursing care services under the direction and supervision of licensed nurses. (3-15-22)
+30. Variance. Permission by the Department to do something contrary to rule. (3-15-22)
+013. -- 049. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 050 Page 13
+050. VARIANCES.
+The Licensing Agency may grant a variance provided the following criteria are met. (3-15-22)
+01. Written Request. A written request for a variance must be sent to the Licensing Agency. The
+request must include the following: (3-15-22)
+a. Reference to the rule for which the variance is requested; (3-15-22)
+b. Reasons that show good cause why the variance should be granted, the extenuating circumstances
+which caused the need for the variance, any compensating factors or conditions that may have bearing on the variance
+such as additional floor space or additional staffing; and (3-15-22)
+c. Written documentation that ensures residents' health and safety will not be jeopardized if a variance
+is granted. (3-15-22)
+02. Temporary Variance. A temporary variance may be granted for a specific resident or situation.
+The variance expires when the resident no longer lives at the facility or when the situation no longer exists. (3-15-22)
+03. Continuing A Variance. The Licensing Agency reviews the appropriateness of continuing a
+variance during the survey process. If the facility administrator wishes to continue the variance, an annual request
+must be submitted to the Licensing Agency in writing. (3-15-22)
+04. Decision to Grant a Variance. The decision to grant a variance will not be considered as a
+precedent or be given any force or effect in any other proceeding. (3-15-22)
+05. Revocation of Variance. The Licensing Agency may revoke a variance if circumstances identify a
+risk to resident health and safety. (3-15-22)
+051. -- 099. (RESERVED)
+100. LICENSING REQUIREMENTS.
+01. Current License. No person, firm, partnership, association, corporation, or governmental unit can
+operate, establish, manage, conduct, or maintain a residential assisted living facility in Idaho without a license issued
+by the Department as required in Section 39-3340, Idaho Code. Any entity found operating as a residential assisted
+living facility without a license is subject to Section 39-3352, Idaho Code. (3-15-22)
+02. Issuance of License. Upon completion of the application process requirements, the Department
+will issue a residential assisted living facility license. (3-15-22)
+03. Distinctive Business Name. Every facility must use a distinctive name, which is registered with
+the Idaho Secretary of State. If a facility decides to change its name, it will only be changed upon written notification
+to the Licensing Agency confirming the registration of the name change with the Idaho Secretary of State. This
+notification needs to be received by the Licensing Agency at least thirty (30) calendar days prior to the date the
+proposed name change is to be effective. (3-15-22)
+04. Administrator. Each facility must have an administrator. (3-15-22)
+05. Display of Facility License. The current facility license must be posted in the facility and clearly
+visible to the general public. (3-15-22)
+06. Change in Corporate Shares. When there is a significant change in shares held by a corporate
+licensee of a residential assisted living facility, which does not alter the overall ownership or operation of the
+business, that change must be communicated to the Licensing Agency within (60) days of the effective date of
+change. (3-15-22)
+07. Licensee Responsibility. The licensee of the facility is responsible for the operation of the
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 105 Page 14
+residential assisted living facility, even when a separate administrator is employed. (3-15-22)
+101. -- 104. (RESERVED)
+105. CHANGE OF OWNERSHIP.
+01. Non-Transfer of Facility License. A facility license is not transferable from one (1) individual to
+another, from one (1) business entity to another, or from one (1) location to another. When a change of licensee,
+ownership, lease, or location occurs, the facility must be re-licensed. The new licensee must follow the application
+procedures, and obtain a license, before commencing operation as a facility. (3-15-22)
+02. Application for Change of Ownership. The application for a change of ownership must be
+submitted to the Licensing Agency at least ninety (90) days prior to the proposed date of change. (3-15-22)
+03. Change of Ownership for a Facility in Litigation. An application for change of ownership of a
+facility from a person who is in litigation for failure to meet licensure standards, or who has had a license revoked,
+must include evidence that there is a bona fide, arms-length agreement and relationship between the two (2) parties.
+An entity purchasing a facility with an enforcement action acquires the enforcement action. (3-15-22)
+106. -- 109. (RESERVED)
+110. FACILITY LICENSE APPLICATION.
+01. License Application. License application forms are available online at the Licensing Agency’s
+website at http://assistedliving.dhw.idaho.gov. The applicant must provide the following information: (3-15-22)
+a. A written statement that the applicant has thoroughly read and reviewed the statute, Title 39,
+Chapter 33, Idaho Code, and IDAPA 16.03.22, “Residential Assisted Living Facilities,” and is prepared to comply
+with both; (3-15-22)
+b. A written statement and documentation that demonstrate no license revocation or other
+enforcement action is in the process of being taken, against a license held, or previously held, by the applicant in
+Idaho or any other state or jurisdiction; (7-1-24)
+c. When the applicant is a firm, association, organization, partnership, business trust, corporation,
+government entity, or company, the administrator and other members of the organization who directly influence the
+facility's operation must provide the information contained in this rule; (3-15-22)
+d. Each shareholder or investor holding twenty percent (20%) or more interest in the business must be
+listed on the application; (7-1-24)
+e. A copy of the Certificate of Assumed Business Name from the Idaho Secretary of State; (3-15-22)
+f. A statement from the local fire authority that the facility is located in a lawfully constituted fire
+district or affirmation that a lawfully constituted fire authority will respond to a fire at the facility; (3-15-22)
+g. A statement from a licensed electrician or the local or state electrical inspector that all wiring in the
+facility complies with current electrical codes; (3-15-22)
+h. When the facility does not use an approved municipal water or sewage treatment system, a
+statement from a local environmental health specialist with the public health district indicating that the water supply
+and sewage disposal system meet the Department's requirements and standards; (3-15-22)
+i. A complete set of printed operational policies and procedures; (3-15-22)
+j. A detailed floor plan of the facility, including measurements of all rooms, or a copy of architectural
+drawings. See Sections 250 through 260, and Sections 400 through 430 of these rules. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 115 Page 15
+k. A copy of the Purchase Agreement, Lease Agreement, or Deed; and (3-15-22)
+l. For facilities with nine (9) beds or more, signatures must be obtained from the following:
+(3-15-22)
+i. The local zoning official documenting that the facility meets local zoning codes for occupancy;
+(3-15-22)
+ii. The local building official documenting that the facility meets local building codes for occupancy;
+and (3-15-22)
+iii. The local fire official documenting that the facility meets local fire codes for occupancy. (3-15-22)
+02. Written Request for Building Evaluation. The applicant must request in writing to the Licensing
+Agency for a building evaluation of existing buildings. The request must include the physical address of the building
+that is to be evaluated and the name, address, and telephone number of the person who is to receive the building
+evaluation report. (3-15-22)
+03. Building Evaluation Fee. This application and request must be accompanied by a five hundred
+dollar ($500) initial building evaluation fee. (3-15-22)
+04. Identification of the Licensed Administrator. The applicant must provide a copy of the
+administrator's license and criminal history background check, and the current address for the primary residence of
+the administrator. (3-15-22)
+05. Failure to Complete Application Process. Failure of the applicant to complete the Licensing
+Agency's application process within six (6) months of the original date of application, may result in a denial of the
+application. If the application is denied, the applicant is required to initiate a new licensing application process.
+(3-15-22)
+111. -- 114. (RESERVED)
+115. EXPIRATION AND RENEWAL OF LICENSE.
+01. Application for License Renewal. The facility must submit to the Licensing Agency an annual
+report and application for renewal of a license at least thirty (30) days prior to the expiration of the existing license.
+(3-15-22)
+02. Existing License. The existing license, unless suspended, surrendered, or revoked, remains in force
+and effect until the Licensing Agency has acted upon the application renewal, when such application for renewal has
+been filed. (3-15-22)
+116. -- 125. (RESERVED)
+126. EFFECT OF ENFORCEMENT ACTION AGAINST A LICENSE.
+The Department will not review an application of an applicant who has an action, either current or in process, against
+a license held by the applicant either in Idaho or any other state or jurisdiction. (3-15-22)
+127. – 149. (RESERVED)
+150. POLICIES AND PROCEDURES.
+The facility must develop a written, dated set of policies and procedures that are specific to the population served in
+the facility and are available to all staff at all times to direct and ensure compliance with these rules. Policy topics
+must include abuse, neglect, exploitation, incidents and accidents, activities, admissions, emergency preparedness,
+infection control, nursing, resident rights, staffing, and medications. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 151 Page 16
+151. ACTIVITY REQUIREMENTS.
+Each facility must develop and implement a written activity policy that assists, encourages, and promotes residents to
+maintain and develop their highest potential for independent living through their participation in planned,
+recreational, and other activities. The facility must provide opportunities for the following: (3-15-22)
+01. Socialization. Socialization through group discussion, conversation, recreation, visiting, arts and
+crafts, and music; (3-15-22)
+02. Physical Activities. Physical activities such as games, sports, and exercises which develop and
+maintain strength, coordination, and range of motion; (3-15-22)
+03. Education. Education through special classes or events; and (3-15-22)
+04. Community Resources for Activities. The facility will utilize community resources to promote
+resident participation in integrated activities of their choice both in and away from the facility. (3-15-22)
+152. ADMISSION REQUIREMENTS.
+01. Admissions Policies. Each facility must develop and implement written admission policies and
+procedures, which must include: (3-15-22)
+a. The purpose, quantity, and characteristics of available services; (3-15-22)
+b. Limitations concerning delivery of routine personal care by persons of the opposite gender;
+(3-15-22)
+c. Notification to potential and existing residents and responsible parties if the facility accepts any
+residents who are on the sexual offender registry. The registry may be accessed online at http://isp.idaho.gov/sor_id/
+search.html; and (3-15-22)
+d. Notification to potential and existing residents if non-resident adults or children reside in the
+facility. (3-15-22)
+02. Resident Admission, Discharge, and Transfer. The facility must have policies addressing
+admission, discharge, and transfer of residents to, from, or within the facility. (3-15-22)
+03. Policies of Acceptable Admissions. Written descriptions of the conditions for admitting residents
+to the facility must include: (3-15-22)
+a. A resident will be admitted or retained only when: (3-15-22)
+i. The facility has the capability, capacity, and services to provide appropriate care; (3-15-22)
+ii. The resident does not require a type of service for which the facility is not licensed to provide or
+which the facility does not provide or arrange for; and (3-15-22)
+iii. The facility has the personnel, appropriate in numbers and with appropriate knowledge and skills to
+provide such services. (3-15-22)
+153. FINANCIAL REQUIREMENTS.
+Each facility must develop and implement financial policies and procedures that include: (3-15-22)
+01. Statement. A statement specifying if the facility does not manage resident funds. (3-15-22)
+02. Safeguarding of Funds. Policies should specify how residents' funds will be handled and
+safeguarded, if the facility does manage resident funds. Policies must address the following: (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 154 Page 17
+a. When a resident's funds are deposited with, or handled by the facility, the funds must be managed
+as described in Section 39-3316, Idaho Code, and Section 550 of these rules; (3-15-22)
+b. A description of how facility fees are handled; (3-15-22)
+c. Resident accounts and funds must be separate from any facility accounts; (3-15-22)
+d. The facility cannot require a resident to purchase goods or services from the facility, other than
+items specified in the admission agreement and facility policies; (3-15-22)
+e. Each transaction with resident funds must be documented at the time to include signatures of the
+resident and facility representative with copies of receipts; (3-15-22)
+f. Residents must have access to their personal funds during normal business hours; and (3-15-22)
+g. When a resident permanently leaves the facility, the facility can only retain room and board funds
+prorated to the last day of the thirty (30) day notice, except in situations described in Sections 217 and 550 of these
+rules. All remaining funds are the property of the resident. (3-15-22)
+154. STAFF TRAINING REQUIREMENTS.
+The facility must develop and implement policies and procedures to address the following: (3-15-22)
+01. Response of Staff to Accidents, Incidents, or Allegations of Abuse, Neglect, or Exploitation of
+Residents. The facility must develop policies and procedures to ensure that accidents, incidents, or allegations of
+abuse, neglect, and exploitation are identified, documented, reported, investigated, and followed-up with
+interventions to prevent re-occurrence and ensure protection. (3-15-22)
+02. Response of Staff to Emergencies. How staff are to respond to emergency situations, including:
+(3-15-22)
+a. Medical and psychiatric emergencies; (3-15-22)
+b. Resident absence; (3-15-22)
+c. Criminal situations; and (3-15-22)
+d. Presence of law enforcement officials at the facility. (3-15-22)
+03. Notification of Changes to Resident Health or Mental Status. Who and how staff are to notify of
+any changes in residents’ health or mental status. (3-15-22)
+04. Provided Care and Services by Staff. How staff are to provide care and services to residents in
+the following areas: (3-15-22)
+a. Activities of daily living; (3-15-22)
+b. Dietary and eating, including when a resident refuses to eat or follow a prescribed diet; (3-15-22)
+c. Dignity; (3-15-22)
+d. Ensuring each individual’s rights; (3-15-22)
+e. Medication assistance; (3-15-22)
+f. Provision of privacy; (3-15-22)
+g. Social activities; (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 155 Page 18
+h. Supervision; (3-15-22)
+i. Supporting resident independence; and (3-15-22)
+j. Telephone access. (3-15-22)
+05. Intervention Procedures to Ensure Safety of Residents and Staff. How to intervene to ensure
+resident and staff safety in unsafe situations that are physically or behaviorally caused. (3-15-22)
+06. Behavior Management for Residents. The facility must have policies and procedures to ensure
+staff are trained and complete timely assessment, plan development, and documentation as described in Section 330
+of these rules. (3-15-22)
+07. Facility Operations, Inspections, Maintenance, and Testing. Plans and procedures for the
+operation, periodic inspection, and testing of the physical plant, which includes utilities, fire safety, and plant
+maintenance for all areas of the facility’s campus. (3-15-22)
+08. Hazardous Materials. The handling of hazardous materials. (3-15-22)
+09. Mechanical Equipment. The handling of potentially dangerous mechanical equipment. (3-15-22)
+155. EMERGENCY PREPAREDNESS REQUIREMENTS.
+Each facility must develop and implement an emergency preparedness plan to follow in the event of fire, explosion,
+flood, earthquake, high wind, or other emergency. (3-15-22)
+01. Relocation Agreements. Each facility must have a written agreement developed between the
+facility and two (2) separate locations to which residents would be relocated in the event the building is evacuated and
+cannot be reoccupied. The facility will review the relocation agreements annually. (3-15-22)
+02. Written Procedures. The facility must have written procedures outlining steps to be taken in the
+event of an emergency including: (3-15-22)
+a. Each person's responsibilities; (3-15-22)
+b. Where and how residents are to be evacuated; and (3-15-22)
+c. Notification of emergency agencies. (3-15-22)
+03. Emergency Generators. Facilities that elect to have an emergency generator must ensure that the
+system is designed to meet the applicable codes in NFPA, Standard 110 (within NFPA, Standard 101 as incorporated
+in Section 004 of these rules). (3-15-22)
+156. HOURLY ADULT CARE REQUIREMENTS.
+Facilities offering hourly adult care must develop and implement written policies and procedures which include the
+following: (3-15-22)
+01. Services Offered. A description of hourly adult care services, including transportation services (if
+offered), meals, activities, and supervision. (3-15-22)
+02. Individuals Accepted. Types of individuals who may or may not be accepted for hourly adult care.
+See Section 152 of these rules. (3-15-22)
+03. Cost of Hourly Adult Care. Details of the cost of hourly adult care for the person receiving
+services. (3-15-22)
+04. Hours for Care. The specific time periods of hourly adult care, not to exceed fourteen (14)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 161 Page 19
+consecutive hours in a twenty-four (24) hour period. (3-15-22)
+05. Assistance with Medications. Assistance with medications in the facility must comply with
+IDAPA 24.34.01, “Rules of the Idaho Board of Nursing,” including: (3-15-22)
+a. Copies of all physician or authorized provider orders, including orders for all prescribed
+medications and treatments. (3-15-22)
+b. Appropriately labeled medications and treatments the facility safeguards while the person receives
+hourly adult care. (3-15-22)
+06. Staffing. Staffing must be based on the needs of the entire facility, including those receiving hourly
+adult care and residents. Hourly adult care may be provided to as many individuals as possible without disrupting the
+day-to-day operations and normal activities of the facility. (3-15-22)
+07. Accommodations. The facility must provide accommodations appropriate to the time frame for
+those receiving hourly adult care, including: (3-15-22)
+a. Daytime accommodations such as recliners and couches for napping. Napping furniture must be
+spaced at least (3) feet apart. (3-15-22)
+b. Evening accommodations such as beds and bedrooms that are not used by facility residents. Any
+bed used overnight by a person receiving hourly adult care will not be counted as a licensed bed. (3-15-22)
+08. Documentation. Documentation requirements described in Section 330 of these rules. (3-15-22)
+157. -- 160. (RESERVED)
+161. SMOKING REQUIREMENTS.
+The facility must develop and implement written rules governing smoking. Nothing in this rule requires a facility to
+permit smoking. Smoking policies must be made known to all staff, residents, and visiting public and must ensure:
+(3-15-22)
+01. Combustible Supplies and Flammable Items. Smoking is prohibited in areas where combustible
+supplies or materials, flammable liquids, gases, or oxidizers are in use or stored. (3-15-22)
+02. Smoking in Bed. Smoking in bed is prohibited. (3-15-22)
+03. Unsupervised Smoking. Unsupervised smoking by residents classified as not mentally or
+physically responsible, sedated by medication, or taking oxygen is prohibited. (3-15-22)
+04. Designated Smoking Areas. If smoking is permitted, there must be designated smoking areas
+which are specified in policy and clearly marked. Designated smoking areas must have non-combustible disposal
+receptacles. (3-15-22)
+162. – 215. (RESERVED)
+216. REQUIREMENTS FOR ADMISSION AGREEMENTS.
+01. Initial Resident Assessment and Care Plan. Prior to admission, each resident must be assessed
+by the facility to ensure the resident is appropriate for placement in their residential assisted living facility. The
+facility must develop an interim care plan to guide services until the facility can complete the resident assessment
+process. The result of the assessment will determine the need for specific services and supports. (3-15-22)
+02. Written Agreement. Prior to, or on the day of admission, the facility and each resident or the
+resident's legal guardian or conservator must enter into a written admission agreement that is transparent,
+understandable, and is translated into a language the resident or their representative understands. The admission
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 216 Page 20
+agreement will provide a complete reflection of the facility's charges, commitments agreed to by each party, and the
+actual practices that will occur in the facility. The agreement must be signed by all involved parties, and a complete
+copy provided to the resident and the resident’s legal guardian or conservator prior to, or on the day of admission. The
+admission agreement may be integrated within the Negotiated Service Agreement (NSA), provided that all
+requirements for the NSA in Section 320 of these rules and the admission agreement are met. Admission agreements
+must include all items described under this rule. (3-15-22)
+03. Services, Supports, and Rates. The facility must identify the following services, supports, and
+applicable rates: (3-15-22)
+a. Unless otherwise negotiated with the resident or the resident’s legal guardian or conservator, basic
+services must include the items specified in Section 430 of these rules. (3-15-22)
+b. The resident’s monthly charges, including a specific description of the services that are included in
+the basic services rate and the charged rate. (3-15-22)
+c. All prices, formulas, and calculations used to determine the resident’s basic services rate including:
+(3-15-22)
+i. Service packages; (3-15-22)
+ii. Fee-for-service rates; (3-15-22)
+iii. Assessment forms; (3-15-22)
+iv. Price per assessment point; (3-15-22)
+v. Charges for levels of care determined with an assessment; and (3-15-22)
+vi. Move-in fees or other similar charges. (3-15-22)
+d. The services and rates charged for additional or optional services, supplies, or amenities that are
+available through the facility or arranged for by the facility for which the resident will be charged additional fees.
+(3-15-22)
+e. Services or rates that are impacted by an updated assessment of the resident, the assessment tool,
+the assessor, and the frequency of the assessment, when the facility uses this assessment to determine rate changes.
+(3-15-22)
+f. The facility may charge residents for the use of personal furnishings, equipment, and supplies
+provided by the facility unless paid for by a publicly funded program. The facility must provide a detailed itemization
+of furnishings, equipment, supplies, and the rate for those items the resident will be charged. (3-15-22)
+04. Staffing. The agreement must identify staffing patterns and qualifications of staff on duty during a
+normal day. (3-15-22)
+05. Notification of Liability Insurance Coverage. The administrator of a residential assisted living
+facility must disclose in writing at the time of admission or before a resident’s admission if the facility does not carry
+professional liability insurance. If the facility cancels the professional liability insurance all residents must be notified
+of the change in writing. (3-15-22)
+06. Medication Responsibilities. The agreement must identify the facility's and resident's roles and
+responsibilities relating to assistance with medications including the reporting of missed medications or those taken
+on a PRN basis. (3-15-22)
+07. Resident Personal Fund Responsibilities. The agreement must identify who is responsible for the
+resident's personal funds. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 217 Page 21
+08. Resident Belongings Responsibility. The agreement must identify responsibility for protection
+and disposition of all valuables belonging to the resident and provision for the return of the resident's valuables if the
+resident leaves the facility. (3-15-22)
+09. Emergency Transfers. The agreement must identify conditions under which emergency transfers
+will be made as provided in Section 152 of these rules. (3-15-22)
+10. Billing Practices, Notices, and Procedures for Payments and Refunds. The facility must
+provide a description of the facility’s billing practices, notices, and procedures for payments and refunds. The
+following procedures must be included: (3-15-22)
+a. Arrangement for payments; (3-15-22)
+b. Under what circumstances and time frame a partial month's resident fees are to be refunded when a
+resident no longer resides in the facility; and (3-15-22)
+c. Written notice to vacate the facility must be given thirty (30) calendar days prior to transfer or
+discharge on the part of either party, except in the case of the resident's emergency discharge or death. The facility
+may charge up to fifteen (15) days prorated rent from the date of the resident’s emergency discharge or death. The
+agreement must disclose any charges that will result when a resident fails to provide a thirty (30) day written notice.
+(3-15-22)
+11. Resident Permission to Transfer Information. The agreement must specify permission for the
+facility to transfer information from the resident's records to any facility to which the resident transfers. (3-15-22)
+12. Resident Responsibilities. The agreement must specify resident responsibilities. (3-15-22)
+13. Restrictions on Choice of Care or Service Providers. The agreement must specify any restriction
+on choice of care or service providers, such as home health agency, hospice agency, or personal care services.
+(3-15-22)
+14. Advance Directive. The agreement must identify written documentation of the resident's
+preference regarding the formulation of an advance directive in accordance with Idaho state law. When a resident has
+an advance directive, a copy must be immediately available for staff and emergency personnel. (3-15-22)
+15. Notification of Payee Requirements. The agreement must identify if the facility requires as a
+condition of admission that the facility be named as payee. (3-15-22)
+16. Contested Charges. The facility must provide the methods by which a resident may contest
+charges or rate increases including contacting the ombudsman for the elderly. (3-15-22)
+17. Transition to Publicly Funded Program. The facility must disclose the conditions under which
+the resident can remain in the facility if payment for the resident shifts to a publicly funded program. (3-15-22)
+18. Smoking Policy. The admission agreement must include a copy of the facility's smoking policy.
+(3-15-22)
+217. REQUIREMENTS FOR TERMINATION OF ADMISSION AGREEMENT.
+01. Conditions for Termination of the Admission Agreement. The admission agreement cannot be
+terminated, except under Section 39-3313, Idaho Code, as follows: (3-15-22)
+a. Giving the other party thirty (30) calendar days written notice; (3-15-22)
+b. The resident's death; (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 217 Page 22
+c. Emergency conditions that require the resident to be transferred to protect the resident or other
+residents in the facility from harm; (3-15-22)
+d. The resident's mental or medical condition deteriorates to a level requiring care as described in
+Section 39-3307, Idaho Code, and Section 152 of these rules; (3-15-22)
+e. Nonpayment of the resident's fees; (3-15-22)
+f. When the facility cannot meet resident needs due to changes in services, in-house or contracted, or
+inability to provide the services; or (3-15-22)
+g. Other written conditions as may be mutually established between the resident, the resident's legal
+guardian or conservator, and the administrator of the facility at the time of admission. (3-15-22)
+02. Facility Responsibility During Resident Discharge. The facility is responsible to assist the
+resident with transfer by providing a list of skilled nursing facilities, other residential assisted living facilities, and
+certified family homes that may meet the needs of the resident. The facility must provide a copy of the resident
+record, as described in Section 330 of these rules, within two (2) business days of receipt of a request signed and
+authorized by the resident or legal representative. (3-15-22)
+03. Resident's Appeal of Involuntary Discharge. A resident may appeal all discharges, with the
+exception of an involuntary discharge in the case of nonpayment or emergency conditions that require the resident to
+be transferred to protect the resident or other residents in the facility from harm. (3-15-22)
+a. Before a facility discharges a resident, the facility must notify the resident and their representative
+of the discharge and the cause. (3-15-22)
+b. This notice must be in writing and in a language and manner the resident or their representative can
+understand. (3-15-22)
+04. Written Notice of Discharge. The written notice of discharge must include the following:
+(3-15-22)
+a. The specific reason for the discharge; (3-15-22)
+b. The effective date of the discharge; (3-15-22)
+c. A statement that the resident has the right to appeal the discharge to the Department within thirty
+(30) calendar days of receipt of written notice of discharge; (3-15-22)
+d. The Residential Assisted Living Facilities Program website, where the appeal must be submitted;
+(3-15-22)
+e. The name, address, and telephone number of the local ombudsman; (3-15-22)
+f. The name, address, and telephone number of Disability Rights Idaho; (3-15-22)
+g. If the resident fails to pay fees to the facility, as agreed to in the admission agreement, during the
+discharge appeal process, the resident's appeal of the involuntary discharge becomes null and void and the discharge
+notice applies; and (3-15-22)
+h. When the notice does not contain all the above required information, the notice is void and must be
+reissued. (3-15-22)
+05. Receipt of Appeal. Request for an appeal must be received by the Department within thirty (30)
+calendar days of the resident's or resident's representative's receipt of written notice of discharge to stop the discharge
+before it occurs. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 250 Page 23
+218. -- 249. (RESERVED)
+250. REQUIREMENTS FOR BUILDING CONSTRUCTION AND PHYSICAL STANDARDS.
+Minimum construction must meet all requirements of this rule to include codes and standards incorporated by
+reference in Section 004 of these rules, and all local and state codes that are applicable to residential assisted living
+facilities. Where there are conflicts between the requirements in the codes, the most restrictive condition must apply.
+(3-15-22)
+01. Construction Changes. For all new construction, changes of occupancy, modifications, additions,
+or renovations to existing buildings, the facility must submit construction drawings with specifications to the
+licensing authority for review and approval prior to any work being started. All new construction and conversions
+must install audible and visual notification devices for fire alarm systems in all common areas and resident rooms no
+matter the size of facility. (3-15-22)
+02. Plans and Specifications. Plans must be prepared, signed, stamped, and dated by an architect or
+engineer licensed in the state of Idaho. A variance of this requirement may be granted by the Licensing Agency when
+the size of the project does not necessitate involvement of an architect or engineer. This must include the following:
+(3-15-22)
+a. Plans and specifications must be submitted to the Licensing Agency to ensure compliance with
+applicable construction standards, codes, and regulations; (3-15-22)
+b. Plans must be drawn to scale, but no less than a scale of one-eighth (1/8) inch to one (1) foot;
+(3-15-22)
+c. Plans must be submitted electronically; (3-15-22)
+d. A physical address approved by the city; (3-15-22)
+e. Life safety plans; (3-15-22)
+f. Fire alarm shop drawings; and (3-15-22)
+g. Fire sprinkler system drawings and calculations. (3-15-22)
+03. Approval. All buildings, additions, and renovations are subject to approval by the Licensing
+Agency and must meet applicable requirements. (3-15-22)
+04. Walls and Floor Surfaces. Walls and floors must be of such character to permit cleaning. Walls
+and ceilings in kitchens, bathrooms, and utility rooms must have washable surfaces. (3-15-22)
+05. Toilets and Bathrooms. Each facility must provide: (3-15-22)
+a. A toilet and bathroom for resident use so arranged that it is not necessary for an individual to pass
+through another resident's room to reach the toilet or bath; (3-15-22)
+b. Solid walls or partitions to separate each toilet and bathroom from all adjoining rooms; (3-15-22)
+c. Mechanical ventilation to the outside from all inside toilets and bathrooms not provided with an
+operable exterior window; (3-15-22)
+d. Each tub, shower, and lavatory with hot and cold running water; (3-15-22)
+e. At least one (1) flushing toilet for every six (6) residents; (3-15-22)
+f. At least one (1) tub or shower for every eight (8) residents; (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 250 Page 24
+g. At least one (1) lavatory with a mirror for each toilet; and (3-15-22)
+h. At least one (1) toilet, tub or shower, and lavatory in each building in which residents sleep, with
+additional units if required by the number of persons. (3-15-22)
+06. Accessibility for Persons with Mobility and Sensory Impairments. For residents who have
+mobility or sensory impairments, the facility must provide a physical environment which meets the needs of the
+person for independent mobility and use of appliances, bathroom facilities, and living areas. New construction must
+meet the requirements of the Americans with Disabilities Act Accessibility Guidelines (ADAAG). Existing facilities
+must comply, to the maximum extent feasible, with 28 CFR Sections 36.304 and 36.305 regarding removal of barriers
+under the Americans with Disabilities Act, without creating an undue hardship or burden on the facility, and must
+provide as required, the necessary accommodations: (3-15-22)
+a. Ramps for residents who require assistance with ambulation must comply with the requirements of
+the ADAAG 4.8; (3-15-22)
+b. Bathrooms and doors large enough to allow the easy passage of a wheelchair as provided for in the
+ADAAG 4.13; (3-15-22)
+c. Grab bars in resident toilet and bathrooms in compliance with ADAAG 4.26; (3-15-22)
+d. Toilet facilities in compliance with ADAAG 4.16 and 4.23; (3-15-22)
+e. Non-retractable faucet handles in compliance with ADAAG 4.19, with the exception of selfclosing valves under 4.19.5, and 4.27; and (3-15-22)
+f. A suitable hand railing must be provided on both sides of all stairs leading into and out of a
+building for residents who require the use of crutches, walkers, or braces. (3-15-22)
+07. Lighting. The facility must provide adequate lighting in all resident sleeping rooms, dining rooms,
+living rooms, recreation rooms, and hallways. (3-15-22)
+08. Ventilation. The facility must be ventilated, and precautions taken to prevent offensive odors.
+(3-15-22)
+09. Plumbing. All plumbing in the facility must comply with local and state codes. All plumbing
+fixtures must be easily cleanable and maintained in good repair. The temperature of hot water at plumbing fixtures
+used by residents must be between one hundred five degrees Fahrenheit (105°F) and one hundred twenty degrees
+Fahrenheit (120°F). (3-15-22)
+10. Heating, Ventilation, and Air-Conditioning (HVAC). Equipment must be furnished, installed,
+and maintained to meet all requirements of current state and local mechanical, electrical, and construction codes. An
+HVAC system must be provided for the facility that is capable of maintaining a minimum temperature of seventy
+degrees Fahrenheit (70°F) and a maximum temperature of seventy-eight degrees Fahrenheit (78°F) during the day,
+and a minimum of sixty-two degrees Fahrenheit (62°F) and a maximum temperature of seventy-five degrees
+Fahrenheit (75°F) during the night. Wood stoves, gas fireplaces, or solid burning fireplaces are not permitted as the
+sole source of heat, and the thermostat for the primary source of heat must be remotely located away from any of
+these sources. (3-15-22)
+a. Portable heating devices of any kind are prohibited. Portable electric space heaters and movable
+fuel-fired heaters are considered portable comfort heating devices. Exceptions are heated mattress pads, electric
+blankets, and heating pads when ordered by an authorized provider or physician; (3-15-22)
+b. All fireplaces must provide a safety barrier and have heat-tempered glass fireplace enclosures
+equivalent to ASTM Standard; (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 250 Page 25
+c. Boilers, hot water heaters, and unfired pressure vessels must be equipped with automatic pressure
+relief valves; (3-15-22)
+d. Fire and smoke dampers must be inspected, serviced, and cleaned once every four (4) years by a
+person professionally engaged in the business of servicing these devices or systems. A copy of these results must be
+kept in the facility. (3-15-22)
+11. Dining, Recreation, Shower, Bathing, and Living Space. The total area set aside for these
+purposes must be no less than thirty (30) square feet per licensed bed. A hall or entry cannot be included as living or
+recreation space. (3-15-22)
+12. Resident Sleeping Rooms. The facility must ensure that: (3-15-22)
+a. Resident sleeping rooms are not in attics, stairs, halls, or any other room commonly used for other
+than bedroom purposes; (3-15-22)
+b. A room with a window that opens into an exterior window well cannot be used for a resident
+sleeping room; (3-15-22)
+c. Not more than four (4) residents can be housed in any multi-bed sleeping room in facilities licensed
+prior to July 1, 1991. New facilities or buildings converted to a licensed facility after July 1, 1991, cannot have more
+than two (2) residents in any multi-bed sleeping room. When there is any change in ownership of the facility, the
+maximum number of residents allowed in any room is two (2); (3-15-22)
+d. Square footage requirements for resident sleeping rooms must provide for not less than one
+hundred (100) square feet of floor space per resident in a single-bed sleeping room and not less than eighty (80)
+square feet of floor space per resident in a multi-bed sleeping room. For facilities constructed after January 1, 2021,
+square footage requirements for resident sleeping rooms must provide at least one hundred (100) square feet of floor
+space per resident for both single-bed and multi-bed sleeping rooms. (3-15-22)
+e. Each resident's sleeping room must be provided with an operable exterior window. An operable
+window is not required where there is a door directly to the outside from the sleeping room; (3-15-22)
+f. The operable window sill height must not exceed thirty-six (36) inches above the floor in new
+construction, additions, or remodeling; (3-15-22)
+g. The operable window sill height must not exceed forty-four (44) inches above the floor in existing
+buildings being converted to a facility; (3-15-22)
+h. Each resident sleeping room must provide a total window space that equals at least eight percent
+(8%) of the room's total square footage; (3-15-22)
+i. Window screens must be provided on operable windows; (3-15-22)
+j. Resident sleeping rooms must have walls that run from floor to ceiling, have doors that will limit
+the passage of smoke, and provide the resident(s) with privacy; (3-15-22)
+k. Ceiling heights in sleeping rooms must be at least seven (7) feet, six (6) inches; and (3-15-22)
+l. Closet space in each resident sleeping room must provide at least four (4) usable square feet per
+resident. Common closets used by two (2) or more residents must have substantial dividers for separation of each
+resident's clothing. All closets must be equipped with doors. Free-standing closets are deducted from the square
+footage of the sleeping room. (3-15-22)
+13. Secure Environment. If the facility accepts and retains residents who have cognitive impairment
+and have a history of elopement or attempted elopement, the facility must provide an interior environment and
+exterior yard that is secure and safe. Because measures to secure the environment may be effective for one (1)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 255 Page 26
+resident, but not another, the type of the security provided must be evaluated for effectiveness in protecting each
+resident, based on their individual needs and abilities, and adjusted as necessary. These measures must be
+incorporated into the NSA of each applicable resident. (3-15-22)
+14. Call System. The facility must have a call system available for each resident to call for assistance
+and still be ensured a resident’s right to privacy at the facility, including in the resident’s living quarters and common
+areas, during medical treatment, and other services, and in written and telephonic communications, or in visits with
+family, friends, advocates, and resident groups. The call system cannot be a substitute for supervision. For facilities
+licensed prior to January 1, 2006, when the current system is no longer operational or repairable the facility must
+install a call system as defined in Section 010 of these rules. (3-15-22)
+15. Dietary Standards. Each facility must have a full-service kitchen to meet the needs of the
+residents. Any satellite kitchen must meet all applicable requirements. (3-15-22)
+251. -- 254. (RESERVED)
+255. REQUIREMENTS FOR ADDITIONAL PHYSICAL STANDARDS.
+01. Fire District. The facility site must be in a lawfully constituted fire district. (3-15-22)
+02. Roads. The facility must be served by an all-weather road and kept open to motor vehicles at all
+times of the year. (3-15-22)
+03. Medical Accessibility. The facility site must be accessible to authorized providers or emergency
+medical services within thirty (30) minutes driving time. (3-15-22)
+256. -- 259. (RESERVED)
+260. REQUIREMENTS FOR ENVIRONMENTAL SANITATION.
+01. Water Supply. The facility must have an adequate water supply that is safe and of a sanitary
+quality. (3-15-22)
+a. The water supply must be from an approved private, public, or municipal water supply; (3-15-22)
+b. Water from a private supply must have water samples submitted annually to either a private
+accredited laboratory or to the Public Health District Laboratory for bacteriological examination. The Department
+may require more frequent examinations if warranted; and (3-15-22)
+c. There must be a sufficient amount of water under adequate pressure to meet sanitary and fire
+sprinkler system requirements of the facility at all times. (3-15-22)
+02. Sewage Disposal. All sewage and liquid waste must be discharged into a municipal sewage system
+where such a system is available. If a municipal sewage system is not available, sewage and liquid waste must be
+collected, treated, and disposed of in a manner approved by the Department. (3-15-22)
+03. Garbage and Refuse Disposal. Garbage and refuse disposal must be provided to ensure that:
+(3-15-22)
+a. The premises and all buildings must be kept free from the accumulation of weeds, trash, and
+rubbish; (3-15-22)
+b. Material not directly related to the maintenance and operation of the facility must not be stored on
+the premises; (3-15-22)
+c. All containers used for storage of garbage and refuse must be constructed of durable, nonabsorbent
+material, and must not leak. Containers must be provided with tight-fitting lids unless stored in a vermin-proof room
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 305 Page 27
+or enclosure; and (3-15-22)
+d. Garbage containers must be maintained in a sanitary manner. Sufficient containers must be
+afforded to hold all garbage and refuse which accumulates between periods of removal from the facility. Storage
+areas must be clean and sanitary. (3-15-22)
+04. Insect and Rodent Control. A pest control program must be in effect at all times. This program
+must effectively prevent insects, rodents, and other pests from entrance to, or infestation of, the facility. (3-15-22)
+05. Linen and Laundry Facilities and Services. (3-15-22)
+a. The facility must have available at all times a quantity of linen essential to the proper care and
+comfort of residents; (3-15-22)
+b. Linen must be of good quality, not thread-bare, torn, or stained; (3-15-22)
+c. Linens must be handled, processed, and stored in an appropriate manner that prevents
+contamination; (3-15-22)
+d. Adequate facilities must be provided for the proper and sanitary washing and drying of linen and
+other washable goods laundered in the facility; (3-15-22)
+e. The laundry must be situated in an area separate and apart from where food is stored, prepared, or
+served; (3-15-22)
+f. The laundry area must be well-lighted, ventilated, adequate in size for the needs of the facility,
+maintained in a sanitary manner, and kept in good repair; (3-15-22)
+g. Care must be taken to ensure soiled linen and clothing are properly handled to prevent
+contamination. Clean linen and clothing received from a laundry service must be stored in a proper manner to prevent
+contamination; and (3-15-22)
+h. Residents' and personnel’s personal laundry must be collected, transported, sorted, washed, and
+dried in a sanitary manner and cannot be washed with general linens (e.g., towels and sheets). (3-15-22)
+06. Housekeeping and Maintenance Services. Housekeeping, maintenance personnel, and equipment
+must be provided to maintain the interior and exterior of the facility in a clean, safe, and orderly manner. Prior to
+occupancy of any sleeping room by a new resident, the room must be thoroughly cleaned including the bed, bedding,
+and furnishings. (3-15-22)
+07. Toxic Chemicals. All toxic chemicals must be properly labeled. Toxic chemicals cannot be stored
+where food is stored, prepared, or served, where medications are stored, and where residents with cognitive
+impairment have access. (3-15-22)
+261. – 304. (RESERVED)
+305. REQUIREMENTS FOR THE LICENSED REGISTERED NURSING ASSESSMENT.
+For each resident the licensed registered nurse must assess and document, including date and signature, the following:
+(3-15-22)
+01. Resident Medications and Therapies. Each resident's use of, and response to all medications,
+(including over-the-counter, and prescribed therapies), the monitoring of side effects, interactions, abuse, or other
+adverse effects, and ensuring the resident's physician or authorized provider is notified of any identified concerns
+with medications and therapies. (3-15-22)
+02. Current Medication Orders and Treatment Orders. Each resident's medication and treatment
+orders are current and verified for the following: (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 310 Page 28
+a. The medication listed on the medication distribution container, including over-the-countermedications, is consistent with physician or authorized provider orders; (3-15-22)
+b. The physician or authorized provider orders related to therapeutic diets, treatments, and
+medications for each resident are followed; and (3-15-22)
+c. A copy of the actual written, signed, and dated orders are present in each resident's care record.
+(3-15-22)
+03. Resident Health Status. The health status of each resident by conducting a physical assessment
+and identifying symptoms of illness, or any changes in mental or physical health status. (3-15-22)
+04. Recommendations. Recommendations to the administrator regarding any medication needs, other
+health needs requiring follow-up, or changes needed to the NSA. The nurse must notify the physician or authorized
+provider of recommendations for medical care and services that are needed. (3-15-22)
+05. Progress of Previous Recommendations. The progress of previous recommendations regarding
+any medication needs or other health needs that require follow-up. (3-15-22)
+06. Self-Administered Medication. Each resident participating in a self-administered medication
+program at the following times: (3-15-22)
+a. Before the resident can self-administer medication to ensure resident safety; and (3-15-22)
+b. Every ninety (90) days to evaluate the continued validity of the assessment to ensure the resident is
+still capable to safely self-administer medication(s). (3-15-22)
+07. Resident and Facility Staff Education. Recommendations for any health care-related educational
+needs, for both the resident and facility staff, as the result of the nursing assessment or at the direction of the resident's
+health care provider. (3-15-22)
+306. -- 309. (RESERVED)
+310. REQUIREMENTS FOR MEDICATION.
+Facility policies and procedures must specify how medications will be handled. (3-15-22)
+01. Medication Distribution System. Each facility must use medi-sets or blister packs for prescription
+medications. The facility may use multi-dose medication distribution systems that are provided for resident’s
+receiving medications from the Veterans Administration or Railroad benefits. The medication system must be filled
+by a pharmacist and appropriately labeled in accordance with pharmacy standards and physician or authorized
+provider instructions. The facility's licensed nurse may fill medi-sets, blister packs, or other Licensing Agency
+approved systems as described in Section 39-3326, Idaho Code. (3-15-22)
+a. All medications must be kept in a locked area such as a locked box or room; (3-15-22)
+b. Poisons, toxic chemicals, and cleaning agents must not be stored with medications; (3-15-22)
+c. Biologicals and other medications requiring cold storage must be maintained at thirty-eight degrees
+Fahrenheit to forty-five degrees Fahrenheit (38°F-45°F), and the temperature monitored and documented daily;
+(3-15-22)
+d. Assistance with medication must comply with the Board of Nursing requirements; (3-15-22)
+e. Each prescription medication must be given to the resident directly from the medi-set, blister pack,
+or medication container; (3-15-22)
+f. Each resident must be observed taking the medication; and (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 319 Page 29
+g. Each prescribed PRN must be available in the facility. (3-15-22)
+02. Discontinued and Expired Prescriptions. Discontinued or outdated medications and treatments
+must be removed from the resident's medication supply and cannot accumulate at the facility for longer than thirty
+(30) days. The unused medication must be disposed of in a manner that ensures it cannot be retrieved. The facility
+may enter into agreement, a copy of which must be maintained, with a pharmacy or other authorized entity to return
+unused, unopened medications for proper disposition. A written record of all drug disposals must be maintained in the
+facility and include: (3-15-22)
+a. A description of the drug, including the amount; (3-15-22)
+b. Name of the resident for whom the medication is prescribed; (3-15-22)
+c. The reason for disposal; (3-15-22)
+d. The method of disposal; (3-15-22)
+e. The date of disposal; and (3-15-22)
+f. Signatures of responsible facility personnel and witness. (3-15-22)
+03. Controlled Substances. The facility must track all controlled substances entering the facility,
+including the amount received, the date, a daily count, reconciliation of the number given or disposed, and the
+number remaining. (3-15-22)
+04. Psychotropic or Behavior Modifying Medication. (3-15-22)
+a. Psychotropic or behavior modifying medication intervention must not be the first resort to address
+behaviors. The facility must attempt non-drug interventions to assist and redirect the resident’s behavior. (3-15-22)
+b. Psychotropic or behavior modifying medications must be prescribed by a physician or authorized
+provider. (3-15-22)
+c. The facility must monitor the resident to determine continued need for the medication based on the
+resident’s demonstrated behaviors. (3-15-22)
+d. The facility must monitor the resident for any side effects that could impact the resident’s health
+and safety. (3-15-22)
+e. The use of psychotropic or behavior modifying medications must be reviewed by the physician or
+authorized provider at least every six (6) months. The facility must provide behavior updates to the physician or
+authorized provider to help facilitate an informed decision on the continued use, and possible reduction, of the
+psychotropic or behavior modifying medication. (3-15-22)
+311. -- 318. (RESERVED)
+319. COMPREHENSIVE ASSESSMENT REQUIREMENTS.
+The facility must complete assessment information as described in Subsections 319.01 through 319.04 of this rule,
+prior to admitting the resident to the residential assisted living facility. The remainder of the comprehensive
+assessment must be completed within fourteen (14) days of admission. Comprehensive assessment information must
+be updated when there is a change, or at least every twelve (12) months. The comprehensive assessment must contain
+the following: (3-15-22)
+01. Resident Demographics. Resident demographic information, including: (3-15-22)
+a. Date of birth; (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 320 Page 30
+b. Placement history; (3-15-22)
+c. Identification of any medical diagnoses, including any information about specific health problems,
+such as allergies, that may be useful in a medical emergency; (3-15-22)
+d. Prescription and over-the-counter medications and treatments; (3-15-22)
+e. Information related to cognitive function; (3-15-22)
+f. Legal status, to include copies of legal documents when applicable (e.g., guardianship or power of
+attorney); and (3-15-22)
+g. Names and contact information of representatives and emergency contacts. (3-15-22)
+02. Level of Personal Assistance Required. The facility must assess the level of assistance required to
+help the resident with the following: Activities of daily living, including bathing, dressing, toileting, grooming,
+eating, communicating, medications, and the use of adaptive equipment, such as hearing aids, walkers, or eyeglasses.
+(3-15-22)
+03. Nursing Assessment. Information related to the resident's health, medical status, and identification
+of any health services needed, including frequency and scope. (3-15-22)
+04. Maladaptive Behaviors. Evaluation of maladaptive behaviors, including: (3-15-22)
+a. The resident's behavioral history, including any history of traumatic events; (3-15-22)
+b. The intensity, duration, and frequency of each maladaptive behavior; (3-15-22)
+c. Potential contributing environmental factors, such as heat, noise, or overcrowding; (3-15-22)
+d. Any specific events that can trigger maladaptive behaviors; (3-15-22)
+e. Potential contributing health factors, such as hunger, pain, constipation, infection, fever, or
+medication side effects; and (3-15-22)
+f. Recent changes in the resident's life, such as a death in the family or changes in care. (3-15-22)
+05. Resident Preferences. Resident preferences and historical information that includes: (3-15-22)
+a. Religion and church attendance, including preferred church contact information; (3-15-22)
+b. Historical information including significant life events, family, work, and education; and (3-15-22)
+c. Hobbies or preferred activities. (3-15-22)
+06. Outside Services. Information related to outside services, including the service type being
+provided, when, and by whom. (3-15-22)
+07. Assessment Results. The results of the comprehensive assessment must be used to develop the
+NSA, identify training needs for staff, and evaluate the ability of an administrator and facility to meet the identified
+resident’s needs. (3-15-22)
+320. NEGOTIATED SERVICE AGREEMENT (NSA) REQUIREMENTS.
+Under Section 39-3309, Idaho Code, each resident must enter into an NSA completed, signed, and implemented no
+later than fourteen (14) calendar days from the date of admission. An interim plan must be developed and used while
+the NSA is being completed as described in Section 330 of these rules. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 330 Page 31
+01. Use of NSA. The NSA provides for the coordination of services and instruction to the facility staff.
+Upon completion, the agreement must clearly identify the resident, describe services to be provided, the frequency of
+such services, and how such services are to be delivered. (3-15-22)
+02. Key Elements of the NSA. A resident's NSA must be based on the comprehensive assessment
+information described in Section 319 of these rules. NSAs must incorporate information from the resident's care
+record, described in Section 330 of these rules. (3-15-22)
+03. Signature, Date, and Approval of Agreement. The administrator, resident, and any legal
+representative must sign and date the NSA upon its completion. (3-15-22)
+04. Review Date. The NSA must include the next scheduled date of review. (3-15-22)
+05. Development of the NSA. The resident, and other relevant persons as identified by the resident,
+must be included in the development of the NSA. Licensed and professional staff must be involved in the
+development of the NSA as applicable. (3-15-22)
+06. Copy of Initial Agreement. Signed copies of the agreement must be given to the resident, their
+representative, and their legal guardian or conservator, and a copy placed in the resident's record, no later than
+fourteen (14) calendar days from admission. (3-15-22)
+07. Resident Choice. A resident must be given the choice and control of how and what services the
+facility or external vendors will provide, to the extent the resident can make choices. The resident's choice must not
+violate the provisions of Section 39-3307(1), Idaho Code. (3-15-22)
+08. Periodic Review. The NSA must be reviewed when there is a change in a diagnosis for a resident
+or other change in condition requiring different, additional, or replacement services, or at least every twelve (12)
+months. (3-15-22)
+321. -- 329. (RESERVED)
+330. REQUIREMENTS FOR FACILITY RECORDS.
+The facility must maintain complete, accurate, and authentic records which are preserved in a safe location protected
+from fire, theft, and water damage for a minimum of three (3) years. (3-15-22)
+01. Paper Records. All paper records must be recorded legibly in ink. (3-15-22)
+02. Electronic Records. Electronic records policies and procedures must be developed and
+implemented that specify which records will be maintained electronically. Policy development and implementation
+must ensure: (3-15-22)
+a. The facility must print and provide paper copies of electronic records upon the request of the
+resident, their legal guardian or conservator, advocacy and protection agencies, and the Department. (3-15-22)
+b. Security measures must be taken to protect the use of an electronic signature by anyone other than
+the person to which the electronic signature belongs and to protect that person's identity. The policy must specify how
+passwords are assigned, and the frequency they are changed. (3-15-22)
+c. Security measures must be taken to ensure the integrity of any electronic documentation. (3-15-22)
+03. Record Confidentiality. The facility must safeguard confidential information against loss,
+destruction, and unauthorized use. (3-15-22)
+04. Resident Care Records. An individual care record must be maintained for each resident with all
+entries kept current and completed by the person providing the care. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 330 Page 32
+a. Entries must include the date, time, name, and title of the person making the entry. Staff must sign
+each entry made by them during their shift. (3-15-22)
+b. Care records of all current residents must be available to staff at all times. (3-15-22)
+c. In addition to an NSA, as described in Section 320 of these rules, each care record must include
+documentation of the following: (3-15-22)
+i. Comprehensive assessments, as described in Section 319 of these rules; (3-15-22)
+ii. Current medications, treatments, and diet prescribed, all signed and dated by the ordering physician
+or authorized provider; (3-15-22)
+iii. Treatments, wound care, assistance with medications, and any other delegated nursing tasks.
+Documentation must include any PRN medication use (if applicable), including the reason for taking the medication
+and the efficacy; (3-15-22)
+iv. Times the NSA is not followed, such as during refusal of care or services. This includes any time a
+medication is refused by a resident, not taken by a resident, not given to a resident, and the reason for the omission;
+(3-15-22)
+v. Calls to the resident's physician or authorized provider, including the reason for each call and the
+outcome; (3-15-22)
+vi. Notification to the facility nurse of changes in the resident's physical or mental condition;
+(3-15-22)
+vii. Nursing assessments, as described in Section 305 of these rules; (3-15-22)
+viii. The results of any physician or authorized provider visits; (3-15-22)
+ix. Copies of all signed and dated care plans prepared by outside service agencies; (3-15-22)
+x. Notes regarding outside services and care provided to the resident, such as home health, hospice, or
+physical therapy; (3-15-22)
+xi. Unusual events such as incidents, accidents, or altercations, and the facility's response; and
+(3-15-22)
+xii. When a resident refuses medical treatment or physician's orders, the facility must document the
+resident and their legal guardian have been informed of the consequences of the refusal and the resident's physician or
+authorized provider has been notified of the refusal. (3-15-22)
+05. Admission Records. As described in Section 39-3315, Idaho Code, resident admission
+documentation must include: (3-15-22)
+a. The resident's preferred providers and contact information, including physician or authorized
+provider, optometrist, dentist, pharmacy, and outside service providers. (3-15-22)
+b. Results of the resident's last history and physical examination, performed by a physician or
+authorized provider. The examination must have been conducted no more than six (6) months prior to admission.
+(3-15-22)
+c. Physician or authorized provider orders that are current, signed, and dated, including a list of
+medications, treatments, diet, and any limitations. (3-15-22)
+d. A written admission agreement that is signed and dated by the administrator and the resident or
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 330 Page 33
+their legal guardian or conservator, and meets the requirements of Section 216 of these rules. (3-15-22)
+e. If separate from the admission agreement, a copy of the payment schedule and fee structure signed
+and dated by the resident or their legal guardian or conservator. (3-15-22)
+f. If the facility manages the resident's funds, a signed and dated written agreement between the
+facility and the resident or their legal guardian or conservator that specifies the terms. (3-15-22)
+g. A signed copy of the resident's rights, as described in Sections 550 and 560 of these rules, or a
+signed and dated statement that the resident or their legal guardian or conservator has read and understands their
+rights in a residential assisted living facility. (3-15-22)
+h. An interim care plan signed by the resident, responsible party, and the facility, completed prior to,
+or on the day of, admission. (3-15-22)
+i. Documentation indicating the resident has been informed of the facility's emergency procedures,
+including resident responsibility. (3-15-22)
+06. Behavior Documentation. For residents who exhibit maladaptive behaviors, behavior
+management records must be maintained in the resident record, including: (3-15-22)
+a. An assessment of maladaptive behaviors, as described in Section 319 of these rules. (3-15-22)
+b. A behavior plan that includes at least one (1) intervention specific to each maladaptive behavior.
+(3-15-22)
+i. Interventions must be the least restrictive possible; and (3-15-22)
+ii. Each intervention must be reviewed as appropriate, based on the severity of the behavior, to
+evaluate the effectiveness and continued need for the intervention. (3-15-22)
+c. Ongoing tracking of behaviors, including documentation of the date and time each maladaptive
+behavior was observed, the specific behavior that was observed, what interventions were used in response to the
+maladaptive behavior, and the effectiveness of each intervention. (3-15-22)
+07. Discharge Records. Resident discharge documentation must include: (3-15-22)
+a. When the discharge is involuntary, the facility's efforts to resolve the situation and a copy of the
+discharge notice, signed and dated by the resident and the facility. If the resident refuses, or is unable to sign the
+notice, the facility must maintain evidence that the notice was delivered to the resident and the responsible party;
+(3-15-22)
+b. The date and the location where the resident is discharged; and (3-15-22)
+c. The disposition of the resident's belongings. (3-15-22)
+08. Additional Resident Records. The facility must also maintain the following for each resident:
+(3-15-22)
+a. A record of all personal property that the resident has entrusted to the facility, including
+documentation to identify and track the property to ensure that personal items are kept safe and used only by the
+resident to which the items belong; and (3-15-22)
+b. Any complaints or grievances voiced by the resident including the date received, the investigation
+with outcome, and the response to the resident. (3-15-22)
+09. Resident Admission and Discharge Register. The facility must maintain an admission and
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 330 Page 34
+discharge register listing the name of each resident, the date admitted, and the date discharged. The admission and
+discharge register must be produced as a separate document, apart from resident records, and kept current. (3-15-22)
+10. Hourly Adult Care Documentation. A log of those who have utilized hourly adult care must be
+maintained, including the dates the service was provided. Individual records must be maintained for each person
+utilizing hourly adult care. The individual record documentation must include: (3-15-22)
+a. Admission identification information, including contact information for the responsible party in an
+emergency, and the physician or authorized provider; (3-15-22)
+b. Information, such as medical and social, relevant to the supervision of the person; and (3-15-22)
+c. Care and services provided during hourly adult care, including assistance with medications.
+(3-15-22)
+11. Dietary Records. The facility must maintain on-site a minimum of three (3) months of dietary
+documentation, as follows: (3-15-22)
+a. Copies of planned menus, including therapeutic menus, that are approved, signed, and dated by a
+dietitian; and (3-15-22)
+b. Served menus, including therapeutic menus, which reflect substitutions made. (3-15-22)
+12. Records for Water Supply. Copies of laboratory reports documenting the bacteriological
+examination of a private water supply must be kept on file in the facility. (3-15-22)
+13. Personnel Records. A record for each employee must be maintained and available, which includes
+the following: (3-15-22)
+a. The employee's name, address, phone number, and date of hire; (3-15-22)
+b. A job description that includes the purpose, responsibilities, duties, and authority; (3-15-22)
+c. Evidence that on, or prior to hire, staff were notified in writing if the facility does or does not carry
+professional liability insurance. If the facility cancels existing professional liability insurance, all staff must be
+notified of the change in writing; (3-15-22)
+d. A copy of a current license for all nursing staff and verification from the Board of Nursing that the
+license is in good standing with identification of restrictions; (3-15-22)
+e. Signed evidence of training as described in Sections 620 through 641 of these rules; (3-15-22)
+f. Copies of CPR and first aid certifications; (3-15-22)
+g. Evidence of medication training as described in Section 645 of these rules; (3-15-22)
+h. Criminal history and background check results that meet Section 009 of these rules and state-only
+background check results; (3-15-22)
+i. Documentation by the licensed nurse of delegation to unlicensed staff who assist residents with
+medications and other nursing tasks; (3-15-22)
+j. When acting on behalf of the administrator, a signed document authorizing the responsibility; and
+(3-15-22)
+k. Copies of contracts with outside service providers and contract staff. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 335 Page 35
+14. As Worked Schedules. Work records must be maintained in written or electronic format which
+reflect: (3-15-22)
+a. Personnel on duty, at any given time; and (3-15-22)
+b. The first and last names of each employee and their position. (3-15-22)
+15. Fire and Life Safety Records. The administrator must ensure the facility's records for fire and life
+safety are maintained. The facility must maintain on file: (3-15-22)
+a. Fire detection, alarm, and communication system reports: (3-15-22)
+i. The results of the annual inspection and tests; and (3-15-22)
+ii. Smoke detector sensitivity testing results. (3-15-22)
+b. The results of any weekly, monthly, quarterly, semi-annual, and annual sprinkler system
+inspections, maintenance, and tests; (3-15-22)
+c. Records of the monthly examination of the portable fire extinguishers, documenting the following:
+(3-15-22)
+i. Each extinguisher is in its designated location; (3-15-22)
+ii. Each extinguisher seal or tamper indicator is not broken; (3-15-22)
+iii. Each extinguisher has not been physically damaged; (3-15-22)
+iv. Each extinguisher gauge shows a charged condition; and (3-15-22)
+v. The inspection tag or documentation for the extinguisher must show at least the initials of the
+person making the monthly examination and the date of the examination. (3-15-22)
+d. Documentation for when a fire watch is instituted and a fire watch log for each round of patrol,
+identifying who conducted the fire watch, date, time, and situations encountered. (3-15-22)
+331. -- 334. (RESERVED)
+335. REQUIREMENTS FOR INFECTION CONTROL.
+The administrator is responsible for ensuring that policies and procedures consistent with recognized standards that
+control and prevent infections for both staff and residents are developed and implemented throughout the facility, to
+include: (3-15-22)
+01. Staff with an Infectious Disease. Staff with an infectious disease must not work until the
+infectious stage no longer exists or must be reassigned to a work area where contact with others is not expected and
+likelihood of transmission of infection is absent. (3-15-22)
+02. Standard Precautions. Standard precautions must be used in the care of residents to prevent
+transmission of infectious disease according to the Centers for Disease Control and Prevention (CDC) guidelines.
+These guidelines may be accessed on the CDC website at http://www.cdc.gov/hai/. (3-15-22)
+03. Reporting of Individual with an Infectious Disease. The name of any resident or facility
+personnel with a reportable disease listed in IDAPA 16.02.10, “Idaho Reportable Diseases,” must be reported
+immediately to the local health district authority with appropriate infection control procedures immediately
+implemented as directed by that local health authority. (3-15-22)
+336. -- 399. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 400 Page 36
+400. REQUIREMENTS FOR FIRE AND LIFE SAFETY STANDARDS.
+A facility's buildings must meet all requirements of the local and state codes that are applicable to residential assisted
+living facilities for fire and life safety standards. Facilities’ evacuation capability is considered “impractical” as
+defined by NFPA, Standard 101. (3-15-22)
+401. FIRE AND LIFE SAFETY STANDARDS FOR NEW BUILDINGS HOUSING THREE THROUGH
+SIXTEEN RESIDENTS.
+A newly constructed facility, change of ownership, or a building converted to a residential assisted living facility on
+or after January 1, 2021, housing three (3) to sixteen (16) residents on the first story only must comply with NFPA,
+Standard 101, Chapter 32, Small Facilities. (3-15-22)
+402. FIRE AND LIFE SAFETY STANDARDS FOR NEW BUILDINGS HOUSING SEVENTEEN OR
+MORE RESIDENTS AND MULTI-STORY BUILDINGS.
+A newly constructed facility, change of ownership, or a building converted to a residential assisted living facility on
+or after January 1, 2021, housing seventeen (17) residents or more, or any building housing residents on stories other
+than the first story must comply with requirements of NFPA, Standard 101, Chapter 32, Large Facilities. (3-15-22)
+403. FIRE AND LIFE SAFETY STANDARDS FOR EXISTING BUILDINGS LICENSED FOR THREE
+THROUGH SIXTEEN RESIDENTS.
+Existing facilities licensed prior to January 1, 2021, housing three (3) to sixteen (16) residents on the first story only,
+must comply with the requirements of the NFPA, Standard 101, Chapter 33, Small Facilities. Existing buildings that
+are not sprinklered may continue to operate, except when Section 401 of these rules apply. (3-15-22)
+404. FIRE AND LIFE SAFETY STANDARDS FOR EXISTING BUILDINGS LICENSED FOR
+SEVENTEEN OR MORE RESIDENTS AND MULTI-STORY BUILDINGS.
+Existing facilities licensed prior to January 1, 2021 housing seventeen (17) or more residents and multi-story
+buildings or any building housing residents on stories other than the first story must comply with NFPA, Standard
+101, Chapter 33, Large Facilities. (3-15-22)
+405. ADDITIONAL FIRE AND LIFE SAFETY STANDARDS FOR ALL BUILDINGS AND
+FACILITIES.
+01. Electrical Installations and Equipment. Electrical installations and equipment must comply with
+applicable local or state electrical requirements in NFPA, Standard 101, Mandatory References. (3-15-22)
+a. Extension cords and multi-plug adapters are prohibited; (3-15-22)
+b. Relocatable Power Taps (RPTs) must be Underwriter Laboratories (U/L) approved with the
+following requirements: (3-15-22)
+i. RPTs must be directly connected to a wall outlet; and (3-15-22)
+ii. Have a built-in surge protector. (3-15-22)
+02. Prohibited Applications. The following are prohibited uses of an RPT: (3-15-22)
+a. Medical equipment; (3-15-22)
+b. Daisy chain or plugging one (1) plug strip into a second plug strip; (3-15-22)
+c. Appliances; (3-15-22)
+d. As a convenience, in lieu of permanent installed receptacles; and (3-15-22)
+e. Extend through walls, ceilings, floors, under doors or floor coverings, or be subject to
+environmental or physical damage. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 410 Page 37
+03. Medical Gases. Handling, use, and storage of medical gas must be according to NFPA, Standard
+99, Chapter 11, Performance, Maintenance, and Testing as referenced in Section 004 of these rules. (3-15-22)
+04. Fuel-Fired Heating. Fuel-fired heating devices and systems must be inspected, serviced, and
+cleaned at least annually by a person professionally engaged in the business of servicing these devices or systems.
+(3-15-22)
+05. Natural or Man-Made Hazards. When natural or man-made hazards are present on the facility
+property or border the facility property, suitable fences, guards, railing, or a combination must be installed to provide
+protection for the residents. (3-15-22)
+06. Telephone. The facility must have a telephone on the premises available for staff use in the event
+of an emergency. Emergency telephone numbers must be posted near the telephone. (3-15-22)
+406. -- 409. (RESERVED)
+410. REQUIREMENTS FOR EMERGENCY ACTIONS AND FIRE DRILLS.
+Fire drills must be conducted not less than six (6) times a year on a bimonthly basis, with not less than two (2)
+conducted during the night when residents are sleeping. Records must be maintained on file at the facility and contain
+a description, date, and time of the drill, response of the personnel and residents, problems encountered, and
+recommendations for improvement. (3-15-22)
+01. Report of Fire. A separate report on each fire incident occurring within the facility must be
+submitted to the Licensing Agency within thirty (30) days of the occurrence. The reporting form, “Facility Fire
+Incident Report,” issued by the Licensing Agency is used to secure specific data concerning date, origin, extent of
+damage, method of extinguishment, and injuries, if any. A fire incident is considered any activation of the building's
+fire alarm system other than a false alarm, during testing of the fire alarm system, or during a fire drill. (3-15-22)
+02. Fire Watch. Where a required fire alarm system or fire sprinkler system is out of service for more
+than four (4) hours in a twenty-four (24) hour period, the authority having jurisdiction must be notified, and the
+building evacuated, or an approved fire watch provided for all parties left unprotected by the shutdown until the fire
+alarm system has been returned to service. (3-15-22)
+411. -- 429. (RESERVED)
+430. REQUIREMENTS FOR FURNISHINGS, EQUIPMENT, SUPPLIES, AND BASIC SERVICES.
+Each facility must provide to the resident: (3-15-22)
+01. Common Shared Furnishings. Appropriately designed and constructed furnishings to meet the
+needs of each resident, including reading lamps, tables, comfortable chairs, or sofas. All items must be in good repair,
+clean, safe, and provided at no additional cost to the resident. (3-15-22)
+02. Resident Sleeping Room Furnishings. Comfortable furnishings and individual storage, such as a
+dresser, for personal items for each resident in each sleeping room. All items must be in good repair, clean, and safe.
+(3-15-22)
+03. Resident Bed. Each resident must be provided their own bed, which will be at least thirty-six (36)
+inches wide, substantially constructed, clean, and in good repair. Roll-away beds, cots, futons, folding beds, or double
+bunks are prohibited. Bed springs must be in good repair, clean, and comfortable. Bed mattresses must be standard
+for the bed, clean, and odor-free. A pillow must be provided. (3-15-22)
+04. Resident Telephone Privacy. The facility must have at least one (1) telephone that is accessible to
+all residents, and provide local calls at no additional cost. The telephone must be placed in such a manner as to
+provide the resident privacy while using the telephone. (3-15-22)
+05. Basic Services. The following are basic services to be provided to the resident by the facility
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 450 Page 38
+within the basic services rate: (3-15-22)
+a. Rent; (3-15-22)
+b. Utilities; (3-15-22)
+c. Food; (3-15-22)
+d. Activities of daily living services; (3-15-22)
+e. Supervision; (3-15-22)
+f. First aid; (3-15-22)
+g. Assistance with and monitoring of medications; (3-15-22)
+h. Laundering of linens owned by the facility; (3-15-22)
+i. Emergency interventions and coordination of outside services; (3-15-22)
+j. Routine housekeeping and maintenance of common areas; and (3-15-22)
+k. Access to basic television in common areas. (3-15-22)
+06. Basic Supplies. The following are to be supplied by the facility at no additional cost to the resident:
+linens, towels, wash cloths, liquid hand soap, non-sterile exam gloves, toilet paper, and first aid supplies, unless the
+resident chooses to provide their own. (3-15-22)
+07. Personal Supplies. Soap, shampoo, hair brush, comb, electric razor or other means of shaving,
+toothbrush, toothpaste, sanitary napkins, and incontinence supplies must be provided by the facility unless the
+resident chooses to provide their own. The facility may charge the resident for personal supplies the facility provides
+and must itemize each item being charged to the resident. (3-15-22)
+08. Resident Supplies and Furnishings. If a resident chooses to provide their own supplies or
+furnishings, the facility must ensure that the resident's supplies or furnishings meet the minimum standards as
+identified in this rule. (3-15-22)
+431. -- 449. (RESERVED)
+450. REQUIREMENTS FOR FOOD AND NUTRITIONAL CARE SERVICES.
+The facility food services must meet the standards in IDAPA 16.02.19, “Idaho Food Code,” as incorporated in
+Section 004 of these rules. The facility must also implement operational policies for providing proper nutritional care
+for each resident, which includes procedures to follow if the resident refuses food or to follow a prescribed diet.
+(3-15-22)
+451. MENU AND DIET PLANNING.
+The facility must provide each resident with at least the minimum food and nutritional needs in accordance with the
+Recommended Dietary Allowances established by the Food and Nutrition Board of the National Academy of
+Sciences. These recommendations are found in the Idaho Diet Manual incorporated by reference in Section 004 of
+these rules. The menu must be adjusted for age, sex, and activity as approved by a registered dietitian. (3-15-22)
+01. Menu. The facility must have a menu planned or approved, and signed and dated by a registered
+dietitian prior to being served to any resident. The planned menu must meet nutritional standards. (3-15-22)
+a. Menus will provide a sufficient variety of foods in adequate amounts at each meal; (3-15-22)
+b. Food selections must include foods that are served in the community and in season. Food selections
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 455 Page 39
+and textures should account for residents' preferences, food habits, and physical abilities. (3-15-22)
+c. The current weekly menu must be posted in a facility common area; and (3-15-22)
+d. The facility must serve the planned menu. If substitutions are made, the menu must be modified to
+reflect the substitutions. (3-15-22)
+02. Therapeutic Diets. The facility must have a therapeutic diet menu planned or approved, and
+signed and dated by a registered dietitian prior to being served to any resident. (3-15-22)
+a. The therapeutic diet planned menu, if possible, must meet nutritional standards; (3-15-22)
+b. The therapeutic diet menu must be planned as close to a regular diet as possible; and (3-15-22)
+c. The facility must have for each resident on a therapeutic diet, an order from a physician or
+authorized provider. (3-15-22)
+03. Facilities Licensed for Sixteen Beds or Less. In facilities licensed for sixteen (16) beds or less,
+menus must be planned in writing at least one (1) week in advance. (3-15-22)
+04. Facilities Licensed for Seventeen Beds or More. Facilities licensed for seventeen (17) beds or
+more must: (3-15-22)
+a. Develop and implement a cycle menu which covers a minimum of two (2) seasons and is four (4) to
+five (5) weeks in length; (3-15-22)
+b. Follow standardized recipes; and (3-15-22)
+c. Have available in the kitchen a current copy of the Idaho Food Code and Idaho Diet Manual.
+(3-15-22)
+452. -- 454. (RESERVED)
+455. FOOD SUPPLY.
+The facility must maintain a seven (7) day supply of nonperishable foods and a two (2) day supply of perishable
+foods. The facility's kitchen must have the types and amounts of food to be served readily available to meet all
+planned menus during that time. (3-15-22)
+456. -- 459. (RESERVED)
+460. FOOD PREPARATION AND SERVICE.
+01. Food Preparation. Foods must be prepared by methods that conserve nutritional value, flavor, and
+appearance. (3-15-22)
+02. Frequency of Meals. Food must be offered throughout the day, as follows: (3-15-22)
+a. To provide residents at least three (3) meals daily, at regular times comparable to normal mealtimes
+in the community; (3-15-22)
+b. To ensure no more than fourteen (14) hours between a substantial evening meal and breakfast;
+(3-15-22)
+c. Ensure that residents who are not in the facility for the noon meal are offered a substantial evening
+meal; and (3-15-22)
+d. Offer snacks and fluids between meals and at bedtime. (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 510 Page 40
+03. Food Preparation Area. Any areas used for food preparation must be maintained as follows:
+(3-15-22)
+a. No live animals or fowl will be kept or maintained in the food service preparation or service area;
+and (3-15-22)
+b. Food preparation and service areas cannot be used as living quarters for staff. (3-15-22)
+04. Disposable Items. The facility will not use single-use items except in unusual circumstances for a
+short period of time or for special events. (3-15-22)
+461. -- 509. (RESERVED)
+510. REQUIREMENTS TO PROTECT RESIDENTS FROM ABUSE.
+The administrator must ensure that policies and procedures are developed and implemented to ensure that all
+residents are free from abuse. These policies and procedures should be posted in a conspicuous place in the facility,
+shared with new residents, families upon admission, all residents annually thereafter, and made available upon
+request. (3-15-22)
+511. -- 514. (RESERVED)
+515. REQUIREMENTS TO PROTECT RESIDENTS FROM EXPLOITATION.
+The administrator must ensure that policies and procedures are developed and implemented to ensure that all
+residents are free from exploitation. These policies and procedures should be posted in a conspicuous place in the
+facility, shared with new residents, families upon admission, all residents annually thereafter, and made available
+upon request. (3-15-22)
+516. -- 519. (RESERVED)
+520. REQUIREMENTS TO PROTECT RESIDENTS FROM INADEQUATE CARE.
+The administrator must ensure that policies and procedures are developed and implemented to ensure that all
+residents are free from inadequate care. These policies and procedures should be posted in a conspicuous place in the
+facility, shared with new residents, families upon admission, all residents annually thereafter, and made available
+upon request. (3-15-22)
+521. -- 524. (RESERVED)
+525. REQUIREMENTS TO PROTECT RESIDENTS FROM NEGLECT.
+The administrator must ensure that policies and procedures are developed and implemented to ensure that all
+residents are free from neglect. These policies and procedures should be posted in a conspicuous place in the facility,
+shared with new residents, families upon admission, all residents annually thereafter, and made available upon
+request. (3-15-22)
+526. – 599. (RESERVED)
+600. REQUIREMENTS FOR STAFFING STANDARDS.
+The administrator must develop and implement written staffing policies and procedures based on the number of
+residents, resident needs, and configuration of the facility, which include: (3-15-22)
+01. On-Duty Staff Up and Awake During Residents' Sleeping Hours. Qualified and trained staff
+must be up and awake, and immediately available in the facility during resident sleeping hours. (3-15-22)
+02. Detached Buildings or Units. Facilities with residents housed in detached buildings or units must
+have at least one (1) staff present and available in each building or unit when residents are present in the building or
+unit. The facility must also ensure that each building or unit complies with the requirements for on-duty staff during
+resident sleeping hours to be up, awake, and immediately available in accordance with the facility's licensed bed
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 620 Page 41
+capacity as provided in this rule. The Licensing Agency will consider a variance based on the facility's written
+submitted plan of operation. (3-15-22)
+03. Personnel Management. The administrator is responsible for the management of all personnel to
+include contract personnel. (3-15-22)
+04. Sufficient Personnel. As described in Section 39-3322, Idaho Code, the facility will employ and
+the administrator will schedule sufficient personnel to: (3-15-22)
+a. Provide care and supervision, during all hours, as required in each resident's NSA, to ensure
+residents' health, safety, and comfort, and to ensure the interior and exterior of the facility is maintained in a safe and
+clean manner; and (3-15-22)
+b. To provide for at least one (1) direct care staff with certification in first aid and cardio-pulmonary
+resuscitation (CPR) in the facility at all times. Facilities with multiple buildings or units will have at least one (1)
+direct care staff with certification in first aid and CPR in each building or each unit at all times. (3-15-22)
+601. -- 619. (RESERVED)
+620. REQUIREMENTS FOR TRAINING OF FACILITY PERSONNEL.
+The facility must follow structured, written training programs designed to meet the training needs of personnel in
+relation to responsibilities, as specified in the written job description, to provide for quality of care and compliance
+with these rules. Signed evidence of personnel training, indicating hours and topic, must be retained at the facility.
+(3-15-22)
+621. -- 624. (RESERVED)
+625. ORIENTATION TRAINING REQUIREMENTS.
+The administrator must ensure that each staff member completes orientation training specific to their job description
+as described in Section 39-3324, Idaho Code. Staff who have not completed the orientation training requirements
+must work with a staff who has completed the orientation training. (3-15-22)
+01. Number of Hours of Training. A minimum of sixteen (16) hours of job-related orientation
+training must be provided to all new personnel before they are allowed to provide unsupervised personal assistance to
+residents. The means and methods of training are at the facility’s discretion. (3-15-22)
+02. Timeline for Completion of Training. All orientation training must be completed within thirty
+(30) days of hire. (3-15-22)
+03. Content for Training. Orientation training must include the following: (3-15-22)
+a. The philosophy of residential assisted living and how it guides caregiving; (3-15-22)
+b. Resident rights; (3-15-22)
+c. Cultural awareness; (3-15-22)
+d. Providing personal assistance; (3-15-22)
+e. How to respond to emergencies; (3-15-22)
+f. Reporting and documentation requirements for resident care records, incidents, accidents,
+complaints, and allegations of abuse, neglect, and exploitation; (3-15-22)
+g. Identifying and reporting changes in residents' health or mental condition; (3-15-22)
+h. Advance directives and do not resuscitate (DNR) orders; (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 630 Page 42
+i. Relevant policies and procedures; (3-15-22)
+j. The role of the NSA; and (3-15-22)
+k. All staff employed by the facility, including housekeeping personnel and contract personnel, must
+be trained in infection control procedures for universal precautions. (3-15-22)
+626. -- 629. (RESERVED)
+630. TRAINING REQUIREMENTS FOR FACILITIES ADMITTING RESIDENTS WITH A
+DIAGNOSIS OF DEMENTIA, MENTAL ILLNESS, DEVELOPMENTAL DISABILITY, OR TRAUMATIC
+BRAIN INJURY.
+A facility admitting and retaining residents with a diagnosis of dementia, mental illness, developmental disability, or
+traumatic brain injury must train all staff to meet the specialized needs of these residents. Staff must receive
+specialized training within thirty (30) days of hire or of admission of a resident with one (1) of these conditions. The
+means and methods of training are at the facility’s discretion. The training should address the following areas:
+(3-15-22)
+01. Dementia: (3-15-22)
+a. Overview of dementia; (3-15-22)
+b. Symptoms and behaviors of people with memory impairment; (3-15-22)
+c. Communication with people with memory impairment; (3-15-22)
+d. Resident's adjustment to the new living environment; (3-15-22)
+e. Behavior management, including the consistent implementation of behavior interventions;
+(3-15-22)
+f. Activities of daily living; and (3-15-22)
+g. Stress reduction for facility personnel and the resident. (3-15-22)
+02. Mental Illness: (3-15-22)
+a. Overview of mental illnesses; (3-15-22)
+b. Symptoms and behaviors specific to mental illness; (3-15-22)
+c. Resident's adjustment to the new living environment; (3-15-22)
+d. Behavior management, including the consistent implementation of behavior interventions;
+(3-15-22)
+e. Communication; (3-15-22)
+f. Activities of daily living; (3-15-22)
+g. Integration with rehabilitation services; and (3-15-22)
+h. Stress reduction for facility personnel and the resident. (3-15-22)
+03. Developmental Disability: (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 640 Page 43
+a. Overview of developmental disabilities; (3-15-22)
+b. Interaction and acceptance; (3-15-22)
+c. Promotion of independence; (3-15-22)
+d. Communication; (3-15-22)
+e. Behavior management, including the consistent implementation of behavior interventions;
+(3-15-22)
+f. Assistance with adaptive equipment; (3-15-22)
+g. Integration with rehabilitation services; (3-15-22)
+h. Activities of daily living; and (3-15-22)
+i. Community integration. (3-15-22)
+04. Traumatic Brain Injury: (3-15-22)
+a. Overview of traumatic brain injuries; (3-15-22)
+b. Symptoms and behaviors specific to traumatic brain injury; (3-15-22)
+c. Adjustment to the new living environment; (3-15-22)
+d. Behavior management, including the consistent implementation of behavior interventions;
+(3-15-22)
+e. Communication; (3-15-22)
+f. Integration with rehabilitation services; (3-15-22)
+g. Activities of daily living; (3-15-22)
+h. Assistance with adaptive equipment; and (3-15-22)
+i. Stress reduction for facility personnel and the resident. (3-15-22)
+631. -- 639. (RESERVED)
+640. CONTINUED TRAINING REQUIREMENTS.
+Each employee must receive a minimum of eight (8) hours of job-related continued training per year. (3-15-22)
+641. ADDITIONAL TRAINING RELATED TO CHANGES.
+When policies or procedures are added, modified, or deleted, the date of the change must be specified on the policy
+and staff must receive additional training related to the changes. (3-15-22)
+642. -- 644. (RESERVED)
+645. ASSISTANCE WITH MEDICATIONS.
+01. Training Requirements. To provide assistance with medications, staff must have the following
+training requirements, and be delegated as described in this rule. (3-15-22)
+a. Before staff can begin assisting residents with medications, successful completion of a medication
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 900 Page 44
+assistance course offered by one (1) of Idaho’s community colleges. This training is not included as part of the
+minimum of sixteen (16) hours of orientation training or minimum of eight (8) hours of continued training per year.
+(3-15-22)
+b. Staff training on documentation requirements and how to respond when a resident refuses or misses
+a medication, receives an incorrect medication, or when medication is unavailable or missing. (3-15-22)
+02. Delegation. The facility nurse must delegate and document assistance with medications and other
+nursing tasks. Each medication assistant must be delegated individually, including skill demonstration, prior to
+assisting with medications or nursing tasks, and any time the licensed nurse changes. (3-15-22)
+646. -- 899. (RESERVED)
+900. ENFORCEMENT ACTIONS.
+Enforcement actions, as described in Sections 901 through 940 of these rules and Sections 39-3357 and 39-3358,
+Idaho Code, are actions the Department can impose upon a facility. The Department will consider a facility's
+compliance history, change(s) of ownership, and the number, scope, and severity of the deficiencies when initiating or
+extending an enforcement action. The Department can impose any of the enforcement actions, independently or in
+conjunction with others. (3-15-22)
+901. ENFORCEMENT ACTION OF SUMMARY SUSPENSION.
+When the Department finds that the facility's deficient practice(s) immediately place the health or safety of any
+residents in danger, the Department may take immediate action through summary suspension of the facility’s license,
+the imposition of temporary management, a limit on admissions, and transfer the residents. (3-15-22)
+902. -- 909. (RESERVED)
+910. ENFORCEMENT ACTION OF A CONSULTANT.
+A consultant may be required when an acceptable plan of correction has not been submitted, as described in Section
+130 of these rules, or if the Department identifies repeat deficient practice(s) in the facility. The consultant is required
+to submit periodic reports to the Licensing Agency. (3-15-22)
+911. -- 919. (RESERVED)
+920. ENFORCEMENT ACTION OF LIMIT ON ADMISSIONS.
+01. Reasons for Limit on Admissions. The Department may limit admissions for the following
+reasons: (3-15-22)
+a. The facility is inadequately staffed or the staff is inadequately trained to handle more residents;
+(3-15-22)
+b. The facility otherwise lacks the resources necessary to support the needs of more residents;
+(3-15-22)
+c. The Department identifies repeat core issues during any follow-up survey; and (3-15-22)
+d. An acceptable plan of correction is not submitted as described in Section 130 of these rules.
+(3-15-22)
+02. Notification of Limit on Admissions. The Department will notify the facility of the limit on
+admissions of residents (e.g., a full ban of admissions, a limit of admissions based on resident diagnosis, etc.) pending
+the correction of deficient practice(s). Limits on admissions to the facility remain in effect until the Department
+determines the facility has achieved full compliance with requirements or receives written evidence and statements
+from the outside consultant that the facility is in compliance. (3-15-22)
+921. -- 924. (RESERVED)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 925 Page 45
+925. ENFORCEMENT ACTION OF CIVIL MONETARY PENALTIES.
+01. Civil Monetary Penalties. May be issued when a facility is operating without a license, repeat
+deficiencies are identified, or the facility fails to comply with conditions of the provisional license. Actual harm to a
+resident or residents does not need to be shown. A single act, omission, or incident will not give rise to imposition of
+multiple penalties, even though such act, omission, or incident may violate more than one (1) rule. (3-15-22)
+02. Assessment Amount for Civil Monetary Penalty. When civil monetary penalties are imposed,
+such penalties are assessed for each day the facility is or was out of compliance. The amounts below are multiplied by
+the total number of occupied licensed beds according to the records of the Department at the time non-compliance is
+established. (3-15-22)
+a. Repeat deficiency is ten dollars ($10). Example below:
+(3-15-22)
+b. In any ninety (90) day period, the penalty amounts may not exceed the limits shown in the
+following table:
+(3-15-22)
+03. Notice of Civil Monetary Penalties and Appeal Rights. The Department will give written notice
+informing the facility of the amount of the penalty, the basis for its assessment and the facility's appeal rights.
+(3-15-22)
+04. Payment of Penalties. The facility must pay the full amount of the penalty within thirty (30)
+calendar days from the date the notice is received, unless the facility requests an administrative review of the decision
+to assess the penalty. The amount of a civil monetary penalty determined through administrative review must be paid
+within thirty (30) calendar days of the facility's receipt of the administrative review decision unless the facility
+requests an administrative hearing. The amount of the civil monetary penalty determined through an administrative
+hearing must be paid within thirty (30) calendar days of the facility's receipt of the administrative hearing decision
+unless the facility files a petition for judicial review. Interest accrues on all unpaid penalties at the legal rate of interest
+for judgments. Such interest accruement will begin one (1) calendar day after the date of the initial assessment of the
+penalty. (3-15-22)
+05. Failure to Pay. Failure of a facility to pay the entire penalty, together with any interest, is cause for
+revocation of the license or the amount will be withheld from Medicaid payments to the facility. (3-15-22)
+Number of Occupied
+Beds in Facility Repeat Deficiency Times Number of Days
+Out of Compliance Amount of Penalty
+11 $10.00 30 days $3,300
+Limits on Accruing Civil Monetary Amount
+Number of Occupied Beds
+in Facility Repeat Deficiency
+3-4 Beds $2,880
+5-50 Beds $6,400
+51-100 Beds $10,800
+101-150 Beds $17,600
+151 or More Beds $29,200
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 930 Page 46
+926. -- 929. (RESERVED)
+930. ENFORCEMENT ACTION OF TEMPORARY MANAGEMENT.
+01. Need for Temporary Management. The Department may impose the action of temporary
+management in situations where there is a need to oversee operation of the facility and to ensure the health and safety
+of the facility's residents: (3-15-22)
+a. During an orderly transfer of residents of the facility to other facilities; or (3-15-22)
+b. Pending improvements to bring the facility into compliance with program requirements. (3-15-22)
+02. Notice of Temporary Management. The Department will give written notice to the facility of the
+imposition of temporary management. (3-15-22)
+03. Who May Serve as a Temporary Manager. The Department may appoint any person or
+organization that meets the following qualifications: (3-15-22)
+a. The temporary manager must not have any financial interest in the facility to be managed;
+(3-15-22)
+b. The temporary manager must not be related, within the first degree of kinship, to the facility's
+owner, manager, administrator, or other management principal; (3-15-22)
+c. The temporary manager must possess sufficient training, expertise, and experience in the operation
+of a facility as would be necessary to achieve the objectives of temporary management. If the temporary manager is
+to serve in a facility, the manager must possess an Residential Assisted Living Administrator's license; and (3-15-22)
+d. The temporary manager must not be an existing competitor of the facility who would gain an unfair
+competitive advantage by being appointed as temporary manager of the facility. (3-15-22)
+04. Powers and Duties of the Temporary Manager. The temporary manager has the authority to
+direct and oversee the management, and to hire and discharge any consultant or personnel, including the
+administrator of the facility. The temporary manager has the authority to direct the expenditure of the revenues of the
+facility in a reasonable and prudent manner, to oversee the continuation of the business and the care of the residents,
+to oversee and direct those acts necessary to accomplish the goals of the program requirements, and to direct and
+oversee regular accounting. When the facility fails or refuses to carry out the directions of the temporary manager, the
+Department may revoke the facility's license. (7-1-24)
+a. The temporary manager must observe the confidentiality of the operating policies, procedures,
+employment practices, financial information, and all similar business information of the facility, except that the
+temporary manager must make reports to the Department; (3-15-22)
+b. The temporary manager may be liable for gross, willful or wanton negligence, intentional acts of
+omissions, unexplained shortfalls in the facility's fund, and breaches of fiduciary duty; (3-15-22)
+c. The temporary manager does not have authority to cause or direct the facility, its owner, or
+administrator to incur debt, unless to bring the facility into compliance with these rules, or to enter into any contract
+with a duration beyond the term of the temporary management of the facility; (3-15-22)
+d. The temporary manager does not have authority to incur, without the permission of the owner,
+administrator, or the Department, capital expenditures in excess of two thousand dollars ($2,000), unless the capital
+expenditures are directly related to correcting the identified deficiencies; (3-15-22)
+e. The temporary manager does not have authority to cause or direct the facility to encumber its assets
+or receivables; (3-15-22)
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 935 Page 47
+f. The temporary manager does not have authority to cause or direct a facility, which holds liability or
+casualty insurance coverage, to cancel or reduce its liability or casualty insurance coverage; and (3-15-22)
+g. The temporary manager does not have authority to cause or direct the sale of the facility, its assets
+or the premises on which it is located. (3-15-22)
+05. Responsibility for Payment of the Temporary Manager. All compensation and per diem costs of
+the temporary manager must be paid by the licensee. (3-15-22)
+06. Termination of Temporary Management. A temporary manager may be replaced under the
+following conditions: (3-15-22)
+a. The Department may require replacement of any temporary manager whose performance is
+deemed unsatisfactory by the Department. No formal procedure is required for such removal or replacement, but
+written notice of any action will be given to the facility. (3-15-22)
+b. A facility subject to temporary management may petition the Department for replacement of a
+temporary manager whose performance it considers unsatisfactory. The petition must include why the replacement of
+a temporary manager is necessary or appropriate. (3-15-22)
+931. -- 934. (RESERVED)
+935. ENFORCEMENT ACTION OF A PROVISIONAL LICENSE.
+A provisional license may be issued when a facility has one (1) or more core issues, when non-core issues have not
+been corrected, have become repeat deficiencies, or an acceptable plan of correction is not submitted as described in
+these rules. The provisional license will state the conditions the facility must follow to continue to operate. (3-15-22)
+936. -- 939. (RESERVED)
+940. ENFORCEMENT ACTION OF REVOCATION OF FACILITY LICENSE.
+01. Revocation of Facility's License. The Department may revoke a license when the facility
+endangers the health or safety of residents, or when the facility is not in substantial compliance with the provisions of
+Title 39, Chapter 33, Idaho Code, or this chapter of rules. (3-15-22)
+02. Reasons for Revocation or Denial of a Facility License. The Department may revoke or deny any
+facility license for any of the following reasons: (3-15-22)
+a. The licensee has willfully misrepresented or omitted information on the application or other
+documents pertinent to obtaining a license; (3-15-22)
+b. When persuaded by a preponderance of the evidence that such conditions exist which endanger the
+health or safety of any resident; (3-15-22)
+c. Any act adversely affecting the welfare of residents is being permitted, aided, performed, or abetted
+by the person or persons in charge of the facility. Such acts may include neglect, physical abuse, mental abuse,
+emotional abuse, violation of civil rights, criminal activity, or exploitation; (3-15-22)
+d. The licensee has demonstrated or exhibited a lack of sound judgment essential to the operation and
+management of a facility; (3-15-22)
+e. The licensee has violated any of the conditions of a provisional license; (3-15-22)
+f. The facility lacks adequate personnel, as required by these rules or as directed by the Department,
+to properly care for the number and type of residents residing at the facility; (3-15-22)
+g. Licensee refuses to allow the Department or the protection and advocacy agencies full access to the
+IDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential
+Department of Health and Welfare Assisted Living Facilities
+Section 940 Page 48
+facility environment, facility records, and the residents as described in Sections 130 and 550 of these rules; (3-15-22)
+h. The licensee has been guilty of fraud, gross negligence, abuse, assault, battery, or exploitation with
+respect to the operation of a health facility, residential assisted living facility, or certified family home; (3-15-22)
+i. The licensee is actively affected in their performance by alcohol or the use of drugs classified as
+controlled substances; (3-15-22)
+j. The licensee has been convicted of a criminal offense other than a minor traffic violation within the
+past five (5) years; (3-15-22)
+k. The licensee is of poor moral and responsible character or has been convicted of a felony or
+defrauding the government; (3-15-22)
+l. The licensee has been denied, or the licensee's wrong-doing has caused the revocation of any
+license or certificate of any health facility, residential assisted living facility, or certified family home; (3-15-22)
+m. The licensee has previously operated any health facility or residential assisted living facility
+without a license or certified family home without a certificate; (3-15-22)
+n. The licensee is directly under the control or influence of any person who has been the subject of
+proceedings as described in this rule; (3-15-22)
+o. The licensee is directly under the control or influence of any person who is of poor moral and
+responsible character or has been convicted of a felony or defrauding the government; (3-15-22)
+p. The licensee is directly under the control or influence of any person who has been convicted of a
+criminal offense other than a minor traffic violation in the past five (5) years; (3-15-22)
+q. The licensee fails to pay civil monetary penalties imposed by the Department as described in
+Section 925 of these rules; (3-15-22)
+r. The licensee fails to take sufficient corrective action as described in Section 130 of these rules; or
+(3-15-22)
+s. The number of residents currently in the facility exceeds the number of residents the facility is
+licensed to serve. (3-15-22)
+941. -- 999. (RESERVED)
