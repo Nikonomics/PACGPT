@@ -1072,7 +1072,54 @@
    MOBILE RESPONSIVE STYLES
    ========================================== */
 
+/* Mobile Library Toggle - hidden on desktop */
+.alf-library-toggle-mobile {
+  display: none;
+}
+
 @media (max-width: 768px) {
+  /* Mobile Library Toggle Button */
+  .alf-library-toggle-mobile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 14px 16px;
+    background: linear-gradient(135deg, #eff6ff 0%, #ecfdf5 100%);
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #1e40af;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .alf-library-toggle-mobile:active {
+    background: #dbeafe;
+  }
+
+  .alf-library-toggle-mobile .toggle-chevron {
+    transition: transform 0.2s;
+  }
+
+  .alf-library-toggle-mobile .toggle-chevron.open {
+    transform: rotate(180deg);
+  }
+
+  /* Hide library by default on mobile */
+  .alf-library-panel {
+    display: none;
+    position: relative;
+    top: 0;
+  }
+
+  /* Show library when toggled */
+  .alf-library-panel.show-mobile {
+    display: block;
+  }
+
   /* Container */
   .alf-container {
     padding: 12px;
@@ -1195,14 +1242,9 @@
     height: 20px;
   }
 
-  /* Library Panel - collapsible on mobile */
-  .alf-library-panel {
-    position: relative;
-    top: 0;
-  }
-
-  .alf-library-panel .alf-card {
-    max-height: 300px;
+  /* Library Panel - when shown on mobile */
+  .alf-library-panel.show-mobile .alf-card {
+    max-height: 400px;
   }
 
   .alf-library-header {

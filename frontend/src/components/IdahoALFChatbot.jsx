@@ -28,11 +28,16 @@ const IdahoALFChatbot = () => {
   const [libraryError, setLibraryError] = useState(null);
   const [expandedNodes, setExpandedNodes] = useState(new Set());
   const [totalChunks, setTotalChunks] = useState(0);
+  const [showLibraryMobile, setShowLibraryMobile] = useState(false);
   const messagesEndRef = useRef(null);
+  const messagesContainerRef = useRef(null);
   const sessionId = useRef(getSessionId());
 
   const scrollToBottom = () => {
-    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    // Scroll within the messages container, not the whole page
+    if (messagesContainerRef.current) {
+      messagesContainerRef.current.scrollTop = messagesContainerRef.current.scrollHeight;
+    }
   };
 
   const exampleQuestions = [
@@ -334,7 +339,7 @@ const IdahoALFChatbot = () => {
             </div>
 
             {/* Chat Messages Area */}
-            <div className="alf-messages">
+            <div className="alf-messages" ref={messagesContainerRef}>
               {messages.length === 0 ? (
                 /* Welcome Message */
                 <div className="alf-message assistant">
@@ -427,8 +432,21 @@ const IdahoALFChatbot = () => {
             </div>
           </div>
 
+          {/* Mobile Library Toggle Button */}
+          <button
+            className="alf-library-toggle-mobile"
+            onClick={() => setShowLibraryMobile(!showLibraryMobile)}
+          >
+            <BookOpen size={18} />
+            <span>{showLibraryMobile ? 'Hide' : 'Browse'} Regulation Library</span>
+            <ChevronDown
+              size={18}
+              className={`toggle-chevron ${showLibraryMobile ? 'open' : ''}`}
+            />
+          </button>
+
           {/* Regulation Library Panel - Right Side (1/3 width) - STICKY */}
-          <div className="alf-library-panel">
+          <div className={`alf-library-panel ${showLibraryMobile ? 'show-mobile' : ''}`}>
             <div className="alf-card">
               {/* Library Header */}
               <div className="alf-library-header">
