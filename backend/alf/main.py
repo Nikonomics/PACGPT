@@ -13,6 +13,18 @@ from pathlib import Path
 from rag_engine import RAGEngine
 from analytics import analytics
 
+
+def get_real_ip(request: Request) -> str:
+    """Get real client IP, handling reverse proxies like Render."""
+    # X-Forwarded-For contains the real IP when behind a proxy
+    forwarded_for = request.headers.get("x-forwarded-for")
+    if forwarded_for:
+        # Can be comma-separated list, first one is the real client
+        return forwarded_for.split(",")[0].strip()
+    # Fall back to direct client IP
+    return request.client.host if request.client else None
+
+
 # Initialize FastAPI app
 app = FastAPI(
     title="Idaho ALF RegNavigator API",
@@ -165,7 +177,7 @@ async def query(request: QueryRequest, req: Request):
             response_time_ms=response_time_ms,
             citations_count=len(result["citations"]),
             top_citation=top_citation,
-            ip_address=req.client.host if req.client else None
+            ip_address=get_real_ip(req)
         )
 
         # Format response
@@ -555,7 +567,7 @@ async def track_event(request: TrackRequest, req: Request):
     analytics.log_page_view(
         session_id=request.session_id,
         page=request.page,
-        ip_address=req.client.host if req.client else None,
+        ip_address=get_real_ip(req),
         user_agent=request.user_agent
     )
     return {"status": "ok"}

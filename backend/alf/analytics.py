@@ -4,6 +4,7 @@ Uses SQLite for simple, file-based storage.
 """
 
 import sqlite3
+import os
 from pathlib import Path
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional
@@ -16,7 +17,14 @@ class Analytics:
     def __init__(self, db_path: str = None):
         """Initialize analytics with SQLite database."""
         if db_path is None:
-            db_path = Path(__file__).parent / "data" / "analytics.db"
+            # Use persistent disk on Render (/data), fall back to local for development
+            render_disk = Path("/data")
+            if render_disk.exists() and os.access(render_disk, os.W_OK):
+                db_path = render_disk / "analytics.db"
+                print(f"✓ Using persistent disk for analytics: {db_path}")
+            else:
+                db_path = Path(__file__).parent / "data" / "analytics.db"
+                print(f"✓ Using local storage for analytics: {db_path}")
 
         self.db_path = Path(db_path)
         self.db_path.parent.mkdir(parents=True, exist_ok=True)

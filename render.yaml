@@ -51,3 +51,7 @@ services:
         sync: false
     healthCheckPath: /health
     plan: starter
+    disk:
+      name: alf-data
+      mountPath: /data
+      sizeGB: 1

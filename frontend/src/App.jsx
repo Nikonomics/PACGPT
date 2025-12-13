@@ -4,6 +4,7 @@ import { MessageSquare } from 'lucide-react'
 import './App.css'
 import MedicaidChatbot from './components/MedicaidChatbot'
 import IdahoALFChatbot from './components/IdahoALFChatbot'
+import AdminDashboard from './components/AdminDashboard'
 
 function App() {
   const location = useLocation()
@@ -63,6 +64,7 @@ function App() {
         } />
         <Route path="/medicaid" element={<MedicaidChatbot />} />
         <Route path="/idaho-alf" element={<IdahoALFChatbot />} />
+        <Route path="/admin" element={<AdminDashboard />} />
       </Routes>
     </div>
   )
