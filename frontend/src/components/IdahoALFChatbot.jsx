@@ -187,6 +187,8 @@ const IdahoALFChatbot = () => {
     if (!content) return '';
 
     return content
+      // Convert URLs to clickable markdown links
+      .replace(/(https?:\/\/[^\s\)]+)/g, '[$1]($1)')
       // Add line breaks before paragraph markers (A), (B), (C), etc.
       .replace(/\s*\(([A-Z])\)\s*/g, '\n\n**($1)** ')
       // Add line breaks before numbered subsections like (1), (2), (3)
@@ -553,7 +555,13 @@ const IdahoALFChatbot = () => {
 
             <div className="alf-modal-content">
               <div className="alf-prose formatted-regulation">
-                <ReactMarkdown>{formatRegulationContent(selectedRegulation.content)}</ReactMarkdown>
+                <ReactMarkdown
+                  components={{
+                    a: ({node, ...props}) => (
+                      <a {...props} target="_blank" rel="noopener noreferrer" />
+                    )
+                  }}
+                >{formatRegulationContent(selectedRegulation.content)}</ReactMarkdown>
               </div>
             </div>
 

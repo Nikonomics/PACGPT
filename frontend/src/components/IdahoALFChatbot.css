@@ -775,6 +775,17 @@
   font-style: normal;
 }
 
+.formatted-regulation a {
+  color: #2563eb;
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.formatted-regulation a:hover {
+  text-decoration: underline;
+  color: #1d4ed8;
+}
+
 .alf-modal-footer {
   padding: 16px 24px;
   border-top: 1px solid #e2e8f0;
