@@ -6,13 +6,31 @@ Uses SQLite for simple, file-based storage.
 import sqlite3
 import os
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from typing import List, Dict, Optional
 import json
+from zoneinfo import ZoneInfo
+
+# Mountain Time timezone
+TIMEZONE = ZoneInfo("America/Denver")
 
 
 class Analytics:
     """Simple analytics tracking using SQLite."""
+
+    def _convert_to_mountain(self, utc_timestamp_str: str) -> str:
+        """Convert UTC timestamp string to Mountain Time."""
+        if not utc_timestamp_str:
+            return None
+        try:
+            # Parse the UTC timestamp
+            utc_dt = datetime.fromisoformat(utc_timestamp_str.replace(' ', 'T'))
+            utc_dt = utc_dt.replace(tzinfo=timezone.utc)
+            # Convert to Mountain Time
+            mountain_dt = utc_dt.astimezone(TIMEZONE)
+            return mountain_dt.strftime('%Y-%m-%d %H:%M:%S %Z')
+        except Exception:
+            return utc_timestamp_str
 
     def __init__(self, db_path: str = None):
         """Initialize analytics with SQLite database."""
@@ -146,7 +164,7 @@ class Analytics:
         cursor.execute("""
             SELECT
                 id,
-                datetime(timestamp, 'localtime') as timestamp,
+                timestamp,
                 session_id,
                 question,
                 response_time_ms,
@@ -161,7 +179,13 @@ class Analytics:
         rows = cursor.fetchall()
         conn.close()
 
-        return [dict(row) for row in rows]
+        # Convert timestamps to Mountain Time
+        results = []
+        for row in rows:
+            row_dict = dict(row)
+            row_dict['timestamp'] = self._convert_to_mountain(row_dict['timestamp'])
+            results.append(row_dict)
+        return results
 
     def get_popular_queries(self, limit: int = 20, days: int = 30) -> List[Dict]:
         """Get most common query patterns."""
@@ -265,8 +289,8 @@ class Analytics:
         cursor.execute("""
             SELECT
                 session_id,
-                datetime(first_seen, 'localtime') as first_seen,
-                datetime(last_seen, 'localtime') as last_seen,
+                first_seen,
+                last_seen,
                 query_count,
                 user_agent,
                 ip_address
@@ -279,7 +303,14 @@ class Analytics:
         rows = cursor.fetchall()
         conn.close()
 
-        return [dict(row) for row in rows]
+        # Convert timestamps to Mountain Time
+        results = []
+        for row in rows:
+            row_dict = dict(row)
+            row_dict['first_seen'] = self._convert_to_mountain(row_dict['first_seen'])
+            row_dict['last_seen'] = self._convert_to_mountain(row_dict['last_seen'])
+            results.append(row_dict)
+        return results
 
     def get_unique_ips(self, days: int = 30) -> Dict:
         """Get count of unique IP addresses."""
