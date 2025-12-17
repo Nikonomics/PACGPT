@@ -14,6 +14,16 @@ from rag_engine import RAGEngine
 from analytics import analytics
 
 
+def get_citation(chunk: dict) -> str:
+    """Get citation from chunk, handling both old and new field names."""
+    return chunk.get('citation') or chunk.get('section_number', 'N/A')
+
+
+def get_source(chunk: dict) -> str:
+    """Get source document from chunk, handling both old and new field names."""
+    return chunk.get('source_file') or chunk.get('source_document', 'N/A')
+
+
 def get_real_ip(request: Request) -> str:
     """Get real client IP, handling reverse proxies like Render."""
     # X-Forwarded-For contains the real IP when behind a proxy
@@ -332,7 +342,7 @@ async def get_library():
                 '10': 'Transportation Facilities'
             }
             for c in chunks:
-                match = re.search(r'\.(\d+)\.', c['citation'])
+                match = re.search(r'\.(\d+)\.', get_citation(c))
                 if match:
                     sec_num = match.group(1)
                     sections[sec_num].append(c)
@@ -344,7 +354,7 @@ async def get_library():
                 # Further group by subsection (4.1, 4.2, etc.)
                 subsections = defaultdict(list)
                 for c in sec_chunks:
-                    match = re.search(r'\.(\d+\.\d+)', c['citation'])
+                    match = re.search(r'\.(\d+\.\d+)', get_citation(c))
                     if match:
                         subsections[match.group(1)].append(c)
                     else:
@@ -369,7 +379,7 @@ async def get_library():
                         'name': f'{subsec_num} - {subsec_title}',
                         'type': 'subsection',
                         'count': len(subsec_chunks),
-                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': c['citation'],
+                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
                                    'title': c['section_title'][:60]} for c in subsec_chunks]
                     })
 
@@ -389,7 +399,7 @@ async def get_library():
                 '8': 'Compliance & Enforcement'
             }
             for c in chunks:
-                match = re.search(r'\.(\d)-', c['citation'])
+                match = re.search(r'\.(\d)-', get_citation(c))
                 if match:
                     chapters[match.group(1)].append(c)
 
@@ -400,7 +410,7 @@ async def get_library():
                 # Group by part (3-1, 3-2, etc.)
                 parts = defaultdict(list)
                 for c in ch_chunks:
-                    match = re.search(r'\.(\d-\d)', c['citation'])
+                    match = re.search(r'\.(\d-\d)', get_citation(c))
                     if match:
                         parts[match.group(1)].append(c)
 
@@ -419,7 +429,7 @@ async def get_library():
                         'name': f'Part {part_num}',
                         'type': 'part',
                         'count': len(part_chunks),
-                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': c['citation'],
+                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
                                    'title': c['section_title'][:60]} for c in part_chunks[:20]]  # Limit for performance
                     })
 
@@ -444,7 +454,7 @@ async def get_library():
                 start, end = map(int, range_str.split('-'))
                 range_chunks = []
                 for c in chunks:
-                    match = re.search(r'\.(\d{1,3})(?:\s|\(|$)', c['citation'])
+                    match = re.search(r'\.(\d{1,3})(?:\s|\(|$)', get_citation(c))
                     if match:
                         num = int(match.group(1))
                         if start <= num <= end:
@@ -456,7 +466,7 @@ async def get_library():
                         'name': f'Sections {range_str}: {range_name}',
                         'type': 'section-range',
                         'count': len(range_chunks),
-                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': c['citation'],
+                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
                                    'title': c['section_title'][:60]} for c in range_chunks]
                     })
 
@@ -465,10 +475,10 @@ async def get_library():
             for c in chunks:
                 doc_node['children'].append({
                     'id': c['chunk_id'],
-                    'name': c['citation'].split('.')[-1] + ' - ' + c['section_title'][:50],
+                    'name': get_citation(c).split('.')[-1] + ' - ' + c['section_title'][:50],
                     'type': 'statute',
                     'count': 1,
-                    'chunks': [{'chunk_id': c['chunk_id'], 'citation': c['citation'],
+                    'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
                                'title': c['section_title'][:60]}]
                 })
 
@@ -477,10 +487,10 @@ async def get_library():
             for c in chunks:
                 doc_node['children'].append({
                     'id': c['chunk_id'],
-                    'name': c['section_title'][:60] or c['citation'],
+                    'name': c['section_title'][:60] or get_citation(c),
                     'type': 'chunk',
                     'count': 1,
-                    'chunks': [{'chunk_id': c['chunk_id'], 'citation': c['citation'],
+                    'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
                                'title': c['section_title'][:60]}]
                 })
 
