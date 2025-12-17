@@ -157,10 +157,80 @@ STATE_DOCUMENTS = {
         },
     },
 
-    # Add new states here:
-    # "Washington": {
-    #     "WAC 388-78A.txt": {...},
-    # },
+    "Washington": {
+        "WA Chapter 388-78A WAC_.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "DSHS",
+            "applies_to": ["ALF"],
+            "description": "Washington ALF Licensing Rules (main document)",
+        },
+        "WA Chapter 388-112A WAC_.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "DSHS",
+            "applies_to": ["ALF", "SNF"],
+            "description": "Long-term care services training requirements",
+        },
+        "WA Chapter 246-338 WAC_.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "WA DOH",
+            "applies_to": ["ALF", "SNF"],
+            "description": "Medical Test Site rules (WA CLIA alternative)",
+        },
+        "WA WAC 246-840-910_.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "WA DOH",
+            "applies_to": ["ALF", "SNF"],
+            "description": "RN delegation authority (includes insulin)",
+        },
+        "WA WAC 296-128-245_.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "L&I",
+            "applies_to": ["ALF"],
+            "description": "Sleep time rules (5-hour uninterrupted)",
+        },
+        "WA Chapter 18.20 RCW_ ASSISTED LIVING FACILITIES.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.STATUTE,
+            "source_agency": "WA Legislature",
+            "applies_to": ["ALF"],
+            "description": "Washington ALF enabling statute",
+        },
+        "WA Chapter 70.129 RCW_ LONG-TERM CARE RESIDENT RIGHTS.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.STATUTE,
+            "source_agency": "WA Legislature",
+            "applies_to": ["ALF", "SNF"],
+            "description": "Long-term care resident rights",
+        },
+        "WA Chapter 74.34 RCW_ ABUSE OF VULNERABLE ADULTS.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.STATUTE,
+            "source_agency": "WA Legislature",
+            "applies_to": ["ALF", "SNF", "All"],
+            "description": "Abuse of vulnerable adults reporting and protection",
+        },
+        "WA Title 246 WAC_.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Washington",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "WA DOH",
+            "applies_to": ["All"],
+            "description": "WA Department of Health rules (multiple chapters)",
+        },
+    },
 }
 
 

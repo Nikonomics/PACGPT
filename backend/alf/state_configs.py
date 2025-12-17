@@ -90,14 +90,15 @@ IDAHO_CODE_CONFIG = StateConfig(
     state_abbrev="ID",
 
     filename_patterns=[
-        r'title\s*\d+',
-        r'chapter\s*\d+',
+        r'title\s*39',           # Idaho Title 39 (Health and Safety)
+        r'title\s*74',           # Idaho Title 74 (Transparent Government)
+        r'idaho.*chapter',       # Idaho + chapter
     ],
 
     content_patterns=[
-        r'^\d{2}-\d{4}\.',
-        r'TITLE\s+\d+',
-        r'Idaho\s+Code',
+        r'^\d{2}-\d{4}\.',           # Idaho Code section format (e.g., 39-3301.)
+        r'Idaho\s+Code',             # Explicit "Idaho Code" reference
+        r'I\.C\.\s+§',               # Idaho Code citation format
     ],
 
     section_patterns={
@@ -122,6 +123,7 @@ WASHINGTON_CONFIG = StateConfig(
     state_abbrev="WA",
 
     filename_patterns=[
+        r'WA\s',          # Files starting with "WA "
         r'wac',           # Washington Administrative Code
         r'rcw',           # Revised Code of Washington
         r'washington',
@@ -130,22 +132,29 @@ WASHINGTON_CONFIG = StateConfig(
     content_patterns=[
         r'WAC\s+\d+',
         r'RCW\s+\d+',
+        r'\d+-\d+[A-Z]?-\d+',  # WAC section numbers like 388-78A-2010
         r'Washington\s+State',
         r'Department\s+of\s+Social\s+and\s+Health\s+Services',
+        r'DSHS',
+        r'ALTSA',
     ],
 
     section_patterns={
-        # WAC format: WAC 388-78A-2010
-        'level_1': r'^WAC\s+(\d+-\d+[A-Z]?-\d+)\s+(.+?)\.?\s*$',
-        # RCW format: RCW 18.20.010
-        'level_2': r'^RCW\s+(\d+\.\d+\.\d+)\s+(.+?)\.?\s*$',
+        # WAC format: 388-78A-2010Purpose. (no spaces, title directly after number)
+        'level_1': r'^(\d+-\d+[A-Z]?-\d+)([A-Z][A-Za-z\s\-,—\']+)\.',
+        # RCW format: RCW 18.20.010 or 18.20.010
+        'level_2': r'^(?:RCW\s+)?(\d+\.\d+\.\d+)\s*([A-Z][A-Za-z\s\-,—\']+)',
         'level_3': r'^\((\d+)\)\s+',
     },
 
     agency_mappings={
         'Department of Social and Health Services': 'DSHS',
         'Washington State Department of Health': 'WA DOH',
+        'Department of Health': 'WA DOH',
         'State of Washington': 'Washington',
+        'Aging and Long-Term Support Administration': 'ALTSA',
+        'Residential Care Services': 'RCS',
+        'Department of Labor and Industries': 'L&I',
     },
 
     citation_pattern=r'WAC\s+(\d+-\d+[A-Z]?-\d+)|RCW\s+(\d+\.\d+\.\d+)',
