@@ -19,6 +19,8 @@ from pathlib import Path
 from enum import Enum
 from datetime import datetime
 
+from state_configs import detect_config, STATE_CONFIGS, get_all_agency_mappings
+
 
 # =============================================================================
 # CONFIGURATION
@@ -217,12 +219,44 @@ class DocumentParser:
 
     def __init__(self):
         self.list_pattern = re.compile('|'.join(self.LIST_PATTERNS), re.MULTILINE)
+        self._current_state_config = None  # Set during detect_document_type
 
     def detect_document_type(self, content: str, filename: str) -> DocumentType:
-        """Identify document format from content and filename."""
+        """Identify document format from content and filename.
+
+        Uses state_configs.detect_config() for multi-state support,
+        with fallback to legacy document type detection.
+        """
         filename_lower = filename.lower()
 
-        # Check filename hints first
+        # Handle JSON reference files specially
+        if filename_lower.endswith('.json'):
+            return DocumentType.REFERENCE_LINKS
+
+        # Use state_configs for detection
+        state_config = detect_config(content, filename)
+
+        # Map state config to DocumentType for backwards compatibility
+        if state_config:
+            # Store the detected config for use in parsing
+            self._current_state_config = state_config
+
+            # Map to legacy DocumentType based on patterns in config
+            # Check Idaho Code first (more specific) before general IDAPA
+            if any(p in filename_lower for p in ['title', 'chapter']) and state_config.state_abbrev == 'ID':
+                return DocumentType.IDAHO_CODE
+            if 'idapa' in filename_lower or ('IDAPA' in str(state_config.content_patterns) and 'Idaho Code' not in str(state_config.content_patterns)):
+                return DocumentType.IDAPA
+            if 'food' in filename_lower or 'Food Code' in str(state_config.content_patterns):
+                return DocumentType.FDA_FOOD_CODE
+            if 'ada' in filename_lower or 'ADA' in str(state_config.content_patterns):
+                return DocumentType.ADA_GUIDELINES
+
+            # For other states (WA, OR, etc.), use IDAPA as base type
+            # since the section patterns are similar in structure
+            return DocumentType.IDAPA
+
+        # Legacy fallback: Check filename hints
         if 'idapa' in filename_lower:
             return DocumentType.IDAPA
         if 'title' in filename_lower and any(c.isdigit() for c in filename):
@@ -231,10 +265,8 @@ class DocumentParser:
             return DocumentType.FDA_FOOD_CODE
         if 'ada' in filename_lower:
             return DocumentType.ADA_GUIDELINES
-        if filename_lower.endswith('.json'):
-            return DocumentType.REFERENCE_LINKS
 
-        # Check content patterns
+        # Legacy fallback: Check content patterns
         for doc_type, patterns in self.TYPE_PATTERNS.items():
             for pattern in patterns:
                 if re.search(pattern, content, re.MULTILINE):
@@ -247,13 +279,18 @@ class DocumentParser:
         Parse document into hierarchical sections.
 
         Returns sections with parent-child relationships established.
+        Uses state-specific patterns when available from state_configs.
         """
         doc_type = self.detect_document_type(content, filename)
 
         if doc_type == DocumentType.REFERENCE_LINKS:
             return self._parse_reference_links(content, filename)
 
-        patterns = self.SECTION_PATTERNS.get(doc_type, self.SECTION_PATTERNS[DocumentType.IDAPA])
+        # Use state config patterns if available, otherwise fall back to legacy patterns
+        if self._current_state_config and self._current_state_config.section_patterns:
+            patterns = self._current_state_config.section_patterns
+        else:
+            patterns = self.SECTION_PATTERNS.get(doc_type, self.SECTION_PATTERNS[DocumentType.IDAPA])
 
         sections = []
         current_parents = {}  # Track parent at each level
@@ -376,12 +413,8 @@ class ContentCleaner:
     ]
 
     # Normalization dictionary (from Playbook Phase 2)
+    # Base mappings for facility types
     NORMALIZATION_DICT = {
-        # Agencies
-        'Centers for Medicare & Medicaid Services': 'CMS',
-        'Idaho Department of Health and Welfare': 'IDHW',
-        'Idaho Department of Health & Welfare': 'IDHW',
-
         # Facility types
         'Skilled Nursing Facility': 'SNF',
         'skilled nursing facility': 'SNF',
@@ -389,11 +422,10 @@ class ContentCleaner:
         'Assisted Living Facility': 'ALF',
         'assisted living facility': 'ALF',
         'Residential Care Facility': 'RCF',
-
-        # States
-        'State of Idaho': 'Idaho',
-        'ID': 'Idaho',
     }
+
+    # Add all agency mappings from state configs
+    NORMALIZATION_DICT.update(get_all_agency_mappings())
 
     def __init__(self):
         self.noise_pattern = re.compile('|'.join(self.NOISE_PATTERNS), re.IGNORECASE)
@@ -817,9 +849,11 @@ class MetadataTagger:
         'ada': r'ADA\s+(?:§|Section)?\s*(\d+\.\d+)',
     }
 
-    # Jurisdiction indicators
+    # Jurisdiction indicators (expanded for multi-state support)
     JURISDICTION_INDICATORS = {
         'Idaho': ['Idaho', 'IDAPA', 'I.C.', 'IDHW'],
+        'Washington': ['Washington', 'WAC', 'RCW', 'DSHS'],
+        'Oregon': ['Oregon', 'OAR', 'ORS', 'OHA', 'ODHS'],
         'Federal': ['CMS', 'Medicare', 'Medicaid', '42 CFR', 'FDA'],
         'ADA': ['ADA', 'Americans with Disabilities'],
     }
