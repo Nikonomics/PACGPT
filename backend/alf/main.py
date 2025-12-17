@@ -94,6 +94,7 @@ class QueryRequest(BaseModel):
     top_k: int = 12  # Increased from 5 for better context
     temperature: float = 0.5  # Increased from 0.3 for more natural responses
     session_id: Optional[str] = None  # For analytics tracking
+    state: Optional[str] = "Idaho"  # State filter for jurisdiction-specific queries
 
 
 class Citation(BaseModel):
@@ -150,10 +151,10 @@ async def health_check():
 @app.post("/query", response_model=QueryResponse)
 async def query(request: QueryRequest, req: Request):
     """
-    Answer a question about Idaho ALF regulations.
+    Answer a question about ALF regulations for a specific state.
 
     Args:
-        request: QueryRequest with question and optional conversation history
+        request: QueryRequest with question, optional conversation history, and state
 
     Returns:
         QueryResponse with answer, citations, and retrieved chunks
@@ -173,13 +174,14 @@ async def query(request: QueryRequest, req: Request):
                 for msg in request.conversation_history
             ]
 
-        # Get answer from RAG engine
+        # Get answer from RAG engine with state filter
         result = rag_engine.answer_question(
             question=request.question,
             conversation_history=conversation_history,
             top_k=request.top_k,
             temperature=request.temperature,
-            verbose=False
+            verbose=False,
+            state=request.state  # Pass state for jurisdiction filtering
         )
 
         # Calculate response time
@@ -268,7 +270,7 @@ async def list_categories():
 async def get_library():
     """
     Get hierarchically organized regulation library.
-    Returns a tree structure for navigation.
+    Returns a tree structure organized by jurisdiction, then by document.
     """
     import re
     from collections import defaultdict
@@ -276,240 +278,158 @@ async def get_library():
     if rag_engine is None:
         raise HTTPException(status_code=503, detail="RAG engine not initialized")
 
-    # Build hierarchical structure
+    # Jurisdiction display names and order
+    jurisdiction_info = {
+        'All': {'name': 'Federal Regulations', 'order': 0, 'icon': '🇺🇸'},
+        'Idaho': {'name': 'Idaho', 'order': 1, 'icon': '🥔'},
+        'Washington': {'name': 'Washington', 'order': 2, 'icon': '🌲'},
+        'Oregon': {'name': 'Oregon', 'order': 3, 'icon': '🦫'},
+    }
+
+    # Helper to get a clean document name
+    def get_doc_display_name(source):
+        source_upper = source.upper()
+
+        # Federal documents
+        if 'ADA' in source_upper or 'ACCESSIBILITY' in source_upper:
+            return 'ADA Accessibility Guidelines'
+        elif 'PUBLIC HEALTH FOOD CODE' in source_upper or ('FOOD CODE' in source_upper and 'IDAPA' not in source_upper and 'OR ' not in source_upper):
+            return 'FDA Food Code'
+
+        # Idaho documents
+        elif 'IDAPA 16.03.22' in source_upper or source_upper == 'IDAPA 16.TXT':
+            return 'IDAPA 16.03.22 - Residential Care Facilities'
+        elif 'IDAPA 16.02.19' in source_upper:
+            return 'IDAPA 16.02.19 - Food Code'
+        elif 'IDAPA 16.02.10' in source_upper:
+            return 'IDAPA 16.02.10 - Reportable Diseases'
+        elif 'IDAPA 16.05.01' in source_upper:
+            return 'IDAPA 16.05.01 - Department Records'
+        elif 'IDAPA 16.05.06' in source_upper:
+            return 'IDAPA 16.05.06 - Background Checks'
+        elif 'IDAPA 24.34' in source_upper:
+            return 'IDAPA 24.34.01 - Board of Nursing'
+        elif 'IDAPA 24.39' in source_upper:
+            return 'IDAPA 24.39.30 - Building Safety'
+        elif 'TITLE 39' in source_upper:
+            return 'Idaho Code Title 39 - ALF Act'
+        elif 'TITLE 74' in source_upper:
+            return 'Idaho Code Title 74 - Public Records'
+
+        # Washington documents
+        elif 'WA CHAPTER 388-78A' in source_upper or '388-78A' in source_upper:
+            return 'WAC 388-78A - ALF Licensing'
+        elif 'WA CHAPTER 388-112A' in source_upper or '388-112A' in source_upper:
+            return 'WAC 388-112A - Training Requirements'
+        elif 'WA CHAPTER 246-338' in source_upper:
+            return 'WAC 246-338 - Medical Test Sites'
+        elif 'WA WAC 246-840-910' in source_upper:
+            return 'WAC 246-840-910 - RN Delegation'
+        elif 'WA WAC 296-128' in source_upper:
+            return 'WAC 296-128 - Sleep Time Rules'
+        elif 'WA CHAPTER 18.20 RCW' in source_upper:
+            return 'RCW 18.20 - ALF Enabling Statute'
+        elif 'WA CHAPTER 70.129 RCW' in source_upper:
+            return 'RCW 70.129 - Resident Rights'
+        elif 'WA CHAPTER 74.34 RCW' in source_upper:
+            return 'RCW 74.34 - Vulnerable Adults'
+        elif 'WA TITLE 246' in source_upper:
+            return 'WAC Title 246 - Health Rules'
+
+        # Oregon documents
+        elif 'OR 411-054' in source_upper:
+            return 'OAR 411-054 - ALF Licensing'
+        elif 'OR OREGON SECRETARY' in source_upper and 'HUMAN' not in source_upper:
+            return 'OAR 411-057 - Memory Care'
+        elif 'OR HUMAN SERVICES' in source_upper:
+            return 'OAR 407-007 - Background Checks'
+        elif 'OR SLEEP' in source_upper:
+            return 'OAR 839-020 - Sleep Time Rules'
+        elif 'OR FOODSANITATION' in source_upper:
+            return 'Oregon Food Sanitation Rules'
+        elif 'OR ORS443' in source_upper:
+            return 'ORS 443 - Residential Care'
+        elif 'OR ORS678' in source_upper:
+            return 'ORS 678 - Nursing & Administrators'
+
+        else:
+            # Use source filename as fallback
+            return source.replace('.txt', '').replace('.TXT', '')
+
+    # Step 1: Group chunks by jurisdiction
+    jurisdiction_groups = defaultdict(lambda: defaultdict(list))
+    for chunk in rag_engine.chunks:
+        jurisdiction = chunk.get('jurisdiction', 'Other')
+        source = get_source(chunk)
+        doc_name = get_doc_display_name(source)
+        jurisdiction_groups[jurisdiction][doc_name].append(chunk)
+
+    # Step 2: Build library tree organized by jurisdiction
     library = []
 
-    # Helper to get document category - checks both source filename and citation
-    def categorize_chunk(chunk):
-        source = get_source(chunk).upper()  # Normalize for matching
-        citation = get_citation(chunk).upper()
+    for jurisdiction in sorted(jurisdiction_groups.keys(),
+                               key=lambda x: jurisdiction_info.get(x, {'order': 99})['order']):
+        info = jurisdiction_info.get(jurisdiction, {'name': jurisdiction, 'order': 99, 'icon': '📄'})
+        doc_groups = jurisdiction_groups[jurisdiction]
 
-        # Check source filename first (more reliable with new chunk format)
-        if 'ADA' in source or 'ACCESSIBILITY' in source:
-            return ('ADA Accessibility Guidelines', 'ada')
-        elif 'PUBLIC HEALTH FOOD CODE' in source or ('FOOD CODE' in source and 'IDAPA' not in source):
-            return ('FDA Food Code', 'fda')
-        elif 'IDAPA 16.03.22' in source or 'IDAPA 16.03.22' in citation or source == 'IDAPA 16.TXT':
-            return ('IDAPA 16.03.22 - Residential Care Facilities', 'idapa-16-03-22')
-        elif 'IDAPA 16.02.19' in source:
-            return ('IDAPA 16.02.19 - Food Code', 'idapa-16-02-19')
-        elif 'IDAPA 16.02.10' in source:
-            return ('IDAPA 16.02.10 - Reportable Diseases', 'idapa-16-02-10')
-        elif 'IDAPA 16.02' in source or 'IDAPA 16.02' in citation:
-            return ('IDAPA 16.02 - Public Health', 'idapa-16-02')
-        elif 'IDAPA 16.05.01' in source:
-            return ('IDAPA 16.05.01 - Department Records', 'idapa-16-05-01')
-        elif 'IDAPA 16.05.06' in source:
-            return ('IDAPA 16.05.06 - Background Checks', 'idapa-16-05-06')
-        elif 'IDAPA 16.05' in source or 'IDAPA 16.05' in citation:
-            return ('IDAPA 16.05 - Administration', 'idapa-16-05')
-        elif 'IDAPA 24.34' in source or 'IDAPA 24.34' in citation:
-            return ('IDAPA 24.34.01 - Board of Nursing', 'idapa-24-34')
-        elif 'IDAPA 24.39' in source or 'IDAPA 24.39' in citation:
-            return ('IDAPA 24.39.30 - Building Safety', 'idapa-24-39')
-        elif 'IDAPA 24' in source or 'IDAPA 24' in citation:
-            return ('IDAPA 24 - Occupational Licenses', 'idapa-24')
-        elif 'TITLE 39' in source or 'TITLE 39' in citation:
-            return ('Idaho Code Title 39 - ALF Act', 'title-39')
-        elif 'TITLE 74' in source or 'TITLE 74' in citation:
-            return ('Idaho Code Title 74 - Public Records', 'title-74')
-        elif 'REFERENCE' in source:
-            return ('Reference Documents', 'references')
-        else:
-            return ('Other Regulations', 'other')
+        # Calculate total chunks for this jurisdiction
+        total_jurisdiction_chunks = sum(len(chunks) for chunks in doc_groups.values())
 
-    # Group chunks by document type
-    doc_groups = defaultdict(list)
-    for chunk in rag_engine.chunks:
-        doc_name, doc_id = categorize_chunk(chunk)
-        doc_groups[(doc_name, doc_id)].append(chunk)
-
-    # Process each document type
-    for (doc_name, doc_id), chunks in sorted(doc_groups.items()):
-        doc_node = {
-            'id': doc_id,
-            'name': doc_name,
-            'type': 'document',
-            'count': len(chunks),
+        jurisdiction_node = {
+            'id': f'jurisdiction-{jurisdiction.lower()}',
+            'name': f"{info['icon']} {info['name']}",
+            'type': 'jurisdiction',
+            'count': total_jurisdiction_chunks,
             'children': []
         }
 
-        # Sub-group based on document type
-        if doc_id == 'ada':
-            # Group ADA by main section number
-            sections = defaultdict(list)
-            section_names = {
-                '1': 'Purpose',
-                '2': 'General',
-                '3': 'Definitions',
-                '4': 'Accessible Elements & Spaces',
-                '5': 'Restaurants & Cafeterias',
-                '6': 'Medical Care Facilities',
-                '7': 'Business & Mercantile',
-                '8': 'Libraries',
-                '9': 'Accessible Transient Lodging',
-                '10': 'Transportation Facilities'
+        # Add documents within this jurisdiction
+        for doc_name in sorted(doc_groups.keys()):
+            chunks = doc_groups[doc_name]
+            doc_id = doc_name.lower().replace(' ', '-').replace('.', '-')
+
+            doc_node = {
+                'id': f'{jurisdiction.lower()}-{doc_id}',
+                'name': doc_name,
+                'type': 'document',
+                'count': len(chunks),
+                'children': []
             }
+
+            # Group chunks by section (simplified - just show sections)
+            section_groups = defaultdict(list)
             for c in chunks:
-                match = re.search(r'\.(\d+)\.', get_citation(c))
-                if match:
-                    sec_num = match.group(1)
-                    sections[sec_num].append(c)
+                section_title = c.get('section_title', '')[:60] or get_citation(c)
+                section_groups[section_title].append(c)
 
-            for sec_num in sorted(sections.keys(), key=int):
-                sec_name = section_names.get(sec_num, f'Section {sec_num}')
-                sec_chunks = sections[sec_num]
-
-                # Further group by subsection (4.1, 4.2, etc.)
-                subsections = defaultdict(list)
-                for c in sec_chunks:
-                    match = re.search(r'\.(\d+\.\d+)', get_citation(c))
-                    if match:
-                        subsections[match.group(1)].append(c)
-                    else:
-                        subsections['_main'].append(c)
-
-                sec_node = {
-                    'id': f'{doc_id}-sec-{sec_num}',
-                    'name': f'Section {sec_num}: {sec_name}',
+            # Add sections (limit to first 30 for performance)
+            for section_title in list(section_groups.keys())[:30]:
+                section_chunks = section_groups[section_title]
+                doc_node['children'].append({
+                    'id': section_chunks[0].get('chunk_id', f'{doc_id}-section'),
+                    'name': section_title,
                     'type': 'section',
-                    'count': len(sec_chunks),
-                    'children': []
-                }
-
-                for subsec_num in sorted(subsections.keys()):
-                    if subsec_num == '_main':
-                        continue
-                    subsec_chunks = subsections[subsec_num]
-                    # Get first chunk's title for subsection name
-                    subsec_title = subsec_chunks[0].get('section_title', '')[:50]
-                    sec_node['children'].append({
-                        'id': f'{doc_id}-{subsec_num}',
-                        'name': f'{subsec_num} - {subsec_title}',
-                        'type': 'subsection',
-                        'count': len(subsec_chunks),
-                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
-                                   'title': c['section_title'][:60]} for c in subsec_chunks]
-                    })
-
-                doc_node['children'].append(sec_node)
-
-        elif doc_id == 'fda':
-            # Group FDA by chapter
-            chapters = defaultdict(list)
-            chapter_names = {
-                '1': 'Purpose & Definitions',
-                '2': 'Management & Personnel',
-                '3': 'Food',
-                '4': 'Equipment, Utensils & Linens',
-                '5': 'Water, Plumbing & Waste',
-                '6': 'Physical Facilities',
-                '7': 'Poisonous Materials',
-                '8': 'Compliance & Enforcement'
-            }
-            for c in chunks:
-                match = re.search(r'\.(\d)-', get_citation(c))
-                if match:
-                    chapters[match.group(1)].append(c)
-
-            for ch_num in sorted(chapters.keys(), key=int):
-                ch_name = chapter_names.get(ch_num, f'Chapter {ch_num}')
-                ch_chunks = chapters[ch_num]
-
-                # Group by part (3-1, 3-2, etc.)
-                parts = defaultdict(list)
-                for c in ch_chunks:
-                    match = re.search(r'\.(\d-\d)', get_citation(c))
-                    if match:
-                        parts[match.group(1)].append(c)
-
-                ch_node = {
-                    'id': f'{doc_id}-ch-{ch_num}',
-                    'name': f'Chapter {ch_num}: {ch_name}',
-                    'type': 'chapter',
-                    'count': len(ch_chunks),
-                    'children': []
-                }
-
-                for part_num in sorted(parts.keys()):
-                    part_chunks = parts[part_num]
-                    ch_node['children'].append({
-                        'id': f'{doc_id}-{part_num}',
-                        'name': f'Part {part_num}',
-                        'type': 'part',
-                        'count': len(part_chunks),
-                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
-                                   'title': c['section_title'][:60]} for c in part_chunks[:20]]  # Limit for performance
-                    })
-
-                doc_node['children'].append(ch_node)
-
-        elif doc_id.startswith('idapa'):
-            # Group IDAPA by section number range
-            section_ranges = [
-                ('000-099', 'Administrative & Definitions'),
-                ('100-199', 'Licensing'),
-                ('200-299', 'Admission & Discharge'),
-                ('300-399', 'Records & Services'),
-                ('400-499', 'Staffing'),
-                ('500-599', 'Resident Care'),
-                ('600-699', 'Medications'),
-                ('700-799', 'Dietary'),
-                ('800-899', 'Physical Plant'),
-                ('900-999', 'Enforcement')
-            ]
-
-            for range_str, range_name in section_ranges:
-                start, end = map(int, range_str.split('-'))
-                range_chunks = []
-                for c in chunks:
-                    match = re.search(r'\.(\d{1,3})(?:\s|\(|$)', get_citation(c))
-                    if match:
-                        num = int(match.group(1))
-                        if start <= num <= end:
-                            range_chunks.append(c)
-
-                if range_chunks:
-                    doc_node['children'].append({
-                        'id': f'{doc_id}-{range_str}',
-                        'name': f'Sections {range_str}: {range_name}',
-                        'type': 'section-range',
-                        'count': len(range_chunks),
-                        'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
-                                   'title': c['section_title'][:60]} for c in range_chunks]
-                    })
-
-        elif doc_id in ('title-39', 'title-74'):
-            # Group Idaho Code by section
-            for c in chunks:
-                doc_node['children'].append({
-                    'id': c['chunk_id'],
-                    'name': get_citation(c).split('.')[-1] + ' - ' + c['section_title'][:50],
-                    'type': 'statute',
-                    'count': 1,
+                    'count': len(section_chunks),
                     'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
-                               'title': c['section_title'][:60]}]
+                               'title': c.get('section_title', '')[:60]} for c in section_chunks[:10]]
                 })
 
-        else:
-            # Default: flat list
-            for c in chunks:
+            # If there are more sections, add a "more" indicator
+            if len(section_groups) > 30:
                 doc_node['children'].append({
-                    'id': c['chunk_id'],
-                    'name': c['section_title'][:60] or get_citation(c),
-                    'type': 'chunk',
-                    'count': 1,
-                    'chunks': [{'chunk_id': c['chunk_id'], 'citation': get_citation(c),
-                               'title': c['section_title'][:60]}]
+                    'id': f'{doc_id}-more',
+                    'name': f'... and {len(section_groups) - 30} more sections',
+                    'type': 'more',
+                    'count': len(section_groups) - 30,
+                    'chunks': []
                 })
 
-        library.append(doc_node)
+            jurisdiction_node['children'].append(doc_node)
 
-    # Sort library by document name
-    library.sort(key=lambda x: x['name'])
+        library.append(jurisdiction_node)
 
     return {
-        'total_documents': len(library),
+        'total_documents': sum(len(jg) for jg in jurisdiction_groups.values()),
         'total_chunks': len(rag_engine.chunks),
         'library': library
     }

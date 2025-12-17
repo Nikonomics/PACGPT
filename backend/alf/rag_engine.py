@@ -60,7 +60,8 @@ class RAGEngine:
         self,
         query: str,
         top_k: int = 5,
-        similarity_threshold: float = 0.0
+        similarity_threshold: float = 0.0,
+        state: Optional[str] = None
     ) -> List[Dict]:
         """
         Retrieve most relevant chunks for a query.
@@ -69,6 +70,8 @@ class RAGEngine:
             query: User question
             top_k: Number of chunks to retrieve
             similarity_threshold: Minimum similarity score (0.0-1.0)
+            state: State to filter by (e.g., "Idaho", "Washington", "Oregon")
+                   If provided, returns state-specific + federal (jurisdiction="All") chunks
 
         Returns:
             List of relevant chunks with similarity scores
@@ -81,6 +84,13 @@ class RAGEngine:
         for chunk in self.chunks:
             if "embedding" not in chunk:
                 continue
+
+            # Apply jurisdiction filter if state is specified
+            if state:
+                jurisdiction = chunk.get("jurisdiction", "")
+                # Include chunks from the specified state OR federal chunks (jurisdiction="All")
+                if jurisdiction != state and jurisdiction != "All":
+                    continue
 
             similarity = self.embedding_manager.compute_similarity(
                 query_embedding,
@@ -106,7 +116,8 @@ class RAGEngine:
         top_k: int = 12,  # Increased from 5 for better context
         similarity_threshold: float = 0.0,  # Lowered from 0.3 to get more chunks
         temperature: float = 0.5,  # Increased from 0.3 for more natural responses
-        verbose: bool = False
+        verbose: bool = False,
+        state: Optional[str] = None  # State filter for jurisdiction-specific queries
     ) -> Dict:
         """
         Answer a question using RAG.
@@ -118,6 +129,7 @@ class RAGEngine:
             similarity_threshold: Minimum similarity for retrieval
             temperature: Temperature for Claude response
             verbose: Print debug information
+            state: State to filter by (e.g., "Idaho", "Washington", "Oregon")
 
         Returns:
             Dict with answer, citations, and metadata
@@ -125,16 +137,19 @@ class RAGEngine:
         if verbose:
             print(f"\n{'='*80}")
             print(f"QUESTION: {question}")
+            if state:
+                print(f"STATE CONTEXT: {state}")
             print(f"{'='*80}\n")
 
-        # Step 1: Retrieve relevant chunks
+        # Step 1: Retrieve relevant chunks (filtered by state if provided)
         if verbose:
-            print("Retrieving relevant regulations...")
+            print(f"Retrieving relevant regulations{f' for {state}' if state else ''}...")
 
         results = self.retrieve_relevant_chunks(
             question,
             top_k=top_k,
-            similarity_threshold=similarity_threshold
+            similarity_threshold=similarity_threshold,
+            state=state
         )
 
         retrieved_chunks = [r["chunk"] for r in results]
@@ -155,7 +170,7 @@ class RAGEngine:
             print("Generating answer with Claude...\n")
 
         # Build prompt for AI service
-        prompt = self._build_prompt(question, retrieved_chunks, conversation_history)
+        prompt = self._build_prompt(question, retrieved_chunks, conversation_history, state)
         
         # Use unified AI service with fallback
         ai_response = self.ai_service.analyze_content(prompt, {
@@ -212,10 +227,15 @@ class RAGEngine:
 
         return response
 
-    def _build_prompt(self, question: str, retrieved_chunks: List[Dict], conversation_history: Optional[List[Dict]] = None) -> str:
+    def _build_prompt(self, question: str, retrieved_chunks: List[Dict], conversation_history: Optional[List[Dict]] = None, state: Optional[str] = None) -> str:
         """Build prompt for AI service."""
-        # System prompt
-        system_prompt = """You are a helpful regulatory compliance expert for Idaho assisted living facilities. Your job is to give PRACTICAL, CONCRETE answers that administrators and operators can actually use.
+        # State-specific context
+        state_name = state or "Idaho"
+
+        # System prompt with dynamic state
+        system_prompt = f"""You are a helpful regulatory compliance expert for {state_name} assisted living facilities. Your job is to give PRACTICAL, CONCRETE answers that administrators and operators can actually use.
+
+IMPORTANT: You are answering questions specifically for {state_name}. Your response should be based on {state_name} regulations and applicable federal requirements.
 
 PRIORITY: Answer the question directly with specific numbers, requirements, and actionable information.
 
@@ -234,18 +254,20 @@ HOW TO RESPOND:
 
 5. **Acknowledge gaps** - If the regulations don't specify an exact number or requirement, say so clearly. Don't hedge with vague language.
 
+6. **Note the jurisdiction** - When citing regulations, note whether they are {state_name}-specific state regulations or federal requirements that apply to all states.
+
 EXAMPLE OF A GOOD ANSWER:
 Question: "What are the staffing requirements for a 20-bed facility?"
-Good: "For a 20-bed facility, you need:
+Good: "Based on {state_name} regulations, for a 20-bed facility you need:
 - At least 1 staff member present in each building/unit at all times when residents are present [1]
 - At least 1 direct care staff with current First Aid and CPR certification on duty at all times [2]
 - Staff must be awake during residents' sleeping hours [1]
 
-Note: Idaho regulations don't specify exact staff-to-resident ratios - staffing must be 'sufficient' based on resident needs per your negotiated service agreements [2]."
+Note: {state_name} regulations don't specify exact staff-to-resident ratios - staffing must be 'sufficient' based on resident needs per your negotiated service agreements [2]."
 
 BAD: "According to the regulations, staffing policies must be developed and implemented based on various factors including the number of residents..."
 
-Context from regulations (numbered [1], [2], [3], etc.):"""
+Context from {state_name} and federal regulations (numbered [1], [2], [3], etc.):"""
 
         # Add retrieved chunks with numbered citations (increased from 1000 to 2000 chars per chunk)
         # Handle both old (citation) and new (section_number) field names

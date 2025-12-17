@@ -37,7 +37,7 @@ function App() {
               to="/idaho-alf"
               className={`nav-tab ${location.pathname === '/idaho-alf' ? 'active' : ''}`}
             >
-              Idaho ALF
+              ALF Regs
             </Link>
           </nav>
         </div>
@@ -55,8 +55,8 @@ function App() {
                   <p>Ask questions about Medicaid SNF reimbursement policies for all 50 states</p>
                 </Link>
                 <Link to="/idaho-alf" className="chatbot-card">
-                  <h3>Idaho ALF Regulations</h3>
-                  <p>Get answers about Idaho assisted living facility regulations</p>
+                  <h3>ALF Regulations</h3>
+                  <p>Get answers about assisted living facility regulations for Idaho, Washington, and Oregon</p>
                 </Link>
               </div>
             </div>

@@ -231,6 +231,65 @@ STATE_DOCUMENTS = {
             "description": "WA Department of Health rules (multiple chapters)",
         },
     },
+
+    "Oregon": {
+        "OR 411-054.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Oregon",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "ODHS",
+            "applies_to": ["ALF"],
+            "description": "Oregon ALF Licensing Rules (OAR 411-054)",
+        },
+        "OR Oregon Secretary of State Administrative Rules.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Oregon",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "ODHS",
+            "applies_to": ["ALF"],
+            "description": "Memory Care Communities endorsement (OAR 411-057)",
+        },
+        "OR Human Services Oregon Secretary of State Administrative Rules.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Oregon",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "ODHS",
+            "applies_to": ["ALF", "SNF", "All"],
+            "description": "Criminal history and abuse checks (OAR 407-007)",
+        },
+        "OR Sleep Timing Oregon Secretary of State Administrative Rules.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Oregon",
+            "document_category": DocumentCategory.REGULATION,
+            "source_agency": "BOLI",
+            "applies_to": ["ALF"],
+            "description": "Sleep time and working conditions rules (OAR 839-020)",
+        },
+        "OR foodsanitationrulesweb.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Oregon",
+            "document_category": DocumentCategory.CODE,
+            "source_agency": "OHA",
+            "applies_to": ["ALF", "SNF", "All"],
+            "description": "Oregon Food Sanitation Rules",
+        },
+        "OR ors443.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Oregon",
+            "document_category": DocumentCategory.STATUTE,
+            "source_agency": "OR Legislature",
+            "applies_to": ["ALF"],
+            "description": "Oregon Residential Care enabling statute (ORS 443)",
+        },
+        "OR ors678.txt": {
+            "jurisdiction_type": JurisdictionType.STATE,
+            "jurisdiction": "Oregon",
+            "document_category": DocumentCategory.STATUTE,
+            "source_agency": "OR Legislature",
+            "applies_to": ["ALF", "SNF"],
+            "description": "Nurses and Long Term Care Administrators (ORS 678)",
+        },
+    },
 }
 
 

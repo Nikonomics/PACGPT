@@ -171,33 +171,40 @@ OREGON_CONFIG = StateConfig(
     state_abbrev="OR",
 
     filename_patterns=[
+        r'^OR\s',         # Files starting with "OR "
         r'oar',           # Oregon Administrative Rules
         r'ors',           # Oregon Revised Statutes
         r'oregon',
     ],
 
     content_patterns=[
+        r'\d{3}-\d{3}-\d{4}',     # OAR section format (407-007-0000)
         r'OAR\s+\d+',
         r'ORS\s+\d+',
         r'Oregon\s+Health\s+Authority',
-        r'Oregon\s+Department',
+        r'Oregon\s+Department\s+of\s+Human\s+Services',
+        r'ODHS',
+        r'OHA',
     ],
 
     section_patterns={
-        # OAR format: OAR 411-054-0010
-        'level_1': r'^OAR\s+(\d+-\d+-\d+)\s*(.*)$',
-        # ORS format: ORS 443.705
-        'level_2': r'^ORS\s+(\d+\.\d+)\s+(.+?)\.?\s*$',
+        # OAR format: 407-007-0000Purpose and Scope or just 407-007-0000 on its own line
+        # Handles: with/without OAR prefix, title may be on same or next line
+        'level_1': r'^(?:OAR\s+)?(\d{3}-\d{3}-\d{4})([A-Z][A-Za-z\s\-,;()\'\&\.]+)?',
+        # ORS format: 443.001 or ORS 443.001
+        'level_2': r'^(?:ORS\s+)?(\d{3}\.\d{3})\s*([A-Z][A-Za-z\s\-,;()\']+)?',
         'level_3': r'^\((\d+)\)\s+',
     },
 
     agency_mappings={
         'Oregon Health Authority': 'OHA',
         'Oregon Department of Human Services': 'ODHS',
+        'Department of Human Services': 'ODHS',
         'State of Oregon': 'Oregon',
+        'Bureau of Labor and Industries': 'BOLI',
     },
 
-    citation_pattern=r'OAR\s+(\d+-\d+-\d+)|ORS\s+(\d+\.\d+)',
+    citation_pattern=r'OAR\s+(\d{3}-\d{3}-\d{4})|ORS\s+(\d{3}\.\d{3})',
 )
 
 

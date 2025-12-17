@@ -1,9 +1,16 @@
 import React, { useState, useRef, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
-import { Search, MessageCircle, BookOpen, ChevronRight, ChevronDown, FileText, Send, Folder, File } from 'lucide-react';
+import { Search, MessageCircle, BookOpen, ChevronRight, ChevronDown, FileText, Send, Folder, File, MapPin } from 'lucide-react';
 import './IdahoALFChatbot.css';
 
 const ALF_API_URL = import.meta.env.VITE_ALF_API_URL || 'http://localhost:8000';
+
+// Available states for the dropdown
+const AVAILABLE_STATES = [
+  { value: 'Idaho', label: 'Idaho', abbrev: 'ID' },
+  { value: 'Washington', label: 'Washington', abbrev: 'WA' },
+  { value: 'Oregon', label: 'Oregon', abbrev: 'OR' },
+];
 
 // Generate or retrieve session ID for analytics
 const getSessionId = () => {
@@ -19,6 +26,7 @@ const IdahoALFChatbot = () => {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [selectedState, setSelectedState] = useState('Idaho'); // Default to Idaho
   const [library, setLibrary] = useState([]);
   const [regulations, setRegulations] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
@@ -124,6 +132,14 @@ const IdahoALFChatbot = () => {
     setInput(question);
   };
 
+  // Handle state change - clear conversation when state changes
+  const handleStateChange = (newState) => {
+    if (newState !== selectedState) {
+      setSelectedState(newState);
+      setMessages([]); // Clear conversation when state changes
+    }
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!input.trim() || isLoading) return;
@@ -142,7 +158,8 @@ const IdahoALFChatbot = () => {
           conversation_history: messages.slice(-10),
           top_k: 5,
           temperature: 0.3,
-          session_id: sessionId.current
+          session_id: sessionId.current,
+          state: selectedState  // Pass selected state to backend
         })
       });
 
@@ -152,7 +169,8 @@ const IdahoALFChatbot = () => {
       setMessages(prev => [...prev, {
         role: 'assistant',
         content: data.response,
-        citations: data.citations || []
+        citations: data.citations || [],
+        state: selectedState  // Track which state the response was for
       }]);
     } catch (error) {
       console.error('Error calling chatbot API:', error);
@@ -315,9 +333,23 @@ const IdahoALFChatbot = () => {
           <div className="alf-page-icon">
             <FileText />
           </div>
-          <div>
-            <h2 className="alf-page-title">Idaho ALF RegNavigator</h2>
-            <p className="alf-page-subtitle">AI-powered assistant for Idaho Assisted Living Facility regulations</p>
+          <div className="alf-header-content">
+            <h2 className="alf-page-title">ALF RegNavigator</h2>
+            <p className="alf-page-subtitle">AI-powered assistant for Assisted Living Facility regulations</p>
+          </div>
+          <div className="alf-state-selector">
+            <MapPin size={18} className="alf-state-icon" />
+            <select
+              value={selectedState}
+              onChange={(e) => handleStateChange(e.target.value)}
+              className="alf-state-dropdown"
+            >
+              {AVAILABLE_STATES.map((state) => (
+                <option key={state.value} value={state.value}>
+                  {state.label}
+                </option>
+              ))}
+            </select>
           </div>
         </div>
 
@@ -335,7 +367,7 @@ const IdahoALFChatbot = () => {
                 <h3 className="alf-chat-title">RegNavigator</h3>
                 <div className="alf-chat-status">
                   <span className="alf-status-dot"></span>
-                  <span>Ready to help with Idaho ALF regulations</span>
+                  <span>Ready to help with {selectedState} ALF regulations</span>
                 </div>
               </div>
             </div>
@@ -350,7 +382,7 @@ const IdahoALFChatbot = () => {
                   </div>
                   <div className="alf-welcome">
                     <p className="alf-welcome-text">
-                      Hello! I'm your Idaho Assisted Living Facility regulation expert. Ask me anything about IDAPA 16.03.22, ADA guidelines, food safety codes, and more.
+                      Hello! I'm your {selectedState} Assisted Living Facility regulation expert. Ask me anything about {selectedState} ALF regulations, federal requirements, ADA guidelines, food safety codes, and more.
                     </p>
                     <div className="alf-welcome-divider">
                       <p className="alf-welcome-label">Try asking:</p>
@@ -418,7 +450,7 @@ const IdahoALFChatbot = () => {
                   type="text"
                   value={input}
                   onChange={(e) => setInput(e.target.value)}
-                  placeholder="Ask about Idaho ALF regulations..."
+                  placeholder={`Ask about ${selectedState} ALF regulations...`}
                   className="alf-input"
                   disabled={isLoading}
                 />
