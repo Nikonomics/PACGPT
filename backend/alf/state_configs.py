@@ -140,8 +140,9 @@ WASHINGTON_CONFIG = StateConfig(
     ],
 
     section_patterns={
-        # WAC format: 388-78A-2010Purpose. (no spaces, title directly after number)
-        'level_1': r'^(\d+-\d+[A-Z]?-\d+)([A-Z][A-Za-z\s\-,—\']+)\.',
+        # WAC format: 388-78A-2010Purpose. OR WAC 246-840-910Purpose. OR 388-112A-0010What...?
+        # Handles: with/without WAC prefix, titles ending in . or ?
+        'level_1': r'^(?:WAC\s+)?(\d+-\d+[A-Z]?-\d+)([A-Z][A-Za-z\s\-,—\'?]+)[.?]',
         # RCW format: RCW 18.20.010 or 18.20.010
         'level_2': r'^(?:RCW\s+)?(\d+\.\d+\.\d+)\s*([A-Z][A-Za-z\s\-,—\']+)',
         'level_3': r'^\((\d+)\)\s+',
