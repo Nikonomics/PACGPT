@@ -204,13 +204,13 @@ async def query(request: QueryRequest, req: Request):
             ],
             retrieved_chunks=[
                 RetrievedChunk(
-                    citation=chunk["citation"],
-                    section_title=chunk["section_title"],
-                    chunk_id=chunk["chunk_id"],
-                    similarity=chunk["similarity"],
-                    content=chunk["content"][:500] + "..."  # Truncate for response size
+                    citation=chunk.get("citation") or chunk.get("section_number", "N/A"),
+                    section_title=chunk.get("section_title", "N/A"),
+                    chunk_id=chunk.get("chunk_id", "N/A"),
+                    similarity=chunk.get("similarity", 0.0),
+                    content=chunk.get("content", "")[:500] + "..."  # Truncate for response size
                 )
-                for chunk in result["retrieved_chunks"]
+                for chunk in result.get("retrieved_chunks", [])
             ],
             usage=result["usage"]
         )
@@ -227,12 +227,12 @@ async def list_chunks():
 
     chunks_summary = [
         {
-            "chunk_id": chunk["chunk_id"],
-            "citation": chunk["citation"],
-            "section_title": chunk["section_title"],
-            "category": chunk["category"],
-            "content": chunk["content"],
-            "content_length": len(chunk["content"]),
+            "chunk_id": chunk.get("chunk_id", "N/A"),
+            "citation": get_citation(chunk),
+            "section_title": chunk.get("section_title", "N/A"),
+            "category": chunk.get("category", "general"),
+            "content": chunk.get("content", ""),
+            "content_length": len(chunk.get("content", "")),
             "effective_date": chunk.get("effective_date", "2022-03-15"),
             "source_pdf_page": chunk.get("source_pdf_page", 1)
         }
@@ -253,7 +253,7 @@ async def list_categories():
 
     categories = {}
     for chunk in rag_engine.chunks:
-        category = chunk["category"]
+        category = chunk.get("category", "general")
         if category not in categories:
             categories[category] = 0
         categories[category] += 1
@@ -279,32 +279,41 @@ async def get_library():
     # Build hierarchical structure
     library = []
 
-    # Helper to get document category
+    # Helper to get document category - checks both source filename and citation
     def categorize_chunk(chunk):
-        source = chunk.get('source_file', '')
-        citation = chunk.get('citation', '')
+        source = get_source(chunk).upper()  # Normalize for matching
+        citation = get_citation(chunk).upper()
 
-        if 'ADA' in source:
+        # Check source filename first (more reliable with new chunk format)
+        if 'ADA' in source or 'ACCESSIBILITY' in source:
             return ('ADA Accessibility Guidelines', 'ada')
-        elif 'Food Code' in source and 'IDAPA' not in source:
+        elif 'PUBLIC HEALTH FOOD CODE' in source or ('FOOD CODE' in source and 'IDAPA' not in source):
             return ('FDA Food Code', 'fda')
-        elif 'IDAPA 16.03.22' in citation or 'IDAPA 16.txt' in source:
+        elif 'IDAPA 16.03.22' in source or 'IDAPA 16.03.22' in citation or source == 'IDAPA 16.TXT':
             return ('IDAPA 16.03.22 - Residential Care Facilities', 'idapa-16-03-22')
-        elif 'IDAPA 16.02' in citation:
+        elif 'IDAPA 16.02.19' in source:
+            return ('IDAPA 16.02.19 - Food Code', 'idapa-16-02-19')
+        elif 'IDAPA 16.02.10' in source:
+            return ('IDAPA 16.02.10 - Reportable Diseases', 'idapa-16-02-10')
+        elif 'IDAPA 16.02' in source or 'IDAPA 16.02' in citation:
             return ('IDAPA 16.02 - Public Health', 'idapa-16-02')
-        elif 'IDAPA 16.05' in citation:
+        elif 'IDAPA 16.05.01' in source:
+            return ('IDAPA 16.05.01 - Department Records', 'idapa-16-05-01')
+        elif 'IDAPA 16.05.06' in source:
+            return ('IDAPA 16.05.06 - Background Checks', 'idapa-16-05-06')
+        elif 'IDAPA 16.05' in source or 'IDAPA 16.05' in citation:
             return ('IDAPA 16.05 - Administration', 'idapa-16-05')
-        elif 'IDAPA 24.34' in citation:
+        elif 'IDAPA 24.34' in source or 'IDAPA 24.34' in citation:
             return ('IDAPA 24.34.01 - Board of Nursing', 'idapa-24-34')
-        elif 'IDAPA 24.39' in citation:
+        elif 'IDAPA 24.39' in source or 'IDAPA 24.39' in citation:
             return ('IDAPA 24.39.30 - Building Safety', 'idapa-24-39')
-        elif 'IDAPA 24' in citation:
+        elif 'IDAPA 24' in source or 'IDAPA 24' in citation:
             return ('IDAPA 24 - Occupational Licenses', 'idapa-24')
-        elif 'Title 39' in citation or 'TITLE 39' in source:
+        elif 'TITLE 39' in source or 'TITLE 39' in citation:
             return ('Idaho Code Title 39 - ALF Act', 'title-39')
-        elif 'Title 74' in citation:
+        elif 'TITLE 74' in source or 'TITLE 74' in citation:
             return ('Idaho Code Title 74 - Public Records', 'title-74')
-        elif 'reference' in source.lower():
+        elif 'REFERENCE' in source:
             return ('Reference Documents', 'references')
         else:
             return ('Other Regulations', 'other')
