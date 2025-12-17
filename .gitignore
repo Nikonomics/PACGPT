@@ -29,3 +29,6 @@ npm-debug.log*
 
 # Backup files (ALF embeddings backups)
 *_backup_*.json
+# Large backup files
+backend/alf/data/processed/chunks_with_embeddings_old.json
+backend/alf/data/processed/chunks_with_embeddings_backup_*.json

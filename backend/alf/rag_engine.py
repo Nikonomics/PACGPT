@@ -144,7 +144,10 @@ class RAGEngine:
             for i, result in enumerate(results, 1):
                 chunk = result["chunk"]
                 similarity = result["similarity"]
-                print(f"  {i}. {chunk['citation']} - {chunk['section_title']}")
+                # Handle both old (citation) and new (section_number) field names
+                citation = chunk.get('citation') or chunk.get('section_number', 'N/A')
+                title = chunk.get('section_title', 'N/A')
+                print(f"  {i}. {citation} - {title}")
                 print(f"     Similarity: {similarity:.4f}\n")
 
         # Step 2: Generate answer with Claude
@@ -178,9 +181,11 @@ class RAGEngine:
             'response': response_text,
             'citations': [
                 {
-                    'citation': chunk['citation'],
-                    'section_title': chunk['section_title'],
-                    'chunk_id': chunk['chunk_id']
+                    'citation': chunk.get('citation') or chunk.get('section_number', 'N/A'),
+                    'section_title': chunk.get('section_title', 'N/A'),
+                    'chunk_id': chunk.get('chunk_id', 'N/A'),
+                    'content': chunk.get('content', ''),
+                    'source_document': chunk.get('source_file') or chunk.get('source_document', 'N/A')
                 }
                 for chunk in retrieved_chunks
             ],
@@ -243,8 +248,9 @@ BAD: "According to the regulations, staffing policies must be developed and impl
 Context from regulations (numbered [1], [2], [3], etc.):"""
 
         # Add retrieved chunks with numbered citations (increased from 1000 to 2000 chars per chunk)
+        # Handle both old (citation) and new (section_number) field names
         context = "\n\n".join([
-            f"[{i+1}] **{chunk['citation']} - {chunk['section_title']}**\n{chunk['content'][:2000]}..."
+            f"[{i+1}] **{chunk.get('citation') or chunk.get('section_number', 'N/A')} - {chunk.get('section_title', 'N/A')}**\n{chunk.get('content', '')[:2000]}..."
             for i, chunk in enumerate(retrieved_chunks)
         ])
 
