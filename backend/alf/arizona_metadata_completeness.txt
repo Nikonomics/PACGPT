@@ -1,0 +1,49 @@
+ARIZONA CHUNKS METADATA COMPLETENESS REPORT
+======================================================================
+Total chunks analyzed: 250
+
+Field                     Actual Field         Populated    Percentage  
+----------------------------------------------------------------------
+jurisdiction              jurisdiction         250           100.0%
+effective_date            effective_date       0               0.0%
+document_type             document_category    250           100.0%
+topic_tags                topic_tags           0               0.0%
+citation                  citation             0               0.0%
+facility_type             facility_types       0               0.0%
+section                   section_number       0               0.0%
+section_title             section_title        250           100.0%
+page                      page                 0               0.0%
+parent_chunk_id           parent_chunk_id      0               0.0%
+----------------------------------------------------------------------
+
+SUMMARY
+  Fully populated (100%):     3
+  Partially populated:        0
+  Not populated (0%):         7
+
+  Fully populated fields:
+    - jurisdiction
+    - document_type
+    - section_title
+
+  Missing fields (0%):
+    - effective_date (effective_date)
+    - topic_tags (topic_tags)
+    - citation (citation)
+    - facility_type (facility_types)
+    - section (section_number)
+    - page (page)
+    - parent_chunk_id (parent_chunk_id)
+
+======================================================================
+ADDITIONAL FIELDS (not requested but present)
+======================================================================
+  chunk_id                         250 / 250   ( 100.0%)
+  content                          250 / 250   ( 100.0%)
+  embedding                        250 / 250   ( 100.0%)
+  jurisdiction_type                250 / 250   ( 100.0%)
+  position_in_section              250 / 250   ( 100.0%)
+  source_agency                    250 / 250   ( 100.0%)
+  source_document                  250 / 250   ( 100.0%)
+  total_in_section                 250 / 250   ( 100.0%)
+  word_count                       250 / 250   ( 100.0%)

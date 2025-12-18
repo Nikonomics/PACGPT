@@ -1,0 +1,92 @@
+======================================================================
+ARIZONA CHUNK HIERARCHY REPORT
+======================================================================
+
+Total Arizona chunks: 250
+
+----------------------------------------------------------------------
+PARENT REFERENCE STATISTICS
+----------------------------------------------------------------------
+  Chunks with parent_chunk_id populated:      0 (0.0%)
+  Orphan chunks (no parent reference):      250 (100.0%)
+
+----------------------------------------------------------------------
+SAMPLE CHUNKS (5 examples)
+----------------------------------------------------------------------
+
+Example 1:
+  chunk_id:        AZ_40ea898588cc
+  parent_chunk_id: (none)
+  section_title:   A.R.S. Title 36
+  section_number:  (none)
+  source_document: 36-446.01 - Licensure or certification requirement
+  position:        1 of 1
+
+Example 2:
+  chunk_id:        AZ_38e27e4d30ca
+  parent_chunk_id: (none)
+  section_title:   A.R.S. Title 36
+  section_number:  (none)
+  source_document: AZ 36-401 - Definitions_ adult foster care.html
+  position:        1 of 3
+
+Example 3:
+  chunk_id:        AZ_d0d39141b86c
+  parent_chunk_id: (none)
+  section_title:   A.R.S. Title 36
+  section_number:  (none)
+  source_document: AZ 36-401 - Definitions_ adult foster care.html
+  position:        2 of 3
+
+Example 4:
+  chunk_id:        AZ_7fa0005afc36
+  parent_chunk_id: (none)
+  section_title:   A.R.S. Title 36
+  section_number:  (none)
+  source_document: AZ 36-401 - Definitions_ adult foster care.html
+  position:        3 of 3
+
+Example 5:
+  chunk_id:        AZ_a26d5ec218b7
+  parent_chunk_id: (none)
+  section_title:   A.R.S. Title 36
+  section_number:  (none)
+  source_document: AZ 36-405 - Powers and duties of the director.html
+  position:        1 of 1
+
+----------------------------------------------------------------------
+HIERARCHY ANALYSIS
+----------------------------------------------------------------------
+
+Position distribution (could indicate implicit hierarchy):
+  Position   1:   31 chunks ███████████████
+  Position   2:    8 chunks ████
+  Position   3:    5 chunks ██
+  Position   4:    3 chunks █
+  Position   5:    4 chunks ██
+  Position   6:    4 chunks ██
+  Position   7:    4 chunks ██
+  Position   8:    4 chunks ██
+  Position   9:    4 chunks ██
+  Position  10:    3 chunks █
+  ... and 112 more positions
+
+Documents with multiple chunks (hierarchy candidates):
+  AZ 9-10.txt                                         99 chunks
+  AZ 4-33.txt                                         49 chunks
+  AZ 9-08.txt                                         47 chunks
+  AZ article-8.txt                                    21 chunks
+  AZ 36-401 - Definitions_ adult foster care.html      3 chunks
+  AZ 36-446.07 - Disciplinary actions_ grounds for d   3 chunks
+  AZ 36-446.14 - Referral agencies_ assisted living    2 chunks
+  AZ 46-454 - Duty to report abuse, neglect and expl   2 chunks
+
+----------------------------------------------------------------------
+RECOMMENDATIONS
+----------------------------------------------------------------------
+
+To establish chunk hierarchy, consider:
+  1. Use position_in_section to link sequential chunks
+  2. Parse section numbers (R9-10-801, etc.) to build tree
+  3. Group by source_document + section_title
+  4. First chunk in each section becomes parent
