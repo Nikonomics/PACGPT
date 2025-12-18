@@ -1,0 +1,192 @@
+[
+  {
+    "question_id": "AZ-001",
+    "question": "What is the minimum square footage required for a private bedroom in an Arizona assisted living facility?",
+    "expected_answer": "A private bedroom must have at least 80 square feet of floor space, not including a closet or bathroom.",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-815",
+    "topic_tags": [
+      "physical-plant"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "AZ-002",
+    "question": "Who must supervise an assisted living facility in Arizona?",
+    "expected_answer": "An assisted living facility shall not operate except under the supervision of a manager certified pursuant to the article.",
+    "expected_source": "36-446.01 - Licensure or certification requirements.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.01",
+    "topic_tags": [
+      "licensing",
+      "staffing"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "AZ-003",
+    "question": "How many members are on Arizona's Board of Examiners for nursing care institution administrators and ALF managers?",
+    "expected_answer": "The board consists of eleven members appointed by the governor.",
+    "expected_source": "AZ 36-446.02 - Board of examiners_ terms_ meetings_ quorum_ effect of vacancies_ compensation.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.02",
+    "topic_tags": [
+      "administration"
+    ],
+    "facility_type": "Both",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "AZ-004",
+    "question": "What is the minimum square footage per person for a shared bedroom in an Arizona ALF?",
+    "expected_answer": "For a shared bedroom, at least 60 square feet of floor space for each individual occupying the shared bedroom, not including a closet or bathroom.",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-815",
+    "topic_tags": [
+      "physical-plant"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "AZ-005",
+    "question": "Are fingerprints required for employees of nursing care institutions in Arizona?",
+    "expected_answer": "Yes, as a condition of licensure and employment, employees and owners of residential care institutions, nursing care institutions, and home health agencies must submit fingerprints.",
+    "expected_source": "AZ 36-411 - Residential care institutions_ nursing care institutions_ home health agencies_ fingerprinting requirements_ exemptions_ definitions.html",
+    "expected_citation": "A.R.S. \u00a7 36-411",
+    "topic_tags": [
+      "staffing",
+      "licensing"
+    ],
+    "facility_type": "Both",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "AZ-006",
+    "question": "What are the grounds for disciplinary action against an Arizona ALF manager's certificate?",
+    "expected_answer": "The board may suspend or revoke the certificate, censure, or place on probation any certified ALF manager for violations including fraud, negligence, abuse, or failure to comply with regulations.",
+    "expected_source": "AZ 36-446.07 - Disciplinary actions_ grounds for disciplinary action_ renewal_ continuing education_ inactive status_ hearings_ settlement_ judicial review_ admission by default_ military members.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.07",
+    "topic_tags": [
+      "enforcement",
+      "licensing"
+    ],
+    "facility_type": "Both",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "AZ-007",
+    "question": "What disclosure requirements apply to referral agencies for Arizona assisted living facilities?",
+    "expected_answer": "A referral agency must disclose in a prescribed form any fees, relationships, or financial arrangements with assisted living facilities and obtain acknowledgement from prospective residents.",
+    "expected_source": "AZ 36-446.14 - Referral agencies_ assisted living facilities and assisted living homes_ disclosure_ acknowledgement_ fee_ notice_ requirements_ civil penalty_ definitions.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.14",
+    "topic_tags": [
+      "licensing",
+      "documentation"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "AZ-008",
+    "question": "What are the minimum space requirements for a residential unit in an Arizona assisted living facility?",
+    "expected_answer": "A residential unit must have at least 220 square feet of floor space (not including closet or bathroom) for one individual, plus an additional 100 square feet for each additional individual.",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-815",
+    "topic_tags": [
+      "physical-plant"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "AZ-009",
+    "question": "Who is required to report abuse, neglect, or exploitation of vulnerable adults in Arizona?",
+    "expected_answer": "Health professionals, emergency medical technicians, home health providers, hospital interns, therapists, long-term care providers, social workers, peace officers, and medical professionals are mandatory reporters.",
+    "expected_source": "AZ 46-454 - Duty to report abuse, neglect and exploitation of vulnerable adults_ duty to make medical records available_ violation_ classification.html",
+    "expected_citation": "A.R.S. \u00a7 46-454",
+    "topic_tags": [
+      "resident-rights",
+      "documentation"
+    ],
+    "facility_type": "General",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "AZ-010",
+    "question": "What types of members must be included on Arizona's Board of Examiners for nursing care and ALF administrators?",
+    "expected_answer": "The board must include: one licensed/retired administrator, one licensed/retired ALF manager, one licensed/retired nurse, one consumer representative, and other members as specified by statute.",
+    "expected_source": "AZ 36-446.02 - Board of examiners_ terms_ meetings_ quorum_ effect of vacancies_ compensation.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.02",
+    "topic_tags": [
+      "administration"
+    ],
+    "facility_type": "Both",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "AZ-011",
+    "question": "What are the differences between Arizona requirements for nursing care institution administrators versus assisted living facility managers?",
+    "expected_answer": "Nursing care institutions require a licensed administrator while ALFs require a certified manager. Both must meet education, examination, and continuing education requirements, but specific requirements differ. The Board of Examiners oversees both credential types.",
+    "expected_source": "AZ 4-33.txt",
+    "expected_citation": "R4-33-301, R4-33-601",
+    "topic_tags": [
+      "licensing",
+      "staffing"
+    ],
+    "facility_type": "Both",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "AZ-012",
+    "question": "What physical plant requirements apply to bathrooms in Arizona assisted living facilities, including both common area and bedroom bathrooms?",
+    "expected_answer": "Common area bathrooms must be accessible, provide privacy, and contain a working sink with running water, working toilet, and soap/towels. Bedroom/unit bathrooms must include working toilet, sink, bathtub or shower, lighting, mirror, window or ventilation, and towel storage.",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-815",
+    "topic_tags": [
+      "physical-plant"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "AZ-013",
+    "question": "How do Arizona regulations define 'assisted living facility' and what services must they provide?",
+    "expected_answer": "An assisted living facility is a residential care institution that provides or contracts for supervisory care services, personal care services, or directed care services on a continuing basis. Services include assistance with activities of daily living, medication assistance, and health monitoring.",
+    "expected_source": "AZ 36-401 - Definitions_ adult foster care.html",
+    "expected_citation": "A.R.S. \u00a7 36-401",
+    "topic_tags": [
+      "definitions",
+      "health-services"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "AZ-014",
+    "question": "What are all the Arizona requirements for medication services in assisted living facilities?",
+    "expected_answer": "ALFs must have policies for medication storage, administration assistance, documentation, and error reporting. Staff assisting with medications must be trained. Controlled substances have additional storage and tracking requirements. The facility must maintain medication records and coordinate with prescribing physicians.",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-817",
+    "topic_tags": [
+      "health-services",
+      "documentation",
+      "staffing"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "AZ-015",
+    "question": "What is the complete process for obtaining certification as an Arizona assisted living facility manager, including education, examination, and application requirements?",
+    "expected_answer": "Applicants must complete required education/training hours, pass the state examination, submit a completed application with fees, undergo fingerprint-based background check, and meet character/fitness requirements. The Board reviews applications and may issue certificates to qualified applicants.",
+    "expected_source": "AZ 4-33.txt",
+    "expected_citation": "R4-33-601, R4-33-602, R4-33-603",
+    "topic_tags": [
+      "licensing",
+      "staffing"
+    ],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  }
+]

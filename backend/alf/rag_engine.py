@@ -10,6 +10,19 @@ from embeddings import ChunkEmbeddingManager, create_embedding_generator
 from ai_service import ai_service
 
 
+def get_citation(chunk: dict) -> str:
+    """Get citation from chunk, handling array and singular field formats."""
+    # First check for "citations" array (used by Arizona chunks)
+    citations_list = chunk.get('citations', [])
+    if citations_list:
+        return citations_list[0]
+    # Fall back to singular "citation" field
+    if chunk.get('citation'):
+        return chunk.get('citation')
+    # Fall back to section_number
+    return chunk.get('section_number', 'N/A')
+
+
 class RAGEngine:
     """Retrieval-Augmented Generation engine for regulatory Q&A."""
 
@@ -159,8 +172,8 @@ class RAGEngine:
             for i, result in enumerate(results, 1):
                 chunk = result["chunk"]
                 similarity = result["similarity"]
-                # Handle both old (citation) and new (section_number) field names
-                citation = chunk.get('citation') or chunk.get('section_number', 'N/A')
+                # Handle array and singular citation formats
+                citation = get_citation(chunk)
                 title = chunk.get('section_title', 'N/A')
                 print(f"  {i}. {citation} - {title}")
                 print(f"     Similarity: {similarity:.4f}\n")
@@ -196,7 +209,7 @@ class RAGEngine:
             'response': response_text,
             'citations': [
                 {
-                    'citation': chunk.get('citation') or chunk.get('section_number', 'N/A'),
+                    'citation': get_citation(chunk),
                     'section_title': chunk.get('section_title', 'N/A'),
                     'chunk_id': chunk.get('chunk_id', 'N/A'),
                     'content': chunk.get('content', ''),
@@ -270,9 +283,9 @@ BAD: "According to the regulations, staffing policies must be developed and impl
 Context from {state_name} and federal regulations (numbered [1], [2], [3], etc.):"""
 
         # Add retrieved chunks with numbered citations (increased from 1000 to 2000 chars per chunk)
-        # Handle both old (citation) and new (section_number) field names
+        # Handle array and singular citation formats
         context = "\n\n".join([
-            f"[{i+1}] **{chunk.get('citation') or chunk.get('section_number', 'N/A')} - {chunk.get('section_title', 'N/A')}**\n{chunk.get('content', '')[:2000]}..."
+            f"[{i+1}] **{get_citation(chunk)} - {chunk.get('section_title', 'N/A')}**\n{chunk.get('content', '')[:2000]}..."
             for i, chunk in enumerate(retrieved_chunks)
         ])
 

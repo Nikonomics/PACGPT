@@ -15,8 +15,16 @@ from analytics import analytics
 
 
 def get_citation(chunk: dict) -> str:
-    """Get citation from chunk, handling both old and new field names."""
-    return chunk.get('citation') or chunk.get('section_number', 'N/A')
+    """Get citation from chunk, handling array and singular field formats."""
+    # First check for "citations" array (used by Arizona chunks)
+    citations_list = chunk.get('citations', [])
+    if citations_list:
+        return citations_list[0]
+    # Fall back to singular "citation" field
+    if chunk.get('citation'):
+        return chunk.get('citation')
+    # Fall back to section_number
+    return chunk.get('section_number', 'N/A')
 
 
 def get_source(chunk: dict) -> str:
@@ -206,7 +214,7 @@ async def query(request: QueryRequest, req: Request):
             ],
             retrieved_chunks=[
                 RetrievedChunk(
-                    citation=chunk.get("citation") or chunk.get("section_number", "N/A"),
+                    citation=get_citation(chunk),  # Use helper to handle array format
                     section_title=chunk.get("section_title", "N/A"),
                     chunk_id=chunk.get("chunk_id", "N/A"),
                     similarity=chunk.get("similarity", 0.0),

@@ -1,0 +1,430 @@
+{
+  "timestamp": "2025-12-17T19:49:03.486136",
+  "test_name": "Citation fix verification",
+  "endpoint": "http://localhost:8000/query",
+  "fix_applied": "Updated get_citation() to check 'citations' array first",
+  "total_tests": 5,
+  "citations_found": 4,
+  "results": [
+    {
+      "question_id": "AZ-001",
+      "difficulty": "easy",
+      "question": "What is the minimum square footage required for a private bedroom in an Arizona assisted living facility?",
+      "expected_citation": "R9-10-815",
+      "response": {
+        "answer": "For a private bedroom in an Arizona assisted living facility, the minimum square footage required is 100 square feet per individual living in the residential unit [2]. If more than two individuals are residing in a bedroom, the space must be at least 60 square feet per individual [2].",
+        "answer_length": 285
+      },
+      "citations": [
+        {
+          "citation": "R9-10-815",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_8474f1955485"
+        },
+        {
+          "citation": "R9-10-815",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_b5710d8e4500"
+        },
+        {
+          "citation": "R9-10-104",
+          "section_title": "A.A.C. Title 9 Ch 10",
+          "chunk_id": "AZ_0edd2197a6fb"
+        },
+        {
+          "citation": "R4-33-401",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_43b840b9c27b"
+        },
+        {
+          "citation": "A.R.S. \u00a7 36-446.15",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_848d33e66407"
+        }
+      ],
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "citation": "R9-10-815",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_8474f1955485",
+          "similarity": 0.6182032509565398
+        },
+        {
+          "rank": 2,
+          "citation": "R9-10-815",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_b5710d8e4500",
+          "similarity": 0.579234298285362
+        },
+        {
+          "rank": 3,
+          "citation": "R9-10-104",
+          "section_title": "A.A.C. Title 9 Ch 10",
+          "chunk_id": "AZ_0edd2197a6fb",
+          "similarity": 0.5020322611477772
+        },
+        {
+          "rank": 4,
+          "citation": "R4-33-401",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_43b840b9c27b",
+          "similarity": 0.49591105020462944
+        },
+        {
+          "rank": 5,
+          "citation": "A.R.S. \u00a7 36-446.15",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_848d33e66407",
+          "similarity": 0.4907722679357958
+        }
+      ],
+      "validation": {
+        "expected_citation_found": true,
+        "retrieved_citations": [
+          "R9-10-815",
+          "R9-10-815",
+          "R9-10-104",
+          "R4-33-401",
+          "A.R.S. \u00a7 36-446.15"
+        ]
+      }
+    },
+    {
+      "question_id": "AZ-003",
+      "difficulty": "easy",
+      "question": "How many members are on Arizona's Board of Examiners for nursing care institution administrators and ALF managers?",
+      "expected_citation": "A.R.S. \u00a7 36-446.02",
+      "response": {
+        "answer": "The Arizona Board of Examiners for nursing care institution administrators and assisted living facility (ALF) managers consists of eleven members. These members are appointed by the governor and include a mix of administrators, managers, public members, and representatives of specific organizations [1].",
+        "answer_length": 304
+      },
+      "citations": [
+        {
+          "citation": "A.R.S. \u00a7 36-446.02",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_d5addb74a042"
+        },
+        {
+          "citation": "A.R.S. \u00a7 36-446.03",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_3fbfc399057d"
+        },
+        {
+          "citation": "A.R.S. \u00a7 36-401",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_e862e32223df"
+        },
+        {
+          "citation": "A.R.S. \u00a7 36-446.07",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_52fa7139da45"
+        },
+        {
+          "citation": "R4-33-128",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_976c55390780"
+        }
+      ],
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "citation": "A.R.S. \u00a7 36-446.02",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_d5addb74a042",
+          "similarity": 0.6869494700934663
+        },
+        {
+          "rank": 2,
+          "citation": "A.R.S. \u00a7 36-446.03",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_3fbfc399057d",
+          "similarity": 0.5952359043999388
+        },
+        {
+          "rank": 3,
+          "citation": "A.R.S. \u00a7 36-401",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_e862e32223df",
+          "similarity": 0.5798808127639626
+        },
+        {
+          "rank": 4,
+          "citation": "A.R.S. \u00a7 36-446.07",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_52fa7139da45",
+          "similarity": 0.5745166363955578
+        },
+        {
+          "rank": 5,
+          "citation": "R4-33-128",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_976c55390780",
+          "similarity": 0.5623513038301645
+        }
+      ],
+      "validation": {
+        "expected_citation_found": true,
+        "retrieved_citations": [
+          "A.R.S. \u00a7 36-446.02",
+          "A.R.S. \u00a7 36-446.03",
+          "A.R.S. \u00a7 36-401",
+          "A.R.S. \u00a7 36-446.07",
+          "R4-33-128"
+        ]
+      }
+    },
+    {
+      "question_id": "AZ-006",
+      "difficulty": "medium",
+      "question": "What are the grounds for disciplinary action against an Arizona ALF manager's certificate?",
+      "expected_citation": "A.R.S. \u00a7 36-446.07",
+      "response": {
+        "answer": "The grounds for disciplinary action against an Arizona Assisted Living Facility (ALF) manager's certificate include:\n\n1. **Conviction of a Felony**: Any felony conviction is grounds for disciplinary action.\n2. **Conviction of a Misdemeanor Involving Moral Turpitude**: This includes crimes that involve dishonesty or immoral conduct.\n3. **Obtaining or Renewing a Certificate by Fraud or Deceit**: Any fraudulent actions associated with certification.\n4. **Unprofessional Conduct**: This is broadly defined and can include various forms of misconduct.\n5. **Practicing Without Biennial Certification**: Operating without current certification can lead to disciplinary measures.\n6. **Addiction to or Dependency on Drugs or Alcohol**: Substance abuse issues that affect job performance.\n7. **Wrongful Transfer of a Certificate or Falsely Impersonating Another Certificate Holder**: Misrepresentation of certification status.\n8. **Unauthorized Disclosure of Resident Information**: Improper handling of resident or resident records.\n9. **Violation of Relevant Laws or Rules**: This includes any breach of A.R.S. Title 36, Chapter 4, Article 6, or related regulations [3].\n\nThese grounds are specifically outlined in the Arizona Revised Statutes and are applicable to all assisted living facility managers in the state [3].",
+        "answer_length": 1317
+      },
+      "citations": [
+        {
+          "citation": "R4-33-406",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_4cb017585033"
+        },
+        {
+          "citation": "R4-33-407",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_f49f8b8b7b0b"
+        },
+        {
+          "citation": "A.R.S. \u00a7 36-446.07",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_52fa7139da45"
+        },
+        {
+          "citation": "R4-33-501",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_f2a669d81382"
+        },
+        {
+          "citation": "A.R.S. \u00a7 36-446.03",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_3fbfc399057d"
+        }
+      ],
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "citation": "R4-33-406",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_4cb017585033",
+          "similarity": 0.714134069101716
+        },
+        {
+          "rank": 2,
+          "citation": "R4-33-407",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_f49f8b8b7b0b",
+          "similarity": 0.678583325381651
+        },
+        {
+          "rank": 3,
+          "citation": "A.R.S. \u00a7 36-446.07",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_52fa7139da45",
+          "similarity": 0.6646855524144824
+        },
+        {
+          "rank": 4,
+          "citation": "R4-33-501",
+          "section_title": "A.A.C. Title 4 Ch 33 - Certification",
+          "chunk_id": "AZ_f2a669d81382",
+          "similarity": 0.6283472107422283
+        },
+        {
+          "rank": 5,
+          "citation": "A.R.S. \u00a7 36-446.03",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_3fbfc399057d",
+          "similarity": 0.6220418887368924
+        }
+      ],
+      "validation": {
+        "expected_citation_found": true,
+        "retrieved_citations": [
+          "R4-33-406",
+          "R4-33-407",
+          "A.R.S. \u00a7 36-446.07",
+          "R4-33-501",
+          "A.R.S. \u00a7 36-446.03"
+        ]
+      }
+    },
+    {
+      "question_id": "AZ-009",
+      "difficulty": "medium",
+      "question": "Who is required to report abuse, neglect, or exploitation of vulnerable adults in Arizona?",
+      "expected_citation": "A.R.S. \u00a7 46-454",
+      "response": {
+        "answer": "In Arizona, the following individuals are required to report abuse, neglect, or exploitation of vulnerable adults:\n\n- Health professionals\n- Emergency medical technicians\n- Home health providers\n- Hospital interns or residents\n- Speech, physical, or occupational therapists\n- Long-term care providers\n- Social workers\n- Peace officers\n- Medical examiners\n- Guardians or conservators\n- Fire protection personnel\n- Developmental disabilities providers\n- Employees of the Department of Economic Security\n- Any other person who has responsibility for the care of a vulnerable adult\n\nThese individuals must report immediately if they have a reasonable basis to believe that abuse, neglect, or exploitation of a vulnerable adult has occurred. Reports should be made to a peace officer or the Adult Protective Services (APS) central intake unit, either by telephone or online [1]. \n\nIf the individual is an employee or agent of a healthcare institution that mandates reporting to APS, they comply by following the institution's procedures for reporting [1].",
+        "answer_length": 1050
+      },
+      "citations": [
+        {
+          "citation": "A.R.S. \u00a7 36-401",
+          "section_title": "A.R.S. Title 46 - APS",
+          "chunk_id": "AZ_57e881178884"
+        },
+        {
+          "citation": "",
+          "section_title": "A.R.S. Title 46 - APS",
+          "chunk_id": "AZ_63eecf985db4"
+        },
+        {
+          "citation": "A.R.S. \u00a7 36-551",
+          "section_title": "A.R.S. Title 46 - APS",
+          "chunk_id": "AZ_476ba420c372"
+        },
+        {
+          "citation": "",
+          "section_title": "A.R.S. Title 46 - APS",
+          "chunk_id": "AZ_74060a6cfe4d"
+        },
+        {
+          "citation": "A.R.S. \u00a7 36-401",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_436a6ccbc465"
+        }
+      ],
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "citation": "A.R.S. \u00a7 36-401",
+          "section_title": "A.R.S. Title 46 - APS",
+          "chunk_id": "AZ_57e881178884",
+          "similarity": 0.683744425052764
+        },
+        {
+          "rank": 2,
+          "citation": "",
+          "section_title": "A.R.S. Title 46 - APS",
+          "chunk_id": "AZ_63eecf985db4",
+          "similarity": 0.6143119817242424
+        },
+        {
+          "rank": 3,
+          "citation": "A.R.S. \u00a7 36-551",
+          "section_title": "A.R.S. Title 46 - APS",
+          "chunk_id": "AZ_476ba420c372",
+          "similarity": 0.5914095191204843
+        },
+        {
+          "rank": 4,
+          "citation": "",
+          "section_title": "A.R.S. Title 46 - APS",
+          "chunk_id": "AZ_74060a6cfe4d",
+          "similarity": 0.5741186688885795
+        },
+        {
+          "rank": 5,
+          "citation": "A.R.S. \u00a7 36-401",
+          "section_title": "A.R.S. Title 36",
+          "chunk_id": "AZ_436a6ccbc465",
+          "similarity": 0.5138833238923113
+        }
+      ],
+      "validation": {
+        "expected_citation_found": false,
+        "retrieved_citations": [
+          "A.R.S. \u00a7 36-401",
+          "",
+          "A.R.S. \u00a7 36-551",
+          "",
+          "A.R.S. \u00a7 36-401"
+        ]
+      }
+    },
+    {
+      "question_id": "AZ-012",
+      "difficulty": "hard",
+      "question": "What physical plant requirements apply to bathrooms in Arizona assisted living facilities, including both common area and bedroom bathrooms?",
+      "expected_citation": "R9-10-815",
+      "response": {
+        "answer": "In Arizona assisted living facilities, bathrooms must meet specific physical plant requirements to ensure safety and accessibility for residents. Here's a breakdown of the requirements:\n\n1. **Common Area Bathrooms:**\n   - Must be accessible from a common area and can be used by both residents and visitors.\n   - Must provide privacy when in use.\n   - Must include:\n     - At least one working sink with running water.\n     - At least one working toilet that flushes and has a seat.\n     - Toilet tissue for each toilet.\n     - Soap in a dispenser accessible from each sink.\n     - Paper towels in a dispenser or a mechanical air hand dryer.\n     - Adequate lighting.\n     - A window that opens or another means of ventilation [1].\n\n2. **Resident Bathrooms (in bedrooms or residential units):**\n   - For every eight residents, there must be at least one working toilet that flushes and has a seat, and one sink with running water.\n   - For every eight residents, there must be at least one working bathtub or shower.\n   - Must provide privacy when in use and include:\n     - A mirror.\n     - Toilet tissue for each toilet.\n     - Soap accessible from each sink.\n     - Paper towels in a dispenser or a mechanical air hand dryer if the bathroom is not in a residential unit and used by more than one resident.\n     - A window that opens or another means of ventilation.\n     - Grab bars for the toilet and, if applicable, the bathtub or shower, and other assistive devices if required for resident safety.\n     - Nonporous surfaces for shower enclosures and slip-resistant surfaces in bathtubs and showers [1][2].\n\nThese requirements ensure that bathrooms are safe, accessible, and meet the hygiene needs of residents in assisted living facilities in Arizona.",
+        "answer_length": 1758
+      },
+      "citations": [
+        {
+          "citation": "R9-10-815",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_8474f1955485"
+        },
+        {
+          "citation": "R9-10-815",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_b5710d8e4500"
+        },
+        {
+          "citation": "R9-10-820",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_f564936e0e01"
+        },
+        {
+          "citation": "R9-8-504",
+          "section_title": "A.A.C. Title 9 Ch 8 - Sanitation",
+          "chunk_id": "AZ_23a6d0147685"
+        },
+        {
+          "citation": "R9-10-104",
+          "section_title": "A.A.C. Title 9 Ch 10",
+          "chunk_id": "AZ_0edd2197a6fb"
+        }
+      ],
+      "retrieved_chunks": [
+        {
+          "rank": 1,
+          "citation": "R9-10-815",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_8474f1955485",
+          "similarity": 0.6703514603752921
+        },
+        {
+          "rank": 2,
+          "citation": "R9-10-815",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_b5710d8e4500",
+          "similarity": 0.6631728495201137
+        },
+        {
+          "rank": 3,
+          "citation": "R9-10-820",
+          "section_title": "A.A.C. Article 8 - ALF Rules",
+          "chunk_id": "AZ_f564936e0e01",
+          "similarity": 0.6323912480287797
+        },
+        {
+          "rank": 4,
+          "citation": "R9-8-504",
+          "section_title": "A.A.C. Title 9 Ch 8 - Sanitation",
+          "chunk_id": "AZ_23a6d0147685",
+          "similarity": 0.6019674048750048
+        },
+        {
+          "rank": 5,
+          "citation": "R9-10-104",
+          "section_title": "A.A.C. Title 9 Ch 10",
+          "chunk_id": "AZ_0edd2197a6fb",
+          "similarity": 0.5838870224057128
+        }
+      ],
+      "validation": {
+        "expected_citation_found": true,
+        "retrieved_citations": [
+          "R9-10-815",
+          "R9-10-815",
+          "R9-10-820",
+          "R9-8-504",
+          "R9-10-104"
+        ]
+      }
+    }
+  ]
+}

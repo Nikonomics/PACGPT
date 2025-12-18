@@ -1,0 +1,1209 @@
+[
+  {
+    "question_id": "AZ-001",
+    "question": "What is the minimum square footage required for a private bedroom in an Arizona assisted living facility?",
+    "difficulty": "easy",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-815",
+    "retrieved_chunks": [
+      "AZ_8474f1955485",
+      "AZ_b5710d8e4500",
+      "AZ_0edd2197a6fb",
+      "AZ_43b840b9c27b",
+      "AZ_848d33e66407"
+    ],
+    "retrieved_sources": [
+      "AZ article-8.txt",
+      "AZ article-8.txt",
+      "AZ 9-10.txt",
+      "AZ 4-33.txt",
+      "AZ 36-446.16 - Assisted living facility caregivers_ training requirements_ board standards_ definition.html"
+    ],
+    "retrieved_citations": [
+      [],
+      [],
+      [
+        "R9-10-104"
+      ],
+      [
+        "R4-33-401"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.15",
+        "A.R.S. \u00a7 36-446.16"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "physical-plant",
+        "staffing",
+        "documentation"
+      ],
+      [
+        "physical-plant",
+        "administration",
+        "staffing"
+      ],
+      [
+        "physical-plant",
+        "resident-rights",
+        "administration"
+      ],
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ],
+      [
+        "staffing",
+        "licensing",
+        "administration"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "no",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-002",
+    "question": "Who must supervise an assisted living facility in Arizona?",
+    "difficulty": "easy",
+    "expected_source": "36-446.01 - Licensure or certification requirements.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.01",
+    "retrieved_chunks": [
+      "AZ_40ea898588cc",
+      "AZ_43b840b9c27b",
+      "AZ_1061bccd0b42",
+      "AZ_0a50488be3c1",
+      "AZ_848d33e66407"
+    ],
+    "retrieved_sources": [
+      "36-446.01 - Licensure or certification requirements.html",
+      "AZ 4-33.txt",
+      "AZ 9-10.txt",
+      "AZ article-8.txt",
+      "AZ 36-446.16 - Assisted living facility caregivers_ training requirements_ board standards_ definition.html"
+    ],
+    "retrieved_citations": [
+      [
+        "A.R.S. \u00a7 36-446.01"
+      ],
+      [
+        "R4-33-401"
+      ],
+      [
+        "R9-10-803",
+        "R9-10-804",
+        "A.R.S. \u00a7 36-446.04",
+        "A.R.S. \u00a7 36-425",
+        "A.R.S. \u00a7 36-411",
+        "A.R.S. \u00a7 36-406"
+      ],
+      [
+        "R9-10-801",
+        "R9-10-802",
+        "R9-10-803",
+        "R9-10-804",
+        "R9-10-805",
+        "R9-10-806",
+        "R9-10-807",
+        "R9-10-808",
+        "R9-10-809",
+        "R9-10-810",
+        "R9-10-811",
+        "R9-10-812",
+        "R9-10-813",
+        "R9-10-814",
+        "R9-10-815",
+        "R9-10-816",
+        "R9-10-817",
+        "R9-10-818",
+        "R9-10-819",
+        "R9-10-820",
+        "R9-10-101",
+        "R9-10-105",
+        "A.R.S. \u00a7 36-401",
+        "A.R.S. \u00a7 36-422",
+        "A.R.S. \u00a7 36-446.04",
+        "A.R.S. \u00a7 36-446.06"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.15",
+        "A.R.S. \u00a7 36-446.16"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "licensing",
+        "staffing",
+        "administration"
+      ],
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ],
+      [
+        "staffing",
+        "administration",
+        "physical-plant"
+      ],
+      [
+        "staffing",
+        "administration",
+        "physical-plant"
+      ],
+      [
+        "staffing",
+        "licensing",
+        "administration"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-003",
+    "question": "How many members are on Arizona's Board of Examiners for nursing care institution administrators and ALF managers?",
+    "difficulty": "easy",
+    "expected_source": "AZ 36-446.02 - Board of examiners_ terms_ meetings_ quorum_ effect of vacancies_ compensation.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.02",
+    "retrieved_chunks": [
+      "AZ_d5addb74a042",
+      "AZ_3fbfc399057d",
+      "AZ_e862e32223df",
+      "AZ_52fa7139da45",
+      "AZ_976c55390780"
+    ],
+    "retrieved_sources": [
+      "AZ 36-446.02 - Board of examiners_ terms_ meetings_ quorum_ effect of vacancies_ compensation.html",
+      "AZ 36-446.03 - Powers and duties of the board_ rules_ fees_ fingerprinting.html",
+      "AZ 36-446.04 - Qualifications_ period of validity_ exemption.html",
+      "AZ 36-446.07 - Disciplinary actions_ grounds for disciplinary action_ renewal_ continuing education_ inactive status_ hearings_ settlement_ judicial review_ admission by default_ military members.html",
+      "AZ 4-33.txt"
+    ],
+    "retrieved_citations": [
+      [
+        "A.R.S. \u00a7 36-446.02"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.03",
+        "A.R.S. \u00a7 36-446.04"
+      ],
+      [
+        "A.R.S. \u00a7 36-401",
+        "A.R.S. \u00a7 36-446.04"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.07"
+      ],
+      [
+        "R4-33-128",
+        "R4-33-214",
+        "R4-33-129",
+        "R4-33-29",
+        "R4-33-215",
+        "R4-33-130",
+        "R4-33-30",
+        "R4-33-216",
+        "R4-33-201",
+        "R4-33-207",
+        "R4-33-209",
+        "R4-33-115",
+        "R4-33-124",
+        "R4-33-127",
+        "R4-33-114",
+        "A.R.S. \u00a7 41-1026",
+        "A.R.S. \u00a7 32-1632"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "administration",
+        "staffing",
+        "physical-plant"
+      ],
+      [
+        "administration",
+        "licensing",
+        "staffing"
+      ],
+      [
+        "licensing",
+        "administration",
+        "staffing"
+      ],
+      [
+        "administration",
+        "staffing",
+        "licensing"
+      ],
+      [
+        "staffing",
+        "licensing",
+        "administration"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-004",
+    "question": "What is the minimum square footage per person for a shared bedroom in an Arizona ALF?",
+    "difficulty": "easy",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-815",
+    "retrieved_chunks": [
+      "AZ_8474f1955485",
+      "AZ_b5710d8e4500",
+      "AZ_0edd2197a6fb",
+      "AZ_f564936e0e01",
+      "AZ_43b840b9c27b"
+    ],
+    "retrieved_sources": [
+      "AZ article-8.txt",
+      "AZ article-8.txt",
+      "AZ 9-10.txt",
+      "AZ article-8.txt",
+      "AZ 4-33.txt"
+    ],
+    "retrieved_citations": [
+      [],
+      [],
+      [
+        "R9-10-104"
+      ],
+      [
+        "R9-10-820",
+        "R9-10-104"
+      ],
+      [
+        "R4-33-401"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "physical-plant",
+        "staffing",
+        "documentation"
+      ],
+      [
+        "physical-plant",
+        "administration",
+        "staffing"
+      ],
+      [
+        "physical-plant",
+        "resident-rights",
+        "administration"
+      ],
+      [
+        "physical-plant",
+        "administration",
+        "food-services"
+      ],
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "no",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-005",
+    "question": "Are fingerprints required for employees of nursing care institutions in Arizona?",
+    "difficulty": "easy",
+    "expected_source": "AZ 36-411 - Residential care institutions_ nursing care institutions_ home health agencies_ fingerprinting requirements_ exemptions_ definitions.html",
+    "expected_citation": "A.R.S. \u00a7 36-411",
+    "retrieved_chunks": [
+      "AZ_2078d4739753",
+      "AZ_830012b06caa",
+      "AZ_e862e32223df",
+      "AZ_8a201d7bb996",
+      "AZ_3fbfc399057d"
+    ],
+    "retrieved_sources": [
+      "AZ 36-411 - Residential care institutions_ nursing care institutions_ home health agencies_ fingerprinting requirements_ exemptions_ definitions.html",
+      "AZ 4-33.txt",
+      "AZ 36-446.04 - Qualifications_ period of validity_ exemption.html",
+      "AZ 4-33.txt",
+      "AZ 36-446.03 - Powers and duties of the board_ rules_ fees_ fingerprinting.html"
+    ],
+    "retrieved_citations": [
+      [
+        "A.R.S. \u00a7 36-411"
+      ],
+      [
+        "R4-33-106",
+        "R4-33-209",
+        "R4-33-107",
+        "R4-33-108",
+        "R4-33-109",
+        "A.R.S. \u00a7 12-901",
+        "A.R.S. \u00a7 36-446.04"
+      ],
+      [
+        "A.R.S. \u00a7 36-401",
+        "A.R.S. \u00a7 36-446.04"
+      ],
+      [
+        "R4-33-17",
+        "R4-33-117",
+        "R4-33-204",
+        "R4-33-203",
+        "R4-33-202",
+        "R4-33-212",
+        "A.R.S. \u00a7 41-1026"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.03",
+        "A.R.S. \u00a7 36-446.04"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "staffing",
+        "licensing",
+        "administration"
+      ],
+      [
+        "administration",
+        "staffing",
+        "licensing"
+      ],
+      [
+        "licensing",
+        "administration",
+        "staffing"
+      ],
+      [
+        "licensing",
+        "administration",
+        "staffing"
+      ],
+      [
+        "administration",
+        "licensing",
+        "staffing"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-006",
+    "question": "What are the grounds for disciplinary action against an Arizona ALF manager's certificate?",
+    "difficulty": "medium",
+    "expected_source": "AZ 36-446.07 - Disciplinary actions_ grounds for disciplinary action_ renewal_ continuing education_ inactive status_ hearings_ settlement_ judicial review_ admission by default_ military members.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.07",
+    "retrieved_chunks": [
+      "AZ_4cb017585033",
+      "AZ_f49f8b8b7b0b",
+      "AZ_52fa7139da45",
+      "AZ_f2a669d81382",
+      "AZ_3fbfc399057d"
+    ],
+    "retrieved_sources": [
+      "AZ 4-33.txt",
+      "AZ 4-33.txt",
+      "AZ 36-446.07 - Disciplinary actions_ grounds for disciplinary action_ renewal_ continuing education_ inactive status_ hearings_ settlement_ judicial review_ admission by default_ military members.html",
+      "AZ 4-33.txt",
+      "AZ 36-446.03 - Powers and duties of the board_ rules_ fees_ fingerprinting.html"
+    ],
+    "retrieved_citations": [
+      [
+        "R4-33-406",
+        "R4-33-501",
+        "R4-33-405",
+        "R4-33-104",
+        "R4-33-306",
+        "R4-33-407",
+        "R4-33-108",
+        "R4-33-410",
+        "A.R.S. \u00a7 36-446"
+      ],
+      [
+        "R4-33-407",
+        "R4-33-307",
+        "R4-33-408",
+        "A.R.S. \u00a7 36-446.07"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.07"
+      ],
+      [
+        "R4-33-501",
+        "R4-33-206",
+        "R4-33-104",
+        "R4-33-21",
+        "R4-33-121",
+        "R4-33-208",
+        "R4-33-207",
+        "R4-33-212",
+        "A.R.S. \u00a7 41-1026",
+        "A.R.S. \u00a7 36-446",
+        "A.R.S. \u00a7 36-446.07"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.03",
+        "A.R.S. \u00a7 36-446.04"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "administration",
+        "staffing",
+        "licensing"
+      ],
+      [
+        "licensing",
+        "physical-plant",
+        "enforcement"
+      ],
+      [
+        "administration",
+        "staffing",
+        "licensing"
+      ],
+      [
+        "staffing",
+        "administration",
+        "licensing"
+      ],
+      [
+        "administration",
+        "licensing",
+        "staffing"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 3
+  },
+  {
+    "question_id": "AZ-007",
+    "question": "What disclosure requirements apply to referral agencies for Arizona assisted living facilities?",
+    "difficulty": "medium",
+    "expected_source": "AZ 36-446.14 - Referral agencies_ assisted living facilities and assisted living homes_ disclosure_ acknowledgement_ fee_ notice_ requirements_ civil penalty_ definitions.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.14",
+    "retrieved_chunks": [
+      "AZ_2aeaffcd252a",
+      "AZ_b542938681d4",
+      "AZ_f49f8b8b7b0b",
+      "AZ_43b840b9c27b",
+      "AZ_3fbfc399057d"
+    ],
+    "retrieved_sources": [
+      "AZ 36-446.14 - Referral agencies_ assisted living facilities and assisted living homes_ disclosure_ acknowledgement_ fee_ notice_ requirements_ civil penalty_ definitions.html",
+      "AZ 36-446.14 - Referral agencies_ assisted living facilities and assisted living homes_ disclosure_ acknowledgement_ fee_ notice_ requirements_ civil penalty_ definitions.html",
+      "AZ 4-33.txt",
+      "AZ 4-33.txt",
+      "AZ 36-446.03 - Powers and duties of the board_ rules_ fees_ fingerprinting.html"
+    ],
+    "retrieved_citations": [
+      [],
+      [
+        "A.R.S. \u00a7 36-446.14"
+      ],
+      [
+        "R4-33-407",
+        "R4-33-307",
+        "R4-33-408",
+        "A.R.S. \u00a7 36-446.07"
+      ],
+      [
+        "R4-33-401"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.03",
+        "A.R.S. \u00a7 36-446.04"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "physical-plant",
+        "enforcement",
+        "documentation"
+      ],
+      [
+        "physical-plant",
+        "licensing",
+        "documentation"
+      ],
+      [
+        "licensing",
+        "physical-plant",
+        "enforcement"
+      ],
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ],
+      [
+        "administration",
+        "licensing",
+        "staffing"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-008",
+    "question": "What are the minimum space requirements for a residential unit in an Arizona assisted living facility?",
+    "difficulty": "medium",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-815",
+    "retrieved_chunks": [
+      "AZ_8474f1955485",
+      "AZ_b5710d8e4500",
+      "AZ_43b840b9c27b",
+      "AZ_f564936e0e01",
+      "AZ_0edd2197a6fb"
+    ],
+    "retrieved_sources": [
+      "AZ article-8.txt",
+      "AZ article-8.txt",
+      "AZ 4-33.txt",
+      "AZ article-8.txt",
+      "AZ 9-10.txt"
+    ],
+    "retrieved_citations": [
+      [],
+      [],
+      [
+        "R4-33-401"
+      ],
+      [
+        "R9-10-820",
+        "R9-10-104"
+      ],
+      [
+        "R9-10-104"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "physical-plant",
+        "staffing",
+        "documentation"
+      ],
+      [
+        "physical-plant",
+        "administration",
+        "staffing"
+      ],
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ],
+      [
+        "physical-plant",
+        "administration",
+        "food-services"
+      ],
+      [
+        "physical-plant",
+        "resident-rights",
+        "administration"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "no",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-009",
+    "question": "Who is required to report abuse, neglect, or exploitation of vulnerable adults in Arizona?",
+    "difficulty": "medium",
+    "expected_source": "AZ 46-454 - Duty to report abuse, neglect and exploitation of vulnerable adults_ duty to make medical records available_ violation_ classification.html",
+    "expected_citation": "A.R.S. \u00a7 46-454",
+    "retrieved_chunks": [
+      "AZ_57e881178884",
+      "AZ_63eecf985db4",
+      "AZ_476ba420c372",
+      "AZ_74060a6cfe4d",
+      "AZ_436a6ccbc465"
+    ],
+    "retrieved_sources": [
+      "AZ 46-454 - Duty to report abuse, neglect and exploitation of vulnerable adults_ duty to make medical records available_ violation_ classification.html",
+      "AZ 46-454 - Duty to report abuse, neglect and exploitation of vulnerable adults_ duty to make medical records available_ violation_ classification.html",
+      "AZ 46-459 - Adult protective services registry.html",
+      "AZ 46-451 - Definitions_ program goals.html",
+      "AZ 36-446 - Definitions.html"
+    ],
+    "retrieved_citations": [
+      [
+        "A.R.S. \u00a7 36-401"
+      ],
+      [],
+      [
+        "A.R.S. \u00a7 36-551"
+      ],
+      [],
+      [
+        "A.R.S. \u00a7 36-401",
+        "A.R.S. \u00a7 36-446",
+        "A.R.S. \u00a7 36-446.16"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "resident-rights",
+        "documentation",
+        "health-services"
+      ],
+      [
+        "resident-rights",
+        "documentation",
+        "health-services"
+      ],
+      [
+        "resident-rights",
+        "administration",
+        "documentation"
+      ],
+      [
+        "resident-rights",
+        "definitions",
+        "health-services"
+      ],
+      [
+        "definitions",
+        "administration",
+        "staffing"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "no",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-010",
+    "question": "What types of members must be included on Arizona's Board of Examiners for nursing care and ALF administrators?",
+    "difficulty": "medium",
+    "expected_source": "AZ 36-446.02 - Board of examiners_ terms_ meetings_ quorum_ effect of vacancies_ compensation.html",
+    "expected_citation": "A.R.S. \u00a7 36-446.02",
+    "retrieved_chunks": [
+      "AZ_d5addb74a042",
+      "AZ_e862e32223df",
+      "AZ_976c55390780",
+      "AZ_3fbfc399057d",
+      "AZ_52fa7139da45"
+    ],
+    "retrieved_sources": [
+      "AZ 36-446.02 - Board of examiners_ terms_ meetings_ quorum_ effect of vacancies_ compensation.html",
+      "AZ 36-446.04 - Qualifications_ period of validity_ exemption.html",
+      "AZ 4-33.txt",
+      "AZ 36-446.03 - Powers and duties of the board_ rules_ fees_ fingerprinting.html",
+      "AZ 36-446.07 - Disciplinary actions_ grounds for disciplinary action_ renewal_ continuing education_ inactive status_ hearings_ settlement_ judicial review_ admission by default_ military members.html"
+    ],
+    "retrieved_citations": [
+      [
+        "A.R.S. \u00a7 36-446.02"
+      ],
+      [
+        "A.R.S. \u00a7 36-401",
+        "A.R.S. \u00a7 36-446.04"
+      ],
+      [
+        "R4-33-128",
+        "R4-33-214",
+        "R4-33-129",
+        "R4-33-29",
+        "R4-33-215",
+        "R4-33-130",
+        "R4-33-30",
+        "R4-33-216",
+        "R4-33-201",
+        "R4-33-207",
+        "R4-33-209",
+        "R4-33-115",
+        "R4-33-124",
+        "R4-33-127",
+        "R4-33-114",
+        "A.R.S. \u00a7 41-1026",
+        "A.R.S. \u00a7 32-1632"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.03",
+        "A.R.S. \u00a7 36-446.04"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.07"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "administration",
+        "staffing",
+        "physical-plant"
+      ],
+      [
+        "licensing",
+        "administration",
+        "staffing"
+      ],
+      [
+        "staffing",
+        "licensing",
+        "administration"
+      ],
+      [
+        "administration",
+        "licensing",
+        "staffing"
+      ],
+      [
+        "administration",
+        "staffing",
+        "licensing"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-011",
+    "question": "What are the differences between Arizona requirements for nursing care institution administrators versus assisted living facility managers?",
+    "difficulty": "hard",
+    "expected_source": "AZ 4-33.txt",
+    "expected_citation": "R4-33-301, R4-33-601",
+    "retrieved_chunks": [
+      "AZ_40ea898588cc",
+      "AZ_e862e32223df",
+      "AZ_43b840b9c27b",
+      "AZ_976c55390780",
+      "AZ_91efb02cdc92"
+    ],
+    "retrieved_sources": [
+      "36-446.01 - Licensure or certification requirements.html",
+      "AZ 36-446.04 - Qualifications_ period of validity_ exemption.html",
+      "AZ 4-33.txt",
+      "AZ 4-33.txt",
+      "AZ 4-33.txt"
+    ],
+    "retrieved_citations": [
+      [
+        "A.R.S. \u00a7 36-446.01"
+      ],
+      [
+        "A.R.S. \u00a7 36-401",
+        "A.R.S. \u00a7 36-446.04"
+      ],
+      [
+        "R4-33-401"
+      ],
+      [
+        "R4-33-128",
+        "R4-33-214",
+        "R4-33-129",
+        "R4-33-29",
+        "R4-33-215",
+        "R4-33-130",
+        "R4-33-30",
+        "R4-33-216",
+        "R4-33-201",
+        "R4-33-207",
+        "R4-33-209",
+        "R4-33-115",
+        "R4-33-124",
+        "R4-33-127",
+        "R4-33-114",
+        "A.R.S. \u00a7 41-1026",
+        "A.R.S. \u00a7 32-1632"
+      ],
+      [
+        "R4-33-301",
+        "R4-33-302",
+        "R4-33-303",
+        "R4-33-304",
+        "R4-33-305",
+        "R4-33-306",
+        "R4-33-307",
+        "R4-33-308",
+        "R4-33-309",
+        "R4-33-310",
+        "R4-33-311",
+        "R4-33-312",
+        "R4-33-401",
+        "R4-33-412",
+        "R4-33-402",
+        "R4-33-403",
+        "R4-33-404",
+        "R4-33-405",
+        "R4-33-406",
+        "R4-33-407",
+        "R4-33-408",
+        "R4-33-409",
+        "R4-33-410",
+        "R4-33-411",
+        "R4-33-501",
+        "R4-33-502",
+        "R4-33-503",
+        "R4-33-504",
+        "R4-33-601",
+        "R4-33-602",
+        "R4-33-603",
+        "R4-33-604",
+        "R4-33-605",
+        "R4-33-606",
+        "R4-33-701",
+        "R4-33-702",
+        "R4-33-703",
+        "R4-33-704",
+        "R4-33-705",
+        "R4-33-706",
+        "R4-33-707",
+        "A.R.S. \u00a7 41-1026"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "licensing",
+        "staffing",
+        "administration"
+      ],
+      [
+        "licensing",
+        "administration",
+        "staffing"
+      ],
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ],
+      [
+        "staffing",
+        "licensing",
+        "administration"
+      ],
+      [
+        "staffing",
+        "physical-plant",
+        "licensing"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 3
+  },
+  {
+    "question_id": "AZ-012",
+    "question": "What physical plant requirements apply to bathrooms in Arizona assisted living facilities, including both common area and bedroom bathrooms?",
+    "difficulty": "hard",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-815",
+    "retrieved_chunks": [
+      "AZ_8474f1955485",
+      "AZ_b5710d8e4500",
+      "AZ_f564936e0e01",
+      "AZ_23a6d0147685",
+      "AZ_0edd2197a6fb"
+    ],
+    "retrieved_sources": [
+      "AZ article-8.txt",
+      "AZ article-8.txt",
+      "AZ article-8.txt",
+      "AZ 9-08.txt",
+      "AZ 9-10.txt"
+    ],
+    "retrieved_citations": [
+      [],
+      [],
+      [
+        "R9-10-820",
+        "R9-10-104"
+      ],
+      [
+        "R9-8-504",
+        "R9-8-507",
+        "R9-8-801",
+        "R18-5-201",
+        "R9-8-505",
+        "R18-4-214"
+      ],
+      [
+        "R9-10-104"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "physical-plant",
+        "staffing",
+        "documentation"
+      ],
+      [
+        "physical-plant",
+        "administration",
+        "staffing"
+      ],
+      [
+        "physical-plant",
+        "administration",
+        "food-services"
+      ],
+      [
+        "physical-plant",
+        "infection-control",
+        "definitions"
+      ],
+      [
+        "physical-plant",
+        "resident-rights",
+        "administration"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "no",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-013",
+    "question": "How do Arizona regulations define 'assisted living facility' and what services must they provide?",
+    "difficulty": "hard",
+    "expected_source": "AZ 36-401 - Definitions_ adult foster care.html",
+    "expected_citation": "A.R.S. \u00a7 36-401",
+    "retrieved_chunks": [
+      "AZ_7fa0005afc36",
+      "AZ_436a6ccbc465",
+      "AZ_43b840b9c27b",
+      "AZ_06b070fb17bd",
+      "AZ_38e27e4d30ca"
+    ],
+    "retrieved_sources": [
+      "AZ 36-401 - Definitions_ adult foster care.html",
+      "AZ 36-446 - Definitions.html",
+      "AZ 4-33.txt",
+      "AZ article-8.txt",
+      "AZ 36-401 - Definitions_ adult foster care.html"
+    ],
+    "retrieved_citations": [
+      [],
+      [
+        "A.R.S. \u00a7 36-401",
+        "A.R.S. \u00a7 36-446",
+        "A.R.S. \u00a7 36-446.16"
+      ],
+      [
+        "R4-33-401"
+      ],
+      [
+        "A.R.S. \u00a7 36-3221"
+      ],
+      [
+        "A.R.S. \u00a7 36-401",
+        "A.R.S. \u00a7 36-405"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "definitions",
+        "licensing",
+        "staffing"
+      ],
+      [
+        "definitions",
+        "administration",
+        "staffing"
+      ],
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ],
+      [
+        "staffing",
+        "physical-plant",
+        "administration"
+      ],
+      [
+        "definitions",
+        "administration",
+        "health-services"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 1
+  },
+  {
+    "question_id": "AZ-014",
+    "question": "What are all the Arizona requirements for medication services in assisted living facilities?",
+    "difficulty": "hard",
+    "expected_source": "AZ article-8.txt",
+    "expected_citation": "R9-10-817",
+    "retrieved_chunks": [
+      "AZ_a4bd2599ac35",
+      "AZ_f2018732204c",
+      "AZ_949b2b12af9f",
+      "AZ_13dd3235b0e7",
+      "AZ_43b840b9c27b"
+    ],
+    "retrieved_sources": [
+      "AZ 36-446.15 - Assisted living facility caregivers_ training and competency requirements_ medication administration_ testing.html",
+      "AZ 4-33.txt",
+      "AZ article-8.txt",
+      "AZ article-8.txt",
+      "AZ 4-33.txt"
+    ],
+    "retrieved_citations": [
+      [
+        "A.R.S. \u00a7 36-446.15"
+      ],
+      [
+        "R4-33-703",
+        "R4-33-702",
+        "A.R.S. \u00a7 32-1645",
+        "A.R.S. \u00a7 41-1032"
+      ],
+      [
+        "R9-10-815",
+        "R9-10-814",
+        "R9-10-808",
+        "R9-10-104",
+        "R9-10-816"
+      ],
+      [
+        "A.R.S. \u00a7 32-1901"
+      ],
+      [
+        "R4-33-401"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "staffing",
+        "administration",
+        "health-services"
+      ],
+      [
+        "staffing",
+        "administration",
+        "health-services"
+      ],
+      [
+        "health-services",
+        "staffing",
+        "physical-plant"
+      ],
+      [
+        "health-services",
+        "administration",
+        "staffing"
+      ],
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "no",
+    "topic_match": "yes",
+    "rank": 3
+  },
+  {
+    "question_id": "AZ-015",
+    "question": "What is the complete process for obtaining certification as an Arizona assisted living facility manager, including education, examination, and application requirements?",
+    "difficulty": "hard",
+    "expected_source": "AZ 4-33.txt",
+    "expected_citation": "R4-33-601, R4-33-602, R4-33-603",
+    "retrieved_chunks": [
+      "AZ_43b840b9c27b",
+      "AZ_7f441dc2ca7a",
+      "AZ_14c1f36bc7ba",
+      "AZ_3fbfc399057d",
+      "AZ_40ea898588cc"
+    ],
+    "retrieved_sources": [
+      "AZ 4-33.txt",
+      "AZ 4-33.txt",
+      "AZ 4-33.txt",
+      "AZ 36-446.03 - Powers and duties of the board_ rules_ fees_ fingerprinting.html",
+      "36-446.01 - Licensure or certification requirements.html"
+    ],
+    "retrieved_citations": [
+      [
+        "R4-33-401"
+      ],
+      [
+        "R4-33-311",
+        "R4-33-312",
+        "R4-33-310",
+        "R4-33-411",
+        "R4-33-412",
+        "R4-33-401",
+        "R4-33-301",
+        "R4-33-402",
+        "A.R.S. \u00a7 41-1026",
+        "A.R.S. \u00a7 41-1056"
+      ],
+      [
+        "R4-33-603"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.03",
+        "A.R.S. \u00a7 36-446.04"
+      ],
+      [
+        "A.R.S. \u00a7 36-446.01"
+      ]
+    ],
+    "retrieved_topics": [
+      [
+        "licensing",
+        "administration",
+        "enforcement"
+      ],
+      [
+        "licensing",
+        "administration",
+        "physical-plant"
+      ],
+      [
+        "staffing",
+        "administration",
+        "physical-plant"
+      ],
+      [
+        "administration",
+        "licensing",
+        "staffing"
+      ],
+      [
+        "licensing",
+        "staffing",
+        "administration"
+      ]
+    ],
+    "hit_rate": "yes",
+    "citation_match": "yes",
+    "topic_match": "yes",
+    "rank": 1
+  }
+]
