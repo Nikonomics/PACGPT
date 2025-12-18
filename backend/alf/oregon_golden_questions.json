@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "OR-001",
+    "question": "What is the purpose of Oregon's assisted living and residential care facility rules (OAR 411-054)?",
+    "expected_answer": "To establish standards that promote individualized services for elderly and persons with disabilities in a homelike environment, enhancing dignity, independence, individuality, and decision making.",
+    "expected_citation": "OAR 411-054-0001",
+    "topic_tags": ["licensing", "resident-rights"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "OR-002",
+    "question": "How many residents maximum can be in a resident unit in Oregon?",
+    "expected_answer": "Each resident unit shall be limited to not more than two residents.",
+    "expected_citation": "OAR 411-054-0005",
+    "topic_tags": ["physical-plant"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "OR-003",
+    "question": "What type of door handles are required on resident unit doors in Oregon?",
+    "expected_answer": "Resident units must have a lockable door with lever type handles, effective 2017-01-15.",
+    "expected_citation": "OAR 411-054-0005",
+    "topic_tags": ["physical-plant", "safety"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "OR-004",
+    "question": "What is the definition of direct care staff in Oregon assisted living regulations?",
+    "expected_answer": "A facility employee whose primary responsibility is to provide personal care services to residents, including medication administration, individualized activities, assistance with ADLs, and supervision.",
+    "expected_citation": "OAR 411-054-0029",
+    "topic_tags": ["staffing"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "OR-005",
+    "question": "What meal requirements apply to Oregon residential care and assisted living facilities?",
+    "expected_answer": "Three daily nutritious, palatable meals with snacks available seven days a week, in accordance with USDA dietary guidelines, including seasonal fresh fruit and vegetables.",
+    "expected_citation": "OAR 411-054-0001",
+    "topic_tags": ["nutrition"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "OR-006",
+    "question": "Can bathroom facilities be centrally located in Oregon assisted living facilities?",
+    "expected_answer": "Yes, resident units may be limited to a bedroom only, with bathroom facilities centrally located off common corridors.",
+    "expected_citation": "OAR 411-054-0005",
+    "topic_tags": ["physical-plant"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "OR-007",
+    "question": "What personal care services may direct care staff provide in Oregon?",
+    "expected_answer": "Medication administration, individualized resident-focused activities as outlined in person-centered service plan, assistance with activities of daily living, and supervision and support of residents.",
+    "expected_citation": "OAR 411-054-0029",
+    "topic_tags": ["staffing", "health-services"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "OR-008",
+    "question": "What are the requirements for modified special diets in Oregon assisted living facilities?",
+    "expected_answer": "Modified special diets that are appropriate to each resident's condition as documented in their service plan.",
+    "expected_citation": "OAR 411-054-0001",
+    "topic_tags": ["nutrition", "health-services"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "OR-009",
+    "question": "What are the complete physical requirements for resident bedroom units in Oregon including door, bathroom, and occupancy requirements?",
+    "expected_answer": "Lockable doors with lever handles, bedroom-only units permitted with centrally located bathrooms, maximum 2 residents per unit, doors must open to a common area.",
+    "expected_citation": "OAR 411-054-0005",
+    "topic_tags": ["physical-plant", "safety"],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "OR-010",
+    "question": "What are all the minimum scope of services that an Oregon residential care or assisted living facility must provide?",
+    "expected_answer": "Three daily meals with snacks, modified special diets, medication management, personal care services, housekeeping, and activities appropriate to residents' needs.",
+    "expected_citation": "OAR 411-054-0001",
+    "topic_tags": ["staffing", "nutrition", "health-services"],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "ID-001",
+    "question": "How many days does an employee have to submit fingerprints for a background check in Idaho?",
+    "expected_answer": "Fingerprints must be submitted within 21 days of date of hire.",
+    "expected_citation": "IDAPA 16.03.22.004",
+    "topic_tags": ["staffing", "documentation"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "ID-002",
+    "question": "What is the title of IDAPA 16.03.22 in Idaho?",
+    "expected_answer": "Residential Assisted Living Facilities",
+    "expected_citation": "IDAPA 16.03.22.001",
+    "topic_tags": ["licensing"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "ID-003",
+    "question": "What manual is available from the Idaho Academy of Nutrition & Dietetics for dietary guidance?",
+    "expected_answer": "Idaho Diet Manual, Eleventh Edition, 2015",
+    "expected_citation": "IDAPA 16.03.22.002",
+    "topic_tags": ["nutrition"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "ID-004",
+    "question": "What Idaho Code sections authorize the Board of Health and Welfare to adopt rules for residential assisted living facilities?",
+    "expected_answer": "Sections 39-3305 and 39-3358, Idaho Code",
+    "expected_citation": "IDAPA 16.03.22.000",
+    "topic_tags": ["licensing"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "ID-005",
+    "question": "When must an individual in Idaho have a new criminal history and background check completed?",
+    "expected_answer": "When the individual's last criminal history and background check was completed more than three (3) years ago.",
+    "expected_citation": "IDAPA 16.03.22.005",
+    "topic_tags": ["staffing", "documentation"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "ID-006",
+    "question": "What is the definition of a carrier under Idaho communicable disease rules?",
+    "expected_answer": "A carrier is a person who can transmit a communicable disease to another person, but may not have symptoms of the disease.",
+    "expected_citation": "IDAPA 16.02.10",
+    "topic_tags": ["health-services", "infection_control"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "ID-007",
+    "question": "What is the purpose of a residential assisted living facility according to Idaho regulations?",
+    "expected_answer": "To provide choice, dignity, and independence to residents while maintaining a safe, humane, and homelike residential environment.",
+    "expected_citation": "IDAPA 16.03.22.002",
+    "topic_tags": ["resident-rights"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "ID-008",
+    "question": "Can an Idaho ALF charge residents for personal furnishings and equipment provided by the facility?",
+    "expected_answer": "Yes, the facility may charge residents unless paid for by a publicly funded program, and must provide a detailed itemization.",
+    "expected_citation": "IDAPA 16.03.22",
+    "topic_tags": ["resident-rights", "documentation"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "ID-009",
+    "question": "What are the complete requirements for assessment frequency and rate changes in Idaho assisted living facilities?",
+    "expected_answer": "Services or rates impacted by updated assessment must include the assessment tool, the assessor, and the frequency of assessment when the facility uses this assessment to determine rate changes.",
+    "expected_citation": "IDAPA 16.03.22",
+    "topic_tags": ["documentation", "resident-rights"],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "ID-010",
+    "question": "What are all the references and standards incorporated by reference in Idaho IDAPA 16.03.22 for residential assisted living facilities?",
+    "expected_answer": "Idaho Diet Manual, Idaho Food Code (IDAPA 16.02.19), Americans with Disabilities Act Accessibility Guidelines (28 CFR Part 36), and other referenced standards.",
+    "expected_citation": "IDAPA 16.03.22.002",
+    "topic_tags": ["licensing", "physical-plant"],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  }
+]

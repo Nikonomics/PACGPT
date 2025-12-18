@@ -74,7 +74,9 @@ class RAGEngine:
         query: str,
         top_k: int = 5,
         similarity_threshold: float = 0.0,
-        state: Optional[str] = None
+        state: Optional[str] = None,
+        topic_tags: Optional[List[str]] = None,
+        facility_type: Optional[str] = None
     ) -> List[Dict]:
         """
         Retrieve most relevant chunks for a query.
@@ -85,6 +87,10 @@ class RAGEngine:
             similarity_threshold: Minimum similarity score (0.0-1.0)
             state: State to filter by (e.g., "Idaho", "Washington", "Oregon")
                    If provided, returns state-specific + federal (jurisdiction="All") chunks
+            topic_tags: List of topic tags to filter by (e.g., ["staffing", "licensing"])
+                        Chunk must have at least one matching tag
+            facility_type: Facility type to filter by (e.g., "ALF", "SNF", "Both", "General")
+                          Matches chunk's facility_types if it equals the type, "General", or "Both"
 
         Returns:
             List of relevant chunks with similarity scores
@@ -104,6 +110,28 @@ class RAGEngine:
                 # Include chunks from the specified state OR federal chunks (jurisdiction="All")
                 if jurisdiction != state and jurisdiction != "All":
                     continue
+
+            # Apply topic_tags filter if specified
+            if topic_tags:
+                chunk_tags = chunk.get("topic_tags", [])
+                # Check if chunk has at least one matching tag
+                if not any(tag in chunk_tags for tag in topic_tags):
+                    continue
+
+            # Apply facility_type filter if specified
+            if facility_type:
+                # Check both "facility_types" and "facility_type" for compatibility
+                chunk_facility = chunk.get("facility_types") or chunk.get("facility_type", "")
+
+                # Handle facility_types as list (e.g., ['ALF']) or string
+                if isinstance(chunk_facility, list):
+                    # Include if list contains requested type, "General", "Both", or "All"
+                    if not any(f in [facility_type, "General", "Both", "All"] for f in chunk_facility):
+                        continue
+                else:
+                    # String comparison - include if matches requested type, or is "General", "Both", or "All"
+                    if chunk_facility not in [facility_type, "General", "Both", "All"]:
+                        continue
 
             similarity = self.embedding_manager.compute_similarity(
                 query_embedding,
@@ -130,7 +158,9 @@ class RAGEngine:
         similarity_threshold: float = 0.0,  # Lowered from 0.3 to get more chunks
         temperature: float = 0.5,  # Increased from 0.3 for more natural responses
         verbose: bool = False,
-        state: Optional[str] = None  # State filter for jurisdiction-specific queries
+        state: Optional[str] = None,  # State filter for jurisdiction-specific queries
+        topic_tags: Optional[List[str]] = None,  # Topic tags filter
+        facility_type: Optional[str] = None  # Facility type filter
     ) -> Dict:
         """
         Answer a question using RAG.
@@ -143,6 +173,8 @@ class RAGEngine:
             temperature: Temperature for Claude response
             verbose: Print debug information
             state: State to filter by (e.g., "Idaho", "Washington", "Oregon")
+            topic_tags: List of topic tags to filter by (e.g., ["staffing", "licensing"])
+            facility_type: Facility type to filter by (e.g., "ALF", "SNF", "Both", "General")
 
         Returns:
             Dict with answer, citations, and metadata
@@ -162,7 +194,9 @@ class RAGEngine:
             question,
             top_k=top_k,
             similarity_threshold=similarity_threshold,
-            state=state
+            state=state,
+            topic_tags=topic_tags,
+            facility_type=facility_type
         )
 
         retrieved_chunks = [r["chunk"] for r in results]
@@ -253,6 +287,10 @@ IMPORTANT: You are answering questions specifically for {state_name}. Your respo
 PRIORITY: Answer the question directly with specific numbers, requirements, and actionable information.
 
 HOW TO RESPOND:
+**CRITICAL: Base your answer ONLY on information from the provided context below. If the context contains relevant information, USE IT to answer the question - don't be overly cautious. Only say "I don't have information about that in the {state_name} regulations I have access to" if the retrieved context truly has nothing relevant to the question. Never use your general training knowledge to answer regulatory questions.**
+
+**CITATION RULE: Only cite OAR, WAC, IDAPA, or other regulatory section numbers that appear VERBATIM in the provided context. If the context does not contain a specific section number, do NOT invent one. Instead say "per Oregon regulations" or "according to the facility requirements" without fabricating a citation number. Never generate a citation like "OAR 411-054-0300" unless that exact string appears in the retrieved text.**
+
 1. **Lead with the concrete answer** - If someone asks about staffing, give them numbers. If they ask about square footage, give them the measurements. Don't bury the answer in legal language.
 
 2. **Extract specific requirements** from the regulations:

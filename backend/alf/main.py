@@ -103,6 +103,8 @@ class QueryRequest(BaseModel):
     temperature: float = 0.5  # Increased from 0.3 for more natural responses
     session_id: Optional[str] = None  # For analytics tracking
     state: Optional[str] = "Idaho"  # State filter for jurisdiction-specific queries
+    topic_tags: Optional[List[str]] = None  # e.g., ["staffing", "licensing"]
+    facility_type: Optional[str] = None  # e.g., "ALF", "SNF", "Both", "General"
 
 
 class Citation(BaseModel):
@@ -189,7 +191,9 @@ async def query(request: QueryRequest, req: Request):
             top_k=request.top_k,
             temperature=request.temperature,
             verbose=False,
-            state=request.state  # Pass state for jurisdiction filtering
+            state=request.state,  # Pass state for jurisdiction filtering
+            topic_tags=request.topic_tags,  # Pass topic tags for filtering
+            facility_type=request.facility_type  # Pass facility type for filtering
         )
 
         # Calculate response time

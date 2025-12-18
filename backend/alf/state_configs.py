@@ -132,7 +132,7 @@ WASHINGTON_CONFIG = StateConfig(
     content_patterns=[
         r'WAC\s+\d+',
         r'RCW\s+\d+',
-        r'\d+-\d+[A-Z]?-\d+',  # WAC section numbers like 388-78A-2010
+        r'\d{3}-\d+[A-Z]?-\d+',  # WAC section numbers like 388-78A-2010 (require 3 digits at start)
         r'Washington\s+State',
         r'Department\s+of\s+Social\s+and\s+Health\s+Services',
         r'DSHS',
@@ -234,10 +234,10 @@ ARIZONA_CONFIG = StateConfig(
     ],
 
     section_patterns={
-        # AAC format: R9-10-801 Definitions or R9-10-801.Definitions
-        'level_1': r'^R(\d+-\d+-\d+)\.?\s*([A-Z][A-Za-z\s\-,;()\'\&]+)?',
+        # AAC format: R9-10-801. Definitions (section number with optional title on same line)
+        'level_1': r'^R(\d+-\d+-\d+)\.?\s*([A-Z][A-Za-z \-,;()\'&]+)?$',  # No newlines - stop at end of line
         # ARS format: 36-401. or 36-446.04.
-        'level_2': r'^(\d{2}-\d{3,4}(?:\.\d{2})?)\.?\s*([A-Z][A-Za-z\s\-,;()\']+)?',
+        'level_2': r'^(\d{2}-\d{3,4}(?:\.\d{2})?)\.?\s*([A-Z][A-Za-z \-,;()\']+)?$',
         # Subsection: A. B. C. or 1. 2. 3. or (a) (b) (c)
         'level_3': r'^([A-Z])\.\s+|^(\d+)\.\s+|^\(([a-z])\)\s+',
     },

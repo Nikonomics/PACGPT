@@ -1,65 +1,32 @@
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-1 
  
 TITLE 9. HEALTH SERVICES 
 CHAPTER 10.  DEPARTMENT OF HEALTH SERVICES 
 HEALTH CARE INSTITUTIONS: LICENSING 
 ARTICLE 8. ASSISTED LIVING FACILITIES 
 Section 
-R9-10-801. 
-Definitions 
-R9-10-802. 
-Supplemental Application Requirements 
-R9-10-803. 
-Administration 
-R9-10-804. 
-Quality Management 
-R9-10-805. 
-Contracted Services 
-R9-10-806. 
-Personnel 
-R9-10-807. 
-Residency and Residency Agreements 
-R9-10-808. 
-Service Plans 
-R9-10-809. 
-Transport; Transfer 
-R9-10-810. 
-Resident Rights  
-R9-10-811. 
-Medical Records 
-R9-10-812. 
-Behavioral Care 
-R9-10-813. 
-Behavioral Health Services 
-R9-10-814. 
-Personal Care Services  
-R9-10-815. 
-Directed Care Services 
-R9-10-816. 
-Medication Services 
-R9-10-817. 
-Food Services 
-R9-10-818. 
-Emergency and Safety Standards 
-R9-10-819. 
-Environmental Standards 
-R9-10-820. 
-Physical Plant Standards 
- 
- 
-
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-2 
- 
+R9-10-801. Definitions
+R9-10-802. Supplemental Application Requirements
+R9-10-803. Administration
+R9-10-804. Quality Management
+R9-10-805. Contracted Services
+R9-10-806. Personnel
+R9-10-807. Residency and Residency Agreements
+R9-10-808. Service Plans
+R9-10-809. Transport; Transfer
+R9-10-810. Resident Rights
+R9-10-811. Medical Records
+R9-10-812. Behavioral Care
+R9-10-813. Behavioral Health Services
+R9-10-814. Personal Care Services
+R9-10-815. Directed Care Services
+R9-10-816. Medication Services
+R9-10-817. Food Services
+R9-10-818. Emergency and Safety Standards
+R9-10-819. Environmental Standards
+R9-10-820. Physical Plant Standards
 ARTICLE 8. ASSISTED LIVING FACILITIES 
  
-R9-10-801. 
-Definitions 
+R9-10-801. Definitions
 In addition to the definitions in A.R.S. § 36-401 and R9-10-101, the following definitions apply in this 
 Article, unless the context otherwise requires: 
 1. 
@@ -101,15 +68,9 @@ health services and the specific assisted living services to be provided to the 
 10. 
 “Termination of residency” or “terminate residency” means a resident is no longer living 
 in and receiving assisted living services from an assisted living facility. 
-R9-10-802. 
-Supplemental Application Requirements 
+R9-10-802. Supplemental Application Requirements
 In addition to the license application requirements in A.R.S. § 36-422 and R9-10-105, an applicant for a 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-3 
- 
 license as an assisted living facility shall include in a Department-provided format: 
 1. 
 Which of the following levels of assisted living services the applicant is requesting 
@@ -126,8 +87,7 @@ a.
 Adult day health care services, or 
 b. 
 Behavioral health services other than behavioral care. 
-R9-10-803. 
-Administration 
+R9-10-803. Administration
 A. 
 A governing authority shall: 
 1. 
@@ -168,11 +128,6 @@ the new manager;
 8. 
 Ensure that a manager or caregiver who is able to read, write, understand, and 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-4 
- 
 communicate in English is on an assisted living facility’s premises; and 
 9. 
 Ensure compliance with A.R.S. § 36-411. 
@@ -228,11 +183,6 @@ g.
 Cover how a caregiver will respond to a resident’s sudden, intense, or out-of-
 control behavior to prevent harm to the resident or another individual; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-5 
- 
 h. 
 Cover staffing and recordkeeping; 
 i. 
@@ -295,11 +245,6 @@ A manager shall ensure that the following are conspicuously posted:
 1. 
 A list of resident rights; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-6 
- 
 2. 
 The assisted living facility’s license; 
 3. 
@@ -352,11 +297,6 @@ member of the employee;
 If the assisted living facility administers personal funds accounts for residents and is 
 authorized in writing by a resident or the resident’s representative to administer a 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-7 
- 
 personal funds account for the resident: 
 a. 
 Ensure that the resident’s personal funds account does not exceed $2,000; 
@@ -409,11 +349,6 @@ Initiate an investigation of the suspected abuse, neglect, or exploitation and d
 following information within five working days after the report required in subsection 
 (J)(2): 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-8 
- 
 a. 
 The dates, times, and description of the suspected abuse, neglect, or exploitation;  
 b. 
@@ -469,15 +404,9 @@ American Red Cross,
 2. 
 American Heart Association, or 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-9 
- 
 3. 
 National Safety Council. 
-R9-10-804. 
-Quality Management 
+R9-10-804. Quality Management
 A manager shall ensure that: 
 1. 
 A plan is established, documented, and implemented for an ongoing quality management 
@@ -507,16 +436,14 @@ about the delivery of services related to resident care; and
 The report required in subsection (2) and the supporting documentation for the report are 
 maintained for at least 12 months after the date the report is submitted to the governing 
 authority. 
-R9-10-805. 
-Contracted Services 
+R9-10-805. Contracted Services
 A manager shall ensure that: 
 1. 
 Contracted services are provided according to the requirements in this Article, and 
 2. 
 Documentation of current contracted services is maintained that includes a description of 
 the contracted services provided. 
-R9-10-806. 
-Personnel 
+R9-10-806. Personnel
 A. 
 A manager shall ensure that: 
 1. 
@@ -530,11 +457,6 @@ Completion of a caregiver training program approved by the Department
 or the Board of Examiners for Nursing Care Institution Administrators 
 and Assisted Living Facility Managers; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-10 
- 
 ii. 
 For supervisory care services, employment as a manager or caregiver of 
 a supervisory care home before November 1, 1998; 
@@ -587,11 +509,6 @@ ii.
 The type and duration of education that may allow the caregiver or 
 assistant caregiver to have acquired the specific skills and knowledge for 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-11 
- 
 the caregiver or assistant caregiver to provide the expected assisted living 
 services, behavioral health services, or behavioral care listed in the 
 established job description; and 
@@ -642,11 +559,6 @@ caregiver or assistant caregiver; and
 Before providing assisted living services to a resident, a manager or caregiver provides 
 current documentation of first aid training and cardiopulmonary resuscitation training 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-12 
- 
 certification specific to adults. 
 B. 
 A manager of an assisted living home shall ensure that: 
@@ -699,11 +611,6 @@ b.
 The individual’s starting date of employment or volunteer service and, if 
 applicable, the ending date; and 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-13 
- 
 c. 
 Documentation of: 
 i. 
@@ -746,8 +653,7 @@ For a manager, a caregiver, or an assistant caregiver who has not provided physi
 services or behavioral health services at or for the assisted living facility during the 
 previous 12 months, is provided to the Department within 72 hours after the 
 Department’s request. 
-R9-10-807. 
-Residency and Residency Agreements 
+R9-10-807. Residency and Residency Agreements
 A. 
 Except as provided in R9-10-808(B)(2), a manager shall ensure that a resident provides evidence 
 of freedom from infectious tuberculosis: 
@@ -758,11 +664,6 @@ As specified in R9-10-113.
 B. 
 A manager shall ensure that before or at the time of acceptance of an individual, the individual 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-14 
- 
 submits documentation that is dated within 90 calendar days before the individual is accepted by 
 an assisted living facility and: 
 1. 
@@ -821,11 +722,6 @@ The individual requires restraints, including the use of bedrails.
 D. 
 Before or at the time of an individual’s acceptance by an assisted living facility, a manager shall 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-15 
- 
 ensure that there is a documented residency agreement with the assisted living facility that 
 includes: 
 1. 
@@ -885,11 +781,6 @@ The policy and procedure on health care directives; and
 2. 
 Maintain the original of the residency agreement in subsection (D) in the resident’s 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-16 
- 
 medical record. 
 G. 
 A manager may terminate residency of a resident as follows: 
@@ -931,8 +822,7 @@ the assisted living facility is either not licensed to provide or is licensed to
 provide, a manager shall ensure that the written notice of termination of residency includes a 
 description of the specific services that the resident needs that the assisted living facility is either 
 not licensed to provide or is licensed to provide but not able to provide. 
-R9-10-808. 
-Service Plans 
+R9-10-808. Service Plans
 A. 
 Except as required in subsection (B), a manager shall ensure that a resident has a written service 
 plan that: 
@@ -949,11 +839,6 @@ Any individual requested by the resident or the resident’s representative;
 3. 
 Includes the following: 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-17 
- 
 a. 
 A description of the resident’s medical or health problems, including physical, 
 behavioral, cognitive, or functional conditions or impairments; 
@@ -1009,11 +894,6 @@ When initially developed and when updated, is signed and dated by:
 a. 
 The resident or resident’s representative; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-18 
- 
 b. 
 The manager; 
 c. 
@@ -1067,11 +947,6 @@ f.
 Encourages a resident to participate in activities planned according to subsection 
 (E); and 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-19 
- 
 g. 
 Documents the services provided in the resident’s medical record; and 
 2. 
@@ -1132,13 +1007,7 @@ Alzheimer’s disease-related dementia, or
 c. 
 Traumatic brain injury. 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-20 
- 
-R9-10-809. 
-Transport; Transfer 
+R9-10-809. Transport; Transfer
 A. 
 Except as provided in subsection (B), a manager shall ensure that: 
 1. 
@@ -1198,13 +1067,7 @@ d.
 If applicable, the name of the caregiver accompanying the resident during a 
 transfer. 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-21 
- 
-R9-10-810. 
-Resident Rights 
+R9-10-810. Resident Rights
 A. 
 A manager shall ensure that, at the time of acceptance, a resident or the resident’s representative 
 receives a written copy of the requirements in subsection (B) and the resident rights in subsection 
@@ -1262,11 +1125,6 @@ May:
 i. 
 Request or consent to relocation within the assisted living facility; and 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-22 
- 
 ii. 
 Except when relocation is necessary based on a change in the resident’s 
 condition as documented in the resident’s service plan, refuse relocation 
@@ -1319,19 +1177,13 @@ pharmacy other than the assisted living facility where the resident is residing 
 receiving services or a health care provider, health care institution, or pharmacy 
 recommended by the assisted living facility; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-23 
- 
 9. 
 To participate or have the resident's representative participate in the development of, or 
 decisions concerning, the resident’s service plan; and 
 10. 
 To receive assistance from a family member, the resident’s representative, or other 
 individual in understanding, protecting, or exercising the resident’s rights. 
-R9-10-811. 
-Medical Records 
+R9-10-811. Medical Records
 A. 
 A manager shall ensure that: 
 1. 
@@ -1383,11 +1235,6 @@ The names, addresses, and telephone numbers of:
 a. 
 The resident’s primary care provider; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-24 
- 
 b. 
 Other persons, such as a home health agency or hospice service agency, involved 
 in the care of the resident; and 
@@ -1444,11 +1291,6 @@ An unexpected reaction the resident has to the medication;
 14. 
 Documentation of the resident’s refusal of a medication, if applicable; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-25 
- 
 15. 
 If applicable, documentation of any actions taken to control the resident’s sudden, 
 intense, or out-of-control behavior to prevent harm to the resident or another individual; 
@@ -1485,9 +1327,8 @@ a.
 A written notice of termination of residency; or 
 b. 
 If the resident terminated residency, the date the resident terminated residency. 
-R9-10-812. 
-Behavioral Care 
-A manager shall ensure that for a resident who requests or receives behavioral care from the assisted 
+R9-10-812. Behavioral Care 
+A manager shall ensure that for a resident who requests or receives behavioral care from the assisted
 living facility, a behavioral health professional or medical practitioner: 
 1. 
 Evaluates the resident: 
@@ -1500,17 +1341,11 @@ behavioral care;
 2. 
 Reviews the assisted living facility’s scope of services; and 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-26 
- 
 3. 
 Signs and dates a determination stating that the resident’s need for behavioral care can be 
 met by the assisted living facility within the assisted living facility’s scope of services 
 and, for retention of a resident, are being met by the assisted living facility. 
-R9-10-813. 
-Behavioral Health Services 
+R9-10-813. Behavioral Health Services
 If an assisted living facility is authorized to provide behavioral health services other than behavioral care, 
 a manager shall ensure that: 
 1. 
@@ -1541,8 +1376,7 @@ c.
 Signs and dates a determination stating that the resident’s needs can be met by 
 the assisted living facility within the assisted living facility’s scope of services 
 and, for retention of a resident, are being met by the assisted living facility. 
-R9-10-814. 
-Personal Care Services 
+R9-10-814. Personal Care Services
 A. 
 A manager of an assisted living facility authorized to provide personal care services shall not 
 accept or retain a resident who: 
@@ -1555,11 +1389,6 @@ to ambulate even with assistance; or
 Except as specified in subsection (C), has a stage 3 or stage 4 pressure sore, as 
 determined by a registered nurse or medical practitioner. 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-27 
- 
 B. 
 A manager of an assisted living facility authorized to provide personal care services may accept 
 or retain a resident who is confined to a bed or chair because of an inability to ambulate even with 
@@ -1612,11 +1441,6 @@ F.
 In addition to the requirements in R9-10-808(A)(3), a manager shall ensure that the service plan 
 for a resident receiving personal care services includes: 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-28 
- 
 1. 
 Skin maintenance to prevent and treat bruises, injuries, pressure sores, and infections; 
 2. 
@@ -1630,8 +1454,7 @@ G.
 A manager shall ensure that an employee does not provide non-prescription medication to a 
 resident receiving personal care services unless the resident has an order from the resident's 
 primary care provider or another medical practitioner for the non-prescription medication. 
-R9-10-815. 
-Directed Care Services 
+R9-10-815. Directed Care Services
 A. 
 A manager shall ensure that a resident’s representative is designated for a resident who is unable 
 to direct self-care. 
@@ -1675,11 +1498,6 @@ A manager shall ensure that:
 1. 
 A bell, intercom, or other mechanical means to alert employees to a resident’s needs or 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-29 
- 
 emergencies is available in a bedroom being used by a resident receiving directed care 
 services; or 
 2. 
@@ -1716,8 +1534,7 @@ the International Building Code incorporated by reference R9-10-104.01; and
 A caregiver or an assistant caregiver complies with the requirements for incidents in R9-
 10-804 when a resident who is unable to direct self-care wanders into an area not 
 designated by the governing authority for use by the resident. 
-R9-10-816. 
-Medication Services 
+R9-10-816. Medication Services
 A. 
 A manager shall ensure that: 
 1. 
@@ -1734,11 +1551,6 @@ regimen meets the resident’s needs;
 d. 
 Procedures for: 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-30 
- 
 i. 
 Documenting, as applicable, medication administration and assistance in 
 the self-administration of medication; and 
@@ -1797,11 +1609,6 @@ A reminder when it is time to take the medication;
 b. 
 Opening the medication container or medication organizer for the resident; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-31 
- 
 c. 
 Observing the resident while the resident removes the medication from the 
 container or medication organizer; 
@@ -1858,11 +1665,6 @@ medical practitioner, according to subsection (B)(2)(b).
 F. 
 When medication is stored by an assisted living facility, a manager shall ensure that: 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-32 
- 
 1. 
 Medication is stored in a separate locked room, closet, cabinet, or self-contained unit 
 used only for medication storage; 
@@ -1894,8 +1696,7 @@ The medication is stored according to the resident’s service plan; or
 If the medication is not being stored according to the resident’s service plan, the 
 resident’s service plan is updated to include how the medication is being stored by the 
 resident. 
-R9-10-817. 
-Food Services 
+R9-10-817. Food Services
 A. 
 A manager shall ensure that: 
 1. 
@@ -1917,11 +1718,6 @@ menu;
 Meals and snacks provided by the assisted living facility are served according to posted 
 menus; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-33 
- 
 3. 
 If the assisted living facility contracts with a food establishment, as established in 9 
 A.A.C. 8, Article 1, to prepare and deliver food to the assisted living facility, a copy of 
@@ -1976,11 +1772,6 @@ i.
 Ground beef and ground meats are cooked to heat all parts of the food to 
 at least 155° F; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-34 
- 
 ii. 
 Poultry, poultry stuffing, stuffed meats, and stuffing that contains meat 
 are cooked to heat all parts of the food to at least 165° F; 
@@ -2011,8 +1802,7 @@ The assisted living center has a license or permit as a food establishment under
 8, Article 1; and 
 2. 
 A copy of the assisted living center’s food establishment license or permit is maintained. 
-R9-10-818. 
-Emergency and Safety Standards 
+R9-10-818. Emergency and Safety Standards
 A. 
 A manager shall ensure that: 
 1. 
@@ -2038,11 +1828,6 @@ The date and time of the disaster plan review;
 b. 
 The name of each employee or volunteer participating in the disaster plan review; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-35 
- 
 c. 
 A critique of the disaster plan review; and 
 d. 
@@ -2102,11 +1887,6 @@ Immediately notifies the resident’s emergency contact and primary care provide
 2. 
 Documents the following: 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-36 
- 
 a. 
 The date and time of the accident, emergency, or injury; 
 b. 
@@ -2164,11 +1944,6 @@ b.
 Has a tag attached to the fire extinguisher that specifies the date of the last 
 servicing and the identification of the person who serviced the fire extinguisher; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-37 
- 
 4. 
 Except as provided in subsection (G): 
 a. 
@@ -2200,8 +1975,7 @@ ensure the safety of residents if the fire alarm system and sprinkler system:
 Are installed and in working order, and 
 2. 
 Meet the requirements in subsection (E)(1). 
-R9-10-819. 
-Environmental Standards 
+R9-10-819. Environmental Standards
 A. 
 A manager shall ensure that: 
 1. 
@@ -2227,11 +2001,6 @@ between 70° F and 84° F at all times, unless individually controlled by a resi
 5. 
 Common areas: 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-38 
- 
 a. 
 Are lighted to ensure the safety of residents, and 
 b. 
@@ -2287,11 +2056,6 @@ bacteria and fecal coliform or E. coli bacteria;
 b. 
 If necessary, corrective action is taken to ensure the water is safe to drink; and 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-39 
- 
 c. 
 Documentation of testing is retained for at least 12 months after the date of the 
 test; and 
@@ -2323,8 +2087,7 @@ of the test; and
 3. 
 A swimming pool is not used by a resident if a water quality test shows that the 
 swimming pool water does not comply with subsection (B)(1)(a). 
-R9-10-820. 
-Physical Plant Standards 
+R9-10-820. Physical Plant Standards
 A. 
 A manager shall ensure that an assisted living center complies with the applicable physical plant 
 health and safety codes and standards, incorporated by reference in R9-10-104.01, that: 
@@ -2348,11 +2111,6 @@ accommodate the recreational and socialization needs of residents;
 A dining area has sufficient space and tables and chairs to accommodate the needs of the 
 residents; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-40 
- 
 4. 
 At least one bathroom is accessible from a common area and: 
 a. 
@@ -2416,11 +2174,6 @@ g.
 Nonporous surfaces for shower enclosures and slip-resistant surfaces in tubs and 
 showers. 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-41 
- 
 D. 
 A manager shall ensure that: 
 1. 
@@ -2479,11 +2232,6 @@ bathroom, for each additional individual residing in the residential unit;
 b. 
 An individually keyed entry door; 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-42 
- 
 c. 
 A bathroom that provides privacy when in use and contains: 
 i. 
@@ -2548,11 +2296,6 @@ There is at least 100 square feet for each individual living in the residential 
 3. 
 The manager has documentation that the assisted living facility has been operating since 
 
-This document contains an unofficial version of the new rules in 9 A.A.C. 10, Article 1, effective November 5, 2019. 
- 
- 
-43 
- 
 before November 1, 1998, with more than two individuals living in the residential unit or 
 bedroom. 
 F. 
@@ -2589,6 +2332,4 @@ Pool safety requirements are conspicuously posted in the swimming pool area.
 G. 
 A manager shall ensure that a spa that is not enclosed by a wall or fence as described in 
 subsection (F)(1) is covered and locked when not in use. 
- 
- 
  

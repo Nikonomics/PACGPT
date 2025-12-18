@@ -1,0 +1,92 @@
+[
+  {
+    "question_id": "WA-001",
+    "question": "What is the purpose of Washington's assisted living facility licensing chapter (RCW 18.20)?",
+    "expected_answer": "To provide for the development, establishment, and enforcement of standards for the maintenance and operation of assisted living facilities to promote safe and adequate care.",
+    "expected_citation": "RCW 18.20.010",
+    "topic_tags": ["licensing"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "WA-002",
+    "question": "Is a license required to operate an assisted living facility in Washington?",
+    "expected_answer": "Yes, a license is required under RCW 18.20.",
+    "expected_citation": "RCW 18.20.030",
+    "topic_tags": ["licensing"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "WA-003",
+    "question": "What is the definition of mental abuse in Washington assisted living regulations?",
+    "expected_answer": "Mental abuse may include ridiculing, yelling, or swearing.",
+    "expected_citation": "RCW 18.20.090",
+    "topic_tags": ["resident-rights", "safety"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "WA-004",
+    "question": "What is the definition of personal exploitation under Washington assisted living regulations?",
+    "expected_answer": "An act of forcing, compelling, or exerting undue influence over a vulnerable adult causing them to act inconsistently with past behavior or perform services for another's benefit.",
+    "expected_citation": "RCW 18.20.090",
+    "topic_tags": ["resident-rights", "safety"],
+    "facility_type": "ALF",
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "WA-005",
+    "question": "What must Washington assisted living facilities disclose about domiciliary care services?",
+    "expected_answer": "The ALF licensee must disclose the scope of care and services to residents, their legal representative, and the residents' representative if applicable.",
+    "expected_citation": "RCW 18.20.300",
+    "topic_tags": ["staffing", "documentation"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "WA-006",
+    "question": "What are the inspection requirements for Washington assisted living facilities?",
+    "expected_answer": "Inspections must be outcome based and responsive to resident complaints, based on clear health, quality of care, and safety standards that are easily understandable.",
+    "expected_citation": "RCW 18.20.125",
+    "topic_tags": ["licensing", "safety"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "WA-007",
+    "question": "Can a skilled nursing facility in Washington convert to provide enhanced adult residential care services?",
+    "expected_answer": "Yes, the department shall encourage SNFs licensed under chapter 18.51 RCW to convert a portion or all of their licensed bed capacity to provide enhanced adult residential care contracted services.",
+    "expected_citation": "RCW 18.20.220",
+    "topic_tags": ["licensing"],
+    "facility_type": "Both",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "WA-008",
+    "question": "What tuberculosis testing requirements apply to Washington assisted living facilities?",
+    "expected_answer": "The ALF must ensure that all tuberculosis testing follows specific testing method requirements.",
+    "expected_citation": "WAC 388-78A-2481",
+    "topic_tags": ["health-services", "staffing"],
+    "facility_type": "ALF",
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "WA-009",
+    "question": "What are the minimum required terms in a management agreement for Washington assisted living facilities?",
+    "expected_answer": "Management agreements must include specific minimum terms as required by regulation.",
+    "expected_citation": "WAC 388-78A-2593",
+    "topic_tags": ["licensing", "documentation"],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "WA-010",
+    "question": "What are all the screening and limitations on unsupervised access to vulnerable adults in Washington assisted living facilities?",
+    "expected_answer": "Comprehensive screening requirements and limitations on unsupervised access to protect vulnerable adults as part of inspection and enforcement remedies.",
+    "expected_citation": "RCW 18.20.125",
+    "topic_tags": ["staffing", "safety", "resident-rights"],
+    "facility_type": "ALF",
+    "difficulty": "hard"
+  }
+]

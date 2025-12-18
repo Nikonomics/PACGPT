@@ -4,7 +4,7 @@
     "question": "What is the minimum square footage required for a private bedroom in an Arizona assisted living facility?",
     "expected_answer": "A private bedroom must have at least 80 square feet of floor space, not including a closet or bathroom.",
     "expected_source": "AZ article-8.txt",
-    "expected_citation": "R9-10-815",
+    "expected_citation": "R9-10-820",
     "topic_tags": [
       "physical-plant"
     ],
@@ -41,7 +41,7 @@
     "question": "What is the minimum square footage per person for a shared bedroom in an Arizona ALF?",
     "expected_answer": "For a shared bedroom, at least 60 square feet of floor space for each individual occupying the shared bedroom, not including a closet or bathroom.",
     "expected_source": "AZ article-8.txt",
-    "expected_citation": "R9-10-815",
+    "expected_citation": "R9-10-820",
     "topic_tags": [
       "physical-plant"
     ],
@@ -92,7 +92,7 @@
     "question": "What are the minimum space requirements for a residential unit in an Arizona assisted living facility?",
     "expected_answer": "A residential unit must have at least 220 square feet of floor space (not including closet or bathroom) for one individual, plus an additional 100 square feet for each additional individual.",
     "expected_source": "AZ article-8.txt",
-    "expected_citation": "R9-10-815",
+    "expected_citation": "R9-10-820",
     "topic_tags": [
       "physical-plant"
     ],
@@ -142,7 +142,7 @@
     "question": "What physical plant requirements apply to bathrooms in Arizona assisted living facilities, including both common area and bedroom bathrooms?",
     "expected_answer": "Common area bathrooms must be accessible, provide privacy, and contain a working sink with running water, working toilet, and soap/towels. Bedroom/unit bathrooms must include working toilet, sink, bathtub or shower, lighting, mirror, window or ventilation, and towel storage.",
     "expected_source": "AZ article-8.txt",
-    "expected_citation": "R9-10-815",
+    "expected_citation": "R9-10-820",
     "topic_tags": [
       "physical-plant"
     ],
@@ -167,7 +167,7 @@
     "question": "What are all the Arizona requirements for medication services in assisted living facilities?",
     "expected_answer": "ALFs must have policies for medication storage, administration assistance, documentation, and error reporting. Staff assisting with medications must be trained. Controlled substances have additional storage and tracking requirements. The facility must maintain medication records and coordinate with prescribing physicians.",
     "expected_source": "AZ article-8.txt",
-    "expected_citation": "R9-10-817",
+    "expected_citation": "R9-10-816",
     "topic_tags": [
       "health-services",
       "documentation",
