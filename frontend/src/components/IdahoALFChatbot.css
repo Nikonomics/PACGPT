@@ -524,6 +524,8 @@
   height: calc(100vh - 116px); /* Match chat panel height */
   max-height: calc(100vh - 116px);
   z-index: 10;
+  overflow: hidden; /* Prevent panel from expanding */
+  min-width: 0; /* Allow shrinking in grid */
 }
 
 .alf-library-panel > .alf-card {
@@ -960,7 +962,9 @@
 .alf-library-content {
   flex: 1;
   overflow-y: auto;
+  overflow-x: hidden; /* Prevent horizontal expansion */
   min-height: 0;
+  min-width: 0; /* Allow shrinking */
 }
 
 /* Library Tree Styles */
@@ -1058,6 +1062,7 @@
   align-items: center;
   gap: 6px;
   width: 100%;
+  min-width: 0; /* Allow shrinking for text truncation */
   padding: 6px 12px;
   background: transparent;
   border: none;
@@ -1081,6 +1086,8 @@
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  min-width: 0; /* Allow shrinking */
+  flex: 1; /* Take remaining space */
 }
 
 /* Search Results */

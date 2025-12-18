@@ -209,6 +209,53 @@ OREGON_CONFIG = StateConfig(
 
 
 # =============================================================================
+# ARIZONA CONFIGURATION
+# =============================================================================
+
+ARIZONA_CONFIG = StateConfig(
+    state_name="Arizona",
+    state_abbrev="AZ",
+
+    filename_patterns=[
+        r'^AZ\s',         # Files starting with "AZ "
+        r'arizona',
+        r'a\.a\.c',       # Arizona Administrative Code
+        r'a\.r\.s',       # Arizona Revised Statutes
+    ],
+
+    content_patterns=[
+        r'R\d+-\d+-\d+',              # AAC section format (R9-10-801)
+        r'A\.A\.C\.',                 # Arizona Administrative Code
+        r'A\.R\.S\.',                 # Arizona Revised Statutes
+        r'\d{2}-\d{3,4}',             # ARS section format (36-401)
+        r'Arizona\s+Department\s+of\s+Health',
+        r'ADHS',
+        r'Arizona\s+Revised\s+Statutes',
+    ],
+
+    section_patterns={
+        # AAC format: R9-10-801 Definitions or R9-10-801.Definitions
+        'level_1': r'^R(\d+-\d+-\d+)\.?\s*([A-Z][A-Za-z\s\-,;()\'\&]+)?',
+        # ARS format: 36-401. or 36-446.04.
+        'level_2': r'^(\d{2}-\d{3,4}(?:\.\d{2})?)\.?\s*([A-Z][A-Za-z\s\-,;()\']+)?',
+        # Subsection: A. B. C. or 1. 2. 3. or (a) (b) (c)
+        'level_3': r'^([A-Z])\.\s+|^(\d+)\.\s+|^\(([a-z])\)\s+',
+    },
+
+    agency_mappings={
+        'Arizona Department of Health Services': 'ADHS',
+        'Department of Health Services': 'ADHS',
+        'Board of Examiners of Nursing Care Institution Administrators and Assisted Living Facility Managers': 'NCIA Board',
+        'State of Arizona': 'Arizona',
+        'Arizona Health Care Cost Containment System': 'AHCCCS',
+        'Adult Protective Services': 'APS',
+    },
+
+    citation_pattern=r'R(\d+-\d+-\d+)|A\.R\.S\.\s*§?\s*(\d+-\d+)',
+)
+
+
+# =============================================================================
 # FEDERAL CONFIGURATIONS (Apply to all states)
 # =============================================================================
 
@@ -318,6 +365,7 @@ STATE_CONFIGS = {
     'idaho_code': IDAHO_CODE_CONFIG,
     'washington': WASHINGTON_CONFIG,
     'oregon': OREGON_CONFIG,
+    'arizona': ARIZONA_CONFIG,
 
     # Federal (apply everywhere)
     'fda_food_code': FDA_FOOD_CODE_CONFIG,

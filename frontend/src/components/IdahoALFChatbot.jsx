@@ -5,11 +5,12 @@ import './IdahoALFChatbot.css';
 
 const ALF_API_URL = import.meta.env.VITE_ALF_API_URL || 'http://localhost:8000';
 
-// Available states for the dropdown
+// Available states for the dropdown (alphabetical order)
 const AVAILABLE_STATES = [
+  { value: 'Arizona', label: 'Arizona', abbrev: 'AZ' },
   { value: 'Idaho', label: 'Idaho', abbrev: 'ID' },
-  { value: 'Washington', label: 'Washington', abbrev: 'WA' },
   { value: 'Oregon', label: 'Oregon', abbrev: 'OR' },
+  { value: 'Washington', label: 'Washington', abbrev: 'WA' },
 ];
 
 // Generate or retrieve session ID for analytics
