@@ -1,0 +1,673 @@
+{
+  "test_date": "2025-12-18T16:11:10.501610",
+  "api_url": "http://localhost:8000/query",
+  "state": "Idaho",
+  "summary": {
+    "total": 10,
+    "passed": 10,
+    "failed": 0,
+    "pass_rate": "100.0%"
+  },
+  "results": [
+    {
+      "question": "Can we admit a resident with a Foley catheter?",
+      "expected": "YES",
+      "actual": "YES",
+      "passed": true,
+      "answer_text": "Yes, you can admit a resident with a Foley catheter in an Idaho assisted living facility. Foley catheters are not on the prohibited list for admission. The regulations specifically state that only supra-pubic catheters have a 21-day restriction, not Foley (urinary) catheters [1].",
+      "full_answer": "Yes, you can admit a resident with a Foley catheter in an Idaho assisted living facility. Foley catheters are not on the prohibited list for admission. The regulations specifically state that only supra-pubic catheters have a 21-day restriction, not Foley (urinary) catheters [1].",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.6150938723625876,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.5226294121834691,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_i_1_2750b79d",
+          "similarity": 0.38979328923453416,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "i. Comprehensive assessments, as described in Section 319 of these rules; [eff. 2022-03-15]\nii. Current medications, treatments, and diet prescribed, all signed and dated by the ordering physician\nor "
+        },
+        {
+          "chunk_id": "CHK_09_1_36744928",
+          "similarity": 0.3299825633802907,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n09. Resident Admission and Discharge Register\n\n\n09. Resident Admission and Discharge Register. The facility must maintain an admission and\nIDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential\nWA DO"
+        },
+        {
+          "chunk_id": "CHK_e_1_dcf56c98",
+          "similarity": 0.3297472028055161,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "e. If separate from the admission agreement, a copy of the payment schedule and fee structure signed\nand dated by the resident or their legal guardian or conservator. [eff. 2022-03-15]\n\nf. If the faci"
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22",
+          "section_title": " through ",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.6150938723625876
+    },
+    {
+      "question": "Can we admit a resident with a supra-pubic catheter that was inserted 2 weeks ago?",
+      "expected": "NO",
+      "actual": "NO",
+      "passed": true,
+      "answer_text": "No, you cannot admit a resident with a supra-pubic catheter that was inserted 2 weeks ago. According to Idaho regulations, a resident with a supra-pubic catheter can only be admitted if more than 21 days have passed since insertion [2].",
+      "full_answer": "No, you cannot admit a resident with a supra-pubic catheter that was inserted 2 weeks ago. According to Idaho regulations, a resident with a supra-pubic catheter can only be admitted if more than 21 days have passed since insertion [2].",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.5850030280319117,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.5275168981384419,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_i_1_2750b79d",
+          "similarity": 0.37523314937599195,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "i. Comprehensive assessments, as described in Section 319 of these rules; [eff. 2022-03-15]\nii. Current medications, treatments, and diet prescribed, all signed and dated by the ordering physician\nor "
+        },
+        {
+          "chunk_id": "CHK_09_1_36744928",
+          "similarity": 0.32088216376512596,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n09. Resident Admission and Discharge Register\n\n\n09. Resident Admission and Discharge Register. The facility must maintain an admission and\nIDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential\nWA DO"
+        },
+        {
+          "chunk_id": "CHK_02_1_082b8b4d",
+          "similarity": 0.30172157056342924,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n02. Discontinued and Expired Prescriptions\n\n\n02. Discontinued and Expired Prescriptions. Discontinued or outdated medications and treatments\nmust be removed from the resident's medication supply and "
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22",
+          "section_title": " through ",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.5850030280319117
+    },
+    {
+      "question": "Can we admit a resident with a G-tube that was placed 30 days ago?",
+      "expected": "YES",
+      "actual": "YES",
+      "passed": true,
+      "answer_text": "Yes, you can admit a resident with a gastrostomy tube (G-tube) that was placed 30 days ago. According to Idaho regulations, residents with gastrostomy tubes can be admitted if more than 21 days have passed since the insertion of the tube [1]. Since 30 days have passed in this case, the admission is allowed.",
+      "full_answer": "Yes, you can admit a resident with a gastrostomy tube (G-tube) that was placed 30 days ago. According to Idaho regulations, residents with gastrostomy tubes can be admitted if more than 21 days have passed since the insertion of the tube [1]. Since 30 days have passed in this case, the admission is allowed.",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.5735211052823213,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.5067661288110071,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_i_1_2750b79d",
+          "similarity": 0.3819818768877343,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "i. Comprehensive assessments, as described in Section 319 of these rules; [eff. 2022-03-15]\nii. Current medications, treatments, and diet prescribed, all signed and dated by the ordering physician\nor "
+        },
+        {
+          "chunk_id": "CHK_02_1_082b8b4d",
+          "similarity": 0.34304793100543673,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n02. Discontinued and Expired Prescriptions\n\n\n02. Discontinued and Expired Prescriptions. Discontinued or outdated medications and treatments\nmust be removed from the resident's medication supply and "
+        },
+        {
+          "chunk_id": "CHK_09_1_36744928",
+          "similarity": 0.32499978691586456,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n09. Resident Admission and Discharge Register\n\n\n09. Resident Admission and Discharge Register. The facility must maintain an admission and\nIDAHO ADMINISTRATIVE CODE IDAPA 16.03.22 – Residential\nWA DO"
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22",
+          "section_title": " through ",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.5735211052823213
+    },
+    {
+      "question": "Can we have residents on IV therapy?",
+      "expected": "NO",
+      "actual": "NO",
+      "passed": true,
+      "answer_text": "No, you cannot have residents on IV therapy in an Idaho assisted living facility. According to IDAPA 16.03.22.152, residents who are receiving continuous total parenteral nutrition (TPN) or IV therapy are prohibited from being admitted or retained in the facility [1].",
+      "full_answer": "No, you cannot have residents on IV therapy in an Idaho assisted living facility. According to IDAPA 16.03.22.152, residents who are receiving continuous total parenteral nutrition (TPN) or IV therapy are prohibited from being admitted or retained in the facility [1].",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.4661170020048749,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.4350306492723027,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_b_1_e839966f",
+          "similarity": 0.36959377202537047,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "b. The physician or authorized provider orders related to therapeutic diets, treatments, and\nmedications for each resident are followed; and [eff. 2022-03-15]\n\nc. A copy of the actual written, signed,"
+        },
+        {
+          "chunk_id": "CHK_a_1_c5c28de0",
+          "similarity": 0.36324622903256326,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "a. The facility must have available at all times a quantity of linen essential to the proper care and\ncomfort of residents; [eff. 2022-03-15]\n\nc. Linens must be handled, processed, and stored in an ap"
+        },
+        {
+          "chunk_id": "CHK_i_1_2750b79d",
+          "similarity": 0.33246634309970297,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "i. Comprehensive assessments, as described in Section 319 of these rules; [eff. 2022-03-15]\nii. Current medications, treatments, and diet prescribed, all signed and dated by the ordering physician\nor "
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22",
+          "section_title": " through ",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.4661170020048749
+    },
+    {
+      "question": "What about residents with stage 3 pressure ulcers?",
+      "expected": "NO",
+      "actual": "NO",
+      "passed": true,
+      "answer_text": "Residents with stage 3 pressure ulcers cannot be admitted or retained in an Idaho assisted living facility. According to IDAPA 16.03.22.152, residents with stage III or IV pressure ulcers are explicitly listed as prohibited admissions [2].",
+      "full_answer": "Residents with stage 3 pressure ulcers cannot be admitted or retained in an Idaho assisted living facility. According to IDAPA 16.03.22.152, residents with stage III or IV pressure ulcers are explicitly listed as prohibited admissions [2].",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.41634729505079604,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.40809648564911644,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_6.1_1_1afe54f8",
+          "similarity": 0.3565767965152114,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "6.1 General. Medical care facilities included in this section are those in which people receive physical or medical treatment or care and where persons may need assistance in responding to an emergenc"
+        },
+        {
+          "chunk_id": "CHK_a_1_c5c28de0",
+          "similarity": 0.34921713790157777,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "a. The facility must have available at all times a quantity of linen essential to the proper care and\ncomfort of residents; [eff. 2022-03-15]\n\nc. Linens must be handled, processed, and stored in an ap"
+        },
+        {
+          "chunk_id": "CHK_f_1_6b7c5496",
+          "similarity": 0.325942403800456,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "f. Legal status, to include copies of legal documents when applicable (e.g., guardianship or power of\nattorney); and [eff. 2022-03-15]\n\n\n02. Level of Personal Assistance Required\n\n\n02. Level of Person"
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "6.1",
+          "section_title": "General",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.41634729505079604
+    },
+    {
+      "question": "Can we accept residents on ventilators?",
+      "expected": "NO",
+      "actual": "NO",
+      "passed": true,
+      "answer_text": "No, you cannot accept residents on ventilators in an Idaho assisted living facility. According to IDAPA 16.03.22.152, residents who require a mechanically supported breathing system are prohibited, with the exception of those who use continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP) solely for the treatment of sleep apnea [1]. Therefore, residents on ventilators are not allowed to be admitted or retained in the facility.",
+      "full_answer": "No, you cannot accept residents on ventilators in an Idaho assisted living facility. According to IDAPA 16.03.22.152, residents who require a mechanically supported breathing system are prohibited, with the exception of those who use continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP) solely for the treatment of sleep apnea [1]. Therefore, residents on ventilators are not allowed to be admitted or retained in the facility.",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.4809261363897976,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.46984300658377504,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_10_1_00d4c2b7",
+          "similarity": 0.36502359307295,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n10. Heating, Ventilation, and Air-Conditioning (HVAC)\n\n\n10. Heating, Ventilation, and Air-Conditioning (HVAC). Equipment must be furnished, installed,\nand maintained to meet all requirements of curre"
+        },
+        {
+          "chunk_id": "CHK_a_1_c5c28de0",
+          "similarity": 0.33525165779415983,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "a. A toilet and bathroom for resident use so arranged that it is not necessary for an individual to pass\nthrough another resident's room to reach the toilet or bath; [eff. 2022-03-15]\n\nb. Solid walls "
+        },
+        {
+          "chunk_id": "CHK_6.1_1_1afe54f8",
+          "similarity": 0.3333877446381022,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "6.1 General. Medical care facilities included in this section are those in which people receive physical or medical treatment or care and where persons may need assistance in responding to an emergenc"
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22",
+          "section_title": "Heating, Ventilation, and Air-Conditioning (HVAC) through ",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.4809261363897976
+    },
+    {
+      "question": "Can a resident with a tracheostomy live in our facility?",
+      "expected": "DEPENDS",
+      "actual": "DEPENDS",
+      "passed": true,
+      "answer_text": "A resident with a tracheostomy can live in your facility if they are able to care for it independently. According to IDAPA 16.03.22.152, residents who require a tracheostomy must be able to manage it on their own to be admitted or retained in the facility [1].",
+      "full_answer": "A resident with a tracheostomy can live in your facility if they are able to care for it independently. According to IDAPA 16.03.22.152, residents who require a tracheostomy must be able to manage it on their own to be admitted or retained in the facility [1].",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.4791759301161007,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.45699297886035073,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_a_1_c5c28de0",
+          "similarity": 0.3469970288442695,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "a. A toilet and bathroom for resident use so arranged that it is not necessary for an individual to pass\nthrough another resident's room to reach the toilet or bath; [eff. 2022-03-15]\n\nb. Solid walls "
+        },
+        {
+          "chunk_id": "CHK_6.1_1_1afe54f8",
+          "similarity": 0.3438301265802872,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "6.1 General. Medical care facilities included in this section are those in which people receive physical or medical treatment or care and where persons may need assistance in responding to an emergenc"
+        },
+        {
+          "chunk_id": "CHK_10_1_00d4c2b7",
+          "similarity": 0.3282935203261171,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n10. Heating, Ventilation, and Air-Conditioning (HVAC)\n\n\n10. Heating, Ventilation, and Air-Conditioning (HVAC). Equipment must be furnished, installed,\nand maintained to meet all requirements of curre"
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22",
+          "section_title": " through Plumbing",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.4791759301161007
+    },
+    {
+      "question": "Are hospice patients allowed in Idaho assisted living?",
+      "expected": "YES",
+      "actual": "YES",
+      "passed": true,
+      "answer_text": "Yes, hospice patients are allowed in Idaho assisted living facilities. Specifically, the regulations permit the admission of hospice patients, including those who are comatose and have been assessed by a physician or authorized provider who has determined that death is likely to occur within thirty (30) days [3].",
+      "full_answer": "Yes, hospice patients are allowed in Idaho assisted living facilities. Specifically, the regulations permit the admission of hospice patients, including those who are comatose and have been assessed by a physician or authorized provider who has determined that death is likely to occur within thirty (30) days [3].",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_01_1_d5d36faf",
+          "similarity": 0.5403592042858978,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n01. Application for License Renewal\n\n\n01. Application for License Renewal. The facility must submit to the Licensing Agency an annual\nreport and application for renewal of a license at least thirty ("
+        },
+        {
+          "chunk_id": "CHK_000_1_dc93c664",
+          "similarity": 0.5391119528225704,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n000. LEGAL AUTHORITY\n\n\n000. LEGAL AUTHORITY.\nThe Idaho IDHW Board is authorized under Sections 39-3305 and 39-3358, Idaho Code, to adopt and\nenforce rules to protect the health, safety, and individua"
+        },
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.530383904296366,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_39-3345_1_44ac3568",
+          "similarity": 0.5293909738657647,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "39-3345. DENIAL OR REVOCATION OF A LICENSE\n\n39-3345. DENIAL OR REVOCATION OF A LICENSE. The licensing agency may\ndeny the issuance of a license or revoke any license when persuaded by a preponderance "
+        },
+        {
+          "chunk_id": "CHK_39-3303_1_8e677135",
+          "similarity": 0.5274938572292329,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n39-3303. PAYMENT LEVELS\n\n\n39-3303. PAYMENT LEVELS.\n(1)(a) Clients of the department who are receiving financial aid as\nset out in sections 56-207 and 56-208, Idaho Code, seeking placement\nin a reside"
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22",
+          "section_title": "Application for License Renewal through ",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22",
+          "section_title": "LEGAL AUTHORITY through Idaho Diet Manual",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.5403592042858978
+    },
+    {
+      "question": "Can we admit a resident with MRSA?",
+      "expected": "DEPENDS",
+      "actual": "DEPENDS",
+      "passed": true,
+      "answer_text": "Yes, you can admit a resident with MRSA, but only under certain conditions. According to Idaho regulations, residents with MRSA that is not in an infectious stage can be admitted to an assisted living facility [2]. This means that if the MRSA is non-infectious, admission is allowed. However, if the MRSA is still in an infectious stage, the resident cannot be admitted [1]. Always ensure that the resident's MRSA status is confirmed to be non-infectious before admission.",
+      "full_answer": "Yes, you can admit a resident with MRSA, but only under certain conditions. According to Idaho regulations, residents with MRSA that is not in an infectious stage can be admitted to an assisted living facility [2]. This means that if the MRSA is non-infectious, admission is allowed. However, if the MRSA is still in an infectious stage, the resident cannot be admitted [1]. Always ensure that the resident's MRSA status is confirmed to be non-infectious before admission.",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.4882832757522069,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.48784465157071527,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_b_1_3b24c982",
+          "similarity": 0.44191704777895885,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "b. In the event of a case of measles in a daycare or school, susceptible children must be excluded until\nadequate immunization is obtained, or the threat of further spread of the disease is contained,"
+        },
+        {
+          "chunk_id": "CHK_i_1_2750b79d",
+          "similarity": 0.3788276013597796,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "i. Comprehensive assessments, as described in Section 319 of these rules; [eff. 2022-03-15]\nii. Current medications, treatments, and diet prescribed, all signed and dated by the ordering physician\nor "
+        },
+        {
+          "chunk_id": "CHK_a_1_d554fc03",
+          "similarity": 0.3572128126036854,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "a. The lesion is on the hands, wrists, or exposed portions of the arms, and is not protected by an\nimpermeable cover; or [eff. 2022-03-17]\n\nb. The lesion is on another part of the body, and is not cov"
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.02.10",
+          "section_title": " through Restrictions - Health Care Facility",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.4882832757522069
+    },
+    {
+      "question": "What residents are we NOT allowed to admit in Idaho?",
+      "expected": "LIST",
+      "actual": "DEPENDS",
+      "passed": true,
+      "answer_text": "In Idaho, you are not allowed to admit residents who require ongoing skilled nursing or care beyond the facility's legally licensed authority. Specifically, prohibited admissions include residents who:\n\n- Have a gastrostomy tube, arterial-venous (AV) shunt, or supra-pubic catheter inserted within the previous 21 days.\n- Are receiving continuous total parenteral nutrition (TPN) or IV therapy.\n- Require physical restraints, including bed rails.\n- Are comatose, unless a physician or authorized prov",
+      "full_answer": "In Idaho, you are not allowed to admit residents who require ongoing skilled nursing or care beyond the facility's legally licensed authority. Specifically, prohibited admissions include residents who:\n\n- Have a gastrostomy tube, arterial-venous (AV) shunt, or supra-pubic catheter inserted within the previous 21 days.\n- Are receiving continuous total parenteral nutrition (TPN) or IV therapy.\n- Require physical restraints, including bed rails.\n- Are comatose, unless a physician or authorized provider has determined that death is likely within 30 days.\n- Require a mechanically supported breathing system, except for CPAP or BiPAP used solely for sleep apnea.\n- Require a tracheotomy and cannot care for it independently.\n- Are fed by syringe.\n- Have open, draining wounds that cannot be contained.\n- Have stage III or IV pressure ulcers.\n- Have any type of pressure ulcer or open wound not improving bi-weekly.\n- Have methicillin-resistant staphylococcus aureus (MRSA) in an infectious stage.\n- Have physical, emotional, or social needs incompatible with other residents.\n- Present a danger to themselves or others due to violent or self-injurious behavior.\n- Are not able to self-evacuate and reside in a facility not in compliance with state and local fire safety standards [1].",
+      "chunk_details": [
+        {
+          "chunk_id": "CHK_152_04_prohibited_admissions",
+          "similarity": 0.6684309203858304,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION REQUIREMENTS\n\n04. Prohibited Admissions\n\n04. Prohibited Admissions. No resident will be admitted or retained who requires ongoing skilled\nnursing or care not within the "
+        },
+        {
+          "chunk_id": "CHK_152_04_allowed_admissions",
+          "similarity": 0.5566104109210958,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "IDAPA 16.03.22.152 - ADMISSION CRITERIA - ALLOWED CONDITIONS\n\nThe following medical conditions and devices are NOT prohibited and residents MAY be admitted with them:\n\n1. FOLEY CATHETERS (urinary cath"
+        },
+        {
+          "chunk_id": "CHK_f_1_48786de8",
+          "similarity": 0.526412818221012,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "f. A relevant record on the U. S. Health and Human Services, Office of the Inspector General List of\nExcluded Individuals and Entities (LEIE); [eff. 2023-03-28]\n\nh. A materially false statement made k"
+        },
+        {
+          "chunk_id": "CHK_39-3314_1_0990ec36",
+          "similarity": 0.51850193638516,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "39-3314. TERMINATION OF ADMISSION AGREEMENTS\n\n39-3314. TERMINATION OF ADMISSION AGREEMENTS. Admission agreements\nmay only be terminated pursuant to rules promulgated by the board.\n[39-3314, added 1990"
+        },
+        {
+          "chunk_id": "CHK_03_1_a0e7090b",
+          "similarity": 0.510908806511662,
+          "section": "N/A",
+          "source": "unknown",
+          "content_preview": "\n03. Idaho Food Code\n\n\n03. Idaho Food Code. IDAPA 16.02.19, “Idaho Food Code.” These rules are available online at http://\nadminrules.idaho.gov/rules/current/16/160219.pdf. [eff. 2022-03-15]\n\n\n04. Ame"
+        }
+      ],
+      "citation_previews": [
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Prohibited Admissions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.03.22.152",
+          "section_title": "Admission Criteria - Allowed Conditions",
+          "content_preview": ""
+        },
+        {
+          "citation": "IDAPA 16.05.03",
+          "section_title": " through ",
+          "content_preview": ""
+        }
+      ],
+      "issues": [
+        "Citations don't contain admission criteria language"
+      ],
+      "top_similarity": 0.6684309203858304
+    }
+  ]
+}
